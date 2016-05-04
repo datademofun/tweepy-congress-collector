@@ -212,3 +212,147 @@ ax.scatter(df['tweets_per_day'], np.log(df['followers_count']))
 ![assets/images/tweet_rate_vs_log_followers_count.png](assets/images/tweet_rate_vs_log_followers_count.png)
 
 
+
+
+
+
+
+
+
+
+
+# Augmenting the profile data with `tweets_per_day`
+
+We don't have to just simplify the profile object, we can add the things we're interested in, too. Adding a column for `tweets_per_day` would be convenient for other analyses. 
+
+We could add that column by opening up the currently-wrangled CSV and deriving the column via __pandas__...and then using `df.to_csv()`. But let's just stick to standard CSV and JSON parsing again.
+
+How do we calculate the tweets-per-day value? First, we need to know how many days a Twitter account has existed...
+
+So, for a given profile, [data/twitter/profiles/10615232.json](data/twitter/profiles/10615232.json), its creation date is in the `created_at` field:
+
+~~~py
+  "created_at": "Mon Nov 26 15:17:02 +0000 2007"
+~~~
+
+Of course, that's just a string. Normally I would go through the process of how to convert this using [datetime.strptime()](https://docs.python.org/3/library/datetime.html#strftime-strptime-behavior) -- which I highly recommend that you get comfortable with -- but for the sake of brevity, I'll use the [__dateutil__ library](https://labix.org/python-dateutil) (which comes with Anaconda) and its [handy, almost magical __parser.parse()__ function](https://labix.org/python-dateutil#head-c0e81a473b647dfa787dc11e8c69557ec2c3ecd2), which does a pretty good job of dealing with various date-as-string formats:
+
+
+~~~py
+from dateutil import parser
+cdatestr = "Mon Nov 26 15:17:02 +0000 2007"
+cdate = parser.parse(cdatestr)
+cdate
+#  datetime.datetime(2007, 11, 26, 15, 17, 2, tzinfo=tzutc())
+~~~
+
+### Calculating the age of an account by days
+
+To calculate the age of something, at this moment, we subtract that something's creation date from  the _time at this moment_. The result is a `datetime.timedelta` object, which has a convenient `days` attribute:
+
+~~~py
+from datetime import datetime
+from dateutil import parser
+
+cdatestr = '2015-01-12 12:44:00'
+dt = datetime.now() - parser.parse(cdatestr)
+dt.days
+# 477
+~~~
+
+And of course, calculate tweets/day rate is a matter of dividing the number of total tweets from an account by the total number of days the account has been alive.
+
+
+Can you write the code that, given a single profile, creates a dictionary with `tweets_per_day` calculated?
+
+Using our previous code, we do the same loop-to-copy-the-headers...and after that loop is finished, then we manually add attributes to the dictionary:
+
+~~~py
+import json
+from datetime import datetime
+from dateutil import parser
+from os.path import join
+FILENAME = join('data', 'twitter', 'profiles', '10615232.json')
+HEADERS_TO_KEEP = ['id', 'screen_name', 'name', 'created_at',
+                    'description', 'location', 'url', 'profile_image_url',
+                   'statuses_count', 'friends_count', 'followers_count',
+                    'verified']
+
+nowtime = datetime.now()
+mydict = {}
+for h in HEADERS_TO_KEEP:
+    mydict[h] = profile[h]
+
+# time to add stuff:
+# calculate time difference
+dt = nowtime - parser.parse(profile['created_at'])
+mydict['days_since_creation'] = dt.days
+mydict['tweets_per_day'] = (profile['statuses_count'] / dt.days).round(2)
+~~~
+
+I'll let you figure out how to use this code in a loop that processes all of the JSON files and makes a simple CSV.
+
+## Adding days_since_last_tweet
+
+What if an account _used_ to be an active Tweeter but then, in the last month, decided to quit? The account would still have a high `tweets_per_day` rate, even if for all intents and purposes, it had gone dark.
+
+So let's add another metric: `days_since_last_tweet`.
+
+While the Twitter user object doesn't have `last_tweet` _explicitly_ as a data attribute, it does _nest_ the user's latest Tweet, which we can access via the user object's `status` key.
+
+Assuming the `profile` variable is pointing to a user object:
+
+~~~py
+last_tweet = profile['status']['created_at']
+~~~
+
+You can read up on the Twitter API documentation for the Tweet object here:
+
+[https://dev.twitter.com/overview/api/tweets](https://dev.twitter.com/overview/api/tweets)
+
+For our purposes, it's enough to know that each Tweet has its own `created_at` attribute:
+
+~~~py
+last_tweet_date = profile['status']['created_at']
+~~~
+
+
+Adding this to our dictionary is not much different than the past exercise:
+
+~~~py
+last_tweet_date = profile['status']['created_at']
+dt = nowtime - parser.parse(last_tweet_date)
+mydict['days_since_last_tweet'] = dt.days
+~~~
+
+
+We'll see how this folds into the JSONs-to-CSV code later.
+
+
+# Augmenting the profile data with recent tweet/rate
+
+Let's do one more fancy calculation: tweet rate over the entire lifetime of an account is interesting. But such a metric can be skewed if the account was created and, for awhile, just didn't tweet much. The metric would obscure Twitter users who have recently gotten hooked on Tweeting.
+
+So how do we get a more accurate rate? By taking a sample of the most _recent_ tweets, and calculating the rate based on the number of tweets in that time period.
+
+And just our luck, this repo comes with [data/twitter/tweets]([data/twitter/tweets]) -- a JSON file for each corresponding Twitter file.
+
+
+Again, starting with a profile filename at: [data/twitter/profiles/10615232.json](data/twitter/profiles/10615232.json)
+
+~~~py
+from os.path import basename, join
+import json
+profile_fname = join('data', 'twitter', 'profiles', '10615232.json')
+~~~
+
+We can derive the file of tweets:
+
+~~~py
+bname = basename(profile_fname) # e.g. '10615232.json'
+tweets_fname = join('data', 'twitter', 'tweets', bname)
+~~~
+
+
+And we open it
+
