@@ -1,0 +1,97 @@
+{
+  "url": "http://t.co/oqGeCZBvPf",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "statuses_count": 1287,
+  "is_translation_enabled": false,
+  "location": "Nashville, Tennessee",
+  "favourites_count": 206,
+  "listed_count": 605,
+  "profile_text_color": "333333",
+  "description": "Official feed of U.S. Rep. Jim Cooper. Blue Dog Democrat representing Nashville area in Congress. Married with 3 great kids. Tweets by Jim & staff.",
+  "followers_count": 8052,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/647492222905028608/4WeoniOT_normal.jpg",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDFFCC",
+  "utc_offset": -18000,
+  "profile_background_color": "9AE4E8",
+  "friends_count": 442,
+  "profile_link_color": "0084B4",
+  "default_profile": false,
+  "created_at": "Mon Mar 02 14:25:32 +0000 2009",
+  "following": false,
+  "id": 22523087,
+  "has_extended_profile": false,
+  "profile_use_background_image": false,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/647492222905028608/4WeoniOT_normal.jpg",
+  "screen_name": "repjimcooper",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 20:21:57 +0000 2016",
+    "id": 727594063382368256,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 6,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            8,
+            31
+          ],
+          "text": "TeacherAppreciationDay"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "On this #TeacherAppreciationDay, let\u2019s be grateful for the many hands guiding the next generation to lead our country!",
+    "favorite_count": 14,
+    "id_str": "727594063382368256",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/oqGeCZBvPf",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://www.cooper.house.gov/",
+          "display_url": "cooper.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "BDDCAD",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/22523087/1443630585",
+  "name": "Jim Cooper",
+  "is_translator": false,
+  "time_zone": "Central Time (US & Canada)",
+  "id_str": "22523087"
+}

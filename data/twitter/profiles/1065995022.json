@@ -1,0 +1,89 @@
+{
+  "url": "http://t.co/1c3JNm0kJ5",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/555380040800550912/vCwvj9CV.jpeg",
+  "statuses_count": 3128,
+  "is_translation_enabled": false,
+  "location": "",
+  "favourites_count": 722,
+  "listed_count": 404,
+  "profile_text_color": "333333",
+  "description": "Representing Indiana's Second Congressional District",
+  "followers_count": 5812,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/3073698516/4b6a35b98362ceeac03b29fcc016f9ae_normal.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/555380040800550912/vCwvj9CV.jpeg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -10800,
+  "profile_background_color": "C0DEED",
+  "friends_count": 705,
+  "profile_link_color": "0084B4",
+  "default_profile": false,
+  "created_at": "Sun Jan 06 15:41:40 +0000 2013",
+  "following": false,
+  "id": 1065995022,
+  "has_extended_profile": false,
+  "profile_use_background_image": false,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/3073698516/4b6a35b98362ceeac03b29fcc016f9ae_normal.jpeg",
+  "screen_name": "RepWalorski",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 17:42:31 +0000 2016",
+    "id": 727553940959666180,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 5,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "My thoughts and prayers are with the family of the U.S. servicemember killed by ISIS in Iraq. I am grateful for all who serve our nation.",
+    "favorite_count": 9,
+    "id_str": "727553940959666180",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/1c3JNm0kJ5",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://walorski.house.gov",
+          "display_url": "walorski.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1065995022/1447888516",
+  "name": "Jackie Walorski",
+  "is_translator": false,
+  "time_zone": "Atlantic Time (Canada)",
+  "id_str": "1065995022"
+}

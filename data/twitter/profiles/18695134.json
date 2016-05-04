@@ -1,0 +1,222 @@
+{
+  "url": "http://t.co/k4dLi6HYYJ",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/552940589159686144/5edCweKj.jpeg",
+  "statuses_count": 4472,
+  "is_translation_enabled": false,
+  "location": "",
+  "favourites_count": 9,
+  "listed_count": 2618,
+  "profile_text_color": "663B12",
+  "description": "Proudly serving the State of New Jersey in the United States Senate.",
+  "followers_count": 53936,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/471994418266775552/14FnKiYy_normal.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/552940589159686144/5edCweKj.jpeg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DAECF4",
+  "utc_offset": -14400,
+  "profile_background_color": "273447",
+  "friends_count": 627,
+  "profile_link_color": "3283D1",
+  "default_profile": false,
+  "created_at": "Tue Jan 06 21:01:12 +0000 2009",
+  "following": false,
+  "id": 18695134,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/471994418266775552/14FnKiYy_normal.jpeg",
+  "screen_name": "SenatorMenendez",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Fri Apr 29 01:15:36 +0000 2016",
+    "id": 725856024297635840,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 116,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            19,
+            26
+          ],
+          "text": "Senate"
+        },
+        {
+          "indices": [
+            79,
+            89
+          ],
+          "text": "Venezuela"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/knHUUTM6Fu",
+          "indices": [
+            100,
+            123
+          ],
+          "expanded_url": "http://1.usa.gov/1YVXRlz",
+          "display_url": "1.usa.gov/1YVXRlz"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            17
+          ],
+          "screen_name": "SenRubioPress",
+          "id": 229966028,
+          "id_str": "229966028",
+          "name": "Senator Rubio Press"
+        },
+        {
+          "indices": [
+            34,
+            45
+          ],
+          "screen_name": "marcorubio",
+          "id": 15745368,
+          "id_str": "15745368",
+          "name": "Marco Rubio"
+        },
+        {
+          "indices": [
+            47,
+            63
+          ],
+          "screen_name": "SenatorMenendez",
+          "id": 18695134,
+          "id_str": "18695134",
+          "name": "Senator Bob Menendez"
+        }
+      ]
+    },
+    "text": "RT @SenRubioPress: #Senate Passes @MarcoRubio, @SenatorMenendez Bill Extending #Venezuela Sanctions https://t.co/knHUUTM6Fu",
+    "favorite_count": 0,
+    "possibly_sensitive": false,
+    "id_str": "725856024297635840",
+    "retweeted_status": {
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "place": null,
+      "in_reply_to_user_id": null,
+      "coordinates": null,
+      "truncated": false,
+      "in_reply_to_status_id_str": null,
+      "created_at": "Fri Apr 29 00:43:44 +0000 2016",
+      "id": 725848004297629696,
+      "favorited": false,
+      "geo": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_screen_name": null,
+      "retweet_count": 116,
+      "lang": "en",
+      "retweeted": false,
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              0,
+              7
+            ],
+            "text": "Senate"
+          },
+          {
+            "indices": [
+              60,
+              70
+            ],
+            "text": "Venezuela"
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/knHUUTM6Fu",
+            "indices": [
+              81,
+              104
+            ],
+            "expanded_url": "http://1.usa.gov/1YVXRlz",
+            "display_url": "1.usa.gov/1YVXRlz"
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "indices": [
+              15,
+              26
+            ],
+            "screen_name": "marcorubio",
+            "id": 15745368,
+            "id_str": "15745368",
+            "name": "Marco Rubio"
+          },
+          {
+            "indices": [
+              28,
+              44
+            ],
+            "screen_name": "SenatorMenendez",
+            "id": 18695134,
+            "id_str": "18695134",
+            "name": "Senator Bob Menendez"
+          }
+        ]
+      },
+      "text": "#Senate Passes @MarcoRubio, @SenatorMenendez Bill Extending #Venezuela Sanctions https://t.co/knHUUTM6Fu",
+      "favorite_count": 135,
+      "possibly_sensitive": false,
+      "id_str": "725848004297629696",
+      "contributors": null
+    },
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/k4dLi6HYYJ",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://menendez.senate.gov",
+          "display_url": "menendez.senate.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "C6E2EE",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/18695134/1401367166",
+  "name": "Senator Bob Menendez",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "18695134"
+}

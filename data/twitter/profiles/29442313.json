@@ -1,0 +1,89 @@
+{
+  "url": "http://t.co/8AS4FI1oge",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/514189149444661248/pkGHMpZZ.jpeg",
+  "statuses_count": 14257,
+  "is_translation_enabled": false,
+  "location": "Vermont/DC",
+  "favourites_count": 15,
+  "listed_count": 14493,
+  "profile_text_color": "304562",
+  "description": "Sen. Bernie Sanders is the longest serving independent in congressional history. Tweets ending in -B are from Bernie, and all others are from a staffer.",
+  "followers_count": 1923749,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/649202007723499524/lBGS6rs6_normal.png",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/514189149444661248/pkGHMpZZ.jpeg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "D6CCB6",
+  "utc_offset": -14400,
+  "profile_background_color": "000000",
+  "friends_count": 1945,
+  "profile_link_color": "44506A",
+  "default_profile": false,
+  "created_at": "Tue Apr 07 13:02:35 +0000 2009",
+  "following": false,
+  "id": 29442313,
+  "has_extended_profile": true,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/649202007723499524/lBGS6rs6_normal.png",
+  "screen_name": "SenSanders",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Wed May 04 00:46:20 +0000 2016",
+    "id": 727660598016749569,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 1477,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "As a nation that prides itself on its dedication to family values, guaranteed paid family and medical leave should be our top priority.",
+    "favorite_count": 4665,
+    "id_str": "727660598016749569",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/8AS4FI1oge",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://www.sanders.senate.gov/",
+          "display_url": "sanders.senate.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/29442313/1430854323",
+  "name": "Bernie Sanders",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "29442313"
+}

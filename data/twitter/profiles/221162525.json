@@ -1,0 +1,146 @@
+{
+  "url": "http://t.co/7dKjJ0xolY",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/194804115/2011-01-19_18-12-09_156.33.75.103.jpg",
+  "statuses_count": 3274,
+  "is_translation_enabled": false,
+  "location": "",
+  "favourites_count": 215,
+  "listed_count": 1791,
+  "profile_text_color": "333333",
+  "description": "Official Twitter account for Pat Toomey. Husband. Father. U.S. Senator for Pennsylvania.",
+  "followers_count": 40131,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/574930402214727683/gDu5VqMP_normal.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/194804115/2011-01-19_18-12-09_156.33.75.103.jpg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "999999",
+  "utc_offset": -14400,
+  "profile_background_color": "FFFFFF",
+  "friends_count": 1004,
+  "profile_link_color": "DD2E44",
+  "default_profile": false,
+  "created_at": "Mon Nov 29 22:32:09 +0000 2010",
+  "following": false,
+  "id": 221162525,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/574930402214727683/gDu5VqMP_normal.jpeg",
+  "screen_name": "SenToomey",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 14:44:58 +0000 2016",
+    "id": 727509259718635520,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 11,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            95,
+            104
+          ],
+          "text": "veterans"
+        },
+        {
+          "indices": [
+            129,
+            141
+          ],
+          "text": "FeelTheBern"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/b5BSSgDMeg",
+          "indices": [
+            105,
+            128
+          ],
+          "expanded_url": "http://1.usa.gov/1QR4Mqj",
+          "display_url": "1.usa.gov/1QR4Mqj"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            4,
+            15
+          ],
+          "screen_name": "SenSanders",
+          "id": 29442313,
+          "id_str": "29442313",
+          "name": "Bernie Sanders"
+        },
+        {
+          "indices": [
+            22,
+            34
+          ],
+          "screen_name": "SenBobCasey",
+          "id": 171598736,
+          "id_str": "171598736",
+          "name": "Senator Bob Casey"
+        },
+        {
+          "indices": [
+            61,
+            77
+          ],
+          "screen_name": "SenSherrodBrown",
+          "id": 43910797,
+          "id_str": "43910797",
+          "name": "Sherrod Brown"
+        }
+      ]
+    },
+    "text": "Thx @SenSanders &amp; @SenBobCasey for supporting my bill w/ @SenSherrodBrown to help disabled #veterans https://t.co/b5BSSgDMeg #FeelTheBern",
+    "favorite_count": 7,
+    "possibly_sensitive": false,
+    "id_str": "727509259718635520",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/7dKjJ0xolY",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://toomey.senate.gov",
+          "display_url": "toomey.senate.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/221162525/1434047453",
+  "name": "Senator Pat Toomey",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "221162525"
+}

@@ -1,0 +1,351 @@
+{
+  "url": "http://t.co/YFBawl0Mhg",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+  "statuses_count": 4540,
+  "is_translation_enabled": false,
+  "location": "Boulder, CO",
+  "favourites_count": 3718,
+  "listed_count": 1852,
+  "profile_text_color": "3C3940",
+  "description": "father, entrepreneur,education reform, baseball, tech, politics, gaymer - My day job is representing the most beautiful Congressional district in the country",
+  "followers_count": 34494,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/678007319943208960/fyaerNqd_normal.jpg",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+  "notifications": false,
+  "profile_sidebar_fill_color": "95E8EC",
+  "utc_offset": -21600,
+  "profile_background_color": "0099B9",
+  "friends_count": 3620,
+  "profile_link_color": "0099B9",
+  "default_profile": false,
+  "created_at": "Wed Jul 09 03:04:04 +0000 2008",
+  "following": false,
+  "id": 15361570,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/678007319943208960/fyaerNqd_normal.jpg",
+  "screen_name": "jaredpolis",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "extended_entities": {
+      "media": [
+        {
+          "url": "https://t.co/XwWsJIKp6q",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ChjmQSIW0AAPWMC.jpg",
+          "id": 727584507239518208,
+          "display_url": "pic.twitter.com/XwWsJIKp6q",
+          "source_user_id": 463132556,
+          "source_status_id": 727588882624163840,
+          "type": "animated_gif",
+          "indices": [
+            143,
+            144
+          ],
+          "expanded_url": "http://twitter.com/RepJaredPolis/status/727588882624163840/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 214,
+              "w": 430,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 169,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 214,
+              "w": 430,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "video_info": {
+            "aspect_ratio": [
+              215,
+              107
+            ],
+            "variants": [
+              {
+                "url": "https://pbs.twimg.com/tweet_video/ChjmQSIW0AAPWMC.mp4",
+                "content_type": "video/mp4",
+                "bitrate": 0
+              }
+            ]
+          },
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/ChjmQSIW0AAPWMC.jpg",
+          "source_user_id_str": "463132556",
+          "source_status_id_str": "727588882624163840",
+          "id_str": "727584507239518208"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 20:46:11 +0000 2016",
+    "id": 727600160889397248,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 7,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "media": [
+        {
+          "url": "https://t.co/XwWsJIKp6q",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ChjmQSIW0AAPWMC.jpg",
+          "id": 727584507239518208,
+          "display_url": "pic.twitter.com/XwWsJIKp6q",
+          "source_user_id": 463132556,
+          "source_status_id": 727588882624163840,
+          "type": "photo",
+          "indices": [
+            143,
+            144
+          ],
+          "expanded_url": "http://twitter.com/RepJaredPolis/status/727588882624163840/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 214,
+              "w": 430,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 169,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 214,
+              "w": 430,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/ChjmQSIW0AAPWMC.jpg",
+          "source_user_id_str": "463132556",
+          "source_status_id_str": "727588882624163840",
+          "id_str": "727584507239518208"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            34,
+            57
+          ],
+          "text": "TeacherAppreciationDay"
+        },
+        {
+          "indices": [
+            121,
+            135
+          ],
+          "text": "ThankATeacher"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            17
+          ],
+          "screen_name": "RepJaredPolis",
+          "id": 463132556,
+          "id_str": "463132556",
+          "name": "Rep. Jared Polis"
+        }
+      ]
+    },
+    "text": "RT @RepJaredPolis: Happy National #TeacherAppreciationDay! Today we commend educators for their service &amp; dedication #ThankATeacher https:/\u2026",
+    "favorite_count": 0,
+    "possibly_sensitive": false,
+    "id_str": "727600160889397248",
+    "retweeted_status": {
+      "extended_entities": {
+        "media": [
+          {
+            "indices": [
+              117,
+              140
+            ],
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ChjmQSIW0AAPWMC.jpg",
+            "id": 727584507239518208,
+            "expanded_url": "http://twitter.com/RepJaredPolis/status/727588882624163840/photo/1",
+            "sizes": {
+              "medium": {
+                "h": 214,
+                "w": 430,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 169,
+                "w": 340,
+                "resize": "fit"
+              },
+              "large": {
+                "h": 214,
+                "w": 430,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "display_url": "pic.twitter.com/XwWsJIKp6q",
+            "video_info": {
+              "aspect_ratio": [
+                215,
+                107
+              ],
+              "variants": [
+                {
+                  "url": "https://pbs.twimg.com/tweet_video/ChjmQSIW0AAPWMC.mp4",
+                  "content_type": "video/mp4",
+                  "bitrate": 0
+                }
+              ]
+            },
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/ChjmQSIW0AAPWMC.jpg",
+            "url": "https://t.co/XwWsJIKp6q",
+            "type": "animated_gif",
+            "id_str": "727584507239518208"
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "place": null,
+      "in_reply_to_user_id": null,
+      "coordinates": null,
+      "truncated": false,
+      "in_reply_to_status_id_str": null,
+      "created_at": "Tue May 03 20:01:22 +0000 2016",
+      "id": 727588882624163840,
+      "favorited": false,
+      "geo": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_screen_name": null,
+      "retweet_count": 7,
+      "lang": "en",
+      "retweeted": false,
+      "entities": {
+        "media": [
+          {
+            "indices": [
+              117,
+              140
+            ],
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ChjmQSIW0AAPWMC.jpg",
+            "id": 727584507239518208,
+            "expanded_url": "http://twitter.com/RepJaredPolis/status/727588882624163840/photo/1",
+            "sizes": {
+              "medium": {
+                "h": 214,
+                "w": 430,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 169,
+                "w": 340,
+                "resize": "fit"
+              },
+              "large": {
+                "h": 214,
+                "w": 430,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "display_url": "pic.twitter.com/XwWsJIKp6q",
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/ChjmQSIW0AAPWMC.jpg",
+            "url": "https://t.co/XwWsJIKp6q",
+            "type": "photo",
+            "id_str": "727584507239518208"
+          }
+        ],
+        "hashtags": [
+          {
+            "indices": [
+              15,
+              38
+            ],
+            "text": "TeacherAppreciationDay"
+          },
+          {
+            "indices": [
+              102,
+              116
+            ],
+            "text": "ThankATeacher"
+          }
+        ],
+        "urls": [],
+        "symbols": [],
+        "user_mentions": []
+      },
+      "text": "Happy National #TeacherAppreciationDay! Today we commend educators for their service &amp; dedication #ThankATeacher https://t.co/XwWsJIKp6q",
+      "favorite_count": 19,
+      "possibly_sensitive": false,
+      "id_str": "727588882624163840",
+      "contributors": null
+    },
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/YFBawl0Mhg",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://polis.house.gov",
+          "display_url": "polis.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "5ED4DC",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/15361570/1431963417",
+  "name": "Jared Polis",
+  "is_translator": false,
+  "time_zone": "Mountain Time (US & Canada)",
+  "id_str": "15361570"
+}

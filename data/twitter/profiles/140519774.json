@@ -1,0 +1,97 @@
+{
+  "url": "http://t.co/IEn4FrZ95W",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+  "statuses_count": 4692,
+  "is_translation_enabled": false,
+  "location": "New Haven, CT",
+  "favourites_count": 11,
+  "listed_count": 952,
+  "profile_text_color": "000000",
+  "description": "Proud to represent CT's 3rd CD. Italian-American, New Haven native, fierce advocate for a strong middle class & those in need. Tweets from Rosa are signed -Rosa",
+  "followers_count": 18045,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/677211963865358338/ZbwzWm8I_normal.jpg",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+  "notifications": false,
+  "profile_sidebar_fill_color": "000000",
+  "utc_offset": -14400,
+  "profile_background_color": "000000",
+  "friends_count": 2600,
+  "profile_link_color": "3B94D9",
+  "default_profile": false,
+  "created_at": "Wed May 05 18:11:32 +0000 2010",
+  "following": false,
+  "id": 140519774,
+  "has_extended_profile": false,
+  "profile_use_background_image": false,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/677211963865358338/ZbwzWm8I_normal.jpg",
+  "screen_name": "rosadelauro",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 21:21:11 +0000 2016",
+    "id": 727608970769268736,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 8,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            34,
+            57
+          ],
+          "text": "TeacherAppreciationDay"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "Huge thank you to our teachers on #TeacherAppreciationDay! Congress must increase funding for education and support our teachers today!",
+    "favorite_count": 17,
+    "id_str": "727608970769268736",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/IEn4FrZ95W",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://delauro.house.gov",
+          "display_url": "delauro.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "000000",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/140519774/1450710256",
+  "name": "Rosa DeLauro",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "140519774"
+}

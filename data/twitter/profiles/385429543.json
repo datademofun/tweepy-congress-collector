@@ -1,0 +1,193 @@
+{
+  "url": "http://t.co/GOFOgB5Ch5",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/453604586608025600/L2KRSMJ6.jpeg",
+  "statuses_count": 1341,
+  "is_translation_enabled": false,
+  "location": "Stockton, CA",
+  "favourites_count": 119,
+  "listed_count": 461,
+  "profile_text_color": "333333",
+  "description": "Proudly representing California's 9th Congressional District. Learn more about my work in Congress at http://t.co/MbFWXH7J",
+  "followers_count": 6681,
+  "profile_background_tile": true,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/453602967006896128/sMQhAO6K_normal.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/453604586608025600/L2KRSMJ6.jpeg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -14400,
+  "profile_background_color": "C0DEED",
+  "friends_count": 542,
+  "profile_link_color": "0084B4",
+  "default_profile": false,
+  "created_at": "Wed Oct 05 13:52:58 +0000 2011",
+  "following": false,
+  "id": 385429543,
+  "has_extended_profile": false,
+  "profile_use_background_image": false,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/453602967006896128/sMQhAO6K_normal.jpeg",
+  "screen_name": "RepMcNerney",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "extended_entities": {
+      "media": [
+        {
+          "indices": [
+            104,
+            127
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/ChkzhCpWUAEpJ5S.jpg",
+          "id": 727669457536045057,
+          "expanded_url": "http://twitter.com/RepMcNerney/status/727669463424716800/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 488,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 276,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 600,
+              "w": 738,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/9w6bo9xWRE",
+          "media_url": "http://pbs.twimg.com/media/ChkzhCpWUAEpJ5S.jpg",
+          "url": "https://t.co/9w6bo9xWRE",
+          "type": "photo",
+          "id_str": "727669457536045057"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Wed May 04 01:21:34 +0000 2016",
+    "id": 727669463424716800,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 1,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "media": [
+        {
+          "indices": [
+            104,
+            127
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/ChkzhCpWUAEpJ5S.jpg",
+          "id": 727669457536045057,
+          "expanded_url": "http://twitter.com/RepMcNerney/status/727669463424716800/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 488,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 276,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 600,
+              "w": 738,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/9w6bo9xWRE",
+          "media_url": "http://pbs.twimg.com/media/ChkzhCpWUAEpJ5S.jpg",
+          "url": "https://t.co/9w6bo9xWRE",
+          "type": "photo",
+          "id_str": "727669457536045057"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            17,
+            32
+          ],
+          "text": "WaterRecycling"
+        },
+        {
+          "indices": [
+            93,
+            103
+          ],
+          "text": "CAdrought"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "Re-introduced my #WaterRecycling bill to help provide CA with a more resilient water supply. #CAdrought https://t.co/9w6bo9xWRE",
+    "favorite_count": 4,
+    "possibly_sensitive": false,
+    "id_str": "727669463424716800",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/GOFOgB5Ch5",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://mcnerney.house.gov",
+          "display_url": "mcnerney.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+        {
+          "url": "http://t.co/MbFWXH7J",
+          "indices": [
+            102,
+            122
+          ],
+          "expanded_url": "http://www.facebook.com/jerrymcnerney",
+          "display_url": "facebook.com/jerrymcnerney"
+        }
+      ]
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/385429543/1398867539",
+  "name": "Jerry McNerney",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "385429543"
+}

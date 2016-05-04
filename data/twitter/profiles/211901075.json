@@ -1,0 +1,100 @@
+{
+  "url": "http://t.co/UVXzCA4TP4",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/168316233/ahamericanflag72.br.jpg",
+  "statuses_count": 1076,
+  "is_translation_enabled": false,
+  "location": "#IN03 / Washington, DC",
+  "favourites_count": 136,
+  "listed_count": 537,
+  "profile_text_color": "777777",
+  "description": "",
+  "followers_count": 7620,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/499235410275348480/Of7Aj12S_normal.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/168316233/ahamericanflag72.br.jpg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "1C1939",
+  "utc_offset": -14400,
+  "profile_background_color": "000000",
+  "friends_count": 287,
+  "profile_link_color": "D60000",
+  "default_profile": false,
+  "created_at": "Thu Nov 04 16:00:16 +0000 2010",
+  "following": false,
+  "id": 211901075,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/499235410275348480/Of7Aj12S_normal.jpeg",
+  "screen_name": "RepStutzman",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Wed Apr 20 11:45:13 +0000 2016",
+    "id": 722752981679013889,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 5,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            28,
+            42
+          ],
+          "screen_name": "WOWOFORTWAYNE",
+          "id": 39144179,
+          "id_str": "39144179",
+          "name": "WOWO  1190AM 107.5FM"
+        }
+      ]
+    },
+    "text": "Don't miss my discussion w/ @WOWOFORTWAYNE @ 8:08 on why we must ensure when Assad is removed, there is no vacuum of power for ISIS to fill.",
+    "favorite_count": 3,
+    "id_str": "722752981679013889",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/UVXzCA4TP4",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://www.stutzman.house.gov/",
+          "display_url": "stutzman.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "000000",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/211901075/1437580119",
+  "name": "Rep. Marlin Stutzman",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "211901075"
+}

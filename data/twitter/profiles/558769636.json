@@ -1,0 +1,121 @@
+{
+  "url": "http://t.co/4mNk46JctA",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/807131658/03fe990b1ae5e82cbae51757c2c22626.jpeg",
+  "statuses_count": 1169,
+  "is_translation_enabled": false,
+  "location": "",
+  "favourites_count": 13,
+  "listed_count": 499,
+  "profile_text_color": "333333",
+  "description": "Honored to represent Oregon's First Congressional District.",
+  "followers_count": 6319,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000084043080/816f970a918a5d6fe798f5451dd249d7_normal.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/807131658/03fe990b1ae5e82cbae51757c2c22626.jpeg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -25200,
+  "profile_background_color": "325B9D",
+  "friends_count": 929,
+  "profile_link_color": "0084B4",
+  "default_profile": false,
+  "created_at": "Fri Apr 20 16:30:32 +0000 2012",
+  "following": false,
+  "id": 558769636,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/378800000084043080/816f970a918a5d6fe798f5451dd249d7_normal.jpeg",
+  "screen_name": "RepBonamici",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 19:41:59 +0000 2016",
+    "id": 727584004053073920,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 4,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/V8d49Qu8wD",
+          "indices": [
+            64,
+            87
+          ],
+          "expanded_url": "http://bit.ly/26Q9BMi",
+          "display_url": "bit.ly/26Q9BMi"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            9,
+            25
+          ],
+          "screen_name": "HotWiredFTC7013",
+          "id": 3137590332,
+          "id_str": "3137590332",
+          "name": "Hot Wired Robotics"
+        },
+        {
+          "indices": [
+            37,
+            48
+          ],
+          "screen_name": "FIRSTweets",
+          "id": 27934842,
+          "id_str": "27934842",
+          "name": "Official FIRST"
+        }
+      ]
+    },
+    "text": "Congrats @HotWiredFTC7013 on winning @FIRSTweets Inspire Award! https://t.co/V8d49Qu8wD",
+    "favorite_count": 2,
+    "possibly_sensitive": false,
+    "id_str": "727584004053073920",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/4mNk46JctA",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://bonamici.house.gov/",
+          "display_url": "bonamici.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/558769636/1362179856",
+  "name": "Suzanne Bonamici",
+  "is_translator": false,
+  "time_zone": "Pacific Time (US & Canada)",
+  "id_str": "558769636"
+}

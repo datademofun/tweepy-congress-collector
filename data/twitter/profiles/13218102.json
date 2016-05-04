@@ -1,0 +1,166 @@
+{
+  "url": "http://t.co/XHRaiuD2kE",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/2642284/Twitter-SJCBGD.jpg",
+  "statuses_count": 19329,
+  "is_translation_enabled": false,
+  "location": "Austin, Texas",
+  "favourites_count": 35,
+  "listed_count": 3554,
+  "profile_text_color": "002D62",
+  "description": "Honored to represent the great state of Texas in the US Senate.",
+  "followers_count": 73807,
+  "profile_background_tile": true,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/60719406/cornyntwitter_normal.jpg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/2642284/Twitter-SJCBGD.jpg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "FFFFFF",
+  "utc_offset": -18000,
+  "profile_background_color": "71829E",
+  "friends_count": 10351,
+  "profile_link_color": "0000FF",
+  "default_profile": false,
+  "created_at": "Thu Feb 07 19:52:55 +0000 2008",
+  "following": false,
+  "id": 13218102,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/60719406/cornyntwitter_normal.jpg",
+  "screen_name": "JohnCornyn",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Sun May 01 22:53:42 +0000 2016",
+    "id": 726907478093512704,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 11,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            111,
+            118
+          ],
+          "text": "txlege"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/t09PBk42af",
+          "indices": [
+            119,
+            142
+          ],
+          "expanded_url": "http://www.expressnews.com/news/local/article/Cecilia-Abbott-We-are-each-called-to-7379226.php?t=d48e323e27ce4990e5&cmpid=twitter-premium",
+          "display_url": "expressnews.com/news/local/art\u2026"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            17
+          ],
+          "screen_name": "SpeakerStraus",
+          "id": 18772406,
+          "id_str": "18772406",
+          "name": "Joe Straus"
+        }
+      ]
+    },
+    "text": "RT @SpeakerStraus: Thank you First Lady Cecilia Abbott for promoting volunteerism, philanthropy &amp; service. #txlege https://t.co/t09PBk42af",
+    "favorite_count": 0,
+    "possibly_sensitive": false,
+    "id_str": "726907478093512704",
+    "retweeted_status": {
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "place": null,
+      "in_reply_to_user_id": null,
+      "coordinates": null,
+      "truncated": false,
+      "in_reply_to_status_id_str": null,
+      "created_at": "Thu Apr 28 15:46:27 +0000 2016",
+      "id": 725712794021044224,
+      "favorited": false,
+      "geo": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_screen_name": null,
+      "retweet_count": 11,
+      "lang": "en",
+      "retweeted": false,
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              92,
+              99
+            ],
+            "text": "txlege"
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/t09PBk42af",
+            "indices": [
+              100,
+              123
+            ],
+            "expanded_url": "http://www.expressnews.com/news/local/article/Cecilia-Abbott-We-are-each-called-to-7379226.php?t=d48e323e27ce4990e5&cmpid=twitter-premium",
+            "display_url": "expressnews.com/news/local/art\u2026"
+          }
+        ],
+        "symbols": [],
+        "user_mentions": []
+      },
+      "text": "Thank you First Lady Cecilia Abbott for promoting volunteerism, philanthropy &amp; service. #txlege https://t.co/t09PBk42af",
+      "favorite_count": 17,
+      "possibly_sensitive": false,
+      "id_str": "725712794021044224",
+      "contributors": null
+    },
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/XHRaiuD2kE",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://cornyn.senate.gov",
+          "display_url": "cornyn.senate.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "002D62",
+  "name": "JohnCornyn",
+  "is_translator": false,
+  "time_zone": "Central Time (US & Canada)",
+  "id_str": "13218102"
+}

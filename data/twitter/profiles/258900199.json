@@ -1,0 +1,100 @@
+{
+  "url": "http://t.co/G6SgsJbYJB",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/225099462/cbm_creditcard_4.JPG",
+  "statuses_count": 2263,
+  "is_translation_enabled": false,
+  "location": "New York City",
+  "favourites_count": 53,
+  "listed_count": 753,
+  "profile_text_color": "333333",
+  "description": "New York's 12th Congressional District - Manhattan, Brooklyn & Queens",
+  "followers_count": 11661,
+  "profile_background_tile": true,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/712393122391703552/aIuAc9XX_normal.jpg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/225099462/cbm_creditcard_4.JPG",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -14400,
+  "profile_background_color": "C0DEED",
+  "friends_count": 3290,
+  "profile_link_color": "0084B4",
+  "default_profile": false,
+  "created_at": "Mon Feb 28 19:06:50 +0000 2011",
+  "following": false,
+  "id": 258900199,
+  "has_extended_profile": false,
+  "profile_use_background_image": false,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/712393122391703552/aIuAc9XX_normal.jpg",
+  "screen_name": "RepMaloney",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 13:53:03 +0000 2016",
+    "id": 727496195904393217,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 3,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/YgVdj1aAxq",
+          "indices": [
+            114,
+            137
+          ],
+          "expanded_url": "http://nyti.ms/26OuaJ5",
+          "display_url": "nyti.ms/26OuaJ5"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "As states expand gun rights, police forces are expressing concerns - it's time for common sense gun safety reform https://t.co/YgVdj1aAxq",
+    "favorite_count": 3,
+    "possibly_sensitive": false,
+    "id_str": "727496195904393217",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/G6SgsJbYJB",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://maloney.house.gov",
+          "display_url": "maloney.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/258900199/1411133532",
+  "name": "Carolyn  B. Maloney",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "258900199"
+}

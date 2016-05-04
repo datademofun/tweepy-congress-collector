@@ -1,0 +1,170 @@
+{
+  "url": "http://t.co/L3qF1BVDjB",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/784712716/7bdaba8bf85dbc35abbf4dc8fea3838f.png",
+  "statuses_count": 19911,
+  "is_translation_enabled": false,
+  "location": "Vista, CA & Washington, DC",
+  "favourites_count": 890,
+  "listed_count": 4931,
+  "profile_text_color": "333333",
+  "description": "I work for CA-49, Chair the Subcommittee on Courts, Intellectual Property, and the Internet, & serve on the House Committee on Foreign Affairs.",
+  "followers_count": 217708,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/454338555456663552/phM7MZu5_normal.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/784712716/7bdaba8bf85dbc35abbf4dc8fea3838f.png",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDFFCC",
+  "utc_offset": -14400,
+  "profile_background_color": "EBEBEB",
+  "friends_count": 35224,
+  "profile_link_color": "5A656B",
+  "default_profile": false,
+  "created_at": "Mon Mar 02 17:39:00 +0000 2009",
+  "following": false,
+  "id": 22509548,
+  "has_extended_profile": false,
+  "profile_use_background_image": false,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/454338555456663552/phM7MZu5_normal.jpeg",
+  "screen_name": "DarrellIssa",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Mon May 02 22:34:51 +0000 2016",
+    "id": 727265119567286272,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 5,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            14
+          ],
+          "screen_name": "sarahdwire",
+          "id": 15704971,
+          "id_str": "15704971",
+          "name": "Sarah D. Wire"
+        },
+        {
+          "indices": [
+            36,
+            48
+          ],
+          "screen_name": "DarrellIssa",
+          "id": 22509548,
+          "id_str": "22509548",
+          "name": "Darrell Issa"
+        },
+        {
+          "indices": [
+            69,
+            76
+          ],
+          "screen_name": "ENERGY",
+          "id": 166252256,
+          "id_str": "166252256",
+          "name": "Energy Department"
+        }
+      ]
+    },
+    "text": "RT @sarahdwire: In response to Rep. @DarrellIssa request last month, @ENERGY will send official June 22 to discuss storing nuclear waste in\u2026",
+    "favorite_count": 0,
+    "id_str": "727265119567286272",
+    "retweeted_status": {
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id_str": "15704971",
+      "is_quote_status": false,
+      "place": null,
+      "in_reply_to_user_id": 15704971,
+      "coordinates": null,
+      "truncated": false,
+      "in_reply_to_status_id_str": "717423497052610560",
+      "created_at": "Mon May 02 22:34:25 +0000 2016",
+      "id": 727265013283602433,
+      "favorited": false,
+      "geo": null,
+      "in_reply_to_status_id": 717423497052610560,
+      "in_reply_to_screen_name": "sarahdwire",
+      "retweet_count": 5,
+      "lang": "en",
+      "retweeted": false,
+      "entities": {
+        "hashtags": [],
+        "urls": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "indices": [
+              20,
+              32
+            ],
+            "screen_name": "DarrellIssa",
+            "id": 22509548,
+            "id_str": "22509548",
+            "name": "Darrell Issa"
+          },
+          {
+            "indices": [
+              53,
+              60
+            ],
+            "screen_name": "ENERGY",
+            "id": 166252256,
+            "id_str": "166252256",
+            "name": "Energy Department"
+          }
+        ]
+      },
+      "text": "In response to Rep. @DarrellIssa request last month, @ENERGY will send official June 22 to discuss storing nuclear waste in So-Cal.",
+      "favorite_count": 1,
+      "id_str": "727265013283602433",
+      "contributors": null
+    },
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/L3qF1BVDjB",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://issa.house.gov",
+          "display_url": "issa.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/22509548/1397664686",
+  "name": "Darrell Issa",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "22509548"
+}

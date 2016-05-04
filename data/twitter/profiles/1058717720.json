@@ -1,0 +1,115 @@
+{
+  "url": "http://t.co/1ApjVskz3y",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "statuses_count": 1719,
+  "is_translation_enabled": false,
+  "location": "NH's 2nd District",
+  "favourites_count": 20,
+  "listed_count": 480,
+  "profile_text_color": "333333",
+  "description": "Honored to serve the people of New Hampshire\u2019s Second District in Congress.",
+  "followers_count": 7623,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000613548009/634270ae77eef7c27656752dae94acbc_normal.jpeg",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -10800,
+  "profile_background_color": "C0DEED",
+  "friends_count": 3102,
+  "profile_link_color": "0084B4",
+  "default_profile": true,
+  "created_at": "Thu Jan 03 20:29:22 +0000 2013",
+  "following": false,
+  "id": 1058717720,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/378800000613548009/634270ae77eef7c27656752dae94acbc_normal.jpeg",
+  "screen_name": "RepAnnieKuster",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 21:02:06 +0000 2016",
+    "id": 727604165891985408,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 0,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            97,
+            104
+          ],
+          "text": "opioid"
+        },
+        {
+          "indices": [
+            105,
+            115
+          ],
+          "text": "addiction"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/9rjP2WHqZq",
+          "indices": [
+            116,
+            139
+          ],
+          "expanded_url": "http://www.unionleader.com/New-opioid-prescription-rules-in-effect-today",
+          "display_url": "unionleader.com/New-opioid-pre\u2026"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "New opioid prescribing rules implemented today to help curb adverse effects of opioid treatment. #opioid #addiction https://t.co/9rjP2WHqZq",
+    "favorite_count": 1,
+    "possibly_sensitive": false,
+    "id_str": "727604165891985408",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/1ApjVskz3y",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://kuster.house.gov/",
+          "display_url": "kuster.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1058717720/1359664710",
+  "name": "Ann McLane Kuster",
+  "is_translator": false,
+  "time_zone": "Atlantic Time (Canada)",
+  "id_str": "1058717720"
+}

@@ -1,0 +1,176 @@
+{
+  "url": "http://t.co/riEFCSOgog",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "statuses_count": 2718,
+  "is_translation_enabled": false,
+  "location": "",
+  "favourites_count": 15,
+  "listed_count": 1195,
+  "profile_text_color": "333333",
+  "description": "Represents California's 14th Congressional District. House Armed Services Committee, House Permanent Select Committee on Intelligence.  https://t.co/gGH33BzCXx",
+  "followers_count": 23457,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/582638025634516992/ISzkALXv_normal.jpg",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -18000,
+  "profile_background_color": "C0DEED",
+  "friends_count": 22358,
+  "profile_link_color": "0084B4",
+  "default_profile": true,
+  "created_at": "Tue Mar 17 17:02:38 +0000 2009",
+  "following": false,
+  "id": 24913074,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/582638025634516992/ISzkALXv_normal.jpg",
+  "screen_name": "RepSpeier",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Thu Apr 28 19:52:26 +0000 2016",
+    "id": 725774696193601536,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 13,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            19,
+            27
+          ],
+          "text": "IAmJazz"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            17
+          ],
+          "screen_name": "RepJoeKennedy",
+          "id": 1055907624,
+          "id_str": "1055907624",
+          "name": "Rep. Joe Kennedy III"
+        },
+        {
+          "indices": [
+            112,
+            122
+          ],
+          "screen_name": "RepSpeier",
+          "id": 24913074,
+          "id_str": "24913074",
+          "name": "Jackie Speier"
+        }
+      ]
+    },
+    "text": "RT @RepJoeKennedy: #IAmJazz tells story of the love + compassion transgender children deserve. Thx to my friend @RepSpeier for joining thos\u2026",
+    "favorite_count": 0,
+    "id_str": "725774696193601536",
+    "retweeted_status": {
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "place": null,
+      "in_reply_to_user_id": null,
+      "coordinates": null,
+      "truncated": false,
+      "in_reply_to_status_id_str": null,
+      "created_at": "Thu Apr 28 19:42:53 +0000 2016",
+      "id": 725772294421909504,
+      "favorited": false,
+      "geo": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_screen_name": null,
+      "retweet_count": 13,
+      "lang": "en",
+      "retweeted": false,
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              0,
+              8
+            ],
+            "text": "IAmJazz"
+          }
+        ],
+        "urls": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "indices": [
+              93,
+              103
+            ],
+            "screen_name": "RepSpeier",
+            "id": 24913074,
+            "id_str": "24913074",
+            "name": "Jackie Speier"
+          }
+        ]
+      },
+      "text": "#IAmJazz tells story of the love + compassion transgender children deserve. Thx to my friend @RepSpeier for joining those reading it today!",
+      "favorite_count": 28,
+      "id_str": "725772294421909504",
+      "contributors": null
+    },
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/riEFCSOgog",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://speier.house.gov",
+          "display_url": "speier.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+        {
+          "url": "https://t.co/gGH33BzCXx",
+          "indices": [
+            136,
+            159
+          ],
+          "expanded_url": "https://goo.gl/l7uFLm",
+          "display_url": "goo.gl/l7uFLm"
+        }
+      ]
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/24913074/1452717261",
+  "name": "Jackie Speier",
+  "is_translator": false,
+  "time_zone": "Quito",
+  "id_str": "24913074"
+}

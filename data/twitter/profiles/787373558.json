@@ -1,0 +1,194 @@
+{
+  "url": "http://t.co/mKxxp6s7Jx",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000101030949/150220b407fb9cf594e49995194ec160.jpeg",
+  "statuses_count": 3716,
+  "is_translation_enabled": false,
+  "location": "Baltimore, MD",
+  "favourites_count": 43,
+  "listed_count": 784,
+  "profile_text_color": "333333",
+  "description": "U.S. Representative from Maryland's 7th District, dedicated to serving and empowering the people I\u2019m sworn to represent. RT's and Follows are not endorsements.",
+  "followers_count": 18786,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/512259394520637440/iqJCC7YI_normal.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000101030949/150220b407fb9cf594e49995194ec160.jpeg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -10800,
+  "profile_background_color": "17294D",
+  "friends_count": 1577,
+  "profile_link_color": "C7251A",
+  "default_profile": false,
+  "created_at": "Tue Aug 28 16:37:01 +0000 2012",
+  "following": false,
+  "id": 787373558,
+  "has_extended_profile": false,
+  "profile_use_background_image": false,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/512259394520637440/iqJCC7YI_normal.jpeg",
+  "screen_name": "RepCummings",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Mon May 02 20:28:38 +0000 2016",
+    "id": 727233356841291777,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 9,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/j6Phlsbtcg",
+          "indices": [
+            143,
+            144
+          ],
+          "expanded_url": "https://twitter.com/onetoughnerd/status/727149686373621761",
+          "display_url": "twitter.com/onetoughnerd/s\u2026"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            17
+          ],
+          "screen_name": "OversightDems",
+          "id": 31122582,
+          "id_str": "31122582",
+          "name": "House OversightDems"
+        },
+        {
+          "indices": [
+            20,
+            33
+          ],
+          "screen_name": "onetoughnerd",
+          "id": 113036476,
+          "id_str": "113036476",
+          "name": "Governor Rick Snyder"
+        },
+        {
+          "indices": [
+            60,
+            72
+          ],
+          "screen_name": "RepCummings",
+          "id": 787373558,
+          "id_str": "787373558",
+          "name": "Elijah E. Cummings"
+        }
+      ]
+    },
+    "text": "RT @OversightDems: .@onetoughnerd you made the same offer 2 @RepCummings &amp; he accepted - it's been radio silence on your end ever since htt\u2026",
+    "favorite_count": 0,
+    "possibly_sensitive": false,
+    "id_str": "727233356841291777",
+    "retweeted_status": {
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "quoted_status_id_str": "727149686373621761",
+      "quoted_status_id": 727149686373621761,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": true,
+      "place": null,
+      "in_reply_to_user_id": null,
+      "coordinates": null,
+      "truncated": false,
+      "in_reply_to_status_id_str": null,
+      "created_at": "Mon May 02 20:25:34 +0000 2016",
+      "id": 727232584137228289,
+      "favorited": false,
+      "geo": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_screen_name": null,
+      "retweet_count": 9,
+      "lang": "en",
+      "retweeted": false,
+      "entities": {
+        "hashtags": [],
+        "urls": [
+          {
+            "url": "https://t.co/j6Phlsbtcg",
+            "indices": [
+              121,
+              144
+            ],
+            "expanded_url": "https://twitter.com/onetoughnerd/status/727149686373621761",
+            "display_url": "twitter.com/onetoughnerd/s\u2026"
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "indices": [
+              1,
+              14
+            ],
+            "screen_name": "onetoughnerd",
+            "id": 113036476,
+            "id_str": "113036476",
+            "name": "Governor Rick Snyder"
+          },
+          {
+            "indices": [
+              41,
+              53
+            ],
+            "screen_name": "RepCummings",
+            "id": 787373558,
+            "id_str": "787373558",
+            "name": "Elijah E. Cummings"
+          }
+        ]
+      },
+      "text": ".@onetoughnerd you made the same offer 2 @RepCummings &amp; he accepted - it's been radio silence on your end ever since https://t.co/j6Phlsbtcg",
+      "favorite_count": 10,
+      "possibly_sensitive": false,
+      "id_str": "727232584137228289",
+      "contributors": null
+    },
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/mKxxp6s7Jx",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://cummings.house.gov",
+          "display_url": "cummings.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "000000",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/787373558/1431184732",
+  "name": "Elijah E. Cummings",
+  "is_translator": false,
+  "time_zone": "Atlantic Time (Canada)",
+  "id_str": "787373558"
+}

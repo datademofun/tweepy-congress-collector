@@ -1,0 +1,108 @@
+{
+  "url": "http://t.co/fzRpgWawFH",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "statuses_count": 3208,
+  "is_translation_enabled": false,
+  "location": "Cheshire, CT",
+  "favourites_count": 1055,
+  "listed_count": 453,
+  "profile_text_color": "333333",
+  "description": "Mom, community advocate, and U.S. Representative for Connecticut's 5th Congressional District. This is the official account for my Congressional office.",
+  "followers_count": 7466,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/446012442053595136/F8Ivbrm2_normal.jpeg",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -10800,
+  "profile_background_color": "C0DEED",
+  "friends_count": 1302,
+  "profile_link_color": "0084B4",
+  "default_profile": true,
+  "created_at": "Fri Jan 04 17:36:04 +0000 2013",
+  "following": false,
+  "id": 1060984272,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/446012442053595136/F8Ivbrm2_normal.jpeg",
+  "screen_name": "RepEsty",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 15:44:05 +0000 2016",
+    "id": 727524135669227520,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 2,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            126,
+            140
+          ],
+          "text": "ThankATeacher"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/1WQwbDQJjJ",
+          "indices": [
+            58,
+            81
+          ],
+          "expanded_url": "http://1.usa.gov/1WFFC4M",
+          "display_url": "1.usa.gov/1WFFC4M"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "A worthy read from 2016 Teacher of the Year Jahana Hayes: https://t.co/1WQwbDQJjJ \"What the Promise of Education Did for Me\"  #ThankATeacher",
+    "favorite_count": 3,
+    "possibly_sensitive": false,
+    "id_str": "727524135669227520",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/fzRpgWawFH",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://Esty.House.gov",
+          "display_url": "Esty.House.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1060984272/1380772538",
+  "name": "Elizabeth Esty",
+  "is_translator": false,
+  "time_zone": "Atlantic Time (Canada)",
+  "id_str": "1060984272"
+}

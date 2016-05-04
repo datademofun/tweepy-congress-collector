@@ -1,0 +1,111 @@
+{
+  "url": "http://t.co/kmemTSKwIu",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000181444343/0EfioumS.jpeg",
+  "statuses_count": 1563,
+  "is_translation_enabled": false,
+  "location": "",
+  "favourites_count": 221,
+  "listed_count": 477,
+  "profile_text_color": "333333",
+  "description": "Member of Congress proudly representing the 8th  District of New York",
+  "followers_count": 9368,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/453659156776382464/KbV5QD-T_normal.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000181444343/0EfioumS.jpeg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "C0DFEC",
+  "utc_offset": -14400,
+  "profile_background_color": "131516",
+  "friends_count": 636,
+  "profile_link_color": "2C96CF",
+  "default_profile": false,
+  "created_at": "Wed Jan 18 21:54:44 +0000 2012",
+  "following": false,
+  "id": 467823431,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/453659156776382464/KbV5QD-T_normal.jpeg",
+  "screen_name": "RepJeffries",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Wed May 04 00:32:50 +0000 2016",
+    "id": 727657199288332288,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 2,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/eR2lBpIPn0",
+          "indices": [
+            112,
+            135
+          ],
+          "expanded_url": "http://m.nydailynews.com/new-york/brooklyn/brooklyn-da-vacate-man-wrongful-conviction-1963-murder-article-1.2621460",
+          "display_url": "m.nydailynews.com/new-york/brook\u2026"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            1,
+            12
+          ],
+          "screen_name": "BrooklynDA",
+          "id": 2264799067,
+          "id_str": "2264799067",
+          "name": "Ken Thompson"
+        }
+      ]
+    },
+    "text": ".@BrooklynDA conviction integrity unit strikes another blow for justice on behalf of 81 year-old Paul Gatling \u2192 https://t.co/eR2lBpIPn0",
+    "favorite_count": 1,
+    "possibly_sensitive": false,
+    "id_str": "727657199288332288",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/kmemTSKwIu",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://jeffries.house.gov/",
+          "display_url": "jeffries.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "000000",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/467823431/1414444613",
+  "name": "Hakeem Jeffries",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "467823431"
+}

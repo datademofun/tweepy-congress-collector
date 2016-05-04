@@ -1,0 +1,111 @@
+{
+  "url": "http://t.co/ZyiE2l8INn",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/569862735773454336/B-JQ3bGy.jpeg",
+  "statuses_count": 2832,
+  "is_translation_enabled": false,
+  "location": "Tennessee",
+  "favourites_count": 23,
+  "listed_count": 2236,
+  "profile_text_color": "333333",
+  "description": "Official news and updates from United States Senator Bob Corker (R-Tennessee) and his staff.",
+  "followers_count": 49541,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/702235943332347905/aYWodSFA_normal.jpg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/569862735773454336/B-JQ3bGy.jpeg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "D6C989",
+  "utc_offset": -14400,
+  "profile_background_color": "ABB8C2",
+  "friends_count": 489,
+  "profile_link_color": "404040",
+  "default_profile": false,
+  "created_at": "Fri Sep 11 03:56:08 +0000 2009",
+  "following": false,
+  "id": 73303753,
+  "has_extended_profile": false,
+  "profile_use_background_image": false,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/702235943332347905/aYWodSFA_normal.jpg",
+  "screen_name": "SenBobCorker",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 18:02:25 +0000 2016",
+    "id": 727558950766391296,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 8,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/YlysoLTN4r",
+          "indices": [
+            115,
+            138
+          ],
+          "expanded_url": "https://youtu.be/rAHoATxjBJc",
+          "display_url": "youtu.be/rAHoATxjBJc"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            10,
+            26
+          ],
+          "screen_name": "MilkenInstitute",
+          "id": 16373878,
+          "id_str": "16373878",
+          "name": "Milken Institute"
+        }
+      ]
+    },
+    "text": "As I told @MilkenInstitute, the biggest issue facing our nation is our inability to get our fiscal house in order. https://t.co/YlysoLTN4r",
+    "favorite_count": 13,
+    "possibly_sensitive": false,
+    "id_str": "727558950766391296",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/ZyiE2l8INn",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://corker.senate.gov/",
+          "display_url": "corker.senate.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/73303753/1456261528",
+  "name": "Senator Bob Corker",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "73303753"
+}

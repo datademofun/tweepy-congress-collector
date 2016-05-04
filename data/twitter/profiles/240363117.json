@@ -1,0 +1,102 @@
+{
+  "url": "http://t.co/vUAMh0aOOs",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623483778409832448/FOP39WJU.jpg",
+  "statuses_count": 2550,
+  "is_translation_enabled": false,
+  "location": "Pennsylvania",
+  "favourites_count": 409,
+  "listed_count": 680,
+  "profile_text_color": "333333",
+  "description": "Proud to serve citizens of PA-10. Member on @HouseForeign @HouseHomeland @HouseJudiciary & Vice President of @NATO Parliamentary Assembly",
+  "followers_count": 14374,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/704700495730974720/4K03J5FW_normal.jpg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623483778409832448/FOP39WJU.jpg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "C0DFEC",
+  "utc_offset": -14400,
+  "profile_background_color": "DD2E44",
+  "friends_count": 947,
+  "profile_link_color": "DD2E44",
+  "default_profile": false,
+  "created_at": "Wed Jan 19 19:11:27 +0000 2011",
+  "following": false,
+  "id": 240363117,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/704700495730974720/4K03J5FW_normal.jpg",
+  "screen_name": "RepTomMarino",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "quoted_status_id_str": "727590367688712192",
+    "quoted_status_id": 727590367688712192,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 20:21:24 +0000 2016",
+    "id": 727593926404800512,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 1,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/GeyXwVKt49",
+          "indices": [
+            25,
+            48
+          ],
+          "expanded_url": "https://twitter.com/ctoleno13/status/727590367688712192",
+          "display_url": "twitter.com/ctoleno13/stat\u2026"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "Thank you for having me! https://t.co/GeyXwVKt49",
+    "favorite_count": 3,
+    "possibly_sensitive": false,
+    "id_str": "727593926404800512",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/vUAMh0aOOs",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://marino.house.gov",
+          "display_url": "marino.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/240363117/1461848448",
+  "name": "Rep. Tom Marino",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "240363117"
+}

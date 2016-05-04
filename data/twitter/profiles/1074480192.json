@@ -1,0 +1,100 @@
+{
+  "url": "http://t.co/56xJsmj575",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+  "statuses_count": 4003,
+  "is_translation_enabled": false,
+  "location": "Houston, Texas",
+  "favourites_count": 167,
+  "listed_count": 7209,
+  "profile_text_color": "333333",
+  "description": "Representing the State of Texas in the United States Senate.",
+  "followers_count": 778069,
+  "profile_background_tile": true,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/3396959978/e4a57f152c58effe0df43affb2e27ab8_normal.jpeg",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+  "notifications": false,
+  "profile_sidebar_fill_color": "EFEFEF",
+  "utc_offset": -14400,
+  "profile_background_color": "131516",
+  "friends_count": 7477,
+  "profile_link_color": "009999",
+  "default_profile": false,
+  "created_at": "Wed Jan 09 18:11:37 +0000 2013",
+  "following": false,
+  "id": 1074480192,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/3396959978/e4a57f152c58effe0df43affb2e27ab8_normal.jpeg",
+  "screen_name": "SenTedCruz",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Fri Apr 29 19:45:08 +0000 2016",
+    "id": 726135248870846466,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 538,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/rSSi8OhYHV",
+          "indices": [
+            116,
+            139
+          ],
+          "expanded_url": "http://reut.rs/1rEUZQ2",
+          "display_url": "reut.rs/1rEUZQ2"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "US carrier denied port visit in Hong Kong. Proof that PRC isnt US partner. We should send carrier to Taiwan instead https://t.co/rSSi8OhYHV",
+    "favorite_count": 716,
+    "possibly_sensitive": false,
+    "id_str": "726135248870846466",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/56xJsmj575",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://cruz.senate.gov",
+          "display_url": "cruz.senate.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "EEEEEE",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1074480192/1391451577",
+  "name": "Senator Ted Cruz",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "1074480192"
+}

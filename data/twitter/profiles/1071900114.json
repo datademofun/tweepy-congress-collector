@@ -1,0 +1,168 @@
+{
+  "url": "http://t.co/1SnsOiv0kl",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/758821210/82a37daa2f07606c53fa970da96c2dab.jpeg",
+  "statuses_count": 667,
+  "is_translation_enabled": false,
+  "location": "",
+  "favourites_count": 1,
+  "listed_count": 473,
+  "profile_text_color": "333333",
+  "description": "Representing Florida's 3rd Congressional District; large animal veterinarian; conservative business owner; Member of @HFACRepublicans & @HouseAgNews Committees",
+  "followers_count": 6311,
+  "profile_background_tile": true,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/3083908995/d2f7b2b99b63d01db6a3dbddc0680655_normal.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/758821210/82a37daa2f07606c53fa970da96c2dab.jpeg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -14400,
+  "profile_background_color": "C0DEED",
+  "friends_count": 320,
+  "profile_link_color": "0084B4",
+  "default_profile": false,
+  "created_at": "Tue Jan 08 20:25:18 +0000 2013",
+  "following": false,
+  "id": 1071900114,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/3083908995/d2f7b2b99b63d01db6a3dbddc0680655_normal.jpeg",
+  "screen_name": "RepTedYoho",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "extended_entities": {
+      "media": [
+        {
+          "indices": [
+            87,
+            110
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/Chjl6nQWwAAYaJ7.jpg",
+          "id": 727584134953091072,
+          "expanded_url": "http://twitter.com/RepTedYoho/status/727584135607373824/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 450,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 255,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 768,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/EynaRNZUka",
+          "media_url": "http://pbs.twimg.com/media/Chjl6nQWwAAYaJ7.jpg",
+          "url": "https://t.co/EynaRNZUka",
+          "type": "photo",
+          "id_str": "727584134953091072"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 19:42:30 +0000 2016",
+    "id": 727584135607373824,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 1,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "media": [
+        {
+          "indices": [
+            87,
+            110
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/Chjl6nQWwAAYaJ7.jpg",
+          "id": 727584134953091072,
+          "expanded_url": "http://twitter.com/RepTedYoho/status/727584135607373824/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 450,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 255,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 768,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/EynaRNZUka",
+          "media_url": "http://pbs.twimg.com/media/Chjl6nQWwAAYaJ7.jpg",
+          "url": "https://t.co/EynaRNZUka",
+          "type": "photo",
+          "id_str": "727584134953091072"
+        }
+      ],
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "Thank you to everyone who came out to our Clay County townhall last Sat in Middleburg. https://t.co/EynaRNZUka",
+    "favorite_count": 3,
+    "possibly_sensitive": false,
+    "id_str": "727584135607373824",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/1SnsOiv0kl",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://yoho.house.gov",
+          "display_url": "yoho.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1071900114/1368207742",
+  "name": "Ted Yoho",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "1071900114"
+}

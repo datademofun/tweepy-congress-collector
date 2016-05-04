@@ -1,0 +1,204 @@
+{
+  "url": "http://t.co/uhNtROa3Ll",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/124707257/backgroundtwitter2.jpg",
+  "statuses_count": 4516,
+  "is_translation_enabled": false,
+  "location": "Memphis, TN and Washington, DC",
+  "favourites_count": 1429,
+  "listed_count": 845,
+  "profile_text_color": "333333",
+  "description": "Congress TN-9 Memphis. Committees: Judiciary&Transport; Supporter of civil rights/liberties/women&minority issues/animal welfare. Father of TN Educ Lottery: Dem",
+  "followers_count": 14092,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/2868005705/2ad4089661866edbab4f8097df4a2b8b_normal.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/124707257/backgroundtwitter2.jpg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -18000,
+  "profile_background_color": "002436",
+  "friends_count": 477,
+  "profile_link_color": "0084B4",
+  "default_profile": false,
+  "created_at": "Fri Jul 02 15:10:21 +0000 2010",
+  "following": false,
+  "id": 162069635,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/2868005705/2ad4089661866edbab4f8097df4a2b8b_normal.jpeg",
+  "screen_name": "RepCohen",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "extended_entities": {
+      "media": [
+        {
+          "indices": [
+            121,
+            144
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/ChjaxXsXEAErwMI.jpg",
+          "id": 727571881528856577,
+          "expanded_url": "http://twitter.com/RepCohen/status/727571883168772096/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 450,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 255,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 768,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/4bzHsQFdpW",
+          "media_url": "http://pbs.twimg.com/media/ChjaxXsXEAErwMI.jpg",
+          "url": "https://t.co/4bzHsQFdpW",
+          "type": "photo",
+          "id_str": "727571881528856577"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 18:53:49 +0000 2016",
+    "id": 727571883168772096,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 18,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "media": [
+        {
+          "indices": [
+            121,
+            144
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/ChjaxXsXEAErwMI.jpg",
+          "id": 727571881528856577,
+          "expanded_url": "http://twitter.com/RepCohen/status/727571883168772096/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 450,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 255,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 768,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/4bzHsQFdpW",
+          "media_url": "http://pbs.twimg.com/media/ChjaxXsXEAErwMI.jpg",
+          "url": "https://t.co/4bzHsQFdpW",
+          "type": "photo",
+          "id_str": "727571881528856577"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            15,
+            31
+          ],
+          "text": "MemphisMassacre"
+        },
+        {
+          "indices": [
+            79,
+            87
+          ],
+          "text": "Memphis"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            91,
+            97
+          ],
+          "screen_name": "NAACP",
+          "id": 44988185,
+          "id_str": "44988185",
+          "name": "NAACP"
+        },
+        {
+          "indices": [
+            104,
+            120
+          ],
+          "screen_name": "NatlParkService",
+          "id": 36771809,
+          "id_str": "36771809",
+          "name": "NationalParkService"
+        }
+      ]
+    },
+    "text": "150th Anniv of #MemphisMassacre. Significant event but forgotten. New marker n #Memphis by @NAACP &amp; @NatlParkService https://t.co/4bzHsQFdpW",
+    "favorite_count": 17,
+    "possibly_sensitive": false,
+    "id_str": "727571883168772096",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/uhNtROa3Ll",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://cohen.house.gov",
+          "display_url": "cohen.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/162069635/1398283798",
+  "name": "Steve Cohen",
+  "is_translator": false,
+  "time_zone": "Central Time (US & Canada)",
+  "id_str": "162069635"
+}

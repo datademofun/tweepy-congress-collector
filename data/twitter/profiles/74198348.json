@@ -1,0 +1,100 @@
+{
+  "url": "http://t.co/oI5YymTdZ7",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/94937444/twitter_with_capitol.jpg",
+  "statuses_count": 3328,
+  "is_translation_enabled": false,
+  "location": "Humble, Texas",
+  "favourites_count": 17,
+  "listed_count": 1076,
+  "profile_text_color": "663B12",
+  "description": "Member of Congress, representing the second district of the great state of Texas",
+  "followers_count": 15349,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/459598371/TP_highres_normal.jpg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/94937444/twitter_with_capitol.jpg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DAECF4",
+  "utc_offset": -14400,
+  "profile_background_color": "C6E2EE",
+  "friends_count": 605,
+  "profile_link_color": "1F98C7",
+  "default_profile": false,
+  "created_at": "Mon Sep 14 16:40:24 +0000 2009",
+  "following": false,
+  "id": 74198348,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/459598371/TP_highres_normal.jpg",
+  "screen_name": "JudgeTedPoe",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 16:58:54 +0000 2016",
+    "id": 727542965741182976,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 2,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/jhWS8LFOz4",
+          "indices": [
+            114,
+            137
+          ],
+          "expanded_url": "http://fb.me/19A9zIqEN",
+          "display_url": "fb.me/19A9zIqEN"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "Happy Teacher Appreciation Week! Take a moment to thank our teachers for everything that they do for our young... https://t.co/jhWS8LFOz4",
+    "favorite_count": 2,
+    "possibly_sensitive": false,
+    "id_str": "727542965741182976",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/oI5YymTdZ7",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://poe.house.gov",
+          "display_url": "poe.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "C6E2EE",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/74198348/1456497660",
+  "name": "Ted Poe",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "74198348"
+}

@@ -1,0 +1,108 @@
+{
+  "url": "http://t.co/g0KThX0Tg5",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/474313102255591424/_wLb5cuU.jpeg",
+  "statuses_count": 3018,
+  "is_translation_enabled": false,
+  "location": "Oregon",
+  "favourites_count": 2,
+  "listed_count": 2369,
+  "profile_text_color": "333333",
+  "description": "U.S. Senator from the State of Oregon",
+  "followers_count": 42073,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000722784871/b68791dd767a19f46f2676e82f689107_normal.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/474313102255591424/_wLb5cuU.jpeg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "D9E8F2",
+  "utc_offset": -14400,
+  "profile_background_color": "457292",
+  "friends_count": 172,
+  "profile_link_color": "93A427",
+  "default_profile": false,
+  "created_at": "Mon Apr 06 13:38:39 +0000 2009",
+  "following": false,
+  "id": 29201047,
+  "has_extended_profile": false,
+  "profile_use_background_image": false,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/378800000722784871/b68791dd767a19f46f2676e82f689107_normal.jpeg",
+  "screen_name": "SenJeffMerkley",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Wed May 04 05:15:53 +0000 2016",
+    "id": 727728432268886016,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 10,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            40,
+            51
+          ],
+          "text": "NeverDoubt"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            11,
+            20
+          ],
+          "screen_name": "warriors",
+          "id": 26270913,
+          "id_str": "26270913",
+          "name": "GoldenStateWarriors"
+        }
+      ]
+    },
+    "text": "Good game, @Warriors. This isn't over.\n\n#NeverDoubt Rip City.",
+    "favorite_count": 21,
+    "id_str": "727728432268886016",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/g0KThX0Tg5",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://merkley.senate.gov",
+          "display_url": "merkley.senate.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/29201047/1429884312",
+  "name": "Senator Jeff Merkley",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "29201047"
+}

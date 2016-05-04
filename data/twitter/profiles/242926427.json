@@ -1,0 +1,98 @@
+{
+  "url": "http://t.co/g23DlVNdtc",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/778641369/32fdbd80c31cfe58ca60b64e1fe29e3b.jpeg",
+  "statuses_count": 371,
+  "is_translation_enabled": false,
+  "location": "",
+  "favourites_count": 0,
+  "listed_count": 602,
+  "profile_text_color": "333333",
+  "description": "I'm proud to have grown up in SW WA, and honored to represent this wonderful region in the US Congress. Want regular email updates? http://t.co/sZutp93Fhg",
+  "followers_count": 7734,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/510487926900150272/UksS2ekj_normal.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/778641369/32fdbd80c31cfe58ca60b64e1fe29e3b.jpeg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -25200,
+  "profile_background_color": "D6083C",
+  "friends_count": 1130,
+  "profile_link_color": "0084B4",
+  "default_profile": false,
+  "created_at": "Tue Jan 25 22:36:44 +0000 2011",
+  "following": false,
+  "id": 242926427,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/510487926900150272/UksS2ekj_normal.jpeg",
+  "screen_name": "HerreraBeutler",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Mon May 02 16:18:05 +0000 2016",
+    "id": 727170302891941888,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 1,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "The SW WA Jobs Fair is happening NOW! Employers will be at the Armed Forces Reserve Center at 15005 NE 65th Street in Vancouver until noon!",
+    "favorite_count": 2,
+    "id_str": "727170302891941888",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/g23DlVNdtc",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://JHB.house.gov",
+          "display_url": "JHB.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+        {
+          "url": "http://t.co/sZutp93Fhg",
+          "indices": [
+            132,
+            154
+          ],
+          "expanded_url": "http://bit.ly/gcCz7h",
+          "display_url": "bit.ly/gcCz7h"
+        }
+      ]
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "FFFFFF",
+  "name": "JaimeHerreraBeutler",
+  "is_translator": false,
+  "time_zone": "Pacific Time (US & Canada)",
+  "id_str": "242926427"
+}

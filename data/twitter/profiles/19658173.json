@@ -1,0 +1,121 @@
+{
+  "url": "http://t.co/CJ5DYqaInY",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000082462616/b206b3fbc501b39eba70d77b4aea2b3f.png",
+  "statuses_count": 4894,
+  "is_translation_enabled": false,
+  "location": "Topeka",
+  "favourites_count": 69,
+  "listed_count": 1216,
+  "profile_text_color": "131111",
+  "description": "Proud to represent the 2nd District of Kansas | Vice Chair of the House Republican Conference | CPA",
+  "followers_count": 16439,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/478956157512318976/DwOFGMoU_normal.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000082462616/b206b3fbc501b39eba70d77b4aea2b3f.png",
+  "notifications": false,
+  "profile_sidebar_fill_color": "FBF4F4",
+  "utc_offset": -18000,
+  "profile_background_color": "F4F4F7",
+  "friends_count": 4623,
+  "profile_link_color": "262E9E",
+  "default_profile": false,
+  "created_at": "Wed Jan 28 15:54:00 +0000 2009",
+  "following": false,
+  "id": 19658173,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/478956157512318976/DwOFGMoU_normal.jpeg",
+  "screen_name": "RepLynnJenkins",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": "18916432",
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": 18916432,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": "727569264375431168",
+    "created_at": "Tue May 03 18:57:54 +0000 2016",
+    "id": 727572910265741316,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": 727569264375431168,
+    "in_reply_to_screen_name": "SpeakerRyan",
+    "retweet_count": 0,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/pUzmy53Eon",
+          "indices": [
+            121,
+            144
+          ],
+          "expanded_url": "http://cjonline.com/news/2016-04-28/leavenworth-county-attorney-pentagon-has-had-no-communication-us",
+          "display_url": "cjonline.com/news/2016-04-2\u2026"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            1,
+            13
+          ],
+          "screen_name": "SpeakerRyan",
+          "id": 18916432,
+          "id_str": "18916432",
+          "name": "Paul Ryan"
+        },
+        {
+          "indices": [
+            93,
+            107
+          ],
+          "screen_name": "DeptofDefense",
+          "id": 66369181,
+          "id_str": "66369181",
+          "name": "U.S. Dept of Defense"
+        }
+      ]
+    },
+    "text": ".@SpeakerRyan Getting smart means listening &amp; speaking\nw/ the American people. Something @DeptofDefense hasn't done. https://t.co/pUzmy53Eon",
+    "favorite_count": 2,
+    "possibly_sensitive": false,
+    "id_str": "727572910265741316",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/CJ5DYqaInY",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://www.lynnjenkins.house.gov",
+          "display_url": "lynnjenkins.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/19658173/1442258225",
+  "name": "Lynn Jenkins",
+  "is_translator": false,
+  "time_zone": "Central Time (US & Canada)",
+  "id_str": "19658173"
+}

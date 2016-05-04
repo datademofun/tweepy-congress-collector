@@ -1,0 +1,110 @@
+{
+  "url": "http://t.co/nARbDjLrTt",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "statuses_count": 1160,
+  "is_translation_enabled": false,
+  "location": "",
+  "favourites_count": 31,
+  "listed_count": 335,
+  "profile_text_color": "333333",
+  "description": "Official Twitter Account for Congressman Leonard Lance.  Proudly Representing New Jersey's 7th Congressional District.  http://t.co/uudCjpcv9f",
+  "followers_count": 4511,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/491966223458893824/zHwfK2U8_normal.jpeg",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -14400,
+  "profile_background_color": "C0DEED",
+  "friends_count": 324,
+  "profile_link_color": "0084B4",
+  "default_profile": true,
+  "created_at": "Wed Jun 20 20:19:40 +0000 2012",
+  "following": false,
+  "id": 613725908,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/491966223458893824/zHwfK2U8_normal.jpeg",
+  "screen_name": "RepLanceNJ7",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Fri Apr 29 16:22:23 +0000 2016",
+    "id": 726084223262666755,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 0,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/cIQ0tdRuFz",
+          "indices": [
+            55,
+            78
+          ],
+          "expanded_url": "https://morningconsult.com/alert/senate-passed-consumer-review-rights-bill-now-house-companion/",
+          "display_url": "morningconsult.com/alert/senate-p\u2026"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "Senate-Passed \u2018Gag Order\u2019 Bill Now Has House Companion https://t.co/cIQ0tdRuFz",
+    "favorite_count": 0,
+    "possibly_sensitive": false,
+    "id_str": "726084223262666755",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/nARbDjLrTt",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://lance.house.gov",
+          "display_url": "lance.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+        {
+          "url": "http://t.co/uudCjpcv9f",
+          "indices": [
+            120,
+            142
+          ],
+          "expanded_url": "http://www.lance.house.gov",
+          "display_url": "lance.house.gov"
+        }
+      ]
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/613725908/1406128698",
+  "name": "Rep. Leonard Lance",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "613725908"
+}

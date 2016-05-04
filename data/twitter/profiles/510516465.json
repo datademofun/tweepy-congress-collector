@@ -1,0 +1,132 @@
+{
+  "url": null,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "statuses_count": 592,
+  "is_translation_enabled": false,
+  "location": "Iowa's 2nd District",
+  "favourites_count": 6,
+  "listed_count": 340,
+  "profile_text_color": "333333",
+  "description": "Fighting for the hardworking people of Iowa",
+  "followers_count": 3716,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/476023485647437826/xnIR5tUD_normal.jpeg",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": null,
+  "profile_background_color": "C0DEED",
+  "friends_count": 560,
+  "profile_link_color": "121DE8",
+  "default_profile": false,
+  "created_at": "Thu Mar 01 16:52:06 +0000 2012",
+  "following": false,
+  "id": 510516465,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/476023485647437826/xnIR5tUD_normal.jpeg",
+  "screen_name": "daveloebsack",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Mon May 02 18:46:19 +0000 2016",
+    "id": 727207610219413504,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 7,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            97,
+            105
+          ],
+          "text": "MHM2016"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            16
+          ],
+          "screen_name": "RepPaulTonko",
+          "id": 84119348,
+          "id_str": "84119348",
+          "name": "Paul Tonko"
+        }
+      ]
+    },
+    "text": "RT @RepPaulTonko: Mental illness is a non-partisan problem and requires a non-partisan solution. #MHM2016",
+    "favorite_count": 0,
+    "id_str": "727207610219413504",
+    "retweeted_status": {
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "place": null,
+      "in_reply_to_user_id": null,
+      "coordinates": null,
+      "truncated": false,
+      "in_reply_to_status_id_str": null,
+      "created_at": "Mon May 02 18:45:26 +0000 2016",
+      "id": 727207386629431297,
+      "favorited": false,
+      "geo": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_screen_name": null,
+      "retweet_count": 7,
+      "lang": "en",
+      "retweeted": false,
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              79,
+              87
+            ],
+            "text": "MHM2016"
+          }
+        ],
+        "urls": [],
+        "symbols": [],
+        "user_mentions": []
+      },
+      "text": "Mental illness is a non-partisan problem and requires a non-partisan solution. #MHM2016",
+      "favorite_count": 6,
+      "id_str": "727207386629431297",
+      "contributors": null
+    },
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/510516465/1360003545",
+  "name": "Dave Loebsack",
+  "is_translator": false,
+  "time_zone": null,
+  "id_str": "510516465"
+}

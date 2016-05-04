@@ -1,0 +1,183 @@
+{
+  "url": "http://t.co/isis6YaDPG",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "statuses_count": 1493,
+  "is_translation_enabled": false,
+  "location": "Phoenix, AZ",
+  "favourites_count": 226,
+  "listed_count": 209,
+  "profile_text_color": "333333",
+  "description": "Proud representative of Arizona's 7th Congressional District",
+  "followers_count": 4315,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/722453566884081665/NhxH_c6l_normal.jpg",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -25200,
+  "profile_background_color": "C0DEED",
+  "friends_count": 2128,
+  "profile_link_color": "0084B4",
+  "default_profile": true,
+  "created_at": "Wed Jan 07 19:31:08 +0000 2015",
+  "following": false,
+  "id": 2966570782,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/722453566884081665/NhxH_c6l_normal.jpg",
+  "screen_name": "RepRubenGallego",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "extended_entities": {
+      "media": [
+        {
+          "indices": [
+            118,
+            141
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/Chj2h1YWkAIKKmR.jpg",
+          "id": 727602400945672194,
+          "expanded_url": "http://twitter.com/RepRubenGallego/status/727602401612533761/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 600,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 340,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 859,
+              "w": 859,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/h0CnfVSPIT",
+          "media_url": "http://pbs.twimg.com/media/Chj2h1YWkAIKKmR.jpg",
+          "url": "https://t.co/h0CnfVSPIT",
+          "type": "photo",
+          "id_str": "727602400945672194"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 20:55:05 +0000 2016",
+    "id": 727602401612533761,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 1,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "media": [
+        {
+          "indices": [
+            118,
+            141
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/Chj2h1YWkAIKKmR.jpg",
+          "id": 727602400945672194,
+          "expanded_url": "http://twitter.com/RepRubenGallego/status/727602401612533761/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 600,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 340,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 859,
+              "w": 859,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/h0CnfVSPIT",
+          "media_url": "http://pbs.twimg.com/media/Chj2h1YWkAIKKmR.jpg",
+          "url": "https://t.co/h0CnfVSPIT",
+          "type": "photo",
+          "id_str": "727602400945672194"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            22,
+            27
+          ],
+          "text": "AZ07"
+        },
+        {
+          "indices": [
+            94,
+            117
+          ],
+          "text": "TeacherAppreciationDay"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "Thanks to teachers in #AZ07 &amp; across the country who dedicate their lives to our children #TeacherAppreciationDay https://t.co/h0CnfVSPIT",
+    "favorite_count": 4,
+    "possibly_sensitive": false,
+    "id_str": "727602401612533761",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/isis6YaDPG",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://rubengallego.house.gov",
+          "display_url": "rubengallego.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/2966570782/1437441430",
+  "name": "Ruben Gallego",
+  "is_translator": false,
+  "time_zone": "Pacific Time (US & Canada)",
+  "id_str": "2966570782"
+}

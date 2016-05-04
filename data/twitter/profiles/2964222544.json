@@ -1,0 +1,212 @@
+{
+  "url": "http://t.co/RPDLpARNAe",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "statuses_count": 871,
+  "is_translation_enabled": true,
+  "location": "Nevada, USA",
+  "favourites_count": 96,
+  "listed_count": 150,
+  "profile_text_color": "333333",
+  "description": "Proudly representing Nevada's 4th Congressional District",
+  "followers_count": 2255,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/552515282728521729/bazgL2JV_normal.jpeg",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -14400,
+  "profile_background_color": "C0DEED",
+  "friends_count": 403,
+  "profile_link_color": "0084B4",
+  "default_profile": true,
+  "created_at": "Tue Jan 06 14:08:31 +0000 2015",
+  "following": false,
+  "id": 2964222544,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/552515282728521729/bazgL2JV_normal.jpeg",
+  "screen_name": "RepHardy",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "extended_entities": {
+      "media": [
+        {
+          "indices": [
+            117,
+            140
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/ChkAjNAXEAAnn3e.jpg",
+          "id": 727613419583639552,
+          "expanded_url": "http://twitter.com/RepHardy/status/727613422553157632/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 404,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 229,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 690,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/gI2CwJRQ47",
+          "media_url": "http://pbs.twimg.com/media/ChkAjNAXEAAnn3e.jpg",
+          "url": "https://t.co/gI2CwJRQ47",
+          "type": "photo",
+          "id_str": "727613419583639552"
+        },
+        {
+          "indices": [
+            117,
+            140
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/ChkAiyFWUAA8RYV.jpg",
+          "id": 727613412356804608,
+          "expanded_url": "http://twitter.com/RepHardy/status/727613422553157632/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 399,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 226,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 681,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/gI2CwJRQ47",
+          "media_url": "http://pbs.twimg.com/media/ChkAiyFWUAA8RYV.jpg",
+          "url": "https://t.co/gI2CwJRQ47",
+          "type": "photo",
+          "id_str": "727613412356804608"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 21:38:52 +0000 2016",
+    "id": 727613422553157632,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 1,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "media": [
+        {
+          "indices": [
+            117,
+            140
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/ChkAjNAXEAAnn3e.jpg",
+          "id": 727613419583639552,
+          "expanded_url": "http://twitter.com/RepHardy/status/727613422553157632/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 404,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 229,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 690,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/gI2CwJRQ47",
+          "media_url": "http://pbs.twimg.com/media/ChkAjNAXEAAnn3e.jpg",
+          "url": "https://t.co/gI2CwJRQ47",
+          "type": "photo",
+          "id_str": "727613419583639552"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            111,
+            116
+          ],
+          "text": "NV04"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "Congrats to students who participated in the 2016 Art Competition. Thanks for sharing your incredible artwork! #NV04 https://t.co/gI2CwJRQ47",
+    "favorite_count": 1,
+    "possibly_sensitive": false,
+    "id_str": "727613422553157632",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/RPDLpARNAe",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://hardy.house.gov",
+          "display_url": "hardy.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/2964222544/1446734903",
+  "name": "Rep. Cresent Hardy",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "2964222544"
+}

@@ -1,0 +1,104 @@
+{
+  "url": "https://t.co/IR7Ky4qOaO",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/159646768/New_Twitter_Test_h.png",
+  "statuses_count": 5975,
+  "is_translation_enabled": false,
+  "location": "Ohio",
+  "favourites_count": 84,
+  "listed_count": 2037,
+  "profile_text_color": "000000",
+  "description": "United States Senator from the Buckeye State.",
+  "followers_count": 51266,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/494254882728071168/tDV7lz9j_normal.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/159646768/New_Twitter_Test_h.png",
+  "notifications": false,
+  "profile_sidebar_fill_color": "FFFFFF",
+  "utc_offset": -14400,
+  "profile_background_color": "0074DB",
+  "friends_count": 1999,
+  "profile_link_color": "106CB7",
+  "default_profile": false,
+  "created_at": "Mon Jan 12 20:56:42 +0000 2009",
+  "following": false,
+  "id": 18915145,
+  "has_extended_profile": false,
+  "profile_use_background_image": false,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/494254882728071168/tDV7lz9j_normal.jpeg",
+  "screen_name": "senrobportman",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 21:53:03 +0000 2016",
+    "id": 727616989749895168,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 3,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            114,
+            123
+          ],
+          "text": "smallbiz"
+        },
+        {
+          "indices": [
+            125,
+            139
+          ],
+          "text": "DreamSmallBiz"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "More than 28mil small businesses form backbone of our economy. I will continue to fight for reforms that help our #smallbiz. #DreamSmallBiz",
+    "favorite_count": 8,
+    "id_str": "727616989749895168",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "https://t.co/IR7Ky4qOaO",
+          "indices": [
+            0,
+            23
+          ],
+          "expanded_url": "http://portman.senate.gov",
+          "display_url": "portman.senate.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "26C905",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/18915145/1452004224",
+  "name": "Rob Portman",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "18915145"
+}

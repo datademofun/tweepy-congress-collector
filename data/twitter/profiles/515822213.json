@@ -1,0 +1,295 @@
+{
+  "url": "http://t.co/G4S7FHr0Od",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/447547788/x58a761bd8b99e2827bcd7c9fe3e13aa.jpg",
+  "statuses_count": 1824,
+  "is_translation_enabled": false,
+  "location": "Montana",
+  "favourites_count": 85,
+  "listed_count": 364,
+  "profile_text_color": "544D3D",
+  "description": "Third-generation Montana farmer. Proud grandfather. Former school teacher. Flattop icon. Trumpet player. Montana's senior Senator.",
+  "followers_count": 5971,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/459705456974237696/LRM-CeY8_normal.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/447547788/x58a761bd8b99e2827bcd7c9fe3e13aa.jpg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "BE9658",
+  "utc_offset": -14400,
+  "profile_background_color": "0C0203",
+  "friends_count": 872,
+  "profile_link_color": "FA610F",
+  "default_profile": false,
+  "created_at": "Mon Mar 05 20:13:29 +0000 2012",
+  "following": false,
+  "id": 515822213,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/459705456974237696/LRM-CeY8_normal.jpeg",
+  "screen_name": "SenatorTester",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "extended_entities": {
+      "media": [
+        {
+          "url": "https://t.co/MRnmeQU9eG",
+          "media_url_https": "https://pbs.twimg.com/media/Chj8YNIVAAAaTQh.jpg",
+          "id": 727608832591986688,
+          "display_url": "pic.twitter.com/MRnmeQU9eG",
+          "source_user_id": 1342861723,
+          "source_status_id": 727608833527324672,
+          "type": "photo",
+          "indices": [
+            123,
+            140
+          ],
+          "expanded_url": "http://twitter.com/SecretaryJewell/status/727608833527324672/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 400,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 227,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 683,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "media_url": "http://pbs.twimg.com/media/Chj8YNIVAAAaTQh.jpg",
+          "source_user_id_str": "1342861723",
+          "source_status_id_str": "727608833527324672",
+          "id_str": "727608832591986688"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 21:58:32 +0000 2016",
+    "id": 727618369470517248,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 108,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "media": [
+        {
+          "url": "https://t.co/MRnmeQU9eG",
+          "media_url_https": "https://pbs.twimg.com/media/Chj8YNIVAAAaTQh.jpg",
+          "id": 727608832591986688,
+          "display_url": "pic.twitter.com/MRnmeQU9eG",
+          "source_user_id": 1342861723,
+          "source_status_id": 727608833527324672,
+          "type": "photo",
+          "indices": [
+            123,
+            140
+          ],
+          "expanded_url": "http://twitter.com/SecretaryJewell/status/727608833527324672/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 400,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 227,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 683,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "media_url": "http://pbs.twimg.com/media/Chj8YNIVAAAaTQh.jpg",
+          "source_user_id_str": "1342861723",
+          "source_status_id_str": "727608833527324672",
+          "id_str": "727608832591986688"
+        }
+      ],
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            19
+          ],
+          "screen_name": "SecretaryJewell",
+          "id": 1342861723,
+          "id_str": "1342861723",
+          "name": "Sally Jewell"
+        }
+      ]
+    },
+    "text": "RT @SecretaryJewell: Today is a huge milestone in restoring tribal homelands to Blackfeet Nation for future generations.SJ https://t.co/MRn\u2026",
+    "favorite_count": 0,
+    "possibly_sensitive": false,
+    "id_str": "727618369470517248",
+    "retweeted_status": {
+      "extended_entities": {
+        "media": [
+          {
+            "indices": [
+              102,
+              125
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/Chj8YNIVAAAaTQh.jpg",
+            "id": 727608832591986688,
+            "expanded_url": "http://twitter.com/SecretaryJewell/status/727608833527324672/photo/1",
+            "sizes": {
+              "medium": {
+                "h": 400,
+                "w": 600,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 227,
+                "w": 340,
+                "resize": "fit"
+              },
+              "large": {
+                "h": 683,
+                "w": 1024,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "display_url": "pic.twitter.com/MRnmeQU9eG",
+            "media_url": "http://pbs.twimg.com/media/Chj8YNIVAAAaTQh.jpg",
+            "url": "https://t.co/MRnmeQU9eG",
+            "type": "photo",
+            "id_str": "727608832591986688"
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "place": null,
+      "in_reply_to_user_id": null,
+      "coordinates": null,
+      "truncated": false,
+      "in_reply_to_status_id_str": null,
+      "created_at": "Tue May 03 21:20:38 +0000 2016",
+      "id": 727608833527324672,
+      "favorited": false,
+      "geo": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_screen_name": null,
+      "retweet_count": 108,
+      "lang": "en",
+      "retweeted": false,
+      "entities": {
+        "media": [
+          {
+            "indices": [
+              102,
+              125
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/Chj8YNIVAAAaTQh.jpg",
+            "id": 727608832591986688,
+            "expanded_url": "http://twitter.com/SecretaryJewell/status/727608833527324672/photo/1",
+            "sizes": {
+              "medium": {
+                "h": 400,
+                "w": 600,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 227,
+                "w": 340,
+                "resize": "fit"
+              },
+              "large": {
+                "h": 683,
+                "w": 1024,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "display_url": "pic.twitter.com/MRnmeQU9eG",
+            "media_url": "http://pbs.twimg.com/media/Chj8YNIVAAAaTQh.jpg",
+            "url": "https://t.co/MRnmeQU9eG",
+            "type": "photo",
+            "id_str": "727608832591986688"
+          }
+        ],
+        "hashtags": [],
+        "urls": [],
+        "symbols": [],
+        "user_mentions": []
+      },
+      "text": "Today is a huge milestone in restoring tribal homelands to Blackfeet Nation for future generations.SJ https://t.co/MRnmeQU9eG",
+      "favorite_count": 212,
+      "possibly_sensitive": false,
+      "id_str": "727608833527324672",
+      "contributors": null
+    },
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/G4S7FHr0Od",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://tester.senate.gov",
+          "display_url": "tester.senate.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "D6BCAB",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/515822213/1398437265",
+  "name": "Senator Jon Tester",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "515822213"
+}

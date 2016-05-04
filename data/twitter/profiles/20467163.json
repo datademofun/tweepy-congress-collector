@@ -1,0 +1,194 @@
+{
+  "url": "http://t.co/Uq79SDySq2",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/196361282/bald_eagle_head_and_american_flag1.jpg",
+  "statuses_count": 1975,
+  "is_translation_enabled": false,
+  "location": "Florida's 16th District",
+  "favourites_count": 3,
+  "listed_count": 1126,
+  "profile_text_color": "000000",
+  "description": "U.S. Congressman",
+  "followers_count": 17557,
+  "profile_background_tile": true,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1734256376/headshot_normal.jpg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/196361282/bald_eagle_head_and_american_flag1.jpg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "D4C8C8",
+  "utc_offset": -14400,
+  "profile_background_color": "FFFFFF",
+  "friends_count": 11106,
+  "profile_link_color": "000AB4",
+  "default_profile": false,
+  "created_at": "Mon Feb 09 21:05:19 +0000 2009",
+  "following": false,
+  "id": 20467163,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1734256376/headshot_normal.jpg",
+  "screen_name": "VernBuchanan",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "extended_entities": {
+      "media": [
+        {
+          "indices": [
+            112,
+            135
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/Chiz8V9UUAEHH6n.jpg",
+          "id": 727529189088186369,
+          "expanded_url": "http://twitter.com/VernBuchanan/status/727529190199795713/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 397,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 225,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 678,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/OaIiwYtbxG",
+          "media_url": "http://pbs.twimg.com/media/Chiz8V9UUAEHH6n.jpg",
+          "url": "https://t.co/OaIiwYtbxG",
+          "type": "photo",
+          "id_str": "727529189088186369"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 16:04:10 +0000 2016",
+    "id": 727529190199795713,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 4,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "media": [
+        {
+          "indices": [
+            112,
+            135
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/Chiz8V9UUAEHH6n.jpg",
+          "id": 727529189088186369,
+          "expanded_url": "http://twitter.com/VernBuchanan/status/727529190199795713/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 397,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 225,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 678,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/OaIiwYtbxG",
+          "media_url": "http://pbs.twimg.com/media/Chiz8V9UUAEHH6n.jpg",
+          "url": "https://t.co/OaIiwYtbxG",
+          "type": "photo",
+          "id_str": "727529189088186369"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            37,
+            42
+          ],
+          "text": "Zika"
+        },
+        {
+          "indices": [
+            104,
+            111
+          ],
+          "text": "sayfie"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            5,
+            10
+          ],
+          "screen_name": "NASA",
+          "id": 11348282,
+          "id_str": "11348282",
+          "name": "NASA"
+        }
+      ]
+    },
+    "text": "This @NASA projection shows possible #Zika spread.\n\nVery scary - this is why full funding is necessary! #sayfie https://t.co/OaIiwYtbxG",
+    "favorite_count": 3,
+    "possibly_sensitive": false,
+    "id_str": "727529190199795713",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/Uq79SDySq2",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://buchanan.house.gov/",
+          "display_url": "buchanan.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "050505",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/20467163/1423601951",
+  "name": "Rep. Vern Buchanan",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "20467163"
+}

@@ -1,0 +1,173 @@
+{
+  "url": "https://t.co/wPfZolUQ4r",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/547065330338504704/-oIdiwL_.jpeg",
+  "statuses_count": 1254,
+  "is_translation_enabled": false,
+  "location": "",
+  "favourites_count": 175,
+  "listed_count": 163,
+  "profile_text_color": "000000",
+  "description": "Congresswoman. Educator. Artist.",
+  "followers_count": 2572,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/696878967744290816/UNJ4vKXq_normal.jpg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/547065330338504704/-oIdiwL_.jpeg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "000000",
+  "utc_offset": -14400,
+  "profile_background_color": "000000",
+  "friends_count": 712,
+  "profile_link_color": "3B94D9",
+  "default_profile": false,
+  "created_at": "Thu Dec 11 19:54:07 +0000 2014",
+  "following": false,
+  "id": 2916086925,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/696878967744290816/UNJ4vKXq_normal.jpg",
+  "screen_name": "RepAdams",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Mon May 02 13:57:01 +0000 2016",
+    "id": 727134805352189953,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 188,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            51,
+            58
+          ],
+          "text": "budget"
+        },
+        {
+          "indices": [
+            75,
+            80
+          ],
+          "text": "Zika"
+        },
+        {
+          "indices": [
+            102,
+            119
+          ],
+          "text": "FlintWaterCrisis"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            17
+          ],
+          "screen_name": "RepDebDingell",
+          "id": 2970279814,
+          "id_str": "2970279814",
+          "name": "Rep. Debbie Dingell"
+        }
+      ]
+    },
+    "text": "RT @RepDebDingell: Unacceptable House recessed w/o #budget vote, action on #Zika, opioid epidemic, OR #FlintWaterCrisis. Time to work toget\u2026",
+    "favorite_count": 0,
+    "id_str": "727134805352189953",
+    "retweeted_status": {
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "place": null,
+      "in_reply_to_user_id": null,
+      "coordinates": null,
+      "truncated": false,
+      "in_reply_to_status_id_str": null,
+      "created_at": "Mon May 02 12:35:57 +0000 2016",
+      "id": 727114403607367680,
+      "favorited": false,
+      "geo": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_screen_name": null,
+      "retweet_count": 188,
+      "lang": "en",
+      "retweeted": false,
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              32,
+              39
+            ],
+            "text": "budget"
+          },
+          {
+            "indices": [
+              56,
+              61
+            ],
+            "text": "Zika"
+          },
+          {
+            "indices": [
+              83,
+              100
+            ],
+            "text": "FlintWaterCrisis"
+          }
+        ],
+        "urls": [],
+        "symbols": [],
+        "user_mentions": []
+      },
+      "text": "Unacceptable House recessed w/o #budget vote, action on #Zika, opioid epidemic, OR #FlintWaterCrisis. Time to work together for American ppl",
+      "favorite_count": 155,
+      "id_str": "727114403607367680",
+      "contributors": null
+    },
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "https://t.co/wPfZolUQ4r",
+          "indices": [
+            0,
+            23
+          ],
+          "expanded_url": "http://adams.house.gov/",
+          "display_url": "adams.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "000000",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/2916086925/1419347081",
+  "name": "Alma S. Adams",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "2916086925"
+}

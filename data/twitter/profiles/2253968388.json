@@ -1,0 +1,174 @@
+{
+  "url": "http://t.co/u2pktSOk1E",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000164718229/vpmANG24.jpeg",
+  "statuses_count": 6335,
+  "is_translation_enabled": false,
+  "location": "Southwest Alabama",
+  "favourites_count": 384,
+  "listed_count": 303,
+  "profile_text_color": "333333",
+  "description": "I am proud to represent Alabama's First Congressional District in the U.S. House of Representatives.",
+  "followers_count": 6867,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/636897604366942209/ycf3O_zg_normal.jpg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000164718229/vpmANG24.jpeg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -10800,
+  "profile_background_color": "020A63",
+  "friends_count": 2616,
+  "profile_link_color": "FA0505",
+  "default_profile": false,
+  "created_at": "Thu Dec 19 19:42:18 +0000 2013",
+  "following": false,
+  "id": 2253968388,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/636897604366942209/ycf3O_zg_normal.jpg",
+  "screen_name": "RepByrne",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 21:01:13 +0000 2016",
+    "id": 727603945124864000,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 7,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/SGz5UrvgwV",
+          "indices": [
+            125,
+            140
+          ],
+          "expanded_url": "https://twitter.com/UTCAeroSystems/status/727529272844386304",
+          "display_url": "twitter.com/UTCAeroSystems\u2026"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            17
+          ],
+          "screen_name": "AirbusInTheUS",
+          "id": 186514697,
+          "id_str": "186514697",
+          "name": "Airbus In the U.S."
+        },
+        {
+          "indices": [
+            35,
+            50
+          ],
+          "screen_name": "UTCAeroSystems",
+          "id": 515852276,
+          "id_str": "515852276",
+          "name": "UTC AerospaceSystems"
+        }
+      ]
+    },
+    "text": "RT @AirbusInTheUS: Congratulations @UTCAeroSystems on your Foley AL expansion! More great news for Gulf Coast aerospace hub! https://t.co/S\u2026",
+    "favorite_count": 0,
+    "possibly_sensitive": false,
+    "id_str": "727603945124864000",
+    "retweeted_status": {
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "quoted_status_id_str": "727529272844386304",
+      "quoted_status_id": 727529272844386304,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": true,
+      "place": null,
+      "in_reply_to_user_id": null,
+      "coordinates": null,
+      "truncated": false,
+      "in_reply_to_status_id_str": null,
+      "created_at": "Tue May 03 17:45:39 +0000 2016",
+      "id": 727554730105425922,
+      "favorited": false,
+      "geo": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_screen_name": null,
+      "retweet_count": 7,
+      "lang": "en",
+      "retweeted": false,
+      "entities": {
+        "hashtags": [],
+        "urls": [
+          {
+            "url": "https://t.co/SGz5UrvgwV",
+            "indices": [
+              106,
+              129
+            ],
+            "expanded_url": "https://twitter.com/UTCAeroSystems/status/727529272844386304",
+            "display_url": "twitter.com/UTCAeroSystems\u2026"
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "indices": [
+              16,
+              31
+            ],
+            "screen_name": "UTCAeroSystems",
+            "id": 515852276,
+            "id_str": "515852276",
+            "name": "UTC AerospaceSystems"
+          }
+        ]
+      },
+      "text": "Congratulations @UTCAeroSystems on your Foley AL expansion! More great news for Gulf Coast aerospace hub! https://t.co/SGz5UrvgwV",
+      "favorite_count": 19,
+      "possibly_sensitive": false,
+      "id_str": "727554730105425922",
+      "contributors": null
+    },
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/u2pktSOk1E",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://byrne.house.gov",
+          "display_url": "byrne.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/2253968388/1436476540",
+  "name": "Rep. Bradley Byrne",
+  "is_translator": false,
+  "time_zone": "Atlantic Time (Canada)",
+  "id_str": "2253968388"
+}

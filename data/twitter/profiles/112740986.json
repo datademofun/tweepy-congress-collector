@@ -1,0 +1,97 @@
+{
+  "url": "http://t.co/SLDLcEvDEk",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/214894256/Dairy_Farm_at_Sunset.jpg",
+  "statuses_count": 941,
+  "is_translation_enabled": false,
+  "location": "Washington, DC",
+  "favourites_count": 2,
+  "listed_count": 651,
+  "profile_text_color": "1F1F1F",
+  "description": "Member of the U.S. House of Representatives from Wisconsin's Third Congressional District.",
+  "followers_count": 7754,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1347275814/2010-04-23_normal.jpg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/214894256/Dairy_Farm_at_Sunset.jpg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "D4D4A5",
+  "utc_offset": -18000,
+  "profile_background_color": "FFFFFF",
+  "friends_count": 553,
+  "profile_link_color": "CC0000",
+  "default_profile": false,
+  "created_at": "Tue Feb 09 15:14:02 +0000 2010",
+  "following": false,
+  "id": 112740986,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1347275814/2010-04-23_normal.jpg",
+  "screen_name": "RepRonKind",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Mon May 02 14:00:07 +0000 2016",
+    "id": 727135584091693056,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 4,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            126,
+            133
+          ],
+          "text": "CAAP16"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "Students shouldn\u2019t be the ones funding government operations. Proud my College Affordability Action Plan puts students first. #CAAP16",
+    "favorite_count": 2,
+    "id_str": "727135584091693056",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/SLDLcEvDEk",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://www.kind.house.gov",
+          "display_url": "kind.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "000000",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/112740986/1361458878",
+  "name": "Rep. Ron Kind",
+  "is_translator": false,
+  "time_zone": "Central Time (US & Canada)",
+  "id_str": "112740986"
+}

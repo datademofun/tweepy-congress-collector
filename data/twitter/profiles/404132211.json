@@ -1,0 +1,102 @@
+{
+  "url": "http://t.co/2eHh43tMLB",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "statuses_count": 4120,
+  "is_translation_enabled": false,
+  "location": "Washington's 2nd District",
+  "favourites_count": 57,
+  "listed_count": 453,
+  "profile_text_color": "333333",
+  "description": "Born and raised in Arlington, Wash.\r\nRanking Member, Aviation Subcommittee",
+  "followers_count": 6191,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000053920474/f062c789d4bb0d812a48107cce97c6d5_normal.jpeg",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -14400,
+  "profile_background_color": "C0DEED",
+  "friends_count": 1435,
+  "profile_link_color": "0084B4",
+  "default_profile": true,
+  "created_at": "Thu Nov 03 13:59:42 +0000 2011",
+  "following": false,
+  "id": 404132211,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/378800000053920474/f062c789d4bb0d812a48107cce97c6d5_normal.jpeg",
+  "screen_name": "RepRickLarsen",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "quoted_status_id_str": "726063495897292800",
+    "quoted_status_id": 726063495897292800,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 02:35:59 +0000 2016",
+    "id": 727325804149923840,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 2,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/dKhxt4A9mj",
+          "indices": [
+            103,
+            126
+          ],
+          "expanded_url": "https://twitter.com/united/status/726063495897292800",
+          "display_url": "twitter.com/united/status/\u2026"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "Can't wait to see it on the plane! Great safety video! (First on list of things thought I'd never say) https://t.co/dKhxt4A9mj",
+    "favorite_count": 1,
+    "possibly_sensitive": false,
+    "id_str": "727325804149923840",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/2eHh43tMLB",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://larsen.house.gov",
+          "display_url": "larsen.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/404132211/1365625831",
+  "name": "Rep. Rick Larsen",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "404132211"
+}

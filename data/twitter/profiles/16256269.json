@@ -1,0 +1,89 @@
+{
+  "url": "http://t.co/v3FwVSsRH1",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/80116415/Foxx_Twitter_Template_4.JPG",
+  "statuses_count": 3040,
+  "is_translation_enabled": false,
+  "location": "Banner Elk, NC",
+  "favourites_count": 10,
+  "listed_count": 1161,
+  "profile_text_color": "333333",
+  "description": "Congresswoman Virginia Foxx. Conservative representing North Carolina's Fifth District.",
+  "followers_count": 14022,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/729994660/Foxx_Official_Headshot_-_web_normal.JPG",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/80116415/Foxx_Twitter_Template_4.JPG",
+  "notifications": false,
+  "profile_sidebar_fill_color": "EAEBFC",
+  "utc_offset": -14400,
+  "profile_background_color": "EBEBEB",
+  "friends_count": 1380,
+  "profile_link_color": "4A3DE0",
+  "default_profile": false,
+  "created_at": "Fri Sep 12 13:30:07 +0000 2008",
+  "following": false,
+  "id": 16256269,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/729994660/Foxx_Official_Headshot_-_web_normal.JPG",
+  "screen_name": "virginiafoxx",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 16:05:46 +0000 2016",
+    "id": 727529595075977216,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 0,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "Congratulations to Mary C. from RJ Reynolds High School for winning the 2016 Congressional Art Competition representing NC's 5th District.",
+    "favorite_count": 4,
+    "id_str": "727529595075977216",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/v3FwVSsRH1",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://www.foxx.house.gov",
+          "display_url": "foxx.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "C0C2D6",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/16256269/1416439349",
+  "name": "Virginia Foxx",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "16256269"
+}

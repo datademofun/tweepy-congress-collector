@@ -1,0 +1,219 @@
+{
+  "url": "https://t.co/vrYdw3pvSS",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/553253815797825536/dnefluSF.jpeg",
+  "statuses_count": 2088,
+  "is_translation_enabled": false,
+  "location": "Van Meter, Iowa",
+  "favourites_count": 158,
+  "listed_count": 151,
+  "profile_text_color": "333333",
+  "description": "Official account of U.S. Congressman David Young, proudly representing all the people in Iowa's 3rd Congressional District. #IA03",
+  "followers_count": 3348,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/601351700960681984/vtK6KHeo_normal.jpg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/553253815797825536/dnefluSF.jpeg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -18000,
+  "profile_background_color": "022330",
+  "friends_count": 706,
+  "profile_link_color": "0084B4",
+  "default_profile": false,
+  "created_at": "Thu Jun 09 21:48:45 +0000 2011",
+  "following": false,
+  "id": 314205957,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/601351700960681984/vtK6KHeo_normal.jpg",
+  "screen_name": "RepDavidYoung",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "extended_entities": {
+      "media": [
+        {
+          "indices": [
+            118,
+            141
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/Chj9N-yWEAAWQXi.jpg",
+          "id": 727609756454621184,
+          "expanded_url": "http://twitter.com/RepDavidYoung/status/727609758161719296/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 450,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 255,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 768,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/8i4HsMHgdj",
+          "media_url": "http://pbs.twimg.com/media/Chj9N-yWEAAWQXi.jpg",
+          "url": "https://t.co/8i4HsMHgdj",
+          "type": "photo",
+          "id_str": "727609756454621184"
+        },
+        {
+          "indices": [
+            118,
+            141
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/Chj9N_nWUAA6qj1.jpg",
+          "id": 727609756676935680,
+          "expanded_url": "http://twitter.com/RepDavidYoung/status/727609758161719296/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 450,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 255,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 768,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/8i4HsMHgdj",
+          "media_url": "http://pbs.twimg.com/media/Chj9N_nWUAA6qj1.jpg",
+          "url": "https://t.co/8i4HsMHgdj",
+          "type": "photo",
+          "id_str": "727609756676935680"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 21:24:19 +0000 2016",
+    "id": 727609758161719296,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 1,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "media": [
+        {
+          "indices": [
+            118,
+            141
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/Chj9N-yWEAAWQXi.jpg",
+          "id": 727609756454621184,
+          "expanded_url": "http://twitter.com/RepDavidYoung/status/727609758161719296/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 450,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 255,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 768,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/8i4HsMHgdj",
+          "media_url": "http://pbs.twimg.com/media/Chj9N-yWEAAWQXi.jpg",
+          "url": "https://t.co/8i4HsMHgdj",
+          "type": "photo",
+          "id_str": "727609756454621184"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            94,
+            99
+          ],
+          "text": "IA03"
+        },
+        {
+          "indices": [
+            100,
+            117
+          ],
+          "text": "SmallBizWeek2016"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "Great visit to Corning! Met w/ business owners &amp; folks in town while touring Main Street. #IA03 #SmallBizWeek2016 https://t.co/8i4HsMHgdj",
+    "favorite_count": 1,
+    "possibly_sensitive": false,
+    "id_str": "727609758161719296",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "https://t.co/vrYdw3pvSS",
+          "indices": [
+            0,
+            23
+          ],
+          "expanded_url": "http://davidyoung.house.gov",
+          "display_url": "davidyoung.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/314205957/1447864209",
+  "name": "David Young",
+  "is_translator": false,
+  "time_zone": "Central Time (US & Canada)",
+  "id_str": "314205957"
+}

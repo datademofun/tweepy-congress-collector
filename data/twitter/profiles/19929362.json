@@ -1,0 +1,310 @@
+{
+  "url": "http://t.co/UcrfIiWGdl",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "statuses_count": 1643,
+  "is_translation_enabled": false,
+  "location": "Texas and Washington, DC",
+  "favourites_count": 14,
+  "listed_count": 1228,
+  "profile_text_color": "333333",
+  "description": "I represent the 6th Congressional District of Texas.",
+  "followers_count": 16676,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/74842115/Barton_Headshot_Small_normal.JPG",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -14400,
+  "profile_background_color": "C0DEED",
+  "friends_count": 141,
+  "profile_link_color": "0084B4",
+  "default_profile": true,
+  "created_at": "Mon Feb 02 20:30:20 +0000 2009",
+  "following": false,
+  "id": 19929362,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/74842115/Barton_Headshot_Small_normal.JPG",
+  "screen_name": "RepJoeBarton",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "extended_entities": {
+      "media": [
+        {
+          "url": "https://t.co/f7SC8kwbvC",
+          "media_url_https": "https://pbs.twimg.com/media/ChiwDqLUcAA7QMr.jpg",
+          "id": 727524916728197120,
+          "display_url": "pic.twitter.com/f7SC8kwbvC",
+          "source_user_id": 20990717,
+          "source_status_id": 727524920058466305,
+          "type": "photo",
+          "indices": [
+            139,
+            140
+          ],
+          "expanded_url": "http://twitter.com/CookChildrens/status/727524920058466305/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 450,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 255,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 768,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "media_url": "http://pbs.twimg.com/media/ChiwDqLUcAA7QMr.jpg",
+          "source_user_id_str": "20990717",
+          "source_status_id_str": "727524920058466305",
+          "id_str": "727524916728197120"
+        }
+      ]
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 17:22:07 +0000 2016",
+    "id": 727548809052622849,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 5,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "media": [
+        {
+          "url": "https://t.co/f7SC8kwbvC",
+          "media_url_https": "https://pbs.twimg.com/media/ChiwDqLUcAA7QMr.jpg",
+          "id": 727524916728197120,
+          "display_url": "pic.twitter.com/f7SC8kwbvC",
+          "source_user_id": 20990717,
+          "source_status_id": 727524920058466305,
+          "type": "photo",
+          "indices": [
+            139,
+            140
+          ],
+          "expanded_url": "http://twitter.com/CookChildrens/status/727524920058466305/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 450,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 255,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 768,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "media_url": "http://pbs.twimg.com/media/ChiwDqLUcAA7QMr.jpg",
+          "source_user_id_str": "20990717",
+          "source_status_id_str": "727524920058466305",
+          "id_str": "727524916728197120"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            87,
+            91
+          ],
+          "text": "ACE"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            17
+          ],
+          "screen_name": "CookChildrens",
+          "id": 20990717,
+          "id_str": "20990717",
+          "name": "Cook Children's"
+        }
+      ]
+    },
+    "text": "RT @CookChildrens: We're honored to have Congressman Joe Barton here to talk about the #ACE kids act which puts children first. https://t.c\u2026",
+    "favorite_count": 0,
+    "possibly_sensitive": false,
+    "id_str": "727548809052622849",
+    "retweeted_status": {
+      "extended_entities": {
+        "media": [
+          {
+            "indices": [
+              109,
+              132
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/ChiwDqLUcAA7QMr.jpg",
+            "id": 727524916728197120,
+            "expanded_url": "http://twitter.com/CookChildrens/status/727524920058466305/photo/1",
+            "sizes": {
+              "medium": {
+                "h": 450,
+                "w": 600,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 255,
+                "w": 340,
+                "resize": "fit"
+              },
+              "large": {
+                "h": 768,
+                "w": 1024,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "display_url": "pic.twitter.com/f7SC8kwbvC",
+            "media_url": "http://pbs.twimg.com/media/ChiwDqLUcAA7QMr.jpg",
+            "url": "https://t.co/f7SC8kwbvC",
+            "type": "photo",
+            "id_str": "727524916728197120"
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "place": null,
+      "in_reply_to_user_id": null,
+      "coordinates": null,
+      "truncated": false,
+      "in_reply_to_status_id_str": null,
+      "created_at": "Tue May 03 15:47:12 +0000 2016",
+      "id": 727524920058466305,
+      "favorited": false,
+      "geo": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_screen_name": null,
+      "retweet_count": 5,
+      "lang": "en",
+      "retweeted": false,
+      "entities": {
+        "media": [
+          {
+            "indices": [
+              109,
+              132
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/ChiwDqLUcAA7QMr.jpg",
+            "id": 727524916728197120,
+            "expanded_url": "http://twitter.com/CookChildrens/status/727524920058466305/photo/1",
+            "sizes": {
+              "medium": {
+                "h": 450,
+                "w": 600,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 255,
+                "w": 340,
+                "resize": "fit"
+              },
+              "large": {
+                "h": 768,
+                "w": 1024,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "display_url": "pic.twitter.com/f7SC8kwbvC",
+            "media_url": "http://pbs.twimg.com/media/ChiwDqLUcAA7QMr.jpg",
+            "url": "https://t.co/f7SC8kwbvC",
+            "type": "photo",
+            "id_str": "727524916728197120"
+          }
+        ],
+        "hashtags": [
+          {
+            "indices": [
+              68,
+              72
+            ],
+            "text": "ACE"
+          }
+        ],
+        "urls": [],
+        "symbols": [],
+        "user_mentions": []
+      },
+      "text": "We're honored to have Congressman Joe Barton here to talk about the #ACE kids act which puts children first. https://t.co/f7SC8kwbvC",
+      "favorite_count": 8,
+      "possibly_sensitive": false,
+      "id_str": "727524920058466305",
+      "contributors": null
+    },
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/UcrfIiWGdl",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://www.joebarton.house.gov",
+          "display_url": "joebarton.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "C0DEED",
+  "name": "Joe Barton",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "19929362"
+}

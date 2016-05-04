@@ -1,0 +1,107 @@
+{
+  "url": "http://t.co/yrYBXVxk6W",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000046557072/8ab5b7e5408f5cb71ca068703d3b2648.jpeg",
+  "statuses_count": 2524,
+  "is_translation_enabled": false,
+  "location": "Washington, DC",
+  "favourites_count": 221,
+  "listed_count": 634,
+  "profile_text_color": "333333",
+  "description": "Proud to represent the 7th Congressional District of Alabama\r\nhttps://t.co/xfWvIZSjrk",
+  "followers_count": 11827,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/553594393551060992/U4tjxIsq_normal.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000046557072/8ab5b7e5408f5cb71ca068703d3b2648.jpeg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "F3F3F3",
+  "utc_offset": null,
+  "profile_background_color": "0F18BD",
+  "friends_count": 1798,
+  "profile_link_color": "990000",
+  "default_profile": false,
+  "created_at": "Tue Sep 27 20:47:50 +0000 2011",
+  "following": false,
+  "id": 381152398,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/553594393551060992/U4tjxIsq_normal.jpeg",
+  "screen_name": "RepTerriSewell",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 19:45:13 +0000 2016",
+    "id": 727584818461061121,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 3,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            101,
+            116
+          ],
+          "text": "RestoreTheVote"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "Voting is not a privilege, it is a right for all Americans! It is the democratic duty of Congress to #RestoreTheVote Now!",
+    "favorite_count": 6,
+    "id_str": "727584818461061121",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/yrYBXVxk6W",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://sewell.house.gov",
+          "display_url": "sewell.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+        {
+          "url": "https://t.co/xfWvIZSjrk",
+          "indices": [
+            62,
+            85
+          ],
+          "expanded_url": "https://www.facebook.com/RepSewell",
+          "display_url": "facebook.com/RepSewell"
+        }
+      ]
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "000000",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/381152398/1451907705",
+  "name": "Rep. Terri A. Sewell",
+  "is_translator": false,
+  "time_zone": null,
+  "id_str": "381152398"
+}

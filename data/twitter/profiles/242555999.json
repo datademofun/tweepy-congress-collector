@@ -1,0 +1,189 @@
+{
+  "url": "http://t.co/z6NYBzbPgY",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/224586505/twitter_bckrd3.jpg",
+  "statuses_count": 3307,
+  "is_translation_enabled": false,
+  "location": "Rhode Island",
+  "favourites_count": 30,
+  "listed_count": 1380,
+  "profile_text_color": "333333",
+  "description": "U.S. Senator from #RhodeIsland, the Ocean State. Follows, RTs \u2260 endorsement, but I look forward to listening to you.",
+  "followers_count": 26683,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000051321410/55ff7ed4f6264c8eec19a81a66be6bb0_normal.png",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/224586505/twitter_bckrd3.jpg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -14400,
+  "profile_background_color": "7B91AA",
+  "friends_count": 1423,
+  "profile_link_color": "0084B4",
+  "default_profile": false,
+  "created_at": "Tue Jan 25 01:52:03 +0000 2011",
+  "following": false,
+  "id": 242555999,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/378800000051321410/55ff7ed4f6264c8eec19a81a66be6bb0_normal.png",
+  "screen_name": "SenWhitehouse",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "extended_entities": {
+      "media": [
+        {
+          "indices": [
+            121,
+            144
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/Chj85a2WUAAhgsx.jpg",
+          "id": 727609403210354688,
+          "expanded_url": "http://twitter.com/SenWhitehouse/status/727609404187643904/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 600,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 340,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 1024,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/oiwvB35Iwa",
+          "media_url": "http://pbs.twimg.com/media/Chj85a2WUAAhgsx.jpg",
+          "url": "https://t.co/oiwvB35Iwa",
+          "type": "photo",
+          "id_str": "727609403210354688"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 21:22:54 +0000 2016",
+    "id": 727609404187643904,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 2,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "media": [
+        {
+          "indices": [
+            121,
+            144
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/Chj85a2WUAAhgsx.jpg",
+          "id": 727609403210354688,
+          "expanded_url": "http://twitter.com/SenWhitehouse/status/727609404187643904/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 600,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 340,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 1024,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/oiwvB35Iwa",
+          "media_url": "http://pbs.twimg.com/media/Chj85a2WUAAhgsx.jpg",
+          "url": "https://t.co/oiwvB35Iwa",
+          "type": "photo",
+          "id_str": "727609403210354688"
+        }
+      ],
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/L8J0KNBsGy",
+          "indices": [
+            97,
+            120
+          ],
+          "expanded_url": "http://www.dayoneri.org/task-force/index.html",
+          "display_url": "dayoneri.org/task-force/ind\u2026"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            7,
+            16
+          ],
+          "screen_name": "dayoneri",
+          "id": 312629392,
+          "id_str": "312629392",
+          "name": "Day One Rhode Island"
+        }
+      ]
+    },
+    "text": "Joined @dayoneri &amp; RI's sexual assault task force today for launch of FAQs to help survivors https://t.co/L8J0KNBsGy https://t.co/oiwvB35Iwa",
+    "favorite_count": 5,
+    "possibly_sensitive": false,
+    "id_str": "727609404187643904",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/z6NYBzbPgY",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://whitehouse.senate.gov/",
+          "display_url": "whitehouse.senate.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/242555999/1401396404",
+  "name": "Sheldon Whitehouse",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "242555999"
+}

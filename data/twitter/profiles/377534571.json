@@ -1,0 +1,316 @@
+{
+  "url": "http://t.co/KnSJ3TPDYS",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/665210392256364544/J7zo7hkd.jpg",
+  "statuses_count": 778,
+  "is_translation_enabled": false,
+  "location": "United States Capitol",
+  "favourites_count": 24,
+  "listed_count": 447,
+  "profile_text_color": "000000",
+  "description": "Tweets from the press shop of US Rep. Mac Thornberry. Mac serves the 13th District of TX, which spans from Amarillo to Wichita Falls & is larger than 13 states.",
+  "followers_count": 5089,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1553468483/Copy_of_2007.12.04_001_SLR_normal.jpg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/665210392256364544/J7zo7hkd.jpg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "000000",
+  "utc_offset": -14400,
+  "profile_background_color": "022330",
+  "friends_count": 934,
+  "profile_link_color": "0084B4",
+  "default_profile": false,
+  "created_at": "Wed Sep 21 18:42:06 +0000 2011",
+  "following": false,
+  "id": 377534571,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1553468483/Copy_of_2007.12.04_001_SLR_normal.jpg",
+  "screen_name": "MacTXPress",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "extended_entities": {
+      "media": [
+        {
+          "url": "https://t.co/zylLo1GecW",
+          "media_url_https": "https://pbs.twimg.com/media/ChJn3aWW0AAKs7G.jpg",
+          "id": 725756691623628800,
+          "display_url": "pic.twitter.com/zylLo1GecW",
+          "source_user_id": 15751083,
+          "source_status_id": 725756697076219905,
+          "type": "photo",
+          "indices": [
+            139,
+            140
+          ],
+          "expanded_url": "http://twitter.com/michaelcburgess/status/725756697076219905/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 800,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 453,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 1365,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "media_url": "http://pbs.twimg.com/media/ChJn3aWW0AAKs7G.jpg",
+          "source_user_id_str": "15751083",
+          "source_status_id_str": "725756697076219905",
+          "id_str": "725756691623628800"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Thu Apr 28 18:42:02 +0000 2016",
+    "id": 725756979596124160,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 1,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "media": [
+        {
+          "url": "https://t.co/zylLo1GecW",
+          "media_url_https": "https://pbs.twimg.com/media/ChJn3aWW0AAKs7G.jpg",
+          "id": 725756691623628800,
+          "display_url": "pic.twitter.com/zylLo1GecW",
+          "source_user_id": 15751083,
+          "source_status_id": 725756697076219905,
+          "type": "photo",
+          "indices": [
+            139,
+            140
+          ],
+          "expanded_url": "http://twitter.com/michaelcburgess/status/725756697076219905/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 800,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 453,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 1365,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "media_url": "http://pbs.twimg.com/media/ChJn3aWW0AAKs7G.jpg",
+          "source_user_id_str": "15751083",
+          "source_status_id_str": "725756697076219905",
+          "id_str": "725756691623628800"
+        }
+      ],
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            19
+          ],
+          "screen_name": "michaelcburgess",
+          "id": 15751083,
+          "id_str": "15751083",
+          "name": "Michael Burgess, MD"
+        },
+        {
+          "indices": [
+            54,
+            65
+          ],
+          "screen_name": "MacTXPress",
+          "id": 377534571,
+          "id_str": "377534571",
+          "name": "Mac Thornberry Press"
+        }
+      ]
+    },
+    "text": "RT @michaelcburgess: Thanks to fellow Texan, Chairman @MacTXPress for joining the Denton County Chamber to discuss our nat'l security. http\u2026",
+    "favorite_count": 0,
+    "possibly_sensitive": false,
+    "id_str": "725756979596124160",
+    "retweeted_status": {
+      "extended_entities": {
+        "media": [
+          {
+            "indices": [
+              114,
+              137
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/ChJn3aWW0AAKs7G.jpg",
+            "id": 725756691623628800,
+            "expanded_url": "http://twitter.com/michaelcburgess/status/725756697076219905/photo/1",
+            "sizes": {
+              "medium": {
+                "h": 800,
+                "w": 600,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 453,
+                "w": 340,
+                "resize": "fit"
+              },
+              "large": {
+                "h": 1365,
+                "w": 1024,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "display_url": "pic.twitter.com/zylLo1GecW",
+            "media_url": "http://pbs.twimg.com/media/ChJn3aWW0AAKs7G.jpg",
+            "url": "https://t.co/zylLo1GecW",
+            "type": "photo",
+            "id_str": "725756691623628800"
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "place": null,
+      "in_reply_to_user_id": null,
+      "coordinates": null,
+      "truncated": false,
+      "in_reply_to_status_id_str": null,
+      "created_at": "Thu Apr 28 18:40:55 +0000 2016",
+      "id": 725756697076219905,
+      "favorited": false,
+      "geo": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_screen_name": null,
+      "retweet_count": 1,
+      "lang": "en",
+      "retweeted": false,
+      "entities": {
+        "media": [
+          {
+            "indices": [
+              114,
+              137
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/ChJn3aWW0AAKs7G.jpg",
+            "id": 725756691623628800,
+            "expanded_url": "http://twitter.com/michaelcburgess/status/725756697076219905/photo/1",
+            "sizes": {
+              "medium": {
+                "h": 800,
+                "w": 600,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 453,
+                "w": 340,
+                "resize": "fit"
+              },
+              "large": {
+                "h": 1365,
+                "w": 1024,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "display_url": "pic.twitter.com/zylLo1GecW",
+            "media_url": "http://pbs.twimg.com/media/ChJn3aWW0AAKs7G.jpg",
+            "url": "https://t.co/zylLo1GecW",
+            "type": "photo",
+            "id_str": "725756691623628800"
+          }
+        ],
+        "hashtags": [],
+        "urls": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "indices": [
+              33,
+              44
+            ],
+            "screen_name": "MacTXPress",
+            "id": 377534571,
+            "id_str": "377534571",
+            "name": "Mac Thornberry Press"
+          }
+        ]
+      },
+      "text": "Thanks to fellow Texan, Chairman @MacTXPress for joining the Denton County Chamber to discuss our nat'l security. https://t.co/zylLo1GecW",
+      "favorite_count": 2,
+      "possibly_sensitive": false,
+      "id_str": "725756697076219905",
+      "contributors": null
+    },
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/KnSJ3TPDYS",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://thornberry.house.gov/",
+          "display_url": "thornberry.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "000000",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/377534571/1368800769",
+  "name": "Mac Thornberry Press",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "377534571"
+}

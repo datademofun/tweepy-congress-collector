@@ -1,0 +1,89 @@
+{
+  "url": "http://t.co/fzmg1jqrSU",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "statuses_count": 4484,
+  "is_translation_enabled": false,
+  "location": "Baltimore, MD/Washington DC",
+  "favourites_count": 50,
+  "listed_count": 1957,
+  "profile_text_color": "333333",
+  "description": "U.S. Senator for Maryland",
+  "followers_count": 43024,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000022234700/36ab4124ca43bb8a96b1c26c32c55ddf_normal.jpeg",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -18000,
+  "profile_background_color": "C0DEED",
+  "friends_count": 225,
+  "profile_link_color": "0084B4",
+  "default_profile": true,
+  "created_at": "Mon Apr 12 20:06:38 +0000 2010",
+  "following": false,
+  "id": 132278386,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/378800000022234700/36ab4124ca43bb8a96b1c26c32c55ddf_normal.jpeg",
+  "screen_name": "SenatorBarb",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 14:08:09 +0000 2016",
+    "id": 727499995302207488,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 3,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "I'll continue to fight for smart federal funding to protect our coastlines &amp; shores, on the side of MD communities &amp; jobs.",
+    "favorite_count": 15,
+    "id_str": "727499995302207488",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/fzmg1jqrSU",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://mikulski.senate.gov/",
+          "display_url": "mikulski.senate.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/132278386/1440096986",
+  "name": "Barbara Mikulski",
+  "is_translator": false,
+  "time_zone": "Quito",
+  "id_str": "132278386"
+}

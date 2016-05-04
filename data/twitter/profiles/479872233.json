@@ -1,0 +1,195 @@
+{
+  "url": "http://t.co/IujVp0da6v",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "statuses_count": 2190,
+  "is_translation_enabled": false,
+  "location": "",
+  "favourites_count": 22,
+  "listed_count": 404,
+  "profile_text_color": "333333",
+  "description": "Congresswoman Lucille Roybal-Allard, proudly representing the 40th District of California. Follow me at http://t.co/KjVfmF9CaM & http://t.co/Urj0zPAr8d.",
+  "followers_count": 5779,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/646679472578498561/DqbuKI-9_normal.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -14400,
+  "profile_background_color": "C1D9EB",
+  "friends_count": 1330,
+  "profile_link_color": "0084B4",
+  "default_profile": false,
+  "created_at": "Tue Jan 31 21:30:43 +0000 2012",
+  "following": false,
+  "id": 479872233,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/646679472578498561/DqbuKI-9_normal.png",
+  "screen_name": "RepRoybalAllard",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "extended_entities": {
+      "media": [
+        {
+          "indices": [
+            113,
+            136
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/Che6Ps-WgAIMPda.jpg",
+          "id": 727254643777110018,
+          "expanded_url": "http://twitter.com/RepRoybalAllard/status/727254644725022720/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 600,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 340,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 1024,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/AvJTUZcdn9",
+          "media_url": "http://pbs.twimg.com/media/Che6Ps-WgAIMPda.jpg",
+          "url": "https://t.co/AvJTUZcdn9",
+          "type": "photo",
+          "id_str": "727254643777110018"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Mon May 02 21:53:13 +0000 2016",
+    "id": 727254644725022720,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 1,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "media": [
+        {
+          "indices": [
+            113,
+            136
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/Che6Ps-WgAIMPda.jpg",
+          "id": 727254643777110018,
+          "expanded_url": "http://twitter.com/RepRoybalAllard/status/727254644725022720/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 600,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 340,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 1024,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/AvJTUZcdn9",
+          "media_url": "http://pbs.twimg.com/media/Che6Ps-WgAIMPda.jpg",
+          "url": "https://t.co/AvJTUZcdn9",
+          "type": "photo",
+          "id_str": "727254643777110018"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            87,
+            101
+          ],
+          "text": "ThankATeacher"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "This week, we celebrate all teachers for helping to shape bright futures. Make sure to #ThankATeacher every day! https://t.co/AvJTUZcdn9",
+    "favorite_count": 14,
+    "possibly_sensitive": false,
+    "id_str": "727254644725022720",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/IujVp0da6v",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://www.roybal-allard.house.gov",
+          "display_url": "roybal-allard.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+        {
+          "url": "http://t.co/KjVfmF9CaM",
+          "indices": [
+            104,
+            126
+          ],
+          "expanded_url": "http://facebook.com/RepRoybalAllard",
+          "display_url": "facebook.com/RepRoybalAllard"
+        },
+        {
+          "url": "http://t.co/Urj0zPAr8d",
+          "indices": [
+            129,
+            151
+          ],
+          "expanded_url": "http://instagram.com/RepRoybalAllard",
+          "display_url": "instagram.com/RepRoybalAllard"
+        }
+      ]
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/479872233/1400870947",
+  "name": "Rep. Roybal-Allard",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "479872233"
+}

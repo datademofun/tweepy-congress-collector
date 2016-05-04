@@ -1,0 +1,97 @@
+{
+  "url": "http://t.co/ruU2CXhyLM",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "statuses_count": 6688,
+  "is_translation_enabled": false,
+  "location": "Brooklyn, NY",
+  "favourites_count": 2191,
+  "listed_count": 737,
+  "profile_text_color": "333333",
+  "description": "U.S. Representative proudly serving New York's 9th Congressional district. RT \u2260 endorsement.",
+  "followers_count": 13696,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1224689291/OFFICIAL_HEADSHOT_normal.JPG",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -25200,
+  "profile_background_color": "C0DEED",
+  "friends_count": 5979,
+  "profile_link_color": "0084B4",
+  "default_profile": true,
+  "created_at": "Thu Jan 20 20:14:21 +0000 2011",
+  "following": false,
+  "id": 240812994,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1224689291/OFFICIAL_HEADSHOT_normal.JPG",
+  "screen_name": "YvetteClarke",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 20:24:55 +0000 2016",
+    "id": 727594808903110656,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 2,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            65,
+            73
+          ],
+          "text": "CAC2016"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "Truly inspirational congratulations to all participants for this #CAC2016",
+    "favorite_count": 4,
+    "id_str": "727594808903110656",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/ruU2CXhyLM",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://www.clarke.house.gov",
+          "display_url": "clarke.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/240812994/1399929986",
+  "name": "Yvette D. Clarke",
+  "is_translator": false,
+  "time_zone": "Pacific Time (US & Canada)",
+  "id_str": "240812994"
+}

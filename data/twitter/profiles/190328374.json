@@ -1,0 +1,176 @@
+{
+  "url": "https://t.co/cRm0yQ6DOY",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/754267625/e78fd5a6cb58c066c39bc1b1f3f7120d.jpeg",
+  "statuses_count": 2880,
+  "is_translation_enabled": false,
+  "location": "Washington, DC",
+  "favourites_count": 90,
+  "listed_count": 665,
+  "profile_text_color": "10234D",
+  "description": "Conservative Republican representing Georgia's 14th Congressional District",
+  "followers_count": 11300,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/697880831755362304/HbtZ0s3R_normal.jpg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/754267625/e78fd5a6cb58c066c39bc1b1f3f7120d.jpeg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "A0B2BA",
+  "utc_offset": -14400,
+  "profile_background_color": "0D161F",
+  "friends_count": 2051,
+  "profile_link_color": "0084B4",
+  "default_profile": false,
+  "created_at": "Mon Sep 13 17:36:23 +0000 2010",
+  "following": false,
+  "id": 190328374,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/697880831755362304/HbtZ0s3R_normal.jpg",
+  "screen_name": "RepTomGraves",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "extended_entities": {
+      "media": [
+        {
+          "indices": [
+            13,
+            36
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/Chjj-kUWsAA6D2a.jpg",
+          "id": 727582003860779008,
+          "expanded_url": "http://twitter.com/RepTomGraves/status/727582005798572033/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 450,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 255,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 768,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/VEAEjYTtRW",
+          "media_url": "http://pbs.twimg.com/media/Chjj-kUWsAA6D2a.jpg",
+          "url": "https://t.co/VEAEjYTtRW",
+          "type": "photo",
+          "id_str": "727582003860779008"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 19:34:02 +0000 2016",
+    "id": 727582005798572033,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 0,
+    "lang": "und",
+    "retweeted": false,
+    "entities": {
+      "media": [
+        {
+          "indices": [
+            13,
+            36
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/Chjj-kUWsAA6D2a.jpg",
+          "id": 727582003860779008,
+          "expanded_url": "http://twitter.com/RepTomGraves/status/727582005798572033/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 450,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 255,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 768,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/VEAEjYTtRW",
+          "media_url": "http://pbs.twimg.com/media/Chjj-kUWsAA6D2a.jpg",
+          "url": "https://t.co/VEAEjYTtRW",
+          "type": "photo",
+          "id_str": "727582003860779008"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            0,
+            12
+          ],
+          "text": "FreeTheDome"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "#FreeTheDome https://t.co/VEAEjYTtRW",
+    "favorite_count": 2,
+    "possibly_sensitive": false,
+    "id_str": "727582005798572033",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "https://t.co/cRm0yQ6DOY",
+          "indices": [
+            0,
+            23
+          ],
+          "expanded_url": "http://tomgraves.house.gov/",
+          "display_url": "tomgraves.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/190328374/1458566925",
+  "name": "Tom Graves",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "190328374"
+}

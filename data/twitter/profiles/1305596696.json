@@ -1,0 +1,201 @@
+{
+  "url": "http://t.co/8rSbcnjMYw",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "statuses_count": 282,
+  "is_translation_enabled": false,
+  "location": "",
+  "favourites_count": 2,
+  "listed_count": 439,
+  "profile_text_color": "333333",
+  "description": "Representing California\u2019s 50th District",
+  "followers_count": 7320,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/564882935610740738/dfz9IbEK_normal.jpeg",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -10800,
+  "profile_background_color": "C0DEED",
+  "friends_count": 244,
+  "profile_link_color": "0084B4",
+  "default_profile": true,
+  "created_at": "Tue Mar 26 21:04:26 +0000 2013",
+  "following": false,
+  "id": 1305596696,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/564882935610740738/dfz9IbEK_normal.jpeg",
+  "screen_name": "Rep_Hunter",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Wed Mar 09 14:26:08 +0000 2016",
+    "id": 707573188117585920,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 99,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            66,
+            75
+          ],
+          "text": "Congress"
+        },
+        {
+          "indices": [
+            116,
+            128
+          ],
+          "text": "SgtMartland"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/awjAfQCpcH",
+          "indices": [
+            143,
+            144
+          ],
+          "expanded_url": "http://aclj.us/1M5Fhk5",
+          "display_url": "aclj.us/1M5Fhk5"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            14
+          ],
+          "screen_name": "JaySekulow",
+          "id": 171632862,
+          "id_str": "171632862",
+          "name": "Jay Sekulow"
+        },
+        {
+          "indices": [
+            17,
+            28
+          ],
+          "screen_name": "Rep_Hunter",
+          "id": 1305596696,
+          "id_str": "1305596696",
+          "name": "Rep. Duncan Hunter"
+        }
+      ]
+    },
+    "text": "RT @JaySekulow: .@Rep_Hunter set to introduce the MARTLAND Act in #Congress. Read &amp; RT to learn about latest in #SgtMartland's case: https:\u2026",
+    "favorite_count": 0,
+    "possibly_sensitive": false,
+    "id_str": "707573188117585920",
+    "retweeted_status": {
+      "source": "<a href=\"http://www.spredfast.com\" rel=\"nofollow\">Spredfast</a>",
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "place": null,
+      "in_reply_to_user_id": null,
+      "coordinates": null,
+      "truncated": false,
+      "in_reply_to_status_id_str": null,
+      "created_at": "Wed Mar 09 02:05:05 +0000 2016",
+      "id": 707386694589399040,
+      "favorited": false,
+      "geo": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_screen_name": null,
+      "retweet_count": 99,
+      "lang": "en",
+      "retweeted": false,
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              50,
+              59
+            ],
+            "text": "Congress"
+          },
+          {
+            "indices": [
+              100,
+              112
+            ],
+            "text": "SgtMartland"
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/awjAfQCpcH",
+            "indices": [
+              121,
+              144
+            ],
+            "expanded_url": "http://aclj.us/1M5Fhk5",
+            "display_url": "aclj.us/1M5Fhk5"
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "indices": [
+              1,
+              12
+            ],
+            "screen_name": "Rep_Hunter",
+            "id": 1305596696,
+            "id_str": "1305596696",
+            "name": "Rep. Duncan Hunter"
+          }
+        ]
+      },
+      "text": ".@Rep_Hunter set to introduce the MARTLAND Act in #Congress. Read &amp; RT to learn about latest in #SgtMartland's case: https://t.co/awjAfQCpcH",
+      "favorite_count": 107,
+      "possibly_sensitive": false,
+      "id_str": "707386694589399040",
+      "contributors": null
+    },
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/8rSbcnjMYw",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://hunter.house.gov/",
+          "display_url": "hunter.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "C0DEED",
+  "name": "Rep. Duncan Hunter",
+  "is_translator": false,
+  "time_zone": "Atlantic Time (Canada)",
+  "id_str": "1305596696"
+}

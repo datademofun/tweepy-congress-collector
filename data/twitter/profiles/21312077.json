@@ -1,0 +1,231 @@
+{
+  "url": "https://t.co/BQVfqAMdSD",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/139209082/HARLEM4.PNG",
+  "statuses_count": 6606,
+  "is_translation_enabled": false,
+  "location": "Washington DC",
+  "favourites_count": 811,
+  "listed_count": 1551,
+  "profile_text_color": "0D0B0B",
+  "description": "Member of the US Congress proudly representing NY's 13th District. Connect with me @cbrangel, https://t.co/lGvwuJPraz and https://t.co/n3g5etgQ8r.",
+  "followers_count": 25333,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/722091836416765952/8LBr02sx_normal.png",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/139209082/HARLEM4.PNG",
+  "notifications": false,
+  "profile_sidebar_fill_color": "EDF2F5",
+  "utc_offset": -14400,
+  "profile_background_color": "F7F7F7",
+  "friends_count": 5394,
+  "profile_link_color": "13B6ED",
+  "default_profile": false,
+  "created_at": "Thu Feb 19 16:17:10 +0000 2009",
+  "following": false,
+  "id": 21312077,
+  "has_extended_profile": true,
+  "profile_use_background_image": false,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/722091836416765952/8LBr02sx_normal.png",
+  "screen_name": "cbrangel",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "extended_entities": {
+      "media": [
+        {
+          "indices": [
+            104,
+            127
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/Chj_SMqXIAEifko.jpg",
+          "id": 727612027921965057,
+          "expanded_url": "http://twitter.com/cbrangel/status/727612028416856064/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 291,
+              "w": 395,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 250,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 291,
+              "w": 395,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/uwHsIDUt4m",
+          "media_url": "http://pbs.twimg.com/media/Chj_SMqXIAEifko.jpg",
+          "url": "https://t.co/uwHsIDUt4m",
+          "type": "photo",
+          "id_str": "727612027921965057"
+        },
+        {
+          "indices": [
+            104,
+            127
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/Chj_SL9XAAE8bLm.jpg",
+          "id": 727612027733213185,
+          "expanded_url": "http://twitter.com/cbrangel/status/727612028416856064/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 599,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 339,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 600,
+              "w": 601,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/uwHsIDUt4m",
+          "media_url": "http://pbs.twimg.com/media/Chj_SL9XAAE8bLm.jpg",
+          "url": "https://t.co/uwHsIDUt4m",
+          "type": "photo",
+          "id_str": "727612027733213185"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 21:33:20 +0000 2016",
+    "id": 727612028416856064,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 12,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "media": [
+        {
+          "indices": [
+            104,
+            127
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/Chj_SMqXIAEifko.jpg",
+          "id": 727612027921965057,
+          "expanded_url": "http://twitter.com/cbrangel/status/727612028416856064/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 291,
+              "w": 395,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 250,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 291,
+              "w": 395,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/uwHsIDUt4m",
+          "media_url": "http://pbs.twimg.com/media/Chj_SMqXIAEifko.jpg",
+          "url": "https://t.co/uwHsIDUt4m",
+          "type": "photo",
+          "id_str": "727612027921965057"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            89,
+            103
+          ],
+          "text": "thankateacher"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "Thx to all teachers who are changing lives of students. You are our nation\u2019s superheroes #thankateacher https://t.co/uwHsIDUt4m",
+    "favorite_count": 12,
+    "possibly_sensitive": false,
+    "id_str": "727612028416856064",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "https://t.co/BQVfqAMdSD",
+          "indices": [
+            0,
+            23
+          ],
+          "expanded_url": "http://rangel.house.gov",
+          "display_url": "rangel.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+        {
+          "url": "https://t.co/lGvwuJPraz",
+          "indices": [
+            94,
+            117
+          ],
+          "expanded_url": "http://facebook.com/cbrangel",
+          "display_url": "facebook.com/cbrangel"
+        },
+        {
+          "url": "https://t.co/n3g5etgQ8r",
+          "indices": [
+            122,
+            145
+          ],
+          "expanded_url": "http://youtube.com/reprangel",
+          "display_url": "youtube.com/reprangel"
+        }
+      ]
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "7EA0CC",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/21312077/1436988861",
+  "name": "Charles Rangel",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "21312077"
+}

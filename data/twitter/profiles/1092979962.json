@@ -1,0 +1,220 @@
+{
+  "url": "http://t.co/JZbT6dxm",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/764822215/65ca306cfe68909a698ce74ab0a82a45.png",
+  "statuses_count": 1512,
+  "is_translation_enabled": false,
+  "location": "Washington, D.C. & Illinois",
+  "favourites_count": 58,
+  "listed_count": 513,
+  "profile_text_color": "634047",
+  "description": "Representing the great people of the 17th District of Illinois in the U.S. House of Representatives",
+  "followers_count": 9791,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/725811488544399360/pGCLInZm_normal.jpg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/764822215/65ca306cfe68909a698ce74ab0a82a45.png",
+  "notifications": false,
+  "profile_sidebar_fill_color": "E3E2DE",
+  "utc_offset": -14400,
+  "profile_background_color": "EDECE9",
+  "friends_count": 5999,
+  "profile_link_color": "7F06A6",
+  "default_profile": false,
+  "created_at": "Tue Jan 15 19:15:03 +0000 2013",
+  "following": false,
+  "id": 1092979962,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/725811488544399360/pGCLInZm_normal.jpg",
+  "screen_name": "RepCheri",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 21:13:29 +0000 2016",
+    "id": 727607032065462273,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 2,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            32,
+            41
+          ],
+          "text": "smallbiz"
+        },
+        {
+          "indices": [
+            100,
+            110
+          ],
+          "text": "ImWithBAE"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ymgQ3gBlIT",
+          "indices": [
+            66,
+            89
+          ],
+          "expanded_url": "http://bit.ly/1rFSM6Q",
+          "display_url": "bit.ly/1rFSM6Q"
+        },
+        {
+          "url": "https://t.co/4be9G6cp0q",
+          "indices": [
+            139,
+            140
+          ],
+          "expanded_url": "https://medium.com/@RepCheri/empowering-small-business-to-grow-our-economy-through-exports-9a9bff75955f#.lhtkt9haf",
+          "display_url": "medium.com/@RepCheri/empo\u2026"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            17
+          ],
+          "screen_name": "ThirdWayTweet",
+          "id": 40057701,
+          "id_str": "40057701",
+          "name": "Third Way"
+        },
+        {
+          "indices": [
+            90,
+            99
+          ],
+          "screen_name": "RepCheri",
+          "id": 1092979962,
+          "id_str": "1092979962",
+          "name": "Rep. Cheri Bustos"
+        }
+      ]
+    },
+    "text": "RT @ThirdWayTweet: We must help #smallbiz reach export potential. https://t.co/ymgQ3gBlIT\n@RepCheri #ImWithBAE bill is part of solution htt\u2026",
+    "favorite_count": 0,
+    "possibly_sensitive": false,
+    "id_str": "727607032065462273",
+    "retweeted_status": {
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "place": null,
+      "in_reply_to_user_id": null,
+      "coordinates": null,
+      "truncated": false,
+      "in_reply_to_status_id_str": null,
+      "created_at": "Tue May 03 21:04:43 +0000 2016",
+      "id": 727604827442786305,
+      "favorited": false,
+      "geo": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_screen_name": null,
+      "retweet_count": 2,
+      "lang": "en",
+      "retweeted": false,
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              13,
+              22
+            ],
+            "text": "smallbiz"
+          },
+          {
+            "indices": [
+              81,
+              91
+            ],
+            "text": "ImWithBAE"
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ymgQ3gBlIT",
+            "indices": [
+              47,
+              70
+            ],
+            "expanded_url": "http://bit.ly/1rFSM6Q",
+            "display_url": "bit.ly/1rFSM6Q"
+          },
+          {
+            "url": "https://t.co/4be9G6cp0q",
+            "indices": [
+              117,
+              140
+            ],
+            "expanded_url": "https://medium.com/@RepCheri/empowering-small-business-to-grow-our-economy-through-exports-9a9bff75955f#.lhtkt9haf",
+            "display_url": "medium.com/@RepCheri/empo\u2026"
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "indices": [
+              71,
+              80
+            ],
+            "screen_name": "RepCheri",
+            "id": 1092979962,
+            "id_str": "1092979962",
+            "name": "Rep. Cheri Bustos"
+          }
+        ]
+      },
+      "text": "We must help #smallbiz reach export potential. https://t.co/ymgQ3gBlIT\n@RepCheri #ImWithBAE bill is part of solution https://t.co/4be9G6cp0q",
+      "favorite_count": 2,
+      "possibly_sensitive": false,
+      "id_str": "727604827442786305",
+      "contributors": null
+    },
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/JZbT6dxm",
+          "indices": [
+            0,
+            20
+          ],
+          "expanded_url": "http://bustos.house.gov",
+          "display_url": "bustos.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1092979962/1401748234",
+  "name": "Rep. Cheri Bustos",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "1092979962"
+}

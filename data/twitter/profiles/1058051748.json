@@ -1,0 +1,118 @@
+{
+  "url": "http://t.co/8FFRq13svl",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "statuses_count": 1778,
+  "is_translation_enabled": false,
+  "location": "Friendswood, TX",
+  "favourites_count": 59,
+  "listed_count": 393,
+  "profile_text_color": "333333",
+  "description": "Representative for the 14th Congressional District of Texas.  http://t.co/3YiUH4dPNE | Instagram: TXRandy14",
+  "followers_count": 5227,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/616654502184263680/na4q3hZH_normal.jpg",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": null,
+  "profile_background_color": "C0DEED",
+  "friends_count": 387,
+  "profile_link_color": "0084B4",
+  "default_profile": true,
+  "created_at": "Thu Jan 03 15:30:06 +0000 2013",
+  "following": false,
+  "id": 1058051748,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/616654502184263680/na4q3hZH_normal.jpg",
+  "screen_name": "TXRandy14",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 14:41:31 +0000 2016",
+    "id": 727508390025416704,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 0,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            77,
+            82
+          ],
+          "text": "TX14"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/nkv6RyRB64",
+          "indices": [
+            83,
+            106
+          ],
+          "expanded_url": "https://www.instagram.com/p/BE8uX8awnPG/",
+          "display_url": "instagram.com/p/BE8uX8awnPG/"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "Had a great time at the Texas City Chamber \"State of the Industry\" luncheon. #TX14 https://t.co/nkv6RyRB64",
+    "favorite_count": 0,
+    "possibly_sensitive": false,
+    "id_str": "727508390025416704",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/8FFRq13svl",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://weber.house.gov",
+          "display_url": "weber.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+        {
+          "url": "http://t.co/3YiUH4dPNE",
+          "indices": [
+            62,
+            84
+          ],
+          "expanded_url": "http://facebook.com/TXRandy14",
+          "display_url": "facebook.com/TXRandy14"
+        }
+      ]
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1058051748/1357229443",
+  "name": "Randy Weber",
+  "is_translator": false,
+  "time_zone": null,
+  "id_str": "1058051748"
+}

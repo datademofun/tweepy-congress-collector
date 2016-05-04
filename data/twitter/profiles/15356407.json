@@ -1,0 +1,100 @@
+{
+  "url": "http://t.co/JcHDjLlep2",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/70624730/2010-01-28_13-05-53_143.231.249.141.jpg",
+  "statuses_count": 4463,
+  "is_translation_enabled": false,
+  "location": "Montross, VA",
+  "favourites_count": 94,
+  "listed_count": 1163,
+  "profile_text_color": "000000",
+  "description": "proud husband, father, and grandfather; humble Rep. of Virginia's First District; chairman of the readiness subcommittee; advocate of sportsman-led conservation",
+  "followers_count": 17196,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/499275063418302464/Aw8e7K6v_normal.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/70624730/2010-01-28_13-05-53_143.231.249.141.jpg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "CC9933",
+  "utc_offset": -14400,
+  "profile_background_color": "003399",
+  "friends_count": 7040,
+  "profile_link_color": "003399",
+  "default_profile": false,
+  "created_at": "Tue Jul 08 18:25:49 +0000 2008",
+  "following": false,
+  "id": 15356407,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/499275063418302464/Aw8e7K6v_normal.jpeg",
+  "screen_name": "RobWittman",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Wed Apr 27 20:54:48 +0000 2016",
+    "id": 725428003983994884,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 2,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/1wg1WIrUJj",
+          "indices": [
+            117,
+            140
+          ],
+          "expanded_url": "http://tinyurl.com/h6hrv9z",
+          "display_url": "tinyurl.com/h6hrv9z"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "Readiness concerns affect every service branch. Read more about how diminished readiness is hurting Marine aviation: https://t.co/1wg1WIrUJj",
+    "favorite_count": 4,
+    "possibly_sensitive": false,
+    "id_str": "725428003983994884",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/JcHDjLlep2",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://wittman.house.gov",
+          "display_url": "wittman.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "000000",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/15356407/1407871365",
+  "name": "Rep. Rob Wittman",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "15356407"
+}

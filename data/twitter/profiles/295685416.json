@@ -1,0 +1,208 @@
+{
+  "url": "http://t.co/CR8m9Gxrif",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/570464784/44zu13tvmcsmnlqa9wmk.jpeg",
+  "statuses_count": 635,
+  "is_translation_enabled": false,
+  "location": "",
+  "favourites_count": 2,
+  "listed_count": 474,
+  "profile_text_color": "333333",
+  "description": "I am proud to serve the 11th Congressional District of Texas! I can be reached via website below or phone: 202-225-3605.",
+  "followers_count": 5628,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000851285720/a7a4a89aaed5c9dc32139c0d79c4ffcc_normal.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/570464784/44zu13tvmcsmnlqa9wmk.jpeg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -14400,
+  "profile_background_color": "F0F3F5",
+  "friends_count": 1421,
+  "profile_link_color": "080808",
+  "default_profile": false,
+  "created_at": "Mon May 09 13:56:50 +0000 2011",
+  "following": false,
+  "id": 295685416,
+  "has_extended_profile": false,
+  "profile_use_background_image": false,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/378800000851285720/a7a4a89aaed5c9dc32139c0d79c4ffcc_normal.jpeg",
+  "screen_name": "ConawayTX11",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Fri Apr 22 19:49:36 +0000 2016",
+    "id": 723599654533910528,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 5,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            143,
+            144
+          ],
+          "text": "EarthDay"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/5k8AC1GsYt",
+          "indices": [
+            124,
+            144
+          ],
+          "expanded_url": "http://wp.me/p6EwGV-IF",
+          "display_url": "wp.me/p6EwGV-IF"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            11
+          ],
+          "screen_name": "FPFNews",
+          "id": 491644912,
+          "id_str": "491644912",
+          "name": "Farm Policy Facts"
+        },
+        {
+          "indices": [
+            96,
+            110
+          ],
+          "screen_name": "SenPatRoberts",
+          "id": 75364211,
+          "id_str": "75364211",
+          "name": "Pat Roberts"
+        },
+        {
+          "indices": [
+            111,
+            123
+          ],
+          "screen_name": "ConawayTX11",
+          "id": 295685416,
+          "id_str": "295685416",
+          "name": "Mike Conaway"
+        }
+      ]
+    },
+    "text": "RT @FPFNews: \"We\u2019re proud to represent farmers &amp;ranchers every day in our nation\u2019s capital\u201d @SenPatRoberts @ConawayTX11 https://t.co/5k8AC1\u2026",
+    "favorite_count": 0,
+    "possibly_sensitive": false,
+    "id_str": "723599654533910528",
+    "retweeted_status": {
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "place": null,
+      "in_reply_to_user_id": null,
+      "coordinates": null,
+      "truncated": false,
+      "in_reply_to_status_id_str": null,
+      "created_at": "Fri Apr 22 18:25:05 +0000 2016",
+      "id": 723578386983964673,
+      "favorited": false,
+      "geo": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_screen_name": null,
+      "retweet_count": 5,
+      "lang": "en",
+      "retweeted": false,
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              135,
+              144
+            ],
+            "text": "EarthDay"
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/5k8AC1GsYt",
+            "indices": [
+              111,
+              134
+            ],
+            "expanded_url": "http://wp.me/p6EwGV-IF",
+            "display_url": "wp.me/p6EwGV-IF"
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "indices": [
+              83,
+              97
+            ],
+            "screen_name": "SenPatRoberts",
+            "id": 75364211,
+            "id_str": "75364211",
+            "name": "Pat Roberts"
+          },
+          {
+            "indices": [
+              98,
+              110
+            ],
+            "screen_name": "ConawayTX11",
+            "id": 295685416,
+            "id_str": "295685416",
+            "name": "Mike Conaway"
+          }
+        ]
+      },
+      "text": "\"We\u2019re proud to represent farmers &amp;ranchers every day in our nation\u2019s capital\u201d @SenPatRoberts @ConawayTX11 https://t.co/5k8AC1GsYt #EarthDay",
+      "favorite_count": 0,
+      "possibly_sensitive": false,
+      "id_str": "723578386983964673",
+      "contributors": null
+    },
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/CR8m9Gxrif",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://conaway.house.gov/",
+          "display_url": "conaway.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/295685416/1386614029",
+  "name": "Mike Conaway",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "295685416"
+}

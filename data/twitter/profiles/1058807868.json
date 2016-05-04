@@ -1,0 +1,129 @@
+{
+  "url": "http://t.co/4sM6hwE6",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "statuses_count": 1699,
+  "is_translation_enabled": false,
+  "location": "",
+  "favourites_count": 32,
+  "listed_count": 553,
+  "profile_text_color": "333333",
+  "description": "The Official Twitter account for Congressman DeSantis. Proudly representing Florida's 6th District. Stay connected through Facebook at http://t.co/WKpKHHXK!",
+  "followers_count": 8294,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/3117010951/c752457942317fd0ba6f44dbe722964a_normal.jpeg",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -14400,
+  "profile_background_color": "B31616",
+  "friends_count": 1430,
+  "profile_link_color": "0084B4",
+  "default_profile": false,
+  "created_at": "Thu Jan 03 21:20:17 +0000 2013",
+  "following": false,
+  "id": 1058807868,
+  "has_extended_profile": false,
+  "profile_use_background_image": false,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/3117010951/c752457942317fd0ba6f44dbe722964a_normal.jpeg",
+  "screen_name": "RepDeSantis",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 14:57:24 +0000 2016",
+    "id": 727512388677865472,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 4,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            95,
+            103
+          ],
+          "text": "PAWSAct"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/4F44GFEcrn",
+          "indices": [
+            105,
+            128
+          ],
+          "expanded_url": "http://bit.ly/1Y5pN6o",
+          "display_url": "bit.ly/1Y5pN6o"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            71,
+            83
+          ],
+          "screen_name": "DeannaANjax",
+          "id": 213692240,
+          "id_str": "213692240",
+          "name": "Deanna Bettineschi"
+        }
+      ]
+    },
+    "text": "Service dogs can give veterans struggling with PTS a sense of purpose. @DeannaANjax reports on #PAWSAct: https://t.co/4F44GFEcrn.",
+    "favorite_count": 2,
+    "possibly_sensitive": false,
+    "id_str": "727512388677865472",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/4sM6hwE6",
+          "indices": [
+            0,
+            20
+          ],
+          "expanded_url": "http://DeSantis.House.Gov",
+          "display_url": "DeSantis.House.Gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+        {
+          "url": "http://t.co/WKpKHHXK",
+          "indices": [
+            135,
+            155
+          ],
+          "expanded_url": "http://www.Facebook.com/RepDeSantis",
+          "display_url": "Facebook.com/RepDeSantis"
+        }
+      ]
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1058807868/1361805445",
+  "name": "Ron DeSantis",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "1058807868"
+}

@@ -1,0 +1,183 @@
+{
+  "url": "http://t.co/0O49SY7v",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/776934757/0f1d0841d864a86abd9e27a363356a3a.jpeg",
+  "statuses_count": 2554,
+  "is_translation_enabled": false,
+  "location": "",
+  "favourites_count": 24,
+  "listed_count": 824,
+  "profile_text_color": "333333",
+  "description": "U.S. Senator and Cherry County rancher working to bring some Nebraska common sense to Washington",
+  "followers_count": 15857,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/519896467318665216/2bTZrb9E_normal.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/776934757/0f1d0841d864a86abd9e27a363356a3a.jpeg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "EFEFEF",
+  "utc_offset": -14400,
+  "profile_background_color": "B4C9FA",
+  "friends_count": 160,
+  "profile_link_color": "1F98C7",
+  "default_profile": false,
+  "created_at": "Tue Jan 08 16:49:07 +0000 2013",
+  "following": false,
+  "id": 1071402577,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/519896467318665216/2bTZrb9E_normal.jpeg",
+  "screen_name": "SenatorFischer",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "extended_entities": {
+      "media": [
+        {
+          "indices": [
+            98,
+            121
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/ChkN9IFVIAIYhIQ.jpg",
+          "id": 727628158590066690,
+          "expanded_url": "http://twitter.com/SenatorFischer/status/727628169134616577/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 800,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 453,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 1365,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/czk8V0TCCc",
+          "media_url": "http://pbs.twimg.com/media/ChkN9IFVIAIYhIQ.jpg",
+          "url": "https://t.co/czk8V0TCCc",
+          "type": "photo",
+          "id_str": "727628158590066690"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 22:37:28 +0000 2016",
+    "id": 727628169134616577,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 1,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "media": [
+        {
+          "indices": [
+            98,
+            121
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/ChkN9IFVIAIYhIQ.jpg",
+          "id": 727628158590066690,
+          "expanded_url": "http://twitter.com/SenatorFischer/status/727628169134616577/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 800,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 453,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 1365,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/czk8V0TCCc",
+          "media_url": "http://pbs.twimg.com/media/ChkN9IFVIAIYhIQ.jpg",
+          "url": "https://t.co/czk8V0TCCc",
+          "type": "photo",
+          "id_str": "727628158590066690"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            23,
+            30
+          ],
+          "text": "Senate"
+        },
+        {
+          "indices": [
+            82,
+            97
+          ],
+          "text": "HearingFromYou"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "Providing an update on #Senate business at tonight's Community Coffee in Kearney. #HearingFromYou https://t.co/czk8V0TCCc",
+    "favorite_count": 3,
+    "possibly_sensitive": false,
+    "id_str": "727628169134616577",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/0O49SY7v",
+          "indices": [
+            0,
+            20
+          ],
+          "expanded_url": "http://fischer.senate.gov",
+          "display_url": "fischer.senate.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1071402577/1431724095",
+  "name": "Senator Deb Fischer",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "1071402577"
+}

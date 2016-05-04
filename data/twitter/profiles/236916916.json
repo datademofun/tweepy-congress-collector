@@ -1,0 +1,197 @@
+{
+  "url": "http://t.co/LsCk9OUjWm",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/453288068552736769/qo4juges.jpeg",
+  "statuses_count": 2717,
+  "is_translation_enabled": false,
+  "location": "",
+  "favourites_count": 112,
+  "listed_count": 625,
+  "profile_text_color": "333333",
+  "description": "Serving my third term representing the great people of the 16th district of Ohio in the House of Representatives",
+  "followers_count": 10612,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/481891569859973120/9KrU2b-Z_normal.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/453288068552736769/qo4juges.jpeg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -18000,
+  "profile_background_color": "134987",
+  "friends_count": 651,
+  "profile_link_color": "134987",
+  "default_profile": false,
+  "created_at": "Tue Jan 11 17:20:35 +0000 2011",
+  "following": false,
+  "id": 236916916,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/481891569859973120/9KrU2b-Z_normal.jpeg",
+  "screen_name": "RepJimRenacci",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "extended_entities": {
+      "media": [
+        {
+          "indices": [
+            78,
+            101
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/Chd_tjRWIAQ4LM6.jpg",
+          "id": 727190285382459396,
+          "expanded_url": "http://twitter.com/RepJimRenacci/status/727190286015827970/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 450,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 255,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 768,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/8uxN1erdNc",
+          "media_url": "http://pbs.twimg.com/media/Chd_tjRWIAQ4LM6.jpg",
+          "url": "https://t.co/8uxN1erdNc",
+          "type": "photo",
+          "id_str": "727190285382459396"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Mon May 02 17:37:29 +0000 2016",
+    "id": 727190286015827970,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 1,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "media": [
+        {
+          "indices": [
+            78,
+            101
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/Chd_tjRWIAQ4LM6.jpg",
+          "id": 727190285382459396,
+          "expanded_url": "http://twitter.com/RepJimRenacci/status/727190286015827970/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 450,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 255,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 768,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/8uxN1erdNc",
+          "media_url": "http://pbs.twimg.com/media/Chd_tjRWIAQ4LM6.jpg",
+          "url": "https://t.co/8uxN1erdNc",
+          "type": "photo",
+          "id_str": "727190285382459396"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            72,
+            77
+          ],
+          "text": "OH16"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            19,
+            32
+          ],
+          "screen_name": "1590WAKRNews",
+          "id": 15582417,
+          "id_str": "15582417",
+          "name": "1590 WAKR"
+        },
+        {
+          "indices": [
+            45,
+            56
+          ],
+          "screen_name": "JasenSokol",
+          "id": 59017015,
+          "id_str": "59017015",
+          "name": "Jasen Sokol"
+        }
+      ]
+    },
+    "text": "Great to be in the @1590WAKRNews studio with @JasenSokol this afternoon #OH16 https://t.co/8uxN1erdNc",
+    "favorite_count": 1,
+    "possibly_sensitive": false,
+    "id_str": "727190286015827970",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/LsCk9OUjWm",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://renacci.house.gov/",
+          "display_url": "renacci.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/236916916/1374259304",
+  "name": "Rep. Jim Renacci",
+  "is_translator": false,
+  "time_zone": "Quito",
+  "id_str": "236916916"
+}

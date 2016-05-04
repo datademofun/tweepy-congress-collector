@@ -1,0 +1,179 @@
+{
+  "url": "https://t.co/wymw0f4Inl",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/11692302/Thomas_Jefferson.jpg",
+  "statuses_count": 1396,
+  "is_translation_enabled": true,
+  "location": "Houston, TX",
+  "favourites_count": 63,
+  "listed_count": 683,
+  "profile_text_color": "0E0C0C",
+  "description": "Proud father, happy husband, Jeffersonian Republican. TX Congressman.",
+  "followers_count": 7881,
+  "profile_background_tile": true,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/959783016/n1751723339_5337_normal.jpg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/11692302/Thomas_Jefferson.jpg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "B46F0E",
+  "utc_offset": -10800,
+  "profile_background_color": "C3D4D5",
+  "friends_count": 669,
+  "profile_link_color": "0084B4",
+  "default_profile": false,
+  "created_at": "Fri Mar 13 14:54:29 +0000 2009",
+  "following": false,
+  "id": 24183358,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/959783016/n1751723339_5337_normal.jpg",
+  "screen_name": "CongCulberson",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "extended_entities": {
+      "media": [
+        {
+          "indices": [
+            119,
+            142
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/ChjEXN2WYAAgUDN.jpg",
+          "id": 727547242953990144,
+          "expanded_url": "http://twitter.com/CongCulberson/status/727547246506549249/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 410,
+              "w": 410,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 340,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 410,
+              "w": 410,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/HBsrdI8XT8",
+          "media_url": "http://pbs.twimg.com/media/ChjEXN2WYAAgUDN.jpg",
+          "url": "https://t.co/HBsrdI8XT8",
+          "type": "photo",
+          "id_str": "727547242953990144"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 17:15:55 +0000 2016",
+    "id": 727547246506549249,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 8,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "media": [
+        {
+          "indices": [
+            119,
+            142
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/ChjEXN2WYAAgUDN.jpg",
+          "id": 727547242953990144,
+          "expanded_url": "http://twitter.com/CongCulberson/status/727547246506549249/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 410,
+              "w": 410,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 340,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 410,
+              "w": 410,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/HBsrdI8XT8",
+          "media_url": "http://pbs.twimg.com/media/ChjEXN2WYAAgUDN.jpg",
+          "url": "https://t.co/HBsrdI8XT8",
+          "type": "photo",
+          "id_str": "727547242953990144"
+        }
+      ],
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            18,
+            25
+          ],
+          "screen_name": "USNavy",
+          "id": 54885400,
+          "id_str": "54885400",
+          "name": "U.S. Navy"
+        }
+      ]
+    },
+    "text": "41 years ago, the @USNavy Aircraft Carrier USS Nimitiz (CVN 68) was commissioned &amp; today we celebrate her service. https://t.co/HBsrdI8XT8",
+    "favorite_count": 9,
+    "possibly_sensitive": false,
+    "id_str": "727547246506549249",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "https://t.co/wymw0f4Inl",
+          "indices": [
+            0,
+            23
+          ],
+          "expanded_url": "http://culberson.house.gov",
+          "display_url": "culberson.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "BDDCAD",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/24183358/1393444142",
+  "name": "John Culberson",
+  "is_translator": false,
+  "time_zone": "Atlantic Time (Canada)",
+  "id_str": "24183358"
+}

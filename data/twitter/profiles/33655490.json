@@ -1,0 +1,225 @@
+{
+  "url": "https://t.co/1myTWbCAnr",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/790052657/d2a55375f1ac6b5185d2eb06e1915bb0.jpeg",
+  "statuses_count": 12161,
+  "is_translation_enabled": false,
+  "location": "Central Florida and Tampa Bay",
+  "favourites_count": 28,
+  "listed_count": 769,
+  "profile_text_color": "131111",
+  "description": "Husband, Father, and Conservative Republican Congressman serving Florida's 15th Congressional District. https://t.co/IXwSnVOJw5",
+  "followers_count": 9728,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/565293274286391296/nj0JwWgR_normal.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/790052657/d2a55375f1ac6b5185d2eb06e1915bb0.jpeg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "C7C7C7",
+  "utc_offset": -14400,
+  "profile_background_color": "FFFFFF",
+  "friends_count": 1425,
+  "profile_link_color": "3B94D9",
+  "default_profile": false,
+  "created_at": "Mon Apr 20 20:43:13 +0000 2009",
+  "following": false,
+  "id": 33655490,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/565293274286391296/nj0JwWgR_normal.jpeg",
+  "screen_name": "RepDennisRoss",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "extended_entities": {
+      "media": [
+        {
+          "indices": [
+            116,
+            139
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/Chje3u-XIAANI2s.jpg",
+          "id": 727576388904099840,
+          "expanded_url": "http://twitter.com/RepDennisRoss/status/727576427042902016/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 800,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 453,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 1365,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/Fh7I8hgiKz",
+          "media_url": "http://pbs.twimg.com/media/Chje3u-XIAANI2s.jpg",
+          "url": "https://t.co/Fh7I8hgiKz",
+          "type": "photo",
+          "id_str": "727576388904099840"
+        },
+        {
+          "indices": [
+            116,
+            139
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/Chje3vDXIAActpT.jpg",
+          "id": 727576388925071360,
+          "expanded_url": "http://twitter.com/RepDennisRoss/status/727576427042902016/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 800,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 453,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 1365,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/Fh7I8hgiKz",
+          "media_url": "http://pbs.twimg.com/media/Chje3vDXIAActpT.jpg",
+          "url": "https://t.co/Fh7I8hgiKz",
+          "type": "photo",
+          "id_str": "727576388925071360"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 19:11:52 +0000 2016",
+    "id": 727576427042902016,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 0,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "media": [
+        {
+          "indices": [
+            116,
+            139
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/Chje3u-XIAANI2s.jpg",
+          "id": 727576388904099840,
+          "expanded_url": "http://twitter.com/RepDennisRoss/status/727576427042902016/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 800,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 453,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 1365,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/Fh7I8hgiKz",
+          "media_url": "http://pbs.twimg.com/media/Chje3u-XIAANI2s.jpg",
+          "url": "https://t.co/Fh7I8hgiKz",
+          "type": "photo",
+          "id_str": "727576388904099840"
+        }
+      ],
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            25,
+            36
+          ],
+          "screen_name": "UncleMatts",
+          "id": 29234684,
+          "id_str": "29234684",
+          "name": "Uncle Matt's Organic"
+        }
+      ]
+    },
+    "text": "Enjoying a great tour of @UncleMatts Organic and its peach groves! Thank you, Benny McClean, for showing us around. https://t.co/Fh7I8hgiKz",
+    "favorite_count": 2,
+    "possibly_sensitive": false,
+    "id_str": "727576427042902016",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "https://t.co/1myTWbCAnr",
+          "indices": [
+            0,
+            23
+          ],
+          "expanded_url": "http://DennisRoss.house.gov",
+          "display_url": "DennisRoss.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+        {
+          "url": "https://t.co/IXwSnVOJw5",
+          "indices": [
+            104,
+            127
+          ],
+          "expanded_url": "http://www.facebook.com/dennisross.376",
+          "display_url": "facebook.com/dennisross.376"
+        }
+      ]
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "000000",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/33655490/1396447995",
+  "name": "Dennis Ross",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "33655490"
+}

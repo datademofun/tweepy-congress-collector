@@ -1,0 +1,121 @@
+{
+  "url": "https://t.co/H9etkVz65v",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "statuses_count": 1907,
+  "is_translation_enabled": false,
+  "location": "",
+  "favourites_count": 365,
+  "listed_count": 310,
+  "profile_text_color": "333333",
+  "description": "Tampa Bay's Congresswoman",
+  "followers_count": 3820,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/722439204274356225/WGcttJsE_normal.jpg",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": null,
+  "profile_background_color": "C0DEED",
+  "friends_count": 1740,
+  "profile_link_color": "0084B4",
+  "default_profile": true,
+  "created_at": "Wed Sep 18 20:03:57 +0000 2013",
+  "following": false,
+  "id": 1880674038,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/722439204274356225/WGcttJsE_normal.jpg",
+  "screen_name": "USRepKCastor",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "quoted_status_id_str": "727681682179039232",
+    "quoted_status_id": 727681682179039232,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Wed May 04 02:15:33 +0000 2016",
+    "id": 727683048549064704,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 5,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            58,
+            66
+          ],
+          "text": "GoBolts"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/OJdWdDsOPI",
+          "indices": [
+            79,
+            102
+          ],
+          "expanded_url": "https://twitter.com/tblightning/status/727681682179039232",
+          "display_url": "twitter.com/tblightning/st\u2026"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            45,
+            57
+          ],
+          "screen_name": "TBLightning",
+          "id": 28173550,
+          "id_str": "28173550",
+          "name": "#GoBolts"
+        }
+      ]
+    },
+    "text": "Hometown needed good news tonight ... Thanks @TBLightning #GoBolts\u26a1\ufe0f\u26a1\ufe0f\u26a1\ufe0f\u26a1\ufe0f\u26a1\ufe0f\ud83c\udf34\ud83c\udf05 https://t.co/OJdWdDsOPI",
+    "favorite_count": 9,
+    "possibly_sensitive": false,
+    "id_str": "727683048549064704",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "https://t.co/H9etkVz65v",
+          "indices": [
+            0,
+            23
+          ],
+          "expanded_url": "http://Castor.House.gov",
+          "display_url": "Castor.House.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880674038/1460600754",
+  "name": "US Rep Kathy Castor",
+  "is_translator": false,
+  "time_zone": null,
+  "id_str": "1880674038"
+}

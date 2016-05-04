@@ -1,0 +1,190 @@
+{
+  "url": "http://t.co/EeBu3zBUBI",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/730271402/2c971c93c09c11196fa2dc091a901c31.jpeg",
+  "statuses_count": 1695,
+  "is_translation_enabled": false,
+  "location": "Washington, D.C. / Boston, MA",
+  "favourites_count": 50,
+  "listed_count": 432,
+  "profile_text_color": "333333",
+  "description": "The official Twitter account of Congressman Stephen F. Lynch. Proudly serving the 8th Congressional District of Massachusetts.",
+  "followers_count": 7196,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/523121530155175937/H7aakruP_normal.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/730271402/2c971c93c09c11196fa2dc091a901c31.jpeg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -14400,
+  "profile_background_color": "05145C",
+  "friends_count": 316,
+  "profile_link_color": "0084B4",
+  "default_profile": false,
+  "created_at": "Fri Jun 03 14:48:36 +0000 2011",
+  "following": false,
+  "id": 310310133,
+  "has_extended_profile": false,
+  "profile_use_background_image": false,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/523121530155175937/H7aakruP_normal.jpeg",
+  "screen_name": "RepStephenLynch",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "extended_entities": {
+      "media": [
+        {
+          "indices": [
+            120,
+            143
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/ChjyATHUYAAYoDX.jpg",
+          "id": 727597426765225984,
+          "expanded_url": "http://twitter.com/RepStephenLynch/status/727597427600068613/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 640,
+              "w": 480,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 453,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 640,
+              "w": 480,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/PwKN5X1Eaq",
+          "media_url": "http://pbs.twimg.com/media/ChjyATHUYAAYoDX.jpg",
+          "url": "https://t.co/PwKN5X1Eaq",
+          "type": "photo",
+          "id_str": "727597426765225984"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 20:35:19 +0000 2016",
+    "id": 727597427600068613,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 0,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "media": [
+        {
+          "indices": [
+            120,
+            143
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/ChjyATHUYAAYoDX.jpg",
+          "id": 727597426765225984,
+          "expanded_url": "http://twitter.com/RepStephenLynch/status/727597427600068613/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 640,
+              "w": 480,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 453,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 640,
+              "w": 480,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/PwKN5X1Eaq",
+          "media_url": "http://pbs.twimg.com/media/ChjyATHUYAAYoDX.jpg",
+          "url": "https://t.co/PwKN5X1Eaq",
+          "type": "photo",
+          "id_str": "727597426765225984"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            7,
+            14
+          ],
+          "text": "Milton"
+        },
+        {
+          "indices": [
+            42,
+            45
+          ],
+          "text": "DC"
+        },
+        {
+          "indices": [
+            70,
+            77
+          ],
+          "text": "AIMAct"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "At the #Milton Town Meeting, I provided a #DC update highlighting the #AIMAct &amp; the impact of airplane overflights. https://t.co/PwKN5X1Eaq",
+    "favorite_count": 2,
+    "possibly_sensitive": false,
+    "id_str": "727597427600068613",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/EeBu3zBUBI",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://lynch.house.gov/",
+          "display_url": "lynch.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "000000",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/310310133/1435769017",
+  "name": "Rep. Stephen Lynch",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "310310133"
+}

@@ -1,0 +1,100 @@
+{
+  "url": "http://t.co/VbCPNOUYF0",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/618070711224139776/6AA4A4VD.jpg",
+  "statuses_count": 483,
+  "is_translation_enabled": false,
+  "location": "Chicago, IL",
+  "favourites_count": 23,
+  "listed_count": 202,
+  "profile_text_color": "333333",
+  "description": "US House Representative for Illinois' 7th Congressional District.\r\nServing on the Committee on Ways and Means.\r\nFollowing/retweeting does not equal endorsement.",
+  "followers_count": 2453,
+  "profile_background_tile": true,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/3401719858/fcb6d46529b4a43ccc07c296062ddb19_normal.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/618070711224139776/6AA4A4VD.jpg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -18000,
+  "profile_background_color": "C0DEED",
+  "friends_count": 330,
+  "profile_link_color": "0084B4",
+  "default_profile": false,
+  "created_at": "Wed Aug 29 12:31:09 +0000 2012",
+  "following": false,
+  "id": 789244177,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/3401719858/fcb6d46529b4a43ccc07c296062ddb19_normal.jpeg",
+  "screen_name": "RepDannyDavis",
+  "verified": false,
+  "geo_enabled": true,
+  "status": {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Wed Mar 23 16:53:32 +0000 2016",
+    "id": 712683711305744384,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 1,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/zyk04jZhs8",
+          "indices": [
+            78,
+            101
+          ],
+          "expanded_url": "http://NFL.com/FanMobilePass",
+          "display_url": "NFL.com/FanMobilePass"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "For a chance to win two tickets to the NFL Draft in Chicago April 28-30 visit https://t.co/zyk04jZhs8 til March 26 at 12:59 AM ET",
+    "favorite_count": 1,
+    "possibly_sensitive": false,
+    "id_str": "712683711305744384",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/VbCPNOUYF0",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://davis.house.gov/",
+          "display_url": "davis.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/789244177/1421861843",
+  "name": "Rep. Danny Davis",
+  "is_translator": false,
+  "time_zone": "Central Time (US & Canada)",
+  "id_str": "789244177"
+}

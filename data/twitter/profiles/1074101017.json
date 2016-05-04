@@ -1,0 +1,190 @@
+{
+  "url": "http://t.co/0ZSaz3JtOT",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/462272356832907265/AGTtOUP9.jpeg",
+  "statuses_count": 1571,
+  "is_translation_enabled": false,
+  "location": "",
+  "favourites_count": 162,
+  "listed_count": 441,
+  "profile_text_color": "333333",
+  "description": "Serving the good people of Indiana\u2019s 5th District in Congress.",
+  "followers_count": 7086,
+  "profile_background_tile": true,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/3086846949/e579bc4efb03e7f58995d4c27285de56_normal.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/462272356832907265/AGTtOUP9.jpeg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -10800,
+  "profile_background_color": "C0DEED",
+  "friends_count": 486,
+  "profile_link_color": "0084B4",
+  "default_profile": false,
+  "created_at": "Wed Jan 09 15:30:38 +0000 2013",
+  "following": false,
+  "id": 1074101017,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/3086846949/e579bc4efb03e7f58995d4c27285de56_normal.jpeg",
+  "screen_name": "SusanWBrooks",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 19:57:15 +0000 2016",
+    "id": 727587848858251264,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 3,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            14
+          ],
+          "screen_name": "BrookSteed",
+          "id": 357130146,
+          "id_str": "357130146",
+          "name": "Brook Steed"
+        },
+        {
+          "indices": [
+            16,
+            29
+          ],
+          "screen_name": "SusanWBrooks",
+          "id": 1074101017,
+          "id_str": "1074101017",
+          "name": "Susan W. Brooks"
+        },
+        {
+          "indices": [
+            36,
+            48
+          ],
+          "screen_name": "RepStutzman",
+          "id": 211901075,
+          "id_str": "211901075",
+          "name": "Rep. Marlin Stutzman"
+        },
+        {
+          "indices": [
+            142,
+            143
+          ],
+          "screen_name": "CoopsVote",
+          "id": 4745080647,
+          "id_str": "4745080647",
+          "name": "Co-ops Vote"
+        }
+      ]
+    },
+    "text": "RT @BrookSteed: @SusanWBrooks &amp; @RepStutzman the 60 strong IN rural electric delegation thanks you for sharing your staff with us today in\u2026",
+    "favorite_count": 0,
+    "id_str": "727587848858251264",
+    "retweeted_status": {
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_user_id_str": "1074101017",
+      "is_quote_status": false,
+      "place": null,
+      "in_reply_to_user_id": 1074101017,
+      "coordinates": null,
+      "truncated": false,
+      "in_reply_to_status_id_str": null,
+      "created_at": "Tue May 03 19:30:01 +0000 2016",
+      "id": 727580993788493826,
+      "favorited": false,
+      "geo": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_screen_name": "SusanWBrooks",
+      "retweet_count": 3,
+      "lang": "en",
+      "retweeted": false,
+      "entities": {
+        "hashtags": [],
+        "urls": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "indices": [
+              0,
+              13
+            ],
+            "screen_name": "SusanWBrooks",
+            "id": 1074101017,
+            "id_str": "1074101017",
+            "name": "Susan W. Brooks"
+          },
+          {
+            "indices": [
+              20,
+              32
+            ],
+            "screen_name": "RepStutzman",
+            "id": 211901075,
+            "id_str": "211901075",
+            "name": "Rep. Marlin Stutzman"
+          },
+          {
+            "indices": [
+              130,
+              140
+            ],
+            "screen_name": "CoopsVote",
+            "id": 4745080647,
+            "id_str": "4745080647",
+            "name": "Co-ops Vote"
+          }
+        ]
+      },
+      "text": "@SusanWBrooks &amp; @RepStutzman the 60 strong IN rural electric delegation thanks you for sharing your staff with us today in DC @CoopsVote",
+      "favorite_count": 2,
+      "id_str": "727580993788493826",
+      "contributors": null
+    },
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/0ZSaz3JtOT",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://www.susanwbrooks.house.gov/",
+          "display_url": "susanwbrooks.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1074101017/1399049517",
+  "name": "Susan W. Brooks",
+  "is_translator": false,
+  "time_zone": "Atlantic Time (Canada)",
+  "id_str": "1074101017"
+}

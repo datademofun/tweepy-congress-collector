@@ -1,0 +1,249 @@
+{
+  "url": "http://t.co/fQR5L3fWi8",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000026269169/7f15a33f57c384752bb8e1015c2be79a.jpeg",
+  "statuses_count": 4383,
+  "is_translation_enabled": false,
+  "location": "Washington, DC / Houston, TX",
+  "favourites_count": 203,
+  "listed_count": 458,
+  "profile_text_color": "000000",
+  "description": "Proudly representing TX-22 in Congress. Follow me on Facebook: http://t.co/2aP7aRlj3f and Instagram: https://t.co/hBZNAgZcuI",
+  "followers_count": 5615,
+  "profile_background_tile": true,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/553398175760150528/wOlSb2ef_normal.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000026269169/7f15a33f57c384752bb8e1015c2be79a.jpeg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "FFD729",
+  "utc_offset": -18000,
+  "profile_background_color": "FFFFFF",
+  "friends_count": 1913,
+  "profile_link_color": "2E399D",
+  "default_profile": false,
+  "created_at": "Wed Feb 04 13:40:57 +0000 2009",
+  "following": false,
+  "id": 20053279,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/553398175760150528/wOlSb2ef_normal.jpeg",
+  "screen_name": "RepPeteOlson",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "extended_entities": {
+      "media": [
+        {
+          "indices": [
+            116,
+            139
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/ChjDs7pWkAIziBt.jpg",
+          "id": 727546516513132546,
+          "expanded_url": "http://twitter.com/RepPeteOlson/status/727546517184204800/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 410,
+              "w": 410,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 340,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 410,
+              "w": 410,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/DASCfq0xSs",
+          "media_url": "http://pbs.twimg.com/media/ChjDs7pWkAIziBt.jpg",
+          "url": "https://t.co/DASCfq0xSs",
+          "type": "photo",
+          "id_str": "727546516513132546"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": {
+      "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+      "country": "United States",
+      "id": "01fbe706f872cb32",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.119401,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.9953797
+            ],
+            [
+              -77.119401,
+              38.9953797
+            ]
+          ]
+        ]
+      },
+      "full_name": "Washington, DC",
+      "name": "Washington",
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "place_type": "city"
+    },
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 17:13:01 +0000 2016",
+    "id": 727546517184204800,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 7,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "media": [
+        {
+          "indices": [
+            116,
+            139
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/ChjDs7pWkAIziBt.jpg",
+          "id": 727546516513132546,
+          "expanded_url": "http://twitter.com/RepPeteOlson/status/727546517184204800/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 410,
+              "w": 410,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 340,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 410,
+              "w": 410,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/DASCfq0xSs",
+          "media_url": "http://pbs.twimg.com/media/ChjDs7pWkAIziBt.jpg",
+          "url": "https://t.co/DASCfq0xSs",
+          "type": "photo",
+          "id_str": "727546516513132546"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            106,
+            115
+          ],
+          "text": "Thankyou"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            6,
+            17
+          ],
+          "screen_name": "NimitzNews",
+          "id": 15267559,
+          "id_str": "15267559",
+          "name": "USS NIMITZ (CVN 68)"
+        },
+        {
+          "indices": [
+            41,
+            57
+          ],
+          "screen_name": "aircraftcarrier",
+          "id": 1129443330,
+          "id_str": "1129443330",
+          "name": "Aircraft Carriers"
+        }
+      ]
+    },
+    "text": "Today @NimitzNews is 41 yrs strong. This @aircraftcarrier was named after a proud Texan - Chester Nimitz. #Thankyou https://t.co/DASCfq0xSs",
+    "favorite_count": 8,
+    "possibly_sensitive": false,
+    "id_str": "727546517184204800",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/fQR5L3fWi8",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://olson.house.gov",
+          "display_url": "olson.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+        {
+          "url": "http://t.co/2aP7aRlj3f",
+          "indices": [
+            63,
+            85
+          ],
+          "expanded_url": "http://www.facebook.com/Rep.PeteOlson",
+          "display_url": "facebook.com/Rep.PeteOlson"
+        },
+        {
+          "url": "https://t.co/hBZNAgZcuI",
+          "indices": [
+            101,
+            124
+          ],
+          "expanded_url": "https://instagram.com/reppeteolson/",
+          "display_url": "instagram.com/reppeteolson/"
+        }
+      ]
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/20053279/1420775317",
+  "name": "Rep. Pete Olson",
+  "is_translator": false,
+  "time_zone": "Central Time (US & Canada)",
+  "id_str": "20053279"
+}

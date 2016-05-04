@@ -1,0 +1,192 @@
+{
+  "url": "http://t.co/c12aOiA0EU",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/3627543/american-flag-2a.jpg",
+  "statuses_count": 1788,
+  "is_translation_enabled": false,
+  "location": "Washington, D.C. ",
+  "favourites_count": 0,
+  "listed_count": 1347,
+  "profile_text_color": "01050D",
+  "description": "Proudly serving Ohio's beautiful fourth district.",
+  "followers_count": 26162,
+  "profile_background_tile": true,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/596012379231617025/TtrAXbnA_normal.jpg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/3627543/american-flag-2a.jpg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "BA0D1F",
+  "utc_offset": -18000,
+  "profile_background_color": "FFFFFF",
+  "friends_count": 5275,
+  "profile_link_color": "4F90DB",
+  "default_profile": false,
+  "created_at": "Tue Dec 16 17:20:24 +0000 2008",
+  "following": false,
+  "id": 18166778,
+  "has_extended_profile": false,
+  "profile_use_background_image": false,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/596012379231617025/TtrAXbnA_normal.jpg",
+  "screen_name": "Jim_Jordan",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Fri Apr 29 13:21:46 +0000 2016",
+    "id": 726038771070865408,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 123,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/aImpABdwtX",
+          "indices": [
+            143,
+            144
+          ],
+          "expanded_url": "http://www.foxnews.com/politics/2016/04/28/ice-under-fire-for-releasing-thousands-illegal-immigrants-with-rap-sheets.html",
+          "display_url": "foxnews.com/politics/2016/\u2026"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            18
+          ],
+          "screen_name": "HouseJudiciary",
+          "id": 1131917492,
+          "id_str": "1131917492",
+          "name": "House Judiciary Cmte"
+        },
+        {
+          "indices": [
+            25,
+            38
+          ],
+          "screen_name": "GOPoversight",
+          "id": 22508473,
+          "id_str": "22508473",
+          "name": "Oversight Committee"
+        },
+        {
+          "indices": [
+            45,
+            61
+          ],
+          "screen_name": "jasoninthehouse",
+          "id": 17800215,
+          "id_str": "17800215",
+          "name": "Jason Chaffetz"
+        }
+      ]
+    },
+    "text": "RT @HouseJudiciary: From @GOPoversight &amp; @jasoninthehouse: ICE under fire for releasing thousands of illegal immigrants with rap sheets htt\u2026",
+    "favorite_count": 0,
+    "possibly_sensitive": false,
+    "id_str": "726038771070865408",
+    "retweeted_status": {
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "place": null,
+      "in_reply_to_user_id": null,
+      "coordinates": null,
+      "truncated": false,
+      "in_reply_to_status_id_str": null,
+      "created_at": "Thu Apr 28 20:09:00 +0000 2016",
+      "id": 725778864350322688,
+      "favorited": false,
+      "geo": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_screen_name": null,
+      "retweet_count": 123,
+      "lang": "en",
+      "retweeted": false,
+      "entities": {
+        "hashtags": [],
+        "urls": [
+          {
+            "url": "https://t.co/aImpABdwtX",
+            "indices": [
+              120,
+              143
+            ],
+            "expanded_url": "http://www.foxnews.com/politics/2016/04/28/ice-under-fire-for-releasing-thousands-illegal-immigrants-with-rap-sheets.html",
+            "display_url": "foxnews.com/politics/2016/\u2026"
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "indices": [
+              5,
+              18
+            ],
+            "screen_name": "GOPoversight",
+            "id": 22508473,
+            "id_str": "22508473",
+            "name": "Oversight Committee"
+          },
+          {
+            "indices": [
+              25,
+              41
+            ],
+            "screen_name": "jasoninthehouse",
+            "id": 17800215,
+            "id_str": "17800215",
+            "name": "Jason Chaffetz"
+          }
+        ]
+      },
+      "text": "From @GOPoversight &amp; @jasoninthehouse: ICE under fire for releasing thousands of illegal immigrants with rap sheets https://t.co/aImpABdwtX",
+      "favorite_count": 117,
+      "possibly_sensitive": false,
+      "id_str": "725778864350322688",
+      "contributors": null
+    },
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/c12aOiA0EU",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://jordan.house.gov/",
+          "display_url": "jordan.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/18166778/1406042839",
+  "name": "Rep. Jim Jordan",
+  "is_translator": false,
+  "time_zone": "Central Time (US & Canada)",
+  "id_str": "18166778"
+}

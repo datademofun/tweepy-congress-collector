@@ -1,0 +1,209 @@
+{
+  "url": "http://t.co/qjFJoAGl",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/576494958355476480/2E-Zo9ok.jpeg",
+  "statuses_count": 601,
+  "is_translation_enabled": false,
+  "location": "Hanford, California",
+  "favourites_count": 86,
+  "listed_count": 339,
+  "profile_text_color": "9E9979",
+  "description": "Proudly Representing California's 21st Congressional District.",
+  "followers_count": 4663,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/3192935994/9bb205b6df88e6f86ca2ddf3f7ae04cb_normal.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/576494958355476480/2E-Zo9ok.jpeg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "D6C097",
+  "utc_offset": -14400,
+  "profile_background_color": "131516",
+  "friends_count": 292,
+  "profile_link_color": "009999",
+  "default_profile": false,
+  "created_at": "Mon Jan 28 16:19:14 +0000 2013",
+  "following": false,
+  "id": 1128514404,
+  "has_extended_profile": false,
+  "profile_use_background_image": false,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/3192935994/9bb205b6df88e6f86ca2ddf3f7ae04cb_normal.jpeg",
+  "screen_name": "RepDavidValadao",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "extended_entities": {
+      "media": [
+        {
+          "indices": [
+            115,
+            138
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/ChepiasWMAAqA5R.jpg",
+          "id": 727236273589596160,
+          "expanded_url": "http://twitter.com/RepDavidValadao/status/727236274202009600/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 710,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 402,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 1211,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/eTT4kbYTFQ",
+          "media_url": "http://pbs.twimg.com/media/ChepiasWMAAqA5R.jpg",
+          "url": "https://t.co/eTT4kbYTFQ",
+          "type": "photo",
+          "id_str": "727236273589596160"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": {
+      "url": "https://api.twitter.com/1.1/geo/id/17c553c1a9dd0466.json",
+      "country": "United States",
+      "id": "17c553c1a9dd0466",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -119.691252,
+              36.290733
+            ],
+            [
+              -119.583059,
+              36.290733
+            ],
+            [
+              -119.583059,
+              36.371953
+            ],
+            [
+              -119.691252,
+              36.371953
+            ]
+          ]
+        ]
+      },
+      "full_name": "Hanford, CA",
+      "name": "Hanford",
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "place_type": "city"
+    },
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Mon May 02 20:40:13 +0000 2016",
+    "id": 727236274202009600,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 7,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "media": [
+        {
+          "indices": [
+            115,
+            138
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/ChepiasWMAAqA5R.jpg",
+          "id": 727236273589596160,
+          "expanded_url": "http://twitter.com/RepDavidValadao/status/727236274202009600/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 710,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 402,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 1211,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/eTT4kbYTFQ",
+          "media_url": "http://pbs.twimg.com/media/ChepiasWMAAqA5R.jpg",
+          "url": "https://t.co/eTT4kbYTFQ",
+          "type": "photo",
+          "id_str": "727236273589596160"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            100,
+            114
+          ],
+          "text": "MissionUnited"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "Did you know Valley veterans &amp; their families can dial 211 anytime to access helpful resources? #MissionUnited https://t.co/eTT4kbYTFQ",
+    "favorite_count": 12,
+    "possibly_sensitive": false,
+    "id_str": "727236274202009600",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/qjFJoAGl",
+          "indices": [
+            0,
+            20
+          ],
+          "expanded_url": "http://Valadao.House.Gov",
+          "display_url": "Valadao.House.Gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "000000",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1128514404/1426282848",
+  "name": "Rep. David Valadao",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "1128514404"
+}

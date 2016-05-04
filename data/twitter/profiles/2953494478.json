@@ -1,0 +1,176 @@
+{
+  "url": "https://t.co/4VpMC6h5ac",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "statuses_count": 1007,
+  "is_translation_enabled": false,
+  "location": "Montana",
+  "favourites_count": 58,
+  "listed_count": 154,
+  "profile_text_color": "000000",
+  "description": "5th generation Montanan. Retired #NavySEAL Commander. Husband, father, grandfather. Played 4 #OregonDucks. Teddy Roosevelt fan. Congressman for Montana.",
+  "followers_count": 4018,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/550345566509465600/eDxVNQ-1_normal.jpeg",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "notifications": false,
+  "profile_sidebar_fill_color": "000000",
+  "utc_offset": -14400,
+  "profile_background_color": "000000",
+  "friends_count": 943,
+  "profile_link_color": "225588",
+  "default_profile": false,
+  "created_at": "Wed Dec 31 17:32:01 +0000 2014",
+  "following": false,
+  "id": 2953494478,
+  "has_extended_profile": false,
+  "profile_use_background_image": false,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/550345566509465600/eDxVNQ-1_normal.jpeg",
+  "screen_name": "RepRyanZinke",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "extended_entities": {
+      "media": [
+        {
+          "indices": [
+            116,
+            139
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/ChinivEWMAErhog.jpg",
+          "id": 727515555012423681,
+          "expanded_url": "http://twitter.com/RepRyanZinke/status/727520741889994752/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 713,
+              "w": 592,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 409,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 713,
+              "w": 592,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/E7ipLlqpwC",
+          "media_url": "http://pbs.twimg.com/media/ChinivEWMAErhog.jpg",
+          "url": "https://t.co/E7ipLlqpwC",
+          "type": "photo",
+          "id_str": "727515555012423681"
+        }
+      ]
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 15:30:36 +0000 2016",
+    "id": 727520741889994752,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 2,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "media": [
+        {
+          "indices": [
+            116,
+            139
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/ChinivEWMAErhog.jpg",
+          "id": 727515555012423681,
+          "expanded_url": "http://twitter.com/RepRyanZinke/status/727520741889994752/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 713,
+              "w": 592,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 409,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 713,
+              "w": 592,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/E7ipLlqpwC",
+          "media_url": "http://pbs.twimg.com/media/ChinivEWMAErhog.jpg",
+          "url": "https://t.co/E7ipLlqpwC",
+          "type": "photo",
+          "id_str": "727515555012423681"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            6,
+            29
+          ],
+          "text": "TeacherAppreciationDay"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "Happy #TeacherAppreciationDay My grandmother taught in a one room schoolhouse in Richey. Tough job. So much respect https://t.co/E7ipLlqpwC",
+    "favorite_count": 10,
+    "possibly_sensitive": false,
+    "id_str": "727520741889994752",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "https://t.co/4VpMC6h5ac",
+          "indices": [
+            0,
+            23
+          ],
+          "expanded_url": "http://zinke.house.gov",
+          "display_url": "zinke.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "000000",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/2953494478/1447766591",
+  "name": "Ryan Zinke",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "2953494478"
+}

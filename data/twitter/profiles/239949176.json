@@ -1,0 +1,107 @@
+{
+  "url": "http://t.co/1QNH7tmurQ",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/199025462/Twitter.png",
+  "statuses_count": 2840,
+  "is_translation_enabled": false,
+  "location": "Los Angeles & Washington",
+  "favourites_count": 145,
+  "listed_count": 1123,
+  "profile_text_color": "634047",
+  "description": "Representing California's 37th District, which includes Los Angeles, South LA, and Culver City. https://t.co/XHzgMSAQAc",
+  "followers_count": 25335,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/605458297475317761/P1AjUUex_normal.jpg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/199025462/Twitter.png",
+  "notifications": false,
+  "profile_sidebar_fill_color": "E3E2DE",
+  "utc_offset": -14400,
+  "profile_background_color": "196A88",
+  "friends_count": 14807,
+  "profile_link_color": "088253",
+  "default_profile": false,
+  "created_at": "Tue Jan 18 20:25:36 +0000 2011",
+  "following": false,
+  "id": 239949176,
+  "has_extended_profile": false,
+  "profile_use_background_image": false,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/605458297475317761/P1AjUUex_normal.jpg",
+  "screen_name": "RepKarenBass",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Mon May 02 18:08:06 +0000 2016",
+    "id": 727197990625005568,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 11,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            7,
+            15
+          ],
+          "text": "MHM2016"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "During #MHM2016 lets commit to ending a stigma that has left too many suffering from mental illness feeling abandoned and alone.",
+    "favorite_count": 11,
+    "id_str": "727197990625005568",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/1QNH7tmurQ",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://karenbass.house.gov",
+          "display_url": "karenbass.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+        {
+          "url": "https://t.co/XHzgMSAQAc",
+          "indices": [
+            96,
+            119
+          ],
+          "expanded_url": "http://fb.me/RepKarenBass",
+          "display_url": "fb.me/RepKarenBass"
+        }
+      ]
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/239949176/1433187461",
+  "name": "Congressmember Bass",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "239949176"
+}

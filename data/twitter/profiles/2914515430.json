@@ -1,0 +1,187 @@
+{
+  "url": "http://t.co/jU8TYBqqHL",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "statuses_count": 1313,
+  "is_translation_enabled": false,
+  "location": "Otsego, MN | Washington, D.C.",
+  "favourites_count": 152,
+  "listed_count": 152,
+  "profile_text_color": "333333",
+  "description": "Husband, father, hockey fan, and Congressman for Minnesota's 6th District.",
+  "followers_count": 2477,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/618170231144476672/LEyqyYfr_normal.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -25200,
+  "profile_background_color": "C0DEED",
+  "friends_count": 143,
+  "profile_link_color": "0084B4",
+  "default_profile": true,
+  "created_at": "Wed Dec 10 21:44:52 +0000 2014",
+  "following": false,
+  "id": 2914515430,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/618170231144476672/LEyqyYfr_normal.png",
+  "screen_name": "RepTomEmmer",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "extended_entities": {
+      "media": [
+        {
+          "indices": [
+            116,
+            139
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/ChkKs_YWUAAlrPU.jpg",
+          "id": 727624582841126912,
+          "expanded_url": "http://twitter.com/RepTomEmmer/status/727624583566757888/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 276,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 157,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 471,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/rbjgoh1omY",
+          "media_url": "http://pbs.twimg.com/media/ChkKs_YWUAAlrPU.jpg",
+          "url": "https://t.co/rbjgoh1omY",
+          "type": "photo",
+          "id_str": "727624582841126912"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 22:23:13 +0000 2016",
+    "id": 727624583566757888,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 5,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "media": [
+        {
+          "indices": [
+            116,
+            139
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/ChkKs_YWUAAlrPU.jpg",
+          "id": 727624582841126912,
+          "expanded_url": "http://twitter.com/RepTomEmmer/status/727624583566757888/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 276,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 157,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 471,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/rbjgoh1omY",
+          "media_url": "http://pbs.twimg.com/media/ChkKs_YWUAAlrPU.jpg",
+          "url": "https://t.co/rbjgoh1omY",
+          "type": "photo",
+          "id_str": "727624582841126912"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            99,
+            114
+          ],
+          "text": "StateofMFG2016"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            68,
+            84
+          ],
+          "screen_name": "Enterprise_Minn",
+          "id": 15663256,
+          "id_str": "15663256",
+          "name": "Enterprise Minnesota"
+        }
+      ]
+    },
+    "text": "Manufacturing is a crucial part of MN\u2019s economy. So pleased to join @Enterprise_Minn for tonight\u2019s #StateofMFG2016! https://t.co/rbjgoh1omY",
+    "favorite_count": 5,
+    "possibly_sensitive": false,
+    "id_str": "727624583566757888",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/jU8TYBqqHL",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://Emmer.house.gov",
+          "display_url": "Emmer.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/2914515430/1446669081",
+  "name": "Tom Emmer",
+  "is_translator": false,
+  "time_zone": "Pacific Time (US & Canada)",
+  "id_str": "2914515430"
+}

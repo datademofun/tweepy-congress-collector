@@ -1,0 +1,169 @@
+{
+  "url": "http://t.co/IrOQ79yEht",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/467045683766116352/AeQkWfXL.jpeg",
+  "statuses_count": 2954,
+  "is_translation_enabled": false,
+  "location": "Fullerton, CA & Washington, DC",
+  "favourites_count": 1,
+  "listed_count": 817,
+  "profile_text_color": "333333",
+  "description": "U.S. Representative Ed Royce proudly serves California's 39th Congressional District and is Chairman of the @HouseForeign Affairs Committee.",
+  "followers_count": 13935,
+  "profile_background_tile": true,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1238558926/EdwardRoyce-colorheadshot1_normal.jpg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/467045683766116352/AeQkWfXL.jpeg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -14400,
+  "profile_background_color": "FFFFFF",
+  "friends_count": 572,
+  "profile_link_color": "F0770C",
+  "default_profile": false,
+  "created_at": "Thu Feb 03 12:40:15 +0000 2011",
+  "following": false,
+  "id": 246769138,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1238558926/EdwardRoyce-colorheadshot1_normal.jpg",
+  "screen_name": "RepEdRoyce",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Wed May 04 02:11:17 +0000 2016",
+    "id": 727681976312987648,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 2,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            17,
+            26
+          ],
+          "text": "MIGlobal"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/LY2dWCHDRA",
+          "indices": [
+            139,
+            140
+          ],
+          "expanded_url": "https://twitter.com/repedroyce/status/727648206079840257",
+          "display_url": "twitter.com/repedroyce/sta\u2026"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            15
+          ],
+          "screen_name": "LindseyUSMI",
+          "id": 3795762560,
+          "id_str": "3795762560",
+          "name": "Lindsey johnson"
+        }
+      ]
+    },
+    "text": "RT @LindseyUSMI: #MIGlobal - proud to be part of this panel focused on putting more private capital into the housing finance system  https:\u2026",
+    "favorite_count": 0,
+    "possibly_sensitive": false,
+    "id_str": "727681976312987648",
+    "retweeted_status": {
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "quoted_status_id_str": "727648206079840257",
+      "quoted_status_id": 727648206079840257,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": true,
+      "place": null,
+      "in_reply_to_user_id": null,
+      "coordinates": null,
+      "truncated": false,
+      "in_reply_to_status_id_str": null,
+      "created_at": "Wed May 04 01:36:04 +0000 2016",
+      "id": 727673113559764992,
+      "favorited": false,
+      "geo": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_screen_name": null,
+      "retweet_count": 2,
+      "lang": "en",
+      "retweeted": false,
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              0,
+              9
+            ],
+            "text": "MIGlobal"
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/LY2dWCHDRA",
+            "indices": [
+              116,
+              139
+            ],
+            "expanded_url": "https://twitter.com/repedroyce/status/727648206079840257",
+            "display_url": "twitter.com/repedroyce/sta\u2026"
+          }
+        ],
+        "symbols": [],
+        "user_mentions": []
+      },
+      "text": "#MIGlobal - proud to be part of this panel focused on putting more private capital into the housing finance system  https://t.co/LY2dWCHDRA",
+      "favorite_count": 1,
+      "possibly_sensitive": false,
+      "id_str": "727673113559764992",
+      "contributors": null
+    },
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/IrOQ79yEht",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://www.royce.house.gov",
+          "display_url": "royce.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/246769138/1410896724",
+  "name": "Ed Royce",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "246769138"
+}

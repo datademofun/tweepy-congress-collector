@@ -1,0 +1,126 @@
+{
+  "url": "http://t.co/yD13GE8LK4",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "statuses_count": 3263,
+  "is_translation_enabled": false,
+  "location": "",
+  "favourites_count": 752,
+  "listed_count": 85,
+  "profile_text_color": "000000",
+  "description": "Representing New Jersey's 1st District in the U.S. House of Representatives",
+  "followers_count": 1402,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/684805798489374720/_vCfpWrb_normal.jpg",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "notifications": false,
+  "profile_sidebar_fill_color": "000000",
+  "utc_offset": -25200,
+  "profile_background_color": "000000",
+  "friends_count": 569,
+  "profile_link_color": "3B94D9",
+  "default_profile": false,
+  "created_at": "Fri Mar 27 20:08:34 +0000 2015",
+  "following": false,
+  "id": 3122099613,
+  "has_extended_profile": false,
+  "profile_use_background_image": false,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/684805798489374720/_vCfpWrb_normal.jpg",
+  "screen_name": "DonaldNorcross",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 20:24:14 +0000 2016",
+    "id": 727594636533960704,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 0,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            41,
+            50
+          ],
+          "text": "veterans"
+        },
+        {
+          "indices": [
+            59,
+            70
+          ],
+          "text": "employment"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/AE1Cj0MhRT",
+          "indices": [
+            121,
+            144
+          ],
+          "expanded_url": "https://www.dol.gov/newsroom/releases/vets/vets20160502",
+          "display_url": "dol.gov/newsroom/relea\u2026"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            30,
+            36
+          ],
+          "screen_name": "USDOL",
+          "id": 20179628,
+          "id_str": "20179628",
+          "name": "US Labor Department"
+        }
+      ]
+    },
+    "text": "One-stop online resource from @USDOL for #veterans seeking #employment - our heroes deserve &amp; earned this assistance\nhttps://t.co/AE1Cj0MhRT",
+    "favorite_count": 1,
+    "possibly_sensitive": false,
+    "id_str": "727594636533960704",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/yD13GE8LK4",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://norcross.house.gov",
+          "display_url": "norcross.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "000000",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/3122099613/1449453924",
+  "name": "Donald Norcross",
+  "is_translator": false,
+  "time_zone": "Pacific Time (US & Canada)",
+  "id_str": "3122099613"
+}

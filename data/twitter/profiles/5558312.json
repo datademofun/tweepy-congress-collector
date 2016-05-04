@@ -1,0 +1,201 @@
+{
+  "url": "http://t.co/PnVwyyvcAT",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/438034918/boozman_twitter.jpg",
+  "statuses_count": 2135,
+  "is_translation_enabled": false,
+  "location": "Arkansas",
+  "favourites_count": 30,
+  "listed_count": 1676,
+  "profile_text_color": "666666",
+  "description": "Representing Arkansas in the U.S. Senate.  Contact Info: 202-224-4843",
+  "followers_count": 27512,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1252648707/Senator_John_Boozman_-_twitter2_normal.jpg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/438034918/boozman_twitter.jpg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "252429",
+  "utc_offset": -14400,
+  "profile_background_color": "1A1B1F",
+  "friends_count": 605,
+  "profile_link_color": "A60000",
+  "default_profile": false,
+  "created_at": "Fri Apr 27 16:05:52 +0000 2007",
+  "following": false,
+  "id": 5558312,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1252648707/Senator_John_Boozman_-_twitter2_normal.jpg",
+  "screen_name": "JohnBoozman",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "extended_entities": {
+      "media": [
+        {
+          "indices": [
+            115,
+            138
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/ChkGqxHW0AA4UPf.jpg",
+          "id": 727620146605510656,
+          "expanded_url": "http://twitter.com/JohnBoozman/status/727620159683301377/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 800,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 453,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 1365,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/Vu0rwnoYHa",
+          "media_url": "http://pbs.twimg.com/media/ChkGqxHW0AA4UPf.jpg",
+          "url": "https://t.co/Vu0rwnoYHa",
+          "type": "photo",
+          "id_str": "727620146605510656"
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M5)</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 22:05:39 +0000 2016",
+    "id": 727620159683301377,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 5,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "media": [
+        {
+          "indices": [
+            115,
+            138
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/ChkGqxHW0AA4UPf.jpg",
+          "id": 727620146605510656,
+          "expanded_url": "http://twitter.com/JohnBoozman/status/727620159683301377/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 800,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 453,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 1365,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/Vu0rwnoYHa",
+          "media_url": "http://pbs.twimg.com/media/ChkGqxHW0AA4UPf.jpg",
+          "url": "https://t.co/Vu0rwnoYHa",
+          "type": "photo",
+          "id_str": "727620146605510656"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            7,
+            16
+          ],
+          "text": "Arkansas"
+        },
+        {
+          "indices": [
+            50,
+            61
+          ],
+          "text": "Washington"
+        },
+        {
+          "indices": [
+            109,
+            114
+          ],
+          "text": "arpx"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            36,
+            49
+          ],
+          "screen_name": "ElecCoopsArk",
+          "id": 1905205968,
+          "id_str": "1905205968",
+          "name": "Elec Co-ops of Ark"
+        }
+      ]
+    },
+    "text": "I'm in #Arkansas so couldn't attend @ElecCoopsArk #Washington reception but it looks like there's a fill-in. #arpx https://t.co/Vu0rwnoYHa",
+    "favorite_count": 9,
+    "possibly_sensitive": false,
+    "id_str": "727620159683301377",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/PnVwyyvcAT",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://boozman.senate.gov",
+          "display_url": "boozman.senate.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "181A1E",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/5558312/1399312664",
+  "name": "Senator John Boozman",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "5558312"
+}

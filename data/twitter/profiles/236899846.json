@@ -1,0 +1,189 @@
+{
+  "url": "http://t.co/ZiSIYVANMc",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "statuses_count": 3140,
+  "is_translation_enabled": false,
+  "location": "",
+  "favourites_count": 27,
+  "listed_count": 640,
+  "profile_text_color": "333333",
+  "description": "A self-made businessman, husband and father committed to representing the people of New York's 22nd Congressional District.",
+  "followers_count": 9527,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1831796855/HANN9330_normal.jpg",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -14400,
+  "profile_background_color": "C0DEED",
+  "friends_count": 522,
+  "profile_link_color": "0084B4",
+  "default_profile": true,
+  "created_at": "Tue Jan 11 16:34:58 +0000 2011",
+  "following": false,
+  "id": 236899846,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1831796855/HANN9330_normal.jpg",
+  "screen_name": "RepRichardHanna",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Fri Apr 29 14:22:56 +0000 2016",
+    "id": 726054164761997313,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 3,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            57,
+            75
+          ],
+          "text": "Champion4Children"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/dnVSqVtzl9",
+          "indices": [
+            84,
+            107
+          ],
+          "expanded_url": "https://twitter.com/McPhersonHall/status/721685897645666304",
+          "display_url": "twitter.com/McPhersonHall/\u2026"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            17
+          ],
+          "screen_name": "Campaign4Kids",
+          "id": 197567344,
+          "id_str": "197567344",
+          "name": "CampaignForChildren"
+        },
+        {
+          "indices": [
+            29,
+            45
+          ],
+          "screen_name": "RepRichardHanna",
+          "id": 236899846,
+          "id_str": "236899846",
+          "name": "Rep. Richard Hanna"
+        }
+      ]
+    },
+    "text": "RT @Campaign4Kids: We agree! @RepRichardHanna has been a #Champion4Children. --&gt; https://t.co/dnVSqVtzl9",
+    "favorite_count": 0,
+    "possibly_sensitive": false,
+    "id_str": "726054164761997313",
+    "retweeted_status": {
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+      "quoted_status_id_str": "721685897645666304",
+      "quoted_status_id": 721685897645666304,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": true,
+      "place": null,
+      "in_reply_to_user_id": null,
+      "coordinates": null,
+      "truncated": false,
+      "in_reply_to_status_id_str": null,
+      "created_at": "Fri Apr 29 13:38:20 +0000 2016",
+      "id": 726042938338361344,
+      "favorited": false,
+      "geo": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_screen_name": null,
+      "retweet_count": 3,
+      "lang": "en",
+      "retweeted": false,
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              38,
+              56
+            ],
+            "text": "Champion4Children"
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/dnVSqVtzl9",
+            "indices": [
+              65,
+              88
+            ],
+            "expanded_url": "https://twitter.com/McPhersonHall/status/721685897645666304",
+            "display_url": "twitter.com/McPhersonHall/\u2026"
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "indices": [
+              10,
+              26
+            ],
+            "screen_name": "RepRichardHanna",
+            "id": 236899846,
+            "id_str": "236899846",
+            "name": "Rep. Richard Hanna"
+          }
+        ]
+      },
+      "text": "We agree! @RepRichardHanna has been a #Champion4Children. --&gt; https://t.co/dnVSqVtzl9",
+      "favorite_count": 0,
+      "possibly_sensitive": false,
+      "id_str": "726042938338361344",
+      "contributors": null
+    },
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/ZiSIYVANMc",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://hanna.house.gov",
+          "display_url": "hanna.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "C0DEED",
+  "name": "Rep. Richard Hanna",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "236899846"
+}

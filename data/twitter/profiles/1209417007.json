@@ -1,0 +1,364 @@
+{
+  "url": "http://t.co/JrUbzHZc34",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/492426395742515200/LNEsOJVA.jpeg",
+  "statuses_count": 4976,
+  "is_translation_enabled": false,
+  "location": "Jefferson, LA",
+  "favourites_count": 220,
+  "listed_count": 592,
+  "profile_text_color": "333333",
+  "description": "Serving as House Majority Whip and representing LA-01. Follow me on Facebook: http://t.co/mIQZ2Jh9Gt and Instagram: http://t.co/5wuWc45xvq",
+  "followers_count": 14415,
+  "profile_background_tile": true,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/613379377527549952/pBAI3r41_normal.jpg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/492426395742515200/LNEsOJVA.jpeg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -10800,
+  "profile_background_color": "C0DEED",
+  "friends_count": 2021,
+  "profile_link_color": "B30000",
+  "default_profile": false,
+  "created_at": "Fri Feb 22 18:10:47 +0000 2013",
+  "following": false,
+  "id": 1209417007,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/613379377527549952/pBAI3r41_normal.jpg",
+  "screen_name": "SteveScalise",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "extended_entities": {
+      "media": [
+        {
+          "url": "https://t.co/scCgjT2to9",
+          "media_url_https": "https://pbs.twimg.com/media/ChjcZ6_U4AAGWXu.jpg",
+          "id": 727573677710041088,
+          "display_url": "pic.twitter.com/scCgjT2to9",
+          "source_user_id": 8775672,
+          "source_status_id": 727576964362461184,
+          "type": "photo",
+          "indices": [
+            122,
+            140
+          ],
+          "expanded_url": "http://twitter.com/USArmy/status/727576964362461184/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 505,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 286,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 534,
+              "w": 634,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "media_url": "http://pbs.twimg.com/media/ChjcZ6_U4AAGWXu.jpg",
+          "source_user_id_str": "8775672",
+          "source_status_id_str": "727576964362461184",
+          "id_str": "727573677710041088"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 19:42:19 +0000 2016",
+    "id": 727584088018825216,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 104,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "media": [
+        {
+          "url": "https://t.co/scCgjT2to9",
+          "media_url_https": "https://pbs.twimg.com/media/ChjcZ6_U4AAGWXu.jpg",
+          "id": 727573677710041088,
+          "display_url": "pic.twitter.com/scCgjT2to9",
+          "source_user_id": 8775672,
+          "source_status_id": 727576964362461184,
+          "type": "photo",
+          "indices": [
+            122,
+            140
+          ],
+          "expanded_url": "http://twitter.com/USArmy/status/727576964362461184/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 505,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 286,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 534,
+              "w": 634,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "media_url": "http://pbs.twimg.com/media/ChjcZ6_U4AAGWXu.jpg",
+          "source_user_id_str": "8775672",
+          "source_status_id_str": "727576964362461184",
+          "id_str": "727573677710041088"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            12,
+            20
+          ],
+          "text": "STANDTO"
+        },
+        {
+          "indices": [
+            37,
+            44
+          ],
+          "text": "USArmy"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/MxWdAu6MC1",
+          "indices": [
+            98,
+            121
+          ],
+          "expanded_url": "http://go.usa.gov/cuUaW",
+          "display_url": "go.usa.gov/cuUaW"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            10
+          ],
+          "screen_name": "USArmy",
+          "id": 8775672,
+          "id_str": "8775672",
+          "name": "U.S. Army"
+        }
+      ]
+    },
+    "text": "RT @USArmy: #STANDTO: This week, the #USArmy remembers the victims and survivors of the Holocaust https://t.co/MxWdAu6MC1 https://t.co/scCg\u2026",
+    "favorite_count": 0,
+    "possibly_sensitive": false,
+    "id_str": "727584088018825216",
+    "retweeted_status": {
+      "extended_entities": {
+        "media": [
+          {
+            "indices": [
+              110,
+              133
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/ChjcZ6_U4AAGWXu.jpg",
+            "id": 727573677710041088,
+            "expanded_url": "http://twitter.com/USArmy/status/727576964362461184/photo/1",
+            "sizes": {
+              "medium": {
+                "h": 505,
+                "w": 600,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 286,
+                "w": 340,
+                "resize": "fit"
+              },
+              "large": {
+                "h": 534,
+                "w": 634,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "display_url": "pic.twitter.com/scCgjT2to9",
+            "media_url": "http://pbs.twimg.com/media/ChjcZ6_U4AAGWXu.jpg",
+            "url": "https://t.co/scCgjT2to9",
+            "type": "photo",
+            "id_str": "727573677710041088"
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "place": null,
+      "in_reply_to_user_id": null,
+      "coordinates": null,
+      "truncated": false,
+      "in_reply_to_status_id_str": null,
+      "created_at": "Tue May 03 19:14:00 +0000 2016",
+      "id": 727576964362461184,
+      "favorited": false,
+      "geo": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_screen_name": null,
+      "retweet_count": 104,
+      "lang": "en",
+      "retweeted": false,
+      "entities": {
+        "media": [
+          {
+            "indices": [
+              110,
+              133
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/ChjcZ6_U4AAGWXu.jpg",
+            "id": 727573677710041088,
+            "expanded_url": "http://twitter.com/USArmy/status/727576964362461184/photo/1",
+            "sizes": {
+              "medium": {
+                "h": 505,
+                "w": 600,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 286,
+                "w": 340,
+                "resize": "fit"
+              },
+              "large": {
+                "h": 534,
+                "w": 634,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "display_url": "pic.twitter.com/scCgjT2to9",
+            "media_url": "http://pbs.twimg.com/media/ChjcZ6_U4AAGWXu.jpg",
+            "url": "https://t.co/scCgjT2to9",
+            "type": "photo",
+            "id_str": "727573677710041088"
+          }
+        ],
+        "hashtags": [
+          {
+            "indices": [
+              0,
+              8
+            ],
+            "text": "STANDTO"
+          },
+          {
+            "indices": [
+              25,
+              32
+            ],
+            "text": "USArmy"
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/MxWdAu6MC1",
+            "indices": [
+              86,
+              109
+            ],
+            "expanded_url": "http://go.usa.gov/cuUaW",
+            "display_url": "go.usa.gov/cuUaW"
+          }
+        ],
+        "symbols": [],
+        "user_mentions": []
+      },
+      "text": "#STANDTO: This week, the #USArmy remembers the victims and survivors of the Holocaust https://t.co/MxWdAu6MC1 https://t.co/scCgjT2to9",
+      "favorite_count": 202,
+      "possibly_sensitive": false,
+      "id_str": "727576964362461184",
+      "contributors": null
+    },
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/JrUbzHZc34",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://www.majoritywhip.gov",
+          "display_url": "majoritywhip.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+        {
+          "url": "http://t.co/mIQZ2Jh9Gt",
+          "indices": [
+            78,
+            100
+          ],
+          "expanded_url": "http://facebook.com/repstevescalise",
+          "display_url": "facebook.com/repstevescalise"
+        },
+        {
+          "url": "http://t.co/5wuWc45xvq",
+          "indices": [
+            116,
+            138
+          ],
+          "expanded_url": "http://instagram.com/stevescalise",
+          "display_url": "instagram.com/stevescalise"
+        }
+      ]
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1209417007/1439224958",
+  "name": "Rep. Steve Scalise",
+  "is_translator": false,
+  "time_zone": "Atlantic Time (Canada)",
+  "id_str": "1209417007"
+}

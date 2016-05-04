@@ -1,0 +1,164 @@
+{
+  "url": "http://t.co/z9qFNLiW0I",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/458706762556665856/3Ne75toH.jpeg",
+  "statuses_count": 6454,
+  "is_translation_enabled": false,
+  "location": "#MD/DC",
+  "favourites_count": 261,
+  "listed_count": 1718,
+  "profile_text_color": "333333",
+  "description": "U.S. Sen. Ben Cardin- #MD \nRanking Member- Foreign Relations Committee\nIG- https://t.co/g3YzVDoXG7\n\nFB- https://t.co/quMA3SHbqI\nMedium- https://t.co/JNnAUMemAO",
+  "followers_count": 33738,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/727576102860886017/0CM-nWw9_normal.jpg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/458706762556665856/3Ne75toH.jpeg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "EFEFEF",
+  "utc_offset": -14400,
+  "profile_background_color": "131516",
+  "friends_count": 387,
+  "profile_link_color": "3B94D9",
+  "default_profile": false,
+  "created_at": "Wed Jan 27 22:03:53 +0000 2010",
+  "following": false,
+  "id": 109071031,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/727576102860886017/0CM-nWw9_normal.jpg",
+  "screen_name": "SenatorCardin",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 21:06:01 +0000 2016",
+    "id": 727605152438439936,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 3,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            99,
+            104
+          ],
+          "text": "MDAg"
+        },
+        {
+          "indices": [
+            106,
+            115
+          ],
+          "text": "buylocal"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/HTq8zBQqmy",
+          "indices": [
+            116,
+            139
+          ],
+          "expanded_url": "http://www.harvestdirectory.org/index.php",
+          "display_url": "harvestdirectory.org/index.php"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            33,
+            47
+          ],
+          "screen_name": "EShoreHarvest",
+          "id": 856511372,
+          "id_str": "856511372",
+          "name": "Harvest Directory"
+        },
+        {
+          "indices": [
+            57,
+            66
+          ],
+          "screen_name": "washcoll",
+          "id": 54622807,
+          "id_str": "54622807",
+          "name": "Washington College"
+        }
+      ]
+    },
+    "text": "Had a chance to learn more about @EShoreHarvest while at @washcoll today. Great program supporting #MDAg  #buylocal https://t.co/HTq8zBQqmy",
+    "favorite_count": 3,
+    "possibly_sensitive": false,
+    "id_str": "727605152438439936",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/z9qFNLiW0I",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://www.cardin.senate.gov",
+          "display_url": "cardin.senate.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+        {
+          "url": "https://t.co/g3YzVDoXG7",
+          "indices": [
+            75,
+            98
+          ],
+          "expanded_url": "https://instagram.com/senatorcardin/",
+          "display_url": "instagram.com/senatorcardin/"
+        },
+        {
+          "url": "https://t.co/quMA3SHbqI",
+          "indices": [
+            104,
+            127
+          ],
+          "expanded_url": "https://www.facebook.com/senatorbencardin/",
+          "display_url": "facebook.com/senatorbencard\u2026"
+        },
+        {
+          "url": "https://t.co/JNnAUMemAO",
+          "indices": [
+            136,
+            159
+          ],
+          "expanded_url": "https://medium.com/@SenatorBenCardin",
+          "display_url": "medium.com/@SenatorBenCar\u2026"
+        }
+      ]
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/109071031/1462302779",
+  "name": "Senator Ben Cardin",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "109071031"
+}

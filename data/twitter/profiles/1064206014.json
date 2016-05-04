@@ -1,0 +1,183 @@
+{
+  "url": "http://t.co/gMf3nFbm",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/864397023/36d77563c7ba1aa257e17474dc44e14f.jpeg",
+  "statuses_count": 1579,
+  "is_translation_enabled": false,
+  "location": "",
+  "favourites_count": 196,
+  "listed_count": 607,
+  "profile_text_color": "333333",
+  "description": "Aloha and welcome to the official Twitter page of Congresswoman Tulsi Gabbard (HI-02). Account managed by staff. Tulsi tweets signed TG.",
+  "followers_count": 23875,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/3599981746/f2ae50b7a68febfe1c960e713e5a0ff4_normal.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/864397023/36d77563c7ba1aa257e17474dc44e14f.jpeg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -14400,
+  "profile_background_color": "C0DEED",
+  "friends_count": 821,
+  "profile_link_color": "0B88B5",
+  "default_profile": false,
+  "created_at": "Sat Jan 05 22:57:50 +0000 2013",
+  "following": false,
+  "id": 1064206014,
+  "has_extended_profile": false,
+  "profile_use_background_image": false,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/3599981746/f2ae50b7a68febfe1c960e713e5a0ff4_normal.jpeg",
+  "screen_name": "TulsiPress",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "extended_entities": {
+      "media": [
+        {
+          "indices": [
+            120,
+            143
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/Chjw9h4W0AAujrr.jpg",
+          "id": 727596279677767680,
+          "expanded_url": "http://twitter.com/TulsiPress/status/727596294638850048/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 409,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 232,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 698,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/BIAXQTAZaF",
+          "media_url": "http://pbs.twimg.com/media/Chjw9h4W0AAujrr.jpg",
+          "url": "https://t.co/BIAXQTAZaF",
+          "type": "photo",
+          "id_str": "727596279677767680"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 20:30:49 +0000 2016",
+    "id": 727596294638850048,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 33,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "media": [
+        {
+          "indices": [
+            120,
+            143
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/Chjw9h4W0AAujrr.jpg",
+          "id": 727596279677767680,
+          "expanded_url": "http://twitter.com/TulsiPress/status/727596294638850048/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 409,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 232,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 698,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/BIAXQTAZaF",
+          "media_url": "http://pbs.twimg.com/media/Chjw9h4W0AAujrr.jpg",
+          "url": "https://t.co/BIAXQTAZaF",
+          "type": "photo",
+          "id_str": "727596279677767680"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            30,
+            37
+          ],
+          "text": "Hawaii"
+        },
+        {
+          "indices": [
+            96,
+            119
+          ],
+          "text": "TeacherAppreciationDay"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "Mahalo to all the teachers in #Hawaii &amp; across the US who work tirelessly for our keiki -TG #TeacherAppreciationDay https://t.co/BIAXQTAZaF",
+    "favorite_count": 106,
+    "possibly_sensitive": false,
+    "id_str": "727596294638850048",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/gMf3nFbm",
+          "indices": [
+            0,
+            20
+          ],
+          "expanded_url": "http://gabbard.house.gov",
+          "display_url": "gabbard.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "000000",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1064206014/1396986019",
+  "name": "Rep. Tulsi Gabbard",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "1064206014"
+}

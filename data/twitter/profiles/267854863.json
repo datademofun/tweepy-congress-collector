@@ -1,0 +1,208 @@
+{
+  "url": "http://t.co/SUcIB89W63",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/674891845/91d35ac118b9a00e9972453684caeb4b.jpeg",
+  "statuses_count": 1767,
+  "is_translation_enabled": false,
+  "location": "",
+  "favourites_count": 218,
+  "listed_count": 481,
+  "profile_text_color": "333333",
+  "description": "Representing the 2nd Congressional District of Louisiana and the Who Dat Nation.",
+  "followers_count": 8764,
+  "profile_background_tile": true,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/615611063124373504/VQb-9ej2_normal.jpg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/674891845/91d35ac118b9a00e9972453684caeb4b.jpeg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -18000,
+  "profile_background_color": "C0DEED",
+  "friends_count": 820,
+  "profile_link_color": "3B94D9",
+  "default_profile": false,
+  "created_at": "Thu Mar 17 17:30:45 +0000 2011",
+  "following": false,
+  "id": 267854863,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/615611063124373504/VQb-9ej2_normal.jpg",
+  "screen_name": "RepRichmond",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "extended_entities": {
+      "media": [
+        {
+          "indices": [
+            65,
+            88
+          ],
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/725343806149824512/pu/img/VxgWFNNbjjBKAoqc.jpg",
+          "id": 725343806149824512,
+          "expanded_url": "http://twitter.com/RepRichmond/status/725343854728237056/video/1",
+          "sizes": {
+            "medium": {
+              "h": 600,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 340,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 720,
+              "w": 720,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/9XzsSfKQEO",
+          "video_info": {
+            "aspect_ratio": [
+              1,
+              1
+            ],
+            "duration_millis": 30018,
+            "variants": [
+              {
+                "url": "https://video.twimg.com/ext_tw_video/725343806149824512/pu/vid/240x240/nQtBdhsyJRXZGL9X.mp4",
+                "content_type": "video/mp4",
+                "bitrate": 320000
+              },
+              {
+                "url": "https://video.twimg.com/ext_tw_video/725343806149824512/pu/vid/480x480/B6Qt80gjii8UKztX.mp4",
+                "content_type": "video/mp4",
+                "bitrate": 832000
+              },
+              {
+                "url": "https://video.twimg.com/ext_tw_video/725343806149824512/pu/vid/720x720/j7eTu6Qq1U09WKFB.mp4",
+                "content_type": "video/mp4",
+                "bitrate": 1280000
+              },
+              {
+                "url": "https://video.twimg.com/ext_tw_video/725343806149824512/pu/pl/BZKTX-xnNUC6Q3qf.m3u8",
+                "content_type": "application/x-mpegURL"
+              },
+              {
+                "url": "https://video.twimg.com/ext_tw_video/725343806149824512/pu/pl/BZKTX-xnNUC6Q3qf.mpd",
+                "content_type": "application/dash+xml"
+              }
+            ]
+          },
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/725343806149824512/pu/img/VxgWFNNbjjBKAoqc.jpg",
+          "url": "https://t.co/9XzsSfKQEO",
+          "type": "video",
+          "id_str": "725343806149824512"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Wed Apr 27 15:20:25 +0000 2016",
+    "id": 725343854728237056,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 2,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "media": [
+        {
+          "indices": [
+            65,
+            88
+          ],
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/725343806149824512/pu/img/VxgWFNNbjjBKAoqc.jpg",
+          "id": 725343806149824512,
+          "expanded_url": "http://twitter.com/RepRichmond/status/725343854728237056/video/1",
+          "sizes": {
+            "medium": {
+              "h": 600,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 340,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 720,
+              "w": 720,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/9XzsSfKQEO",
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/725343806149824512/pu/img/VxgWFNNbjjBKAoqc.jpg",
+          "url": "https://t.co/9XzsSfKQEO",
+          "type": "photo",
+          "id_str": "725343806149824512"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            8,
+            22
+          ],
+          "text": "100BlackWomen"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "Joining #100BlackWomen to discuss the school to prison pipeline. https://t.co/9XzsSfKQEO",
+    "favorite_count": 3,
+    "possibly_sensitive": false,
+    "id_str": "725343854728237056",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/SUcIB89W63",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://richmond.house.gov",
+          "display_url": "richmond.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/267854863/1435584500",
+  "name": "Rep Cedric Richmond",
+  "is_translator": false,
+  "time_zone": "Quito",
+  "id_str": "267854863"
+}

@@ -1,0 +1,186 @@
+{
+  "url": "http://t.co/qslO3rsq",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "statuses_count": 80,
+  "is_translation_enabled": false,
+  "location": "Washington, DC",
+  "favourites_count": 0,
+  "listed_count": 151,
+  "profile_text_color": "333333",
+  "description": "",
+  "followers_count": 1193,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/2870867832/a4da73613b727575cb724e57500bee06_normal.jpeg",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -14400,
+  "profile_background_color": "C0DEED",
+  "friends_count": 15,
+  "profile_link_color": "0084B4",
+  "default_profile": true,
+  "created_at": "Fri Jul 29 21:40:22 +0000 2011",
+  "following": false,
+  "id": 344972339,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/2870867832/a4da73613b727575cb724e57500bee06_normal.jpeg",
+  "screen_name": "Rep_DevinNunes",
+  "verified": false,
+  "geo_enabled": false,
+  "status": {
+    "extended_entities": {
+      "media": [
+        {
+          "indices": [
+            76,
+            99
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/CgrUOfsW0AAS4YM.jpg",
+          "id": 723624035637186560,
+          "expanded_url": "http://twitter.com/Rep_DevinNunes/status/723624036165640192/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 427,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 242,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 668,
+              "w": 939,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/b6hKl5o17i",
+          "media_url": "http://pbs.twimg.com/media/CgrUOfsW0AAS4YM.jpg",
+          "url": "https://t.co/b6hKl5o17i",
+          "type": "photo",
+          "id_str": "723624035637186560"
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Fri Apr 22 21:26:29 +0000 2016",
+    "id": 723624036165640192,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 1,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "media": [
+        {
+          "indices": [
+            76,
+            99
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/CgrUOfsW0AAS4YM.jpg",
+          "id": 723624035637186560,
+          "expanded_url": "http://twitter.com/Rep_DevinNunes/status/723624036165640192/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 427,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 242,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 668,
+              "w": 939,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/b6hKl5o17i",
+          "media_url": "http://pbs.twimg.com/media/CgrUOfsW0AAS4YM.jpg",
+          "url": "https://t.co/b6hKl5o17i",
+          "type": "photo",
+          "id_str": "723624035637186560"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            0,
+            12
+          ],
+          "text": "NunesDigest"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/jqqRTo5eJ8",
+          "indices": [
+            52,
+            75
+          ],
+          "expanded_url": "http://ow.ly/4n0bro",
+          "display_url": "ow.ly/4n0bro"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "#NunesDigest updated for your weekend reading here: https://t.co/jqqRTo5eJ8 https://t.co/b6hKl5o17i",
+    "favorite_count": 0,
+    "possibly_sensitive": false,
+    "id_str": "723624036165640192",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/qslO3rsq",
+          "indices": [
+            0,
+            20
+          ],
+          "expanded_url": "http://nunes.house.gov",
+          "display_url": "nunes.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/344972339/1353428355",
+  "name": "Rep. Devin Nunes",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "344972339"
+}

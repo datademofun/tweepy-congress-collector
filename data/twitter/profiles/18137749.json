@@ -1,0 +1,102 @@
+{
+  "url": "http://t.co/F8xR5b0kZu",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "statuses_count": 1687,
+  "is_translation_enabled": false,
+  "location": "Maryland's 8th District",
+  "favourites_count": 279,
+  "listed_count": 1210,
+  "profile_text_color": "333333",
+  "description": "Ranking Member, @HouseBudgetDems. Represent Maryland's 8th District. Follows, replies & RTs \u2260 endorsement.",
+  "followers_count": 26833,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/649240443243237380/0rTa8ySf_normal.jpg",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -14400,
+  "profile_background_color": "C0DEED",
+  "friends_count": 3822,
+  "profile_link_color": "0084B4",
+  "default_profile": true,
+  "created_at": "Mon Dec 15 15:00:29 +0000 2008",
+  "following": false,
+  "id": 18137749,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/649240443243237380/0rTa8ySf_normal.jpg",
+  "screen_name": "ChrisVanHollen",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "quoted_status_id_str": "727161424921894912",
+    "quoted_status_id": 727161424921894912,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 20:46:47 +0000 2016",
+    "id": 727600313667039232,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 4,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/FLK8HhiwtR",
+          "indices": [
+            78,
+            101
+          ],
+          "expanded_url": "https://twitter.com/blairprincipal/status/727161424921894912",
+          "display_url": "twitter.com/blairprincipal\u2026"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "Congrats to these brilliant young scientists &amp; their incredible teachers! https://t.co/FLK8HhiwtR",
+    "favorite_count": 17,
+    "possibly_sensitive": false,
+    "id_str": "727600313667039232",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/F8xR5b0kZu",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://vanhollen.house.gov",
+          "display_url": "vanhollen.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/18137749/1441222673",
+  "name": "Chris Van Hollen",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "18137749"
+}

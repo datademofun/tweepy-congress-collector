@@ -1,0 +1,119 @@
+{
+  "url": "http://t.co/86ovd85h30",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/573166688906059776/Fp6ZFRFp.jpeg",
+  "statuses_count": 2235,
+  "is_translation_enabled": false,
+  "location": "Georgia",
+  "favourites_count": 1736,
+  "listed_count": 556,
+  "profile_text_color": "333333",
+  "description": "Representing Georgia's 13th Congressional District including Cobb, Douglas, Fayette, Fulton, Clayton, and Henry Counties.",
+  "followers_count": 9112,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/573169044091613185/bLPRS9I9_normal.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/573166688906059776/Fp6ZFRFp.jpeg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "C0DFEC",
+  "utc_offset": -10800,
+  "profile_background_color": "3B94D9",
+  "friends_count": 1518,
+  "profile_link_color": "89C9FA",
+  "default_profile": false,
+  "created_at": "Tue Jul 20 14:10:32 +0000 2010",
+  "following": false,
+  "id": 168673083,
+  "has_extended_profile": false,
+  "profile_use_background_image": false,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/573169044091613185/bLPRS9I9_normal.jpeg",
+  "screen_name": "repdavidscott",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Mon May 02 18:10:31 +0000 2016",
+    "id": 727198600858599425,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 0,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            25,
+            43
+          ],
+          "text": "LoveJoyHighSchool"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/pHwROWAF2i",
+          "indices": [
+            111,
+            134
+          ],
+          "expanded_url": "http://1.usa.gov/1beUJXq",
+          "display_url": "1.usa.gov/1beUJXq"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            65,
+            73
+          ],
+          "screen_name": "usedgov",
+          "id": 20437286,
+          "id_str": "20437286",
+          "name": "US Dept of Education"
+        }
+      ]
+    },
+    "text": "Congrats to Olugbenga of #LoveJoyHighSchool for being honored by @usedgov as a 2016 U.S. Presidential Scholar! https://t.co/pHwROWAF2i",
+    "favorite_count": 3,
+    "possibly_sensitive": false,
+    "id_str": "727198600858599425",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/86ovd85h30",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://www.davidscott.house.gov/",
+          "display_url": "davidscott.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "A8C7F7",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/168673083/1425489882",
+  "name": "David Scott",
+  "is_translator": false,
+  "time_zone": "Atlantic Time (Canada)",
+  "id_str": "168673083"
+}

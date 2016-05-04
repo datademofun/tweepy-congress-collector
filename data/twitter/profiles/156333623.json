@@ -1,0 +1,88 @@
+{
+  "url": "http://t.co/oPgLvA0EBr",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+  "statuses_count": 559,
+  "is_translation_enabled": false,
+  "location": "Houston, TX",
+  "favourites_count": 0,
+  "listed_count": 634,
+  "profile_text_color": "333333",
+  "description": "Proud to represent the Ninth Congressional District of Texas in the United States House of Representatives.",
+  "followers_count": 10312,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/3316330449/984c689254421a8e1dbb6cc32391053f_normal.jpeg",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+  "notifications": false,
+  "profile_sidebar_fill_color": "FFFFFF",
+  "utc_offset": -10800,
+  "profile_background_color": "B2DFDA",
+  "friends_count": 214,
+  "profile_link_color": "6B7831",
+  "default_profile": false,
+  "created_at": "Wed Jun 16 17:20:23 +0000 2010",
+  "following": false,
+  "id": 156333623,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/3316330449/984c689254421a8e1dbb6cc32391053f_normal.jpeg",
+  "screen_name": "RepAlGreen",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Sun May 01 13:36:32 +0000 2016",
+    "id": 726767260438659072,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 4,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "On International Workers\u2019 Day, let\u2019s continue working to ensure hardworking Americans will earn at minimum a living wage.",
+    "favorite_count": 4,
+    "id_str": "726767260438659072",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/oPgLvA0EBr",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://algreen.house.gov",
+          "display_url": "algreen.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "EEEEEE",
+  "name": "Congressman Al Green",
+  "is_translator": false,
+  "time_zone": "Atlantic Time (Canada)",
+  "id_str": "156333623"
+}

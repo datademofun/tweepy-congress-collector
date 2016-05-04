@@ -1,0 +1,121 @@
+{
+  "url": "http://t.co/bEgQtuCKXN",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/852074035/233e7662072f4cf3cac4b1e1028814a8.jpeg",
+  "statuses_count": 1923,
+  "is_translation_enabled": false,
+  "location": "Naperville, IL ",
+  "favourites_count": 5,
+  "listed_count": 438,
+  "profile_text_color": "333333",
+  "description": "Congressman Bill Foster is a scientist and businessman representing the 11th Congressional District of Illinois",
+  "followers_count": 5730,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/654326440079429632/YqEhH_t7_normal.jpg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/852074035/233e7662072f4cf3cac4b1e1028814a8.jpeg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -25200,
+  "profile_background_color": "C0DEED",
+  "friends_count": 1922,
+  "profile_link_color": "116685",
+  "default_profile": false,
+  "created_at": "Fri Jan 11 18:17:11 +0000 2013",
+  "following": false,
+  "id": 1080509366,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/654326440079429632/YqEhH_t7_normal.jpg",
+  "screen_name": "RepBillFoster",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 19:24:12 +0000 2016",
+    "id": 727579530647502851,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 1,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/Chl5jyY2va",
+          "indices": [
+            121,
+            144
+          ],
+          "expanded_url": "http://slate.me/1TrBQq",
+          "display_url": "slate.me/1TrBQq"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            39,
+            53
+          ],
+          "screen_name": "RepZoeLofgren",
+          "id": 267938462,
+          "id_str": "267938462",
+          "name": "Rep. Zoe Lofgren"
+        },
+        {
+          "indices": [
+            113,
+            119
+          ],
+          "screen_name": "PPact",
+          "id": 22162854,
+          "id_str": "22162854",
+          "name": "Planned Parenthood"
+        }
+      ]
+    },
+    "text": "Proud to have 96 House colleagues join @RepZoeLofgren &amp; me calling for an end to the political witch hunt on @PPact: https://t.co/Chl5jyY2va",
+    "favorite_count": 0,
+    "possibly_sensitive": false,
+    "id_str": "727579530647502851",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/bEgQtuCKXN",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://foster.house.gov/about/full-biography",
+          "display_url": "foster.house.gov/about/full-bio\u2026"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080509366/1371843668",
+  "name": "Bill Foster",
+  "is_translator": false,
+  "time_zone": "Pacific Time (US & Canada)",
+  "id_str": "1080509366"
+}

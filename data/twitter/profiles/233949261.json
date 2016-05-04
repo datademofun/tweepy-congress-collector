@@ -1,0 +1,111 @@
+{
+  "url": "http://t.co/F9UwL81Pr9",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/281082821/BH_Twitter_Background2.jpg",
+  "statuses_count": 5155,
+  "is_translation_enabled": false,
+  "location": "2nd District, MI",
+  "favourites_count": 8,
+  "listed_count": 648,
+  "profile_text_color": "333333",
+  "description": "I serve the people of the 2nd District of Michigan. Member of Financial Services Committee. Father of 5. Visit http://t.co/Rj7T6mD76d for even more!",
+  "followers_count": 10741,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/443039780276682753/UYej9mz0_normal.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/281082821/BH_Twitter_Background2.jpg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -14400,
+  "profile_background_color": "C0DEED",
+  "friends_count": 4201,
+  "profile_link_color": "0084B4",
+  "default_profile": false,
+  "created_at": "Tue Jan 04 14:01:28 +0000 2011",
+  "following": false,
+  "id": 233949261,
+  "has_extended_profile": false,
+  "profile_use_background_image": false,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/443039780276682753/UYej9mz0_normal.jpeg",
+  "screen_name": "RepHuizenga",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "quoted_status_id_str": "727477492487970816",
+    "quoted_status_id": 727477492487970816,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 12:50:52 +0000 2016",
+    "id": 727480546624950272,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 0,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/NSJLjHIdN9",
+          "indices": [
+            104,
+            127
+          ],
+          "expanded_url": "https://twitter.com/wo_art/status/727477492487970816",
+          "display_url": "twitter.com/wo_art/status/\u2026"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "A tremendous piece by Mr. Torres. \"Colony: Prosperity\" is extremely creative and incredibly well done!  https://t.co/NSJLjHIdN9",
+    "favorite_count": 1,
+    "possibly_sensitive": false,
+    "id_str": "727480546624950272",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/F9UwL81Pr9",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://huizenga.house.gov/contact",
+          "display_url": "huizenga.house.gov/contact"
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+        {
+          "url": "http://t.co/Rj7T6mD76d",
+          "indices": [
+            111,
+            133
+          ],
+          "expanded_url": "http://facebook.com/rephuizenga",
+          "display_url": "facebook.com/rephuizenga"
+        }
+      ]
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "C0DEED",
+  "name": "Rep. Bill Huizenga",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "233949261"
+}

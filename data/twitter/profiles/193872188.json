@@ -1,0 +1,189 @@
+{
+  "url": "http://t.co/NunATQ3IeS",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/755317878/5b6f59d5c8907cdd3fd0d7f61c7d8bf8.jpeg",
+  "statuses_count": 1564,
+  "is_translation_enabled": false,
+  "location": "Northwest, IN - Washington, DC",
+  "favourites_count": 41,
+  "listed_count": 436,
+  "profile_text_color": "333333",
+  "description": "Tweets from the Office of Congressman Pete Visclosky, proudly representing the people of Indiana's First Congressional District. Policy: http://t.co/Wi81U7L5zE",
+  "followers_count": 5770,
+  "profile_background_tile": true,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/568448535402532867/xbUar8z5_normal.png",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/755317878/5b6f59d5c8907cdd3fd0d7f61c7d8bf8.jpeg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "F3F3F3",
+  "utc_offset": -18000,
+  "profile_background_color": "EBEBEB",
+  "friends_count": 1079,
+  "profile_link_color": "01064A",
+  "default_profile": false,
+  "created_at": "Wed Sep 22 21:24:46 +0000 2010",
+  "following": false,
+  "id": 193872188,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/568448535402532867/xbUar8z5_normal.png",
+  "screen_name": "RepVisclosky",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "extended_entities": {
+      "media": [
+        {
+          "indices": [
+            117,
+            140
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/ChdEMi7WMAEY99-.jpg",
+          "id": 727124847168466945,
+          "expanded_url": "http://twitter.com/RepVisclosky/status/727124849097891840/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 400,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 227,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 683,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/GkBBRAfnbt",
+          "media_url": "http://pbs.twimg.com/media/ChdEMi7WMAEY99-.jpg",
+          "url": "https://t.co/GkBBRAfnbt",
+          "type": "photo",
+          "id_str": "727124847168466945"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Mon May 02 13:17:28 +0000 2016",
+    "id": 727124849097891840,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 1,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "media": [
+        {
+          "indices": [
+            117,
+            140
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/ChdEMi7WMAEY99-.jpg",
+          "id": 727124847168466945,
+          "expanded_url": "http://twitter.com/RepVisclosky/status/727124849097891840/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 400,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 227,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 683,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/GkBBRAfnbt",
+          "media_url": "http://pbs.twimg.com/media/ChdEMi7WMAEY99-.jpg",
+          "url": "https://t.co/GkBBRAfnbt",
+          "type": "photo",
+          "id_str": "727124847168466945"
+        }
+      ],
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            37,
+            45
+          ],
+          "screen_name": "USACEHQ",
+          "id": 161329769,
+          "id_str": "161329769",
+          "name": "USACE HQ"
+        }
+      ]
+    },
+    "text": "Roy Deda\u2019s life of public service at @USACEHQ will enrich generations to come and I wish him well in his retirement. https://t.co/GkBBRAfnbt",
+    "favorite_count": 0,
+    "possibly_sensitive": false,
+    "id_str": "727124849097891840",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/NunATQ3IeS",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://visclosky.house.gov/",
+          "display_url": "visclosky.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+        {
+          "url": "http://t.co/Wi81U7L5zE",
+          "indices": [
+            137,
+            159
+          ],
+          "expanded_url": "http://bit.ly/LCodHv",
+          "display_url": "bit.ly/LCodHv"
+        }
+      ]
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/193872188/1433276783",
+  "name": "Rep. Pete Visclosky",
+  "is_translator": false,
+  "time_zone": "Central Time (US & Canada)",
+  "id_str": "193872188"
+}

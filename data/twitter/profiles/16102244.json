@@ -1,0 +1,199 @@
+{
+  "url": "http://t.co/xGxisoccFO",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+  "statuses_count": 2340,
+  "is_translation_enabled": false,
+  "location": "Auburn, Washington",
+  "favourites_count": 71,
+  "listed_count": 955,
+  "profile_text_color": "333333",
+  "description": "Representative of the Eighth Congressional District in Washington State",
+  "followers_count": 10994,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/75071220/Reichert_013_normal.jpg",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+  "notifications": false,
+  "profile_sidebar_fill_color": "FFFFFF",
+  "utc_offset": -25200,
+  "profile_background_color": "B2DFDA",
+  "friends_count": 3027,
+  "profile_link_color": "93A644",
+  "default_profile": false,
+  "created_at": "Tue Sep 02 20:12:26 +0000 2008",
+  "following": false,
+  "id": 16102244,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/75071220/Reichert_013_normal.jpg",
+  "screen_name": "davereichert",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "extended_entities": {
+      "media": [
+        {
+          "indices": [
+            107,
+            130
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/ChjADJBW4AI1q5-.jpg",
+          "id": 727542500014088194,
+          "expanded_url": "http://twitter.com/davereichert/status/727542500559343616/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 600,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 340,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 808,
+              "w": 808,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/02bQ5X47a3",
+          "media_url": "http://pbs.twimg.com/media/ChjADJBW4AI1q5-.jpg",
+          "url": "https://t.co/02bQ5X47a3",
+          "type": "photo",
+          "id_str": "727542500014088194"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 16:57:03 +0000 2016",
+    "id": 727542500559343616,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 6,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "media": [
+        {
+          "indices": [
+            107,
+            130
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/ChjADJBW4AI1q5-.jpg",
+          "id": 727542500014088194,
+          "expanded_url": "http://twitter.com/davereichert/status/727542500559343616/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 600,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 340,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 808,
+              "w": 808,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/02bQ5X47a3",
+          "media_url": "http://pbs.twimg.com/media/ChjADJBW4AI1q5-.jpg",
+          "url": "https://t.co/02bQ5X47a3",
+          "type": "photo",
+          "id_str": "727542500014088194"
+        }
+      ],
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            12,
+            23
+          ],
+          "screen_name": "NimitzNews",
+          "id": 15267559,
+          "id_str": "15267559",
+          "name": "USS NIMITZ (CVN 68)"
+        },
+        {
+          "indices": [
+            82,
+            89
+          ],
+          "screen_name": "USNavy",
+          "id": 54885400,
+          "id_str": "54885400",
+          "name": "U.S. Navy"
+        },
+        {
+          "indices": [
+            90,
+            106
+          ],
+          "screen_name": "aircraftcarrier",
+          "id": 1129443330,
+          "id_str": "1129443330",
+          "name": "Aircraft Carriers"
+        }
+      ]
+    },
+    "text": "Wishing the @NimitzNews a very happy 41st anniversary. Thank you for you service! @USNavy @aircraftcarrier https://t.co/02bQ5X47a3",
+    "favorite_count": 6,
+    "possibly_sensitive": false,
+    "id_str": "727542500559343616",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/xGxisoccFO",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://reichert.house.gov",
+          "display_url": "reichert.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "EEEEEE",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/16102244/1354903867",
+  "name": "Dave Reichert",
+  "is_translator": false,
+  "time_zone": "Pacific Time (US & Canada)",
+  "id_str": "16102244"
+}

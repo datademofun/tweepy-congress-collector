@@ -1,0 +1,133 @@
+{
+  "url": "http://t.co/BanS9JzDxx",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/598904554151747584/6L6WvnIJ.png",
+  "statuses_count": 1485,
+  "is_translation_enabled": false,
+  "location": "Washington, D.C./TN-03",
+  "favourites_count": 18,
+  "listed_count": 555,
+  "profile_text_color": "333333",
+  "description": "My official House office Twitter account. I work for the people of TN-03.",
+  "followers_count": 7306,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/598906636695048192/qph6Qq5o_normal.png",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/598904554151747584/6L6WvnIJ.png",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -14400,
+  "profile_background_color": "C0DEED",
+  "friends_count": 615,
+  "profile_link_color": "0084B4",
+  "default_profile": false,
+  "created_at": "Fri Jan 07 15:46:29 +0000 2011",
+  "following": false,
+  "id": 235190657,
+  "has_extended_profile": false,
+  "profile_use_background_image": false,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/598906636695048192/qph6Qq5o_normal.png",
+  "screen_name": "RepChuck",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Fri Apr 29 14:39:23 +0000 2016",
+    "id": 726058303684497410,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 0,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            8,
+            14
+          ],
+          "text": "ICYMI"
+        },
+        {
+          "indices": [
+            41,
+            48
+          ],
+          "text": "HR4820"
+        },
+        {
+          "indices": [
+            69,
+            74
+          ],
+          "text": "ISIS"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/6KLEv2skFY",
+          "indices": [
+            110,
+            133
+          ],
+          "expanded_url": "http://bit.ly/1YWioq4",
+          "display_url": "bit.ly/1YWioq4"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            97,
+            108
+          ],
+          "screen_name": "HouseFloor",
+          "id": 7402662,
+          "id_str": "7402662",
+          "name": "U.S. House Floor"
+        }
+      ]
+    },
+    "text": "[VIDEO] #ICYMI earlier this week my bill #HR4820 which helps counter #ISIS propaganda passed the @HouseFloor: https://t.co/6KLEv2skFY",
+    "favorite_count": 0,
+    "possibly_sensitive": false,
+    "id_str": "726058303684497410",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/BanS9JzDxx",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://fleischmann.house.gov",
+          "display_url": "fleischmann.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/235190657/1431625417",
+  "name": "Chuck Fleischmann",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "235190657"
+}

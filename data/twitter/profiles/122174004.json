@@ -1,0 +1,366 @@
+{
+  "url": "https://t.co/2roqLuazqO",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "statuses_count": 5151,
+  "is_translation_enabled": false,
+  "location": "Las Vegas, NV",
+  "favourites_count": 4043,
+  "listed_count": 506,
+  "profile_text_color": "333333",
+  "description": "Congresswoman proudly representing the First District of Nevada in the U.S. House of Representatives. https://t.co/g6tZzJD45q",
+  "followers_count": 8138,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/669584452322877442/z7pOtlJI_normal.jpg",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -28800,
+  "profile_background_color": "C0DEED",
+  "friends_count": 1724,
+  "profile_link_color": "0084B4",
+  "default_profile": true,
+  "created_at": "Thu Mar 11 21:05:31 +0000 2010",
+  "following": false,
+  "id": 122174004,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/669584452322877442/z7pOtlJI_normal.jpg",
+  "screen_name": "repdinatitus",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "extended_entities": {
+      "media": [
+        {
+          "url": "https://t.co/DPzJ2BaUgo",
+          "media_url_https": "https://pbs.twimg.com/media/ChlBMKGVIAAcQTD.jpg",
+          "id": 727684491922186240,
+          "display_url": "pic.twitter.com/DPzJ2BaUgo",
+          "source_user_id": 4228025059,
+          "source_status_id": 727684497802600448,
+          "type": "photo",
+          "indices": [
+            143,
+            144
+          ],
+          "expanded_url": "http://twitter.com/HydePark_MS/status/727684497802600448/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 450,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 255,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 768,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "media_url": "http://pbs.twimg.com/media/ChlBMKGVIAAcQTD.jpg",
+          "source_user_id_str": "4228025059",
+          "source_status_id_str": "727684497802600448",
+          "id_str": "727684491922186240"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Wed May 04 02:31:31 +0000 2016",
+    "id": 727687069934313472,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 4,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "media": [
+        {
+          "url": "https://t.co/DPzJ2BaUgo",
+          "media_url_https": "https://pbs.twimg.com/media/ChlBMKGVIAAcQTD.jpg",
+          "id": 727684491922186240,
+          "display_url": "pic.twitter.com/DPzJ2BaUgo",
+          "source_user_id": 4228025059,
+          "source_status_id": 727684497802600448,
+          "type": "photo",
+          "indices": [
+            143,
+            144
+          ],
+          "expanded_url": "http://twitter.com/HydePark_MS/status/727684497802600448/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 450,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 255,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 768,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "media_url": "http://pbs.twimg.com/media/ChlBMKGVIAAcQTD.jpg",
+          "source_user_id_str": "4228025059",
+          "source_status_id_str": "727684497802600448",
+          "id_str": "727684491922186240"
+        }
+      ],
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            15
+          ],
+          "screen_name": "HydePark_MS",
+          "id": 4228025059,
+          "id_str": "4228025059",
+          "name": "Hyde Park MS"
+        },
+        {
+          "indices": [
+            82,
+            93
+          ],
+          "screen_name": "dromonoski",
+          "id": 365164791,
+          "id_str": "365164791",
+          "name": "Ms. Romonoski"
+        },
+        {
+          "indices": [
+            94,
+            104
+          ],
+          "screen_name": "JudyKraus",
+          "id": 1216812278,
+          "id_str": "1216812278",
+          "name": "Judy Kraus"
+        },
+        {
+          "indices": [
+            122,
+            135
+          ],
+          "screen_name": "repdinatitus",
+          "id": 122174004,
+          "id_str": "122174004",
+          "name": "Dina Titus"
+        }
+      ]
+    },
+    "text": "RT @HydePark_MS: 1st place for HPMS in the Congressional App Challenge. Great job @dromonoski @JudyKraus. &amp; Thanks to @repdinatitus https:/\u2026",
+    "favorite_count": 0,
+    "possibly_sensitive": false,
+    "id_str": "727687069934313472",
+    "retweeted_status": {
+      "extended_entities": {
+        "media": [
+          {
+            "indices": [
+              119,
+              142
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/ChlBMKGVIAAcQTD.jpg",
+            "id": 727684491922186240,
+            "expanded_url": "http://twitter.com/HydePark_MS/status/727684497802600448/photo/1",
+            "sizes": {
+              "medium": {
+                "h": 450,
+                "w": 600,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 255,
+                "w": 340,
+                "resize": "fit"
+              },
+              "large": {
+                "h": 768,
+                "w": 1024,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "display_url": "pic.twitter.com/DPzJ2BaUgo",
+            "media_url": "http://pbs.twimg.com/media/ChlBMKGVIAAcQTD.jpg",
+            "url": "https://t.co/DPzJ2BaUgo",
+            "type": "photo",
+            "id_str": "727684491922186240"
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "place": null,
+      "in_reply_to_user_id": null,
+      "coordinates": null,
+      "truncated": false,
+      "in_reply_to_status_id_str": null,
+      "created_at": "Wed May 04 02:21:18 +0000 2016",
+      "id": 727684497802600448,
+      "favorited": false,
+      "geo": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_screen_name": null,
+      "retweet_count": 4,
+      "lang": "en",
+      "retweeted": false,
+      "entities": {
+        "media": [
+          {
+            "indices": [
+              119,
+              142
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/ChlBMKGVIAAcQTD.jpg",
+            "id": 727684491922186240,
+            "expanded_url": "http://twitter.com/HydePark_MS/status/727684497802600448/photo/1",
+            "sizes": {
+              "medium": {
+                "h": 450,
+                "w": 600,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 255,
+                "w": 340,
+                "resize": "fit"
+              },
+              "large": {
+                "h": 768,
+                "w": 1024,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "display_url": "pic.twitter.com/DPzJ2BaUgo",
+            "media_url": "http://pbs.twimg.com/media/ChlBMKGVIAAcQTD.jpg",
+            "url": "https://t.co/DPzJ2BaUgo",
+            "type": "photo",
+            "id_str": "727684491922186240"
+          }
+        ],
+        "hashtags": [],
+        "urls": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "indices": [
+              65,
+              76
+            ],
+            "screen_name": "dromonoski",
+            "id": 365164791,
+            "id_str": "365164791",
+            "name": "Ms. Romonoski"
+          },
+          {
+            "indices": [
+              77,
+              87
+            ],
+            "screen_name": "JudyKraus",
+            "id": 1216812278,
+            "id_str": "1216812278",
+            "name": "Judy Kraus"
+          },
+          {
+            "indices": [
+              105,
+              118
+            ],
+            "screen_name": "repdinatitus",
+            "id": 122174004,
+            "id_str": "122174004",
+            "name": "Dina Titus"
+          }
+        ]
+      },
+      "text": "1st place for HPMS in the Congressional App Challenge. Great job @dromonoski @JudyKraus. &amp; Thanks to @repdinatitus https://t.co/DPzJ2BaUgo",
+      "favorite_count": 6,
+      "possibly_sensitive": false,
+      "id_str": "727684497802600448",
+      "contributors": null
+    },
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "https://t.co/2roqLuazqO",
+          "indices": [
+            0,
+            23
+          ],
+          "expanded_url": "http://www.titus.house.gov",
+          "display_url": "titus.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+        {
+          "url": "https://t.co/g6tZzJD45q",
+          "indices": [
+            102,
+            125
+          ],
+          "expanded_url": "http://www.facebook.com/CongresswomanTitus",
+          "display_url": "facebook.com/CongresswomanT\u2026"
+        }
+      ]
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/122174004/1398261097",
+  "name": "Dina Titus",
+  "is_translator": false,
+  "time_zone": "Alaska",
+  "id_str": "122174004"
+}

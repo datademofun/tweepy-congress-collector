@@ -1,0 +1,125 @@
+{
+  "url": "http://t.co/cB2h9V8jY0",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/820289353/baca3c285e677108e2bbd14a50a8b06d.jpeg",
+  "statuses_count": 2048,
+  "is_translation_enabled": true,
+  "location": "Ballwin, MO",
+  "favourites_count": 114,
+  "listed_count": 510,
+  "profile_text_color": "0C3E53",
+  "description": "Official Twitter account for Congresswoman Ann Wagner-- proudly Representing the 2nd Congressional District of Missouri\r\nhttp://t.co/ozYKLyoI",
+  "followers_count": 8863,
+  "profile_background_tile": true,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000119563961/e705a9e31e414148006bd8a034384b35_normal.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/820289353/baca3c285e677108e2bbd14a50a8b06d.jpeg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "FFF7CC",
+  "utc_offset": -14400,
+  "profile_background_color": "C0DEED",
+  "friends_count": 2770,
+  "profile_link_color": "0084B4",
+  "default_profile": false,
+  "created_at": "Tue Jan 01 00:01:45 +0000 2013",
+  "following": false,
+  "id": 1051446626,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/378800000119563961/e705a9e31e414148006bd8a034384b35_normal.jpeg",
+  "screen_name": "RepAnnWagner",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 23:00:33 +0000 2016",
+    "id": 727633975636713473,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 1,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            41,
+            56
+          ],
+          "text": "WeAllBleedBlue"
+        },
+        {
+          "indices": [
+            57,
+            68
+          ],
+          "text": "StanleyCup"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            26,
+            39
+          ],
+          "screen_name": "StLouisBlues",
+          "id": 22976125,
+          "id_str": "22976125",
+          "name": "St. Louis Blues"
+        }
+      ]
+    },
+    "text": "Let's win game 3 at home, @StLouisBlues! #WeAllBleedBlue #StanleyCup",
+    "favorite_count": 4,
+    "id_str": "727633975636713473",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/cB2h9V8jY0",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://wagner.house.gov",
+          "display_url": "wagner.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+        {
+          "url": "http://t.co/ozYKLyoI",
+          "indices": [
+            121,
+            141
+          ],
+          "expanded_url": "http://wagner.house.gov/",
+          "display_url": "wagner.house.gov"
+        }
+      ]
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1051446626/1422549376",
+  "name": "Ann Wagner",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "1051446626"
+}

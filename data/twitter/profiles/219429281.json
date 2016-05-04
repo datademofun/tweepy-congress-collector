@@ -1,0 +1,189 @@
+{
+  "url": "http://t.co/ngCuI6hx3S",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000163755523/Dp_tUqQn.jpeg",
+  "statuses_count": 3790,
+  "is_translation_enabled": false,
+  "location": "Channahon, IL",
+  "favourites_count": 103,
+  "listed_count": 903,
+  "profile_text_color": "333333",
+  "description": "I represent Illinois' 16th District. It's an honor to serve in Congress on Energy & Commerce and as a pilot in the Air National Guard.",
+  "followers_count": 17101,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/694232632503201794/JoCP5r3E_normal.png",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000163755523/Dp_tUqQn.jpeg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -18000,
+  "profile_background_color": "C0DEED",
+  "friends_count": 1108,
+  "profile_link_color": "0084B4",
+  "default_profile": false,
+  "created_at": "Wed Nov 24 21:04:11 +0000 2010",
+  "following": false,
+  "id": 219429281,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/694232632503201794/JoCP5r3E_normal.png",
+  "screen_name": "RepKinzinger",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "extended_entities": {
+      "media": [
+        {
+          "indices": [
+            117,
+            140
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/Chj2-PtWUAA9VEd.jpg",
+          "id": 727602889049395200,
+          "expanded_url": "http://twitter.com/RepKinzinger/status/727602889569542145/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 264,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 150,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 289,
+              "w": 656,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/BSlljBVh4l",
+          "media_url": "http://pbs.twimg.com/media/Chj2-PtWUAA9VEd.jpg",
+          "url": "https://t.co/BSlljBVh4l",
+          "type": "photo",
+          "id_str": "727602889049395200"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 20:57:01 +0000 2016",
+    "id": 727602889569542145,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 2,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "media": [
+        {
+          "indices": [
+            117,
+            140
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/Chj2-PtWUAA9VEd.jpg",
+          "id": 727602889049395200,
+          "expanded_url": "http://twitter.com/RepKinzinger/status/727602889569542145/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 264,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 150,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 289,
+              "w": 656,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/BSlljBVh4l",
+          "media_url": "http://pbs.twimg.com/media/Chj2-PtWUAA9VEd.jpg",
+          "url": "https://t.co/BSlljBVh4l",
+          "type": "photo",
+          "id_str": "727602889049395200"
+        }
+      ],
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/31LXm5KXWw",
+          "indices": [
+            79,
+            102
+          ],
+          "expanded_url": "http://bit.ly/1TJAY3x",
+          "display_url": "bit.ly/1TJAY3x"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            103,
+            116
+          ],
+          "screen_name": "emily__olsen",
+          "id": 73788574,
+          "id_str": "73788574",
+          "name": "Emily Olsen"
+        }
+      ]
+    },
+    "text": "ICYMI Belvidere named one of the \u201cBest Small Cities in IL to Start a Business\" https://t.co/31LXm5KXWw @emily__olsen https://t.co/BSlljBVh4l",
+    "favorite_count": 3,
+    "possibly_sensitive": false,
+    "id_str": "727602889569542145",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/ngCuI6hx3S",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://Kinzinger.house.gov/",
+          "display_url": "Kinzinger.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/219429281/1454352883",
+  "name": "Adam Kinzinger",
+  "is_translator": false,
+  "time_zone": "Central Time (US & Canada)",
+  "id_str": "219429281"
+}

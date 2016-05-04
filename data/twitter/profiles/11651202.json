@@ -1,0 +1,97 @@
+{
+  "url": "https://t.co/6cQwcMCeGt",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/595311754021711872/1Ex3hNLV.jpg",
+  "statuses_count": 2757,
+  "is_translation_enabled": false,
+  "location": "Bozeman, MT",
+  "favourites_count": 97,
+  "listed_count": 496,
+  "profile_text_color": "333333",
+  "description": "Serving the people of Montana in the U.S. Senate.",
+  "followers_count": 7187,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/693932262631546880/i03rhU5E_normal.jpg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/595311754021711872/1Ex3hNLV.jpg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -14400,
+  "profile_background_color": "88D0F7",
+  "friends_count": 620,
+  "profile_link_color": "0B60BA",
+  "default_profile": false,
+  "created_at": "Sun Dec 30 05:52:03 +0000 2007",
+  "following": false,
+  "id": 11651202,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/693932262631546880/i03rhU5E_normal.jpg",
+  "screen_name": "SteveDaines",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 22:47:01 +0000 2016",
+    "id": 727630571871059968,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 1,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            96,
+            127
+          ],
+          "text": "NationalTeacherAppreciationDay"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "Thank you to Montana's ag teachers who are teaching the future leaders of Montana's #1 business #NationalTeacherAppreciationDay",
+    "favorite_count": 3,
+    "id_str": "727630571871059968",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "https://t.co/6cQwcMCeGt",
+          "indices": [
+            0,
+            23
+          ],
+          "expanded_url": "http://www.daines.senate.gov",
+          "display_url": "daines.senate.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/11651202/1430768396",
+  "name": "Steve Daines",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "11651202"
+}

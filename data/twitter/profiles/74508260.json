@@ -1,0 +1,111 @@
+{
+  "url": "http://t.co/6xjU9xPLNs",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/235835902/DSC_00331.JPG",
+  "statuses_count": 1146,
+  "is_translation_enabled": false,
+  "location": "Paterson, NJ",
+  "favourites_count": 146,
+  "listed_count": 451,
+  "profile_text_color": "333333",
+  "description": "I represent the 9th District of New Jersey in the House of Representatives. I currently serve on the Ways and Means and Budget Committees.",
+  "followers_count": 6026,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1318786984/23595_326400899155_303312929155_3795952_7045199_n_normal.jpg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/235835902/DSC_00331.JPG",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -14400,
+  "profile_background_color": "C0DEED",
+  "friends_count": 1387,
+  "profile_link_color": "0084B4",
+  "default_profile": false,
+  "created_at": "Tue Sep 15 17:54:32 +0000 2009",
+  "following": false,
+  "id": 74508260,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1318786984/23595_326400899155_303312929155_3795952_7045199_n_normal.jpg",
+  "screen_name": "BillPascrell",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 14:33:13 +0000 2016",
+    "id": 727506301002092544,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 2,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/kuoCkizcDv",
+          "indices": [
+            115,
+            138
+          ],
+          "expanded_url": "http://www.northjersey.com/news/business/small-business/sba-honors-rutherford-business-owner-as-n-j-small-business-person-of-the-year-1.1556968",
+          "display_url": "northjersey.com/news/business/\u2026"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            33,
+            47
+          ],
+          "screen_name": "stonefieldeng",
+          "id": 170047072,
+          "id_str": "170047072",
+          "name": "stonefield"
+        }
+      ]
+    },
+    "text": "Kudos to Charles Olivo, owner of @stonefieldeng in Rutherford, named 2016 N.J. Small Business Person of the Year.\n\nhttps://t.co/kuoCkizcDv",
+    "favorite_count": 2,
+    "possibly_sensitive": false,
+    "id_str": "727506301002092544",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/6xjU9xPLNs",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://pascrell.house.gov",
+          "display_url": "pascrell.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/74508260/1453992828",
+  "name": "Bill Pascrell, Jr.",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "74508260"
+}

@@ -1,0 +1,102 @@
+{
+  "url": "http://t.co/jpK6IZgOJH",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "statuses_count": 939,
+  "is_translation_enabled": false,
+  "location": "",
+  "favourites_count": 321,
+  "listed_count": 138,
+  "profile_text_color": "000000",
+  "description": "Congressman for New Jersey's Third Congressional District",
+  "followers_count": 2321,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/656481870151028736/Yks_-3bH_normal.jpg",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "notifications": false,
+  "profile_sidebar_fill_color": "000000",
+  "utc_offset": -25200,
+  "profile_background_color": "000000",
+  "friends_count": 442,
+  "profile_link_color": "3B94D9",
+  "default_profile": false,
+  "created_at": "Mon Jan 05 23:22:19 +0000 2015",
+  "following": false,
+  "id": 2962994194,
+  "has_extended_profile": false,
+  "profile_use_background_image": false,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/656481870151028736/Yks_-3bH_normal.jpg",
+  "screen_name": "RepTomMacArthur",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "quoted_status_id_str": "727496956361105408",
+    "quoted_status_id": 727496956361105408,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 18:26:09 +0000 2016",
+    "id": 727564921018437632,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 0,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/CJ3lLbxiCi",
+          "indices": [
+            24,
+            47
+          ],
+          "expanded_url": "https://twitter.com/mayorducey/status/727496956361105408",
+          "display_url": "twitter.com/mayorducey/sta\u2026"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "Thanks for joining us!\n https://t.co/CJ3lLbxiCi",
+    "favorite_count": 0,
+    "possibly_sensitive": false,
+    "id_str": "727564921018437632",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/jpK6IZgOJH",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://macarthur.house.gov",
+          "display_url": "macarthur.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "000000",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/2962994194/1445352521",
+  "name": "Tom MacArthur",
+  "is_translator": false,
+  "time_zone": "Pacific Time (US & Canada)",
+  "id_str": "2962994194"
+}

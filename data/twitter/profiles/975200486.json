@@ -1,0 +1,168 @@
+{
+  "url": "http://t.co/p5MwpsoW",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/855877392/1553f376c7e913278cb2691aed5cc4aa.jpeg",
+  "statuses_count": 1819,
+  "is_translation_enabled": false,
+  "location": "",
+  "favourites_count": 338,
+  "listed_count": 682,
+  "profile_text_color": "333333",
+  "description": "U.S. Representative for Kentucky's 4th District",
+  "followers_count": 16728,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/3593159634/e158b5452b80aa99e9d1c2efd0fc2432_normal.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/855877392/1553f376c7e913278cb2691aed5cc4aa.jpeg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -14400,
+  "profile_background_color": "C0DEED",
+  "friends_count": 584,
+  "profile_link_color": "0084B4",
+  "default_profile": false,
+  "created_at": "Wed Nov 28 02:33:14 +0000 2012",
+  "following": false,
+  "id": 975200486,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/3593159634/e158b5452b80aa99e9d1c2efd0fc2432_normal.jpeg",
+  "screen_name": "RepThomasMassie",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "extended_entities": {
+      "media": [
+        {
+          "indices": [
+            97,
+            120
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/Chj6RpQWUAEJpFG.jpg",
+          "id": 727606520859480065,
+          "expanded_url": "http://twitter.com/RepThomasMassie/status/727606521417338881/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 450,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 255,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 480,
+              "w": 640,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/jcbR7qWTWL",
+          "media_url": "http://pbs.twimg.com/media/Chj6RpQWUAEJpFG.jpg",
+          "url": "https://t.co/jcbR7qWTWL",
+          "type": "photo",
+          "id_str": "727606520859480065"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 21:11:27 +0000 2016",
+    "id": 727606521417338881,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 3,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "media": [
+        {
+          "indices": [
+            97,
+            120
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/Chj6RpQWUAEJpFG.jpg",
+          "id": 727606520859480065,
+          "expanded_url": "http://twitter.com/RepThomasMassie/status/727606521417338881/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 450,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 255,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 480,
+              "w": 640,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/jcbR7qWTWL",
+          "media_url": "http://pbs.twimg.com/media/Chj6RpQWUAEJpFG.jpg",
+          "url": "https://t.co/jcbR7qWTWL",
+          "type": "photo",
+          "id_str": "727606520859480065"
+        }
+      ],
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "Great showing at the Trimble Co. \"Coffee with your Congressman\" at Bray Orchards in Bedford, KY! https://t.co/jcbR7qWTWL",
+    "favorite_count": 14,
+    "possibly_sensitive": false,
+    "id_str": "727606521417338881",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/p5MwpsoW",
+          "indices": [
+            0,
+            20
+          ],
+          "expanded_url": "http://massie.house.gov/",
+          "display_url": "massie.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/975200486/1367276184",
+  "name": "Thomas Massie",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "975200486"
+}

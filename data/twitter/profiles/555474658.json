@@ -1,0 +1,129 @@
+{
+  "url": "http://t.co/bOl9VmFbzz",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/525669162/Flag-USSPS.jpg",
+  "statuses_count": 1543,
+  "is_translation_enabled": false,
+  "location": "",
+  "favourites_count": 0,
+  "listed_count": 922,
+  "profile_text_color": "333333",
+  "description": "Office of U.S. Senator Thad Cochran of Mississippi.",
+  "followers_count": 19806,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/2179496829/022507-Cochran-Twtr3_normal.jpg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/525669162/Flag-USSPS.jpg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -14400,
+  "profile_background_color": "C0DEED",
+  "friends_count": 523,
+  "profile_link_color": "0084B4",
+  "default_profile": false,
+  "created_at": "Mon Apr 16 22:33:23 +0000 2012",
+  "following": false,
+  "id": 555474658,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/2179496829/022507-Cochran-Twtr3_normal.jpg",
+  "screen_name": "SenThadCochran",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Wed Apr 27 15:21:07 +0000 2016",
+    "id": 725344029781708802,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 3,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            74,
+            80
+          ],
+          "text": "VEXIQ"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/2RasPnPog6",
+          "indices": [
+            117,
+            140
+          ],
+          "expanded_url": "http://hatne.ws/1pFoTBG",
+          "display_url": "hatne.ws/1pFoTBG"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            88,
+            100
+          ],
+          "screen_name": "VEXRobotics",
+          "id": 18910666,
+          "id_str": "18910666",
+          "name": "VEX Robotics"
+        },
+        {
+          "indices": [
+            101,
+            116
+          ],
+          "screen_name": "REC_Foundation",
+          "id": 1068154166,
+          "id_str": "1068154166",
+          "name": "REC_Foundation"
+        }
+      ]
+    },
+    "text": "Proud of Richton MS students for excelling in robotics. Congrats on your  #VEXIQ award. @VEXRobotics @REC_Foundation https://t.co/2RasPnPog6",
+    "favorite_count": 6,
+    "possibly_sensitive": false,
+    "id_str": "725344029781708802",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/bOl9VmFbzz",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://cochran.senate.gov",
+          "display_url": "cochran.senate.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/555474658/1437679921",
+  "name": "Senator Thad Cochran",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "555474658"
+}

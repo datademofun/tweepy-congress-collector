@@ -1,0 +1,186 @@
+{
+  "url": "http://t.co/hhH39SKxLO",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/446028330823712768/4Z3vM-0i.jpeg",
+  "statuses_count": 1804,
+  "is_translation_enabled": false,
+  "location": "Washington, DC and Dayton, OH",
+  "favourites_count": 50,
+  "listed_count": 563,
+  "profile_text_color": "0084B4",
+  "description": "I proudly represent the Tenth District of Ohio. Montgomery County, Greene County and Fayette County. #OH10",
+  "followers_count": 7757,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/445952873818374144/TZbgdNZ5_normal.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/446028330823712768/4Z3vM-0i.jpeg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -14400,
+  "profile_background_color": "FAFAFA",
+  "friends_count": 704,
+  "profile_link_color": "1D63F0",
+  "default_profile": false,
+  "created_at": "Fri Jun 26 21:15:07 +0000 2009",
+  "following": false,
+  "id": 51228911,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/445952873818374144/TZbgdNZ5_normal.jpeg",
+  "screen_name": "RepMikeTurner",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "extended_entities": {
+      "media": [
+        {
+          "indices": [
+            114,
+            137
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/ChjyzfTWEAAoNUm.jpg",
+          "id": 727598306210222080,
+          "expanded_url": "http://twitter.com/RepMikeTurner/status/727598307757981696/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 450,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 255,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 768,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/b0e3NHaHZi",
+          "media_url": "http://pbs.twimg.com/media/ChjyzfTWEAAoNUm.jpg",
+          "url": "https://t.co/b0e3NHaHZi",
+          "type": "photo",
+          "id_str": "727598306210222080"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 20:38:49 +0000 2016",
+    "id": 727598307757981696,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 3,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "media": [
+        {
+          "indices": [
+            114,
+            137
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/ChjyzfTWEAAoNUm.jpg",
+          "id": 727598306210222080,
+          "expanded_url": "http://twitter.com/RepMikeTurner/status/727598307757981696/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 450,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 255,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 768,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/b0e3NHaHZi",
+          "media_url": "http://pbs.twimg.com/media/ChjyzfTWEAAoNUm.jpg",
+          "url": "https://t.co/b0e3NHaHZi",
+          "type": "photo",
+          "id_str": "727598306210222080"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            24,
+            29
+          ],
+          "text": "OH10"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Xf9gMuJ8i8",
+          "indices": [
+            90,
+            113
+          ],
+          "expanded_url": "https://turner.house.gov/media-center/press-releases/turner-recognizes-service-academy-appointees",
+          "display_url": "turner.house.gov/media-center/p\u2026"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "I proudly recognize the #OH10 students who will attend Service Academies next year. Read: https://t.co/Xf9gMuJ8i8 https://t.co/b0e3NHaHZi",
+    "favorite_count": 7,
+    "possibly_sensitive": false,
+    "id_str": "727598307757981696",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/hhH39SKxLO",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://turner.house.gov",
+          "display_url": "turner.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "000000",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/51228911/1413479410",
+  "name": "US Rep. Mike Turner",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "51228911"
+}

@@ -1,0 +1,428 @@
+{
+  "url": "http://t.co/peic5yFHXJ",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000045894290/687f1262753c03f09b598312f0fce78d.jpeg",
+  "statuses_count": 2471,
+  "is_translation_enabled": false,
+  "location": "",
+  "favourites_count": 1759,
+  "listed_count": 731,
+  "profile_text_color": "333333",
+  "description": "Congressman Sam Farr represents California's Central Coast and is the Ranking Member on the House Agriculture Appropriations Subcommittee.",
+  "followers_count": 11305,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/667102495131365377/yRoYXw9E_normal.jpg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000045894290/687f1262753c03f09b598312f0fce78d.jpeg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -14400,
+  "profile_background_color": "1D5076",
+  "friends_count": 928,
+  "profile_link_color": "1D5076",
+  "default_profile": false,
+  "created_at": "Tue Jun 22 15:30:19 +0000 2010",
+  "following": false,
+  "id": 158398519,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/667102495131365377/yRoYXw9E_normal.jpg",
+  "screen_name": "RepSamFarr",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "extended_entities": {
+      "media": [
+        {
+          "url": "https://t.co/BdGPDZIMjm",
+          "media_url_https": "https://pbs.twimg.com/media/Chi5tSUW0AA-jw2.jpg",
+          "id": 727535527482806272,
+          "display_url": "pic.twitter.com/BdGPDZIMjm",
+          "source_user_id": 242426145,
+          "source_status_id": 727535528585863170,
+          "type": "photo",
+          "indices": [
+            139,
+            140
+          ],
+          "expanded_url": "http://twitter.com/RepMcGovern/status/727535528585863170/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 698,
+              "w": 566,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 419,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 698,
+              "w": 566,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "media_url": "http://pbs.twimg.com/media/Chi5tSUW0AA-jw2.jpg",
+          "source_user_id_str": "242426145",
+          "source_status_id_str": "727535528585863170",
+          "id_str": "727535527482806272"
+        },
+        {
+          "url": "https://t.co/BdGPDZIMjm",
+          "media_url_https": "https://pbs.twimg.com/media/Chi5tTjWMAcqo9W.jpg",
+          "id": 727535527814115335,
+          "display_url": "pic.twitter.com/BdGPDZIMjm",
+          "source_user_id": 242426145,
+          "source_status_id": 727535528585863170,
+          "type": "photo",
+          "indices": [
+            139,
+            140
+          ],
+          "expanded_url": "http://twitter.com/RepMcGovern/status/727535528585863170/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 687,
+              "w": 589,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 397,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 687,
+              "w": 589,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "media_url": "http://pbs.twimg.com/media/Chi5tTjWMAcqo9W.jpg",
+          "source_user_id_str": "242426145",
+          "source_status_id_str": "727535528585863170",
+          "id_str": "727535527814115335"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 17:09:20 +0000 2016",
+    "id": 727545591488733185,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 39,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "media": [
+        {
+          "url": "https://t.co/BdGPDZIMjm",
+          "media_url_https": "https://pbs.twimg.com/media/Chi5tSUW0AA-jw2.jpg",
+          "id": 727535527482806272,
+          "display_url": "pic.twitter.com/BdGPDZIMjm",
+          "source_user_id": 242426145,
+          "source_status_id": 727535528585863170,
+          "type": "photo",
+          "indices": [
+            139,
+            140
+          ],
+          "expanded_url": "http://twitter.com/RepMcGovern/status/727535528585863170/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 698,
+              "w": 566,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 419,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 698,
+              "w": 566,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "media_url": "http://pbs.twimg.com/media/Chi5tSUW0AA-jw2.jpg",
+          "source_user_id_str": "242426145",
+          "source_status_id_str": "727535528585863170",
+          "id_str": "727535527482806272"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            83,
+            92
+          ],
+          "text": "Honduras"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/U0JdrqUWEX",
+          "indices": [
+            110,
+            133
+          ],
+          "expanded_url": "http://1.usa.gov/21tyLwj",
+          "display_url": "1.usa.gov/21tyLwj"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            15
+          ],
+          "screen_name": "RepMcGovern",
+          "id": 242426145,
+          "id_str": "242426145",
+          "name": "Rep. Jim McGovern"
+        },
+        {
+          "indices": [
+            51,
+            61
+          ],
+          "screen_name": "JohnKerry",
+          "id": 15007149,
+          "id_str": "15007149",
+          "name": "John Kerry"
+        }
+      ]
+    },
+    "text": "RT @RepMcGovern: Proud to join 58 lawmakers urging @JohnKerry to push for truth in #Honduras human rts murder https://t.co/U0JdrqUWEX https\u2026",
+    "favorite_count": 0,
+    "possibly_sensitive": false,
+    "id_str": "727545591488733185",
+    "retweeted_status": {
+      "extended_entities": {
+        "media": [
+          {
+            "indices": [
+              117,
+              140
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/Chi5tSUW0AA-jw2.jpg",
+            "id": 727535527482806272,
+            "expanded_url": "http://twitter.com/RepMcGovern/status/727535528585863170/photo/1",
+            "sizes": {
+              "medium": {
+                "h": 698,
+                "w": 566,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 419,
+                "w": 340,
+                "resize": "fit"
+              },
+              "large": {
+                "h": 698,
+                "w": 566,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "display_url": "pic.twitter.com/BdGPDZIMjm",
+            "media_url": "http://pbs.twimg.com/media/Chi5tSUW0AA-jw2.jpg",
+            "url": "https://t.co/BdGPDZIMjm",
+            "type": "photo",
+            "id_str": "727535527482806272"
+          },
+          {
+            "indices": [
+              117,
+              140
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/Chi5tTjWMAcqo9W.jpg",
+            "id": 727535527814115335,
+            "expanded_url": "http://twitter.com/RepMcGovern/status/727535528585863170/photo/1",
+            "sizes": {
+              "medium": {
+                "h": 687,
+                "w": 589,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 397,
+                "w": 340,
+                "resize": "fit"
+              },
+              "large": {
+                "h": 687,
+                "w": 589,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "display_url": "pic.twitter.com/BdGPDZIMjm",
+            "media_url": "http://pbs.twimg.com/media/Chi5tTjWMAcqo9W.jpg",
+            "url": "https://t.co/BdGPDZIMjm",
+            "type": "photo",
+            "id_str": "727535527814115335"
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "place": null,
+      "in_reply_to_user_id": null,
+      "coordinates": null,
+      "truncated": false,
+      "in_reply_to_status_id_str": null,
+      "created_at": "Tue May 03 16:29:21 +0000 2016",
+      "id": 727535528585863170,
+      "favorited": false,
+      "geo": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_screen_name": null,
+      "retweet_count": 39,
+      "lang": "en",
+      "retweeted": false,
+      "entities": {
+        "media": [
+          {
+            "indices": [
+              117,
+              140
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/Chi5tSUW0AA-jw2.jpg",
+            "id": 727535527482806272,
+            "expanded_url": "http://twitter.com/RepMcGovern/status/727535528585863170/photo/1",
+            "sizes": {
+              "medium": {
+                "h": 698,
+                "w": 566,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 419,
+                "w": 340,
+                "resize": "fit"
+              },
+              "large": {
+                "h": 698,
+                "w": 566,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "display_url": "pic.twitter.com/BdGPDZIMjm",
+            "media_url": "http://pbs.twimg.com/media/Chi5tSUW0AA-jw2.jpg",
+            "url": "https://t.co/BdGPDZIMjm",
+            "type": "photo",
+            "id_str": "727535527482806272"
+          }
+        ],
+        "hashtags": [
+          {
+            "indices": [
+              66,
+              75
+            ],
+            "text": "Honduras"
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/U0JdrqUWEX",
+            "indices": [
+              93,
+              116
+            ],
+            "expanded_url": "http://1.usa.gov/21tyLwj",
+            "display_url": "1.usa.gov/21tyLwj"
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "indices": [
+              34,
+              44
+            ],
+            "screen_name": "JohnKerry",
+            "id": 15007149,
+            "id_str": "15007149",
+            "name": "John Kerry"
+          }
+        ]
+      },
+      "text": "Proud to join 58 lawmakers urging @JohnKerry to push for truth in #Honduras human rts murder https://t.co/U0JdrqUWEX https://t.co/BdGPDZIMjm",
+      "favorite_count": 32,
+      "possibly_sensitive": false,
+      "id_str": "727535528585863170",
+      "contributors": null
+    },
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/peic5yFHXJ",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://www.farr.house.gov",
+          "display_url": "farr.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/158398519/1367341773",
+  "name": "Congressman Sam Farr",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "158398519"
+}

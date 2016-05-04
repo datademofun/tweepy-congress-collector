@@ -1,0 +1,108 @@
+{
+  "url": null,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/4035204/Twitter-page-3.jpg",
+  "statuses_count": 11070,
+  "is_translation_enabled": false,
+  "location": "Phoenix, AZ / Washington, DC",
+  "favourites_count": 18,
+  "listed_count": 17322,
+  "profile_text_color": "131515",
+  "description": "U.S. Senator John McCain (R-AZ), Chairman of Senate Armed Services Committee",
+  "followers_count": 2002951,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1189622627/twitter_normal.jpg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/4035204/Twitter-page-3.jpg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "96A0A6",
+  "utc_offset": -14400,
+  "profile_background_color": "0E1058",
+  "friends_count": 364,
+  "profile_link_color": "0A0A0A",
+  "default_profile": false,
+  "created_at": "Fri Jan 23 13:42:31 +0000 2009",
+  "following": false,
+  "id": 19394188,
+  "has_extended_profile": false,
+  "profile_use_background_image": false,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1189622627/twitter_normal.jpg",
+  "screen_name": "SenJohnMcCain",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 20:49:46 +0000 2016",
+    "id": 727601063189225474,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 11,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/hzXmDnoOQ4",
+          "indices": [
+            84,
+            107
+          ],
+          "expanded_url": "http://dailycaller.com/2016/05/03/senators-calls-for-criminal-probe-of-epas-gold-king-mine-disaster/#ixzz47czxvr7a",
+          "display_url": "dailycaller.com/2016/05/03/sen\u2026"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            1,
+            13
+          ],
+          "screen_name": "DailyCaller",
+          "id": 39308549,
+          "id_str": "39308549",
+          "name": "The Daily Caller"
+        },
+        {
+          "indices": [
+            52,
+            56
+          ],
+          "screen_name": "EPA",
+          "id": 14615871,
+          "id_str": "14615871",
+          "name": "U.S. EPA"
+        }
+      ]
+    },
+    "text": ".@DailyCaller: \"Senators Call For Criminal Probe Of @EPA\u2019s Gold King Mine Disaster\" https://t.co/hzXmDnoOQ4",
+    "favorite_count": 16,
+    "possibly_sensitive": false,
+    "id_str": "727601063189225474",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "CB1C15",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/19394188/1421190330",
+  "name": "John McCain",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "19394188"
+}

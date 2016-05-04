@@ -1,0 +1,100 @@
+{
+  "url": "http://t.co/M090l1ACF8",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000153814112/3Wl4HAJT.jpeg",
+  "statuses_count": 3717,
+  "is_translation_enabled": false,
+  "location": "Searchlight, NV",
+  "favourites_count": 1,
+  "listed_count": 6787,
+  "profile_text_color": "333333",
+  "description": "News from the office of Nevada Senator Harry Reid, the U.S. Senate Democratic Leader.(Espa\u00f1ol: @SenadorReid)",
+  "followers_count": 325740,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/628307865065816064/OUQh91yr_normal.jpg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000153814112/3Wl4HAJT.jpeg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "AFC4DA",
+  "utc_offset": -18000,
+  "profile_background_color": "233E6D",
+  "friends_count": 154,
+  "profile_link_color": "114C7C",
+  "default_profile": false,
+  "created_at": "Wed Oct 15 19:42:08 +0000 2008",
+  "following": false,
+  "id": 16789970,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/628307865065816064/OUQh91yr_normal.jpg",
+  "screen_name": "SenatorReid",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 15:32:40 +0000 2016",
+    "id": 727521261140713472,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 15,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/D1dGf7U7qF",
+          "indices": [
+            97,
+            120
+          ],
+          "expanded_url": "https://morningconsult.com/alert/no-question-trump-will-gop-nominee-harry-reid/",
+          "display_url": "morningconsult.com/alert/no-quest\u2026"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "Chuck Grassley's Judiciary Committee has turned into a rubber stamp for McConnell's obstruction. https://t.co/D1dGf7U7qF",
+    "favorite_count": 27,
+    "possibly_sensitive": false,
+    "id_str": "727521261140713472",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/M090l1ACF8",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://reid.senate.gov",
+          "display_url": "reid.senate.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/16789970/1401723822",
+  "name": "Senator Harry Reid",
+  "is_translator": false,
+  "time_zone": "Quito",
+  "id_str": "16789970"
+}

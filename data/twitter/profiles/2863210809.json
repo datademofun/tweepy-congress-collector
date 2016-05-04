@@ -1,0 +1,126 @@
+{
+  "url": "http://t.co/I3Xla94WAO",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "statuses_count": 1503,
+  "is_translation_enabled": false,
+  "location": "Georgia",
+  "favourites_count": 180,
+  "listed_count": 311,
+  "profile_text_color": "333333",
+  "description": "Official Twitter account for U.S. Senator David Perdue of Georgia.",
+  "followers_count": 6758,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/563788627864322048/HsMgIiPY_normal.jpeg",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -14400,
+  "profile_background_color": "C0DEED",
+  "friends_count": 894,
+  "profile_link_color": "0084B4",
+  "default_profile": true,
+  "created_at": "Wed Nov 05 20:58:02 +0000 2014",
+  "following": false,
+  "id": 2863210809,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/563788627864322048/HsMgIiPY_normal.jpeg",
+  "screen_name": "sendavidperdue",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 19:40:59 +0000 2016",
+    "id": 727583754311569408,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 3,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            19,
+            32
+          ],
+          "text": "nationaldebt"
+        },
+        {
+          "indices": [
+            61,
+            67
+          ],
+          "text": "gapol"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/JvVW33HFIU",
+          "indices": [
+            68,
+            91
+          ],
+          "expanded_url": "http://www.perdue.senate.gov/news/press-releases/senator-david-perdue-releases-video-putting-the-debt-in-perspectivesenator-david-perdue-releases-video-putting-the-debt-in-perspective",
+          "display_url": "perdue.senate.gov/news/press-rel\u2026"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            49,
+            60
+          ],
+          "screen_name": "FixtheDebt",
+          "id": 620298978,
+          "id_str": "620298978",
+          "name": "Fix the Debt"
+        }
+      ]
+    },
+    "text": "VIDEO: Putting the #nationaldebt in perspective. @FixtheDebt #gapol https://t.co/JvVW33HFIU",
+    "favorite_count": 2,
+    "possibly_sensitive": false,
+    "id_str": "727583754311569408",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/I3Xla94WAO",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://perdue.senate.gov",
+          "display_url": "perdue.senate.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/2863210809/1423252710",
+  "name": "David Perdue",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "2863210809"
+}

@@ -1,0 +1,100 @@
+{
+  "url": "http://t.co/XKNHAfCEMB",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+  "statuses_count": 5015,
+  "is_translation_enabled": false,
+  "location": "Langhorne, PA",
+  "favourites_count": 800,
+  "listed_count": 586,
+  "profile_text_color": "333333",
+  "description": "Proudly representing #PA8 in the US House of Representatives. Husband. Dad. @Eagles fan.      #BetterJobsMoreOpportunity",
+  "followers_count": 9895,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/552167537664749569/uiznx6_o_normal.jpeg",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+  "notifications": false,
+  "profile_sidebar_fill_color": "C0DFEC",
+  "utc_offset": -14400,
+  "profile_background_color": "022330",
+  "friends_count": 1104,
+  "profile_link_color": "0084B4",
+  "default_profile": false,
+  "created_at": "Fri Jan 14 00:38:49 +0000 2011",
+  "following": false,
+  "id": 237944147,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/552167537664749569/uiznx6_o_normal.jpeg",
+  "screen_name": "RepFitzpatrick",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 12:00:02 +0000 2016",
+    "id": 727467750373748736,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 2,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/Yf3uiczdm4",
+          "indices": [
+            115,
+            138
+          ],
+          "expanded_url": "http://fb.me/WTyWIGU1",
+          "display_url": "fb.me/WTyWIGU1"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "Did you know that small businesses employ 70% of the US working population? Get out there this week and support... https://t.co/Yf3uiczdm4",
+    "favorite_count": 3,
+    "possibly_sensitive": false,
+    "id_str": "727467750373748736",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/XKNHAfCEMB",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://www.fitzpatrick.house.gov",
+          "display_url": "fitzpatrick.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "A8C7F7",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/237944147/1420481952",
+  "name": "Mike Fitzpatrick",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "237944147"
+}

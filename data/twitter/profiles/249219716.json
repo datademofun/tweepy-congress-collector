@@ -1,0 +1,190 @@
+{
+  "url": "http://t.co/TD5tKVmfm2",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/453948421070548993/bFOQ5ETj.jpeg",
+  "statuses_count": 2901,
+  "is_translation_enabled": false,
+  "location": "Frog Jump, TN",
+  "favourites_count": 50,
+  "listed_count": 590,
+  "profile_text_color": "333333",
+  "description": "Congressman, Farmer, and Gospel Singer proudly serving the people of the 8th district of the great state of Tennessee.",
+  "followers_count": 8335,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/3379717513/76119f5dea9e00473a3eec9ca1f03f4f_normal.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/453948421070548993/bFOQ5ETj.jpeg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "C0DFEC",
+  "utc_offset": -18000,
+  "profile_background_color": "17A3F9",
+  "friends_count": 1191,
+  "profile_link_color": "0A4366",
+  "default_profile": false,
+  "created_at": "Tue Feb 08 16:24:26 +0000 2011",
+  "following": false,
+  "id": 249219716,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/3379717513/76119f5dea9e00473a3eec9ca1f03f4f_normal.jpeg",
+  "screen_name": "RepFincherTN08",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "extended_entities": {
+      "media": [
+        {
+          "indices": [
+            117,
+            140
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/ChE28oaWYAAdF5C.jpg",
+          "id": 725421430251347968,
+          "expanded_url": "http://twitter.com/RepFincherTN08/status/725421430976987140/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 315,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 179,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 538,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/IWqmjvHCZX",
+          "media_url": "http://pbs.twimg.com/media/ChE28oaWYAAdF5C.jpg",
+          "url": "https://t.co/IWqmjvHCZX",
+          "type": "photo",
+          "id_str": "725421430251347968"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Wed Apr 27 20:28:41 +0000 2016",
+    "id": 725421430976987140,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 0,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "media": [
+        {
+          "indices": [
+            117,
+            140
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/ChE28oaWYAAdF5C.jpg",
+          "id": 725421430251347968,
+          "expanded_url": "http://twitter.com/RepFincherTN08/status/725421430976987140/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 315,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 179,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 538,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/IWqmjvHCZX",
+          "media_url": "http://pbs.twimg.com/media/ChE28oaWYAAdF5C.jpg",
+          "url": "https://t.co/IWqmjvHCZX",
+          "type": "photo",
+          "id_str": "725421430251347968"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            27,
+            40
+          ],
+          "text": "EmailPrivacy"
+        },
+        {
+          "indices": [
+            97,
+            102
+          ],
+          "text": "ECPA"
+        },
+        {
+          "indices": [
+            104,
+            116
+          ],
+          "text": "GetAWarrant"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "Last time Congress updated #EmailPrivacy laws was 12 years before Google even opened. Let\u2019s pass #ECPA! #GetAWarrant https://t.co/IWqmjvHCZX",
+    "favorite_count": 1,
+    "possibly_sensitive": false,
+    "id_str": "725421430976987140",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/TD5tKVmfm2",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://fincher.house.gov/",
+          "display_url": "fincher.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/249219716/1396630999",
+  "name": "Stephen Fincher",
+  "is_translator": false,
+  "time_zone": "Central Time (US & Canada)",
+  "id_str": "249219716"
+}

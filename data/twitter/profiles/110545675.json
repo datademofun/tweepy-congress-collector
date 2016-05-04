@@ -1,0 +1,259 @@
+{
+  "url": "http://t.co/gZ7oGBeE9o",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/452166580227420162/LKXhLQGz.jpeg",
+  "statuses_count": 4222,
+  "is_translation_enabled": false,
+  "location": "Gallatin, TN",
+  "favourites_count": 191,
+  "listed_count": 838,
+  "profile_text_color": "073763",
+  "description": "I work for the people of Tennessee\u2019s 6th Congressional District. Wife to Dave, mom of three, and proud Mimi to six grandchildren. Registered nurse.",
+  "followers_count": 13033,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/717781240556994560/d89MsvIc_normal.jpg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/452166580227420162/LKXhLQGz.jpeg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "EEEEEE",
+  "utc_offset": -14400,
+  "profile_background_color": "FFFFFF",
+  "friends_count": 1690,
+  "profile_link_color": "073763",
+  "default_profile": false,
+  "created_at": "Mon Feb 01 22:58:22 +0000 2010",
+  "following": false,
+  "id": 110545675,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/717781240556994560/d89MsvIc_normal.jpg",
+  "screen_name": "RepDianeBlack",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "extended_entities": {
+      "media": [
+        {
+          "indices": [
+            115,
+            138
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/Chj7flbXIAAfMsp.jpg",
+          "id": 727607859861725184,
+          "expanded_url": "http://twitter.com/RepDianeBlack/status/727607860700585988/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 450,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 255,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 480,
+              "w": 640,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/qjL88jitLG",
+          "media_url": "http://pbs.twimg.com/media/Chj7flbXIAAfMsp.jpg",
+          "url": "https://t.co/qjL88jitLG",
+          "type": "photo",
+          "id_str": "727607859861725184"
+        },
+        {
+          "indices": [
+            115,
+            138
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/Chj7flZXIAEL8r1.jpg",
+          "id": 727607859853336577,
+          "expanded_url": "http://twitter.com/RepDianeBlack/status/727607860700585988/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 450,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 255,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 480,
+              "w": 640,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/qjL88jitLG",
+          "media_url": "http://pbs.twimg.com/media/Chj7flZXIAEL8r1.jpg",
+          "url": "https://t.co/qjL88jitLG",
+          "type": "photo",
+          "id_str": "727607859853336577"
+        },
+        {
+          "indices": [
+            115,
+            138
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/Chj7fmCWEAk096I.jpg",
+          "id": 727607860025233417,
+          "expanded_url": "http://twitter.com/RepDianeBlack/status/727607860700585988/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 450,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 255,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 480,
+              "w": 640,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/qjL88jitLG",
+          "media_url": "http://pbs.twimg.com/media/Chj7fmCWEAk096I.jpg",
+          "url": "https://t.co/qjL88jitLG",
+          "type": "photo",
+          "id_str": "727607860025233417"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 21:16:46 +0000 2016",
+    "id": 727607860700585988,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 4,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "media": [
+        {
+          "indices": [
+            115,
+            138
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/Chj7flbXIAAfMsp.jpg",
+          "id": 727607859861725184,
+          "expanded_url": "http://twitter.com/RepDianeBlack/status/727607860700585988/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 450,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 255,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 480,
+              "w": 640,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/qjL88jitLG",
+          "media_url": "http://pbs.twimg.com/media/Chj7flbXIAAfMsp.jpg",
+          "url": "https://t.co/qjL88jitLG",
+          "type": "photo",
+          "id_str": "727607859861725184"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            52,
+            62
+          ],
+          "text": "Nashville"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            20,
+            36
+          ],
+          "screen_name": "Franklin_Graham",
+          "id": 44945327,
+          "id_str": "44945327",
+          "name": "Franklin Graham"
+        }
+      ]
+    },
+    "text": "A privilege to hear @Franklin_Graham speak today in #Nashville. Thank you for bringing your message of hope to TN! https://t.co/qjL88jitLG",
+    "favorite_count": 16,
+    "possibly_sensitive": false,
+    "id_str": "727607860700585988",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/gZ7oGBeE9o",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://black.house.gov",
+          "display_url": "black.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/110545675/1448133545",
+  "name": "Diane Black",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "110545675"
+}

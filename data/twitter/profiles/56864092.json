@@ -1,0 +1,108 @@
+{
+  "url": "http://t.co/wINsdAOzI8",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/23313310/capitol_dome_2.jpg",
+  "statuses_count": 6383,
+  "is_translation_enabled": false,
+  "location": "Chicago, IL; Washington, DC",
+  "favourites_count": 204,
+  "listed_count": 1088,
+  "profile_text_color": "333333",
+  "description": "#IL05 Congressman, House Appropriator, member of Intel Committee, amateur hockey player & hopeful Cubs fan http://t.co/zL9fkzy188  http://t.co/FMe57EKfsC",
+  "followers_count": 12154,
+  "profile_background_tile": true,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/722431331184066565/LCCfS3fM_normal.jpg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/23313310/capitol_dome_2.jpg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDFFCC",
+  "utc_offset": -18000,
+  "profile_background_color": "9AE4E8",
+  "friends_count": 2038,
+  "profile_link_color": "0084B4",
+  "default_profile": false,
+  "created_at": "Wed Jul 15 00:10:43 +0000 2009",
+  "following": false,
+  "id": 56864092,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/722431331184066565/LCCfS3fM_normal.jpg",
+  "screen_name": "RepMikeQuigley",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 21:50:32 +0000 2016",
+    "id": 727616358268186624,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 0,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "Celebrating the anniversary of Hernandez v. Texas, declaring Mexican Americans &amp; all other racial groups protected under the 14th Amendment.",
+    "favorite_count": 1,
+    "id_str": "727616358268186624",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/wINsdAOzI8",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://www.quigley.house.gov",
+          "display_url": "quigley.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+        {
+          "url": "http://t.co/zL9fkzy188",
+          "indices": [
+            107,
+            129
+          ],
+          "expanded_url": "http://www.facebook.com/RepMikeQuigley",
+          "display_url": "facebook.com/RepMikeQuigley"
+        },
+        {
+          "url": "http://t.co/FMe57EKfsC",
+          "indices": [
+            131,
+            153
+          ],
+          "expanded_url": "http://instagram.com/repmikequigley",
+          "display_url": "instagram.com/repmikequigley"
+        }
+      ]
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "BDDCAD",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/56864092/1453393415",
+  "name": "Mike Quigley",
+  "is_translator": false,
+  "time_zone": "Central Time (US & Canada)",
+  "id_str": "56864092"
+}

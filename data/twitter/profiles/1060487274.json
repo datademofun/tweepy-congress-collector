@@ -1,0 +1,111 @@
+{
+  "url": "http://t.co/puX4lAK5i5",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000099236607/4900f793dc011d388d3edef8c71d50f9.jpeg",
+  "statuses_count": 2357,
+  "is_translation_enabled": false,
+  "location": "Gainesville, Georgia",
+  "favourites_count": 410,
+  "listed_count": 357,
+  "profile_text_color": "333333",
+  "description": "Working for Georgia's 9th Congressional District. Find me @HouseJudiciary when in session, beautiful #GA09 all other times.",
+  "followers_count": 5121,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/441354935452438528/U0f-n0Iv_normal.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000099236607/4900f793dc011d388d3edef8c71d50f9.jpeg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -14400,
+  "profile_background_color": "C0DEED",
+  "friends_count": 881,
+  "profile_link_color": "0084B4",
+  "default_profile": false,
+  "created_at": "Fri Jan 04 13:43:55 +0000 2013",
+  "following": false,
+  "id": 1060487274,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/441354935452438528/U0f-n0Iv_normal.jpeg",
+  "screen_name": "RepDougCollins",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 13:31:20 +0000 2016",
+    "id": 727490730437005314,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 0,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/djAz5kiwl6",
+          "indices": [
+            107,
+            130
+          ],
+          "expanded_url": "http://www.redstate.com/california_yankee/2016/05/02/prosecute-fine-imprison-deport-illegals/",
+          "display_url": "redstate.com/california_yan\u2026"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            97,
+            106
+          ],
+          "screen_name": "RedState",
+          "id": 3135241,
+          "id_str": "3135241",
+          "name": "RedState"
+        }
+      ]
+    },
+    "text": "We need to stop rewarding those who come to this country illegally - and send a stronger message @RedState https://t.co/djAz5kiwl6",
+    "favorite_count": 2,
+    "possibly_sensitive": false,
+    "id_str": "727490730437005314",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/puX4lAK5i5",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://dougcollins.house.gov/",
+          "display_url": "dougcollins.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1060487274/1445612673",
+  "name": "Doug Collins",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "1060487274"
+}

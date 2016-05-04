@@ -1,0 +1,176 @@
+{
+  "url": "http://t.co/jEHV8zDLWZ",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "statuses_count": 1000,
+  "is_translation_enabled": false,
+  "location": "PA-06 ",
+  "favourites_count": 48,
+  "listed_count": 140,
+  "profile_text_color": "333333",
+  "description": "U.S. Rep. for #PA06 Congressional District including portions of Berks, Chester, Lebanon & Montgomery Counties. @Transport & @HouseVetAffairs Committees",
+  "followers_count": 2540,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/633280448920027136/QIFDBlSU_normal.jpg",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -14400,
+  "profile_background_color": "C0DEED",
+  "friends_count": 497,
+  "profile_link_color": "0084B4",
+  "default_profile": true,
+  "created_at": "Wed Dec 31 22:38:23 +0000 2014",
+  "following": false,
+  "id": 2953922782,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/633280448920027136/QIFDBlSU_normal.jpg",
+  "screen_name": "RepRyanCostello",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "extended_entities": {
+      "media": [
+        {
+          "indices": [
+            110,
+            133
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/ChTnjJdWMAAcZD9.jpg",
+          "id": 726460030933938176,
+          "expanded_url": "http://twitter.com/RepRyanCostello/status/726460031634395137/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 312,
+              "w": 598,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 177,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 312,
+              "w": 598,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/i5lxhRjoy3",
+          "media_url": "http://pbs.twimg.com/media/ChTnjJdWMAAcZD9.jpg",
+          "url": "https://t.co/i5lxhRjoy3",
+          "type": "photo",
+          "id_str": "726460030933938176"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Sat Apr 30 17:15:43 +0000 2016",
+    "id": 726460031634395137,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 6,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "media": [
+        {
+          "indices": [
+            110,
+            133
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/ChTnjJdWMAAcZD9.jpg",
+          "id": 726460030933938176,
+          "expanded_url": "http://twitter.com/RepRyanCostello/status/726460031634395137/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 312,
+              "w": 598,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 177,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 312,
+              "w": 598,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/i5lxhRjoy3",
+          "media_url": "http://pbs.twimg.com/media/ChTnjJdWMAAcZD9.jpg",
+          "url": "https://t.co/i5lxhRjoy3",
+          "type": "photo",
+          "id_str": "726460030933938176"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            93,
+            105
+          ],
+          "text": "DEAtakeback"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "As part of Congressional task force working to prevent opioid addiction, wanted to highlight #DEAtakeback day https://t.co/i5lxhRjoy3",
+    "favorite_count": 1,
+    "possibly_sensitive": false,
+    "id_str": "726460031634395137",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/jEHV8zDLWZ",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://www.costello.house.gov",
+          "display_url": "costello.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/2953922782/1420495257",
+  "name": "Rep. Ryan Costello",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "2953922782"
+}

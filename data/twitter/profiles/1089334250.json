@@ -1,0 +1,108 @@
+{
+  "url": "http://t.co/XNnauaj5",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/438688574079115264/6BzY2umR.jpeg",
+  "statuses_count": 2230,
+  "is_translation_enabled": false,
+  "location": "Lexington, KY",
+  "favourites_count": 115,
+  "listed_count": 361,
+  "profile_text_color": "333333",
+  "description": "Honored to represent Kentucky's Sixth Congressional District.  Fighting to get Kentuckians back to work and restore fiscal responsibility to Washington",
+  "followers_count": 7040,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/648576649143943169/DGzR6q1Q_normal.jpg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/438688574079115264/6BzY2umR.jpeg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "E6F6F9",
+  "utc_offset": -14400,
+  "profile_background_color": "050505",
+  "friends_count": 1186,
+  "profile_link_color": "93A644",
+  "default_profile": false,
+  "created_at": "Mon Jan 14 15:29:49 +0000 2013",
+  "following": false,
+  "id": 1089334250,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/648576649143943169/DGzR6q1Q_normal.jpg",
+  "screen_name": "RepAndyBarr",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 14:20:32 +0000 2016",
+    "id": 727503109015134208,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 0,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            124,
+            136
+          ],
+          "text": "cleanracing"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/JsfDwtU9l3",
+          "indices": [
+            100,
+            123
+          ],
+          "expanded_url": "https://www.youtube.com/watch?v=Zea9_kTQIfM",
+          "display_url": "youtube.com/watch?v=Zea9_k\u2026"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "In case you missed it. Video of last week's Congressional Horse Caucus hearing is available online: https://t.co/JsfDwtU9l3 #cleanracing",
+    "favorite_count": 0,
+    "possibly_sensitive": false,
+    "id_str": "727503109015134208",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/XNnauaj5",
+          "indices": [
+            0,
+            20
+          ],
+          "expanded_url": "http://barr.house.gov",
+          "display_url": "barr.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1089334250/1392572667",
+  "name": "Rep. Andy Barr",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "1089334250"
+}

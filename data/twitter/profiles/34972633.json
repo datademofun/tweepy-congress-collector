@@ -1,0 +1,89 @@
+{
+  "url": "http://t.co/X9bMXG8KvG",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/436230791308120064/-GvMHElc.jpeg",
+  "statuses_count": 7508,
+  "is_translation_enabled": false,
+  "location": "Washington D.C. / San Juan",
+  "favourites_count": 79,
+  "listed_count": 549,
+  "profile_text_color": "1E038C",
+  "description": "I take my responsibility of serving the 3.6 million U.S. citizens of Puerto Rico very seriously and I represent them in Congress with pride.",
+  "followers_count": 46212,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/428581306885087232/VjUt5sG7_normal.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/436230791308120064/-GvMHElc.jpeg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "B0D0ED",
+  "utc_offset": -14400,
+  "profile_background_color": "02196B",
+  "friends_count": 10423,
+  "profile_link_color": "072175",
+  "default_profile": false,
+  "created_at": "Fri Apr 24 16:43:30 +0000 2009",
+  "following": false,
+  "id": 34972633,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/428581306885087232/VjUt5sG7_normal.jpeg",
+  "screen_name": "pedropierluisi",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Sat Apr 30 17:07:48 +0000 2016",
+    "id": 726458041302802432,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 23,
+    "lang": "es",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "Tambi\u00e9n para apoyar la investigaci\u00f3n acad\u00e9mica sobre asuntos importantes de salud, como el c\u00e1ncer, el Parkinson y combatir el virus Zika.",
+    "favorite_count": 26,
+    "id_str": "726458041302802432",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/X9bMXG8KvG",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://pierluisi.house.gov/espanol",
+          "display_url": "pierluisi.house.gov/espanol"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/34972633/1391016348",
+  "name": "Pedro Pierluisi",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "34972633"
+}

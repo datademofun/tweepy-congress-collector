@@ -1,0 +1,212 @@
+{
+  "url": "http://t.co/lCxczJ32HJ",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/204181074/mqenglishcountryside.br.jpg",
+  "statuses_count": 1142,
+  "is_translation_enabled": true,
+  "location": "",
+  "favourites_count": 20,
+  "listed_count": 412,
+  "profile_text_color": "222222",
+  "description": "Costa represents California's 16th District. He serves on the Agriculture & Natural Resources Committees. This account is for official use only.",
+  "followers_count": 4926,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/2823385828/5fdd3febd6729c9077a2e35710d3b93f_normal.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/204181074/mqenglishcountryside.br.jpg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "33762D",
+  "utc_offset": -18000,
+  "profile_background_color": "000000",
+  "friends_count": 466,
+  "profile_link_color": "00B9FF",
+  "default_profile": false,
+  "created_at": "Mon Jan 31 18:42:23 +0000 2011",
+  "following": false,
+  "id": 245451804,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/2823385828/5fdd3febd6729c9077a2e35710d3b93f_normal.jpeg",
+  "screen_name": "RepJimCosta",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "extended_entities": {
+      "media": [
+        {
+          "indices": [
+            110,
+            133
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/ChktAwMU4AA7hky.jpg",
+          "id": 727662305756897280,
+          "expanded_url": "http://twitter.com/RepJimCosta/status/727662351290241024/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 600,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 340,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 1024,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/aDOZauCG0v",
+          "media_url": "http://pbs.twimg.com/media/ChktAwMU4AA7hky.jpg",
+          "url": "https://t.co/aDOZauCG0v",
+          "type": "photo",
+          "id_str": "727662305756897280"
+        },
+        {
+          "indices": [
+            110,
+            133
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/ChktBIzVIAAaAZ9.jpg",
+          "id": 727662312362942464,
+          "expanded_url": "http://twitter.com/RepJimCosta/status/727662351290241024/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 600,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 340,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 1024,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/aDOZauCG0v",
+          "media_url": "http://pbs.twimg.com/media/ChktBIzVIAAaAZ9.jpg",
+          "url": "https://t.co/aDOZauCG0v",
+          "type": "photo",
+          "id_str": "727662312362942464"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Wed May 04 00:53:18 +0000 2016",
+    "id": 727662351290241024,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 1,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "media": [
+        {
+          "indices": [
+            110,
+            133
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/ChktAwMU4AA7hky.jpg",
+          "id": 727662305756897280,
+          "expanded_url": "http://twitter.com/RepJimCosta/status/727662351290241024/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 600,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 340,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 1024,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/aDOZauCG0v",
+          "media_url": "http://pbs.twimg.com/media/ChktAwMU4AA7hky.jpg",
+          "url": "https://t.co/aDOZauCG0v",
+          "type": "photo",
+          "id_str": "727662305756897280"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            4,
+            9
+          ],
+          "text": "CA16"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "The #CA16 Congressional Art Competition reception is off to a great start! I'm so proud of our young artists! https://t.co/aDOZauCG0v",
+    "favorite_count": 3,
+    "possibly_sensitive": false,
+    "id_str": "727662351290241024",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/lCxczJ32HJ",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://costa.house.gov",
+          "display_url": "costa.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "00B9FF",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/245451804/1437768953",
+  "name": "Rep. Jim Costa",
+  "is_translator": false,
+  "time_zone": "Quito",
+  "id_str": "245451804"
+}

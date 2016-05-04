@@ -1,0 +1,180 @@
+{
+  "url": "http://t.co/JTF7ecJNl5",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "statuses_count": 2415,
+  "is_translation_enabled": false,
+  "location": "Albuquerque, NM",
+  "favourites_count": 19,
+  "listed_count": 390,
+  "profile_text_color": "333333",
+  "description": "Proudly serving New Mexico's 1st Congressional District. Serving on House Agriculture, Budget and Oversight & Government Reform Committees.",
+  "followers_count": 10110,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/615932517552664576/tFxLs2Yu_normal.jpg",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": null,
+  "profile_background_color": "C0DEED",
+  "friends_count": 490,
+  "profile_link_color": "0084B4",
+  "default_profile": true,
+  "created_at": "Fri Jan 04 20:46:03 +0000 2013",
+  "following": false,
+  "id": 1061385474,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/615932517552664576/tFxLs2Yu_normal.jpg",
+  "screen_name": "RepLujanGrisham",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Fri Apr 29 13:49:59 +0000 2016",
+    "id": 726045871092027393,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 135,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            35,
+            40
+          ],
+          "text": "Zika"
+        },
+        {
+          "indices": [
+            139,
+            140
+          ],
+          "text": "DoYourJob"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            19
+          ],
+          "screen_name": "RepRoybalAllard",
+          "id": 479872233,
+          "id_str": "479872233",
+          "name": "Rep. Roybal-Allard"
+        },
+        {
+          "indices": [
+            132,
+            140
+          ],
+          "screen_name": "SpeakerRyan",
+          "id": 18916432,
+          "id_str": "18916432",
+          "name": "Paul Ryan"
+        }
+      ]
+    },
+    "text": "RT @RepRoybalAllard: The threat of #Zika continues to threaten the health of Americans, yet Republicans have decided to leave town. @Speake\u2026",
+    "favorite_count": 0,
+    "id_str": "726045871092027393",
+    "retweeted_status": {
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "place": null,
+      "in_reply_to_user_id": null,
+      "coordinates": null,
+      "truncated": false,
+      "in_reply_to_status_id_str": null,
+      "created_at": "Fri Apr 29 12:31:39 +0000 2016",
+      "id": 726026159033573376,
+      "favorited": false,
+      "geo": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_screen_name": null,
+      "retweet_count": 135,
+      "lang": "en",
+      "retweeted": false,
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              14,
+              19
+            ],
+            "text": "Zika"
+          },
+          {
+            "indices": [
+              125,
+              135
+            ],
+            "text": "DoYourJob"
+          }
+        ],
+        "urls": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "indices": [
+              111,
+              123
+            ],
+            "screen_name": "SpeakerRyan",
+            "id": 18916432,
+            "id_str": "18916432",
+            "name": "Paul Ryan"
+          }
+        ]
+      },
+      "text": "The threat of #Zika continues to threaten the health of Americans, yet Republicans have decided to leave town. @SpeakerRyan, #DoYourJob!",
+      "favorite_count": 93,
+      "id_str": "726026159033573376",
+      "contributors": null
+    },
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/JTF7ecJNl5",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://lujangrisham.house.gov",
+          "display_url": "lujangrisham.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1061385474/1398201757",
+  "name": "MichelleLujanGrisham",
+  "is_translator": false,
+  "time_zone": null,
+  "id_str": "1061385474"
+}

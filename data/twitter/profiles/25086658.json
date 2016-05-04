@@ -1,0 +1,100 @@
+{
+  "url": "http://t.co/tUCU5eCWsh",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/818107772/b0a6e4645aec1bf74f0c6a2496036fc0.jpeg",
+  "statuses_count": 1172,
+  "is_translation_enabled": false,
+  "location": "Rockledge, FL",
+  "favourites_count": 5,
+  "listed_count": 857,
+  "profile_text_color": "0A0101",
+  "description": "Congressman from Florida's 8th district, representing the Space and Treasure Coasts",
+  "followers_count": 10779,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/115078512/bill_headshotcompressed_normal.JPG",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/818107772/b0a6e4645aec1bf74f0c6a2496036fc0.jpeg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "B3BCD1",
+  "utc_offset": -18000,
+  "profile_background_color": "02163D",
+  "friends_count": 932,
+  "profile_link_color": "1B4BA3",
+  "default_profile": false,
+  "created_at": "Wed Mar 18 15:05:42 +0000 2009",
+  "following": false,
+  "id": 25086658,
+  "has_extended_profile": false,
+  "profile_use_background_image": false,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/115078512/bill_headshotcompressed_normal.JPG",
+  "screen_name": "congbillposey",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "source": "<a href=\"http://www.fireside21.com\" rel=\"nofollow\">Fireside Publishing</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Wed Apr 27 19:50:22 +0000 2016",
+    "id": 725411787064152068,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 3,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/V7jcCeIzkX",
+          "indices": [
+            96,
+            119
+          ],
+          "expanded_url": "http://goo.gl/xveUFN",
+          "display_url": "goo.gl/xveUFN"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "Committee Approves Posey\u2019s Bipartisan Bill to Provide Justice for American Victims of Terrorism https://t.co/V7jcCeIzkX",
+    "favorite_count": 8,
+    "possibly_sensitive": false,
+    "id_str": "725411787064152068",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/tUCU5eCWsh",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://www.posey.house.gov",
+          "display_url": "posey.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/25086658/1416260228",
+  "name": "Bill Posey",
+  "is_translator": false,
+  "time_zone": "Quito",
+  "id_str": "25086658"
+}

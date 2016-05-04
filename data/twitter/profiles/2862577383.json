@@ -1,0 +1,100 @@
+{
+  "url": "http://t.co/Tl3R80YNB1",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "statuses_count": 758,
+  "is_translation_enabled": false,
+  "location": " Windsor, CO | Washington, DC",
+  "favourites_count": 46,
+  "listed_count": 163,
+  "profile_text_color": "000000",
+  "description": "Husband. Father. Proudly represent the wonderful people of Colorado CD-04.",
+  "followers_count": 2785,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/552483330839433216/tt64NtR4_normal.jpeg",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "notifications": false,
+  "profile_sidebar_fill_color": "000000",
+  "utc_offset": -14400,
+  "profile_background_color": "000000",
+  "friends_count": 276,
+  "profile_link_color": "0084B4",
+  "default_profile": false,
+  "created_at": "Wed Nov 05 14:49:30 +0000 2014",
+  "following": false,
+  "id": 2862577383,
+  "has_extended_profile": false,
+  "profile_use_background_image": false,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/552483330839433216/tt64NtR4_normal.jpeg",
+  "screen_name": "RepKenBuck",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Fri Apr 29 20:29:02 +0000 2016",
+    "id": 726146294616608769,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 7,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/4W4UrjOqGd",
+          "indices": [
+            73,
+            96
+          ],
+          "expanded_url": "http://www.heritage.org/Research/Reports/2010/07/The-Economic-Case-Against-the-Death-Tax",
+          "display_url": "heritage.org/Research/Repor\u2026"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "The Death Tax turned 100 today. It\u2019s been around for a century too long.\nhttps://t.co/4W4UrjOqGd",
+    "favorite_count": 4,
+    "possibly_sensitive": false,
+    "id_str": "726146294616608769",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/Tl3R80YNB1",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://buck.house.gov",
+          "display_url": "buck.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "000000",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/2862577383/1420661732",
+  "name": "Congressman Ken Buck",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "2862577383"
+}

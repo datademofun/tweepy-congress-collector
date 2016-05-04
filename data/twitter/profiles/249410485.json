@@ -1,0 +1,410 @@
+{
+  "url": "http://t.co/ozJucyCFUb",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000116677422/da053d79162bc9230a13c02fec78db28.jpeg",
+  "statuses_count": 1465,
+  "is_translation_enabled": false,
+  "location": "Georgia 2nd CD & Washington DC",
+  "favourites_count": 120,
+  "listed_count": 575,
+  "profile_text_color": "333333",
+  "description": "Proudly representing Georgia's 2nd Congressional District.\r\nRanking Member of MilCon/VA Approps Subcommittee \r\nhttp://t.co/jORrdOYPnj",
+  "followers_count": 8510,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/2429733840/rjl32rw6zxkszb84av5z_normal.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000116677422/da053d79162bc9230a13c02fec78db28.jpeg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -14400,
+  "profile_background_color": "C0DEED",
+  "friends_count": 785,
+  "profile_link_color": "007BA8",
+  "default_profile": false,
+  "created_at": "Wed Feb 09 00:23:10 +0000 2011",
+  "following": false,
+  "id": 249410485,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/2429733840/rjl32rw6zxkszb84av5z_normal.jpeg",
+  "screen_name": "SanfordBishop",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "extended_entities": {
+      "media": [
+        {
+          "url": "https://t.co/aWCGDShZnB",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/726071082323603458/pu/img/zsp3rvJNv1jL9wEe.jpg",
+          "id": 726071082323603458,
+          "display_url": "pic.twitter.com/aWCGDShZnB",
+          "source_user_id": 2975091705,
+          "source_status_id": 726072297682026496,
+          "type": "video",
+          "indices": [
+            139,
+            140
+          ],
+          "expanded_url": "http://twitter.com/CongressmanHice/status/726072297682026496/video/1",
+          "sizes": {
+            "medium": {
+              "h": 450,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 255,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 720,
+              "w": 960,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "video_info": {
+            "aspect_ratio": [
+              4,
+              3
+            ],
+            "duration_millis": 30000,
+            "variants": [
+              {
+                "url": "https://video.twimg.com/ext_tw_video/726071082323603458/pu/pl/I0RkkdQV5LmiVngP.m3u8",
+                "content_type": "application/x-mpegURL"
+              },
+              {
+                "url": "https://video.twimg.com/ext_tw_video/726071082323603458/pu/pl/I0RkkdQV5LmiVngP.mpd",
+                "content_type": "application/dash+xml"
+              },
+              {
+                "url": "https://video.twimg.com/ext_tw_video/726071082323603458/pu/vid/240x180/BQJCJDV89Yzzst2H.mp4",
+                "content_type": "video/mp4",
+                "bitrate": 320000
+              },
+              {
+                "url": "https://video.twimg.com/ext_tw_video/726071082323603458/pu/vid/960x720/YGn-xBCuCMQxge4c.mp4",
+                "content_type": "video/mp4",
+                "bitrate": 2176000
+              },
+              {
+                "url": "https://video.twimg.com/ext_tw_video/726071082323603458/pu/vid/480x360/GC_HQKJWy0C9MgbZ.mp4",
+                "content_type": "video/mp4",
+                "bitrate": 832000
+              }
+            ]
+          },
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/726071082323603458/pu/img/zsp3rvJNv1jL9wEe.jpg",
+          "source_user_id_str": "2975091705",
+          "source_status_id_str": "726072297682026496",
+          "id_str": "726071082323603458"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Fri Apr 29 15:49:02 +0000 2016",
+    "id": 726075832549122048,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 17,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "media": [
+        {
+          "url": "https://t.co/aWCGDShZnB",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/726071082323603458/pu/img/zsp3rvJNv1jL9wEe.jpg",
+          "id": 726071082323603458,
+          "display_url": "pic.twitter.com/aWCGDShZnB",
+          "source_user_id": 2975091705,
+          "source_status_id": 726072297682026496,
+          "type": "photo",
+          "indices": [
+            139,
+            140
+          ],
+          "expanded_url": "http://twitter.com/CongressmanHice/status/726072297682026496/video/1",
+          "sizes": {
+            "medium": {
+              "h": 450,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 255,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 720,
+              "w": 960,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/726071082323603458/pu/img/zsp3rvJNv1jL9wEe.jpg",
+          "source_user_id_str": "2975091705",
+          "source_status_id_str": "726072297682026496",
+          "id_str": "726071082323603458"
+        }
+      ],
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            19
+          ],
+          "screen_name": "CongressmanHice",
+          "id": 2975091705,
+          "id_str": "2975091705",
+          "name": "Congressman Hice"
+        },
+        {
+          "indices": [
+            64,
+            75
+          ],
+          "screen_name": "HouseFloor",
+          "id": 7402662,
+          "id_str": "7402662",
+          "name": "U.S. House Floor"
+        },
+        {
+          "indices": [
+            84,
+            99
+          ],
+          "screen_name": "universityofga",
+          "id": 16435792,
+          "id_str": "16435792",
+          "name": "UGA"
+        }
+      ]
+    },
+    "text": "RT @CongressmanHice: Honored to lead a moment of silence on the @HouseFloor for the @universityofga students who tragically passed away. ht\u2026",
+    "favorite_count": 0,
+    "possibly_sensitive": false,
+    "id_str": "726075832549122048",
+    "retweeted_status": {
+      "extended_entities": {
+        "media": [
+          {
+            "indices": [
+              116,
+              139
+            ],
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/726071082323603458/pu/img/zsp3rvJNv1jL9wEe.jpg",
+            "id": 726071082323603458,
+            "expanded_url": "http://twitter.com/CongressmanHice/status/726072297682026496/video/1",
+            "sizes": {
+              "medium": {
+                "h": 450,
+                "w": 600,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 255,
+                "w": 340,
+                "resize": "fit"
+              },
+              "large": {
+                "h": 720,
+                "w": 960,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "display_url": "pic.twitter.com/aWCGDShZnB",
+            "video_info": {
+              "aspect_ratio": [
+                4,
+                3
+              ],
+              "duration_millis": 30000,
+              "variants": [
+                {
+                  "url": "https://video.twimg.com/ext_tw_video/726071082323603458/pu/pl/I0RkkdQV5LmiVngP.m3u8",
+                  "content_type": "application/x-mpegURL"
+                },
+                {
+                  "url": "https://video.twimg.com/ext_tw_video/726071082323603458/pu/pl/I0RkkdQV5LmiVngP.mpd",
+                  "content_type": "application/dash+xml"
+                },
+                {
+                  "url": "https://video.twimg.com/ext_tw_video/726071082323603458/pu/vid/240x180/BQJCJDV89Yzzst2H.mp4",
+                  "content_type": "video/mp4",
+                  "bitrate": 320000
+                },
+                {
+                  "url": "https://video.twimg.com/ext_tw_video/726071082323603458/pu/vid/960x720/YGn-xBCuCMQxge4c.mp4",
+                  "content_type": "video/mp4",
+                  "bitrate": 2176000
+                },
+                {
+                  "url": "https://video.twimg.com/ext_tw_video/726071082323603458/pu/vid/480x360/GC_HQKJWy0C9MgbZ.mp4",
+                  "content_type": "video/mp4",
+                  "bitrate": 832000
+                }
+              ]
+            },
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/726071082323603458/pu/img/zsp3rvJNv1jL9wEe.jpg",
+            "url": "https://t.co/aWCGDShZnB",
+            "type": "video",
+            "id_str": "726071082323603458"
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "place": null,
+      "in_reply_to_user_id": null,
+      "coordinates": null,
+      "truncated": false,
+      "in_reply_to_status_id_str": null,
+      "created_at": "Fri Apr 29 15:35:00 +0000 2016",
+      "id": 726072297682026496,
+      "favorited": false,
+      "geo": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_screen_name": null,
+      "retweet_count": 17,
+      "lang": "en",
+      "retweeted": false,
+      "entities": {
+        "media": [
+          {
+            "indices": [
+              116,
+              139
+            ],
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/726071082323603458/pu/img/zsp3rvJNv1jL9wEe.jpg",
+            "id": 726071082323603458,
+            "expanded_url": "http://twitter.com/CongressmanHice/status/726072297682026496/video/1",
+            "sizes": {
+              "medium": {
+                "h": 450,
+                "w": 600,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 255,
+                "w": 340,
+                "resize": "fit"
+              },
+              "large": {
+                "h": 720,
+                "w": 960,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "display_url": "pic.twitter.com/aWCGDShZnB",
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/726071082323603458/pu/img/zsp3rvJNv1jL9wEe.jpg",
+            "url": "https://t.co/aWCGDShZnB",
+            "type": "photo",
+            "id_str": "726071082323603458"
+          }
+        ],
+        "hashtags": [],
+        "urls": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "indices": [
+              43,
+              54
+            ],
+            "screen_name": "HouseFloor",
+            "id": 7402662,
+            "id_str": "7402662",
+            "name": "U.S. House Floor"
+          },
+          {
+            "indices": [
+              63,
+              78
+            ],
+            "screen_name": "universityofga",
+            "id": 16435792,
+            "id_str": "16435792",
+            "name": "UGA"
+          }
+        ]
+      },
+      "text": "Honored to lead a moment of silence on the @HouseFloor for the @universityofga students who tragically passed away. https://t.co/aWCGDShZnB",
+      "favorite_count": 29,
+      "possibly_sensitive": false,
+      "id_str": "726072297682026496",
+      "contributors": null
+    },
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/ozJucyCFUb",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://bishop.house.gov",
+          "display_url": "bishop.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+        {
+          "url": "http://t.co/jORrdOYPnj",
+          "indices": [
+            111,
+            133
+          ],
+          "expanded_url": "http://fb.me/sanfordbishop",
+          "display_url": "fb.me/sanfordbishop"
+        }
+      ]
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/249410485/1402940063",
+  "name": "Sanford Bishop, Jr.",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "249410485"
+}

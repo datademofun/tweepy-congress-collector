@@ -1,0 +1,207 @@
+{
+  "url": "http://t.co/cJYobAueyX",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "statuses_count": 907,
+  "is_translation_enabled": false,
+  "location": "Rochester, MI",
+  "favourites_count": 170,
+  "listed_count": 140,
+  "profile_text_color": "000000",
+  "description": "Official account for Congressman Mike Bishop #MI08. Serving on @HouseJudiciary and @EdWorkforce Committees.",
+  "followers_count": 2778,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/656529391673999360/fK2zpwcO_normal.jpg",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "notifications": false,
+  "profile_sidebar_fill_color": "000000",
+  "utc_offset": -14400,
+  "profile_background_color": "000000",
+  "friends_count": 547,
+  "profile_link_color": "DD2E44",
+  "default_profile": false,
+  "created_at": "Wed Dec 10 22:19:34 +0000 2014",
+  "following": false,
+  "id": 2914571740,
+  "has_extended_profile": false,
+  "profile_use_background_image": false,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/656529391673999360/fK2zpwcO_normal.jpg",
+  "screen_name": "RepMikeBishop",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "extended_entities": {
+      "media": [
+        {
+          "indices": [
+            120,
+            143
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/ChjwyGtUUAE4gVB.jpg",
+          "id": 727596083405148161,
+          "expanded_url": "http://twitter.com/RepMikeBishop/status/727596116993257474/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 600,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 340,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 1024,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/4X9AuhyIp6",
+          "media_url": "http://pbs.twimg.com/media/ChjwyGtUUAE4gVB.jpg",
+          "url": "https://t.co/4X9AuhyIp6",
+          "type": "photo",
+          "id_str": "727596083405148161"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 20:30:07 +0000 2016",
+    "id": 727596116993257474,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 6,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "media": [
+        {
+          "indices": [
+            120,
+            143
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/ChjwyGtUUAE4gVB.jpg",
+          "id": 727596083405148161,
+          "expanded_url": "http://twitter.com/RepMikeBishop/status/727596116993257474/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 600,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 340,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 1024,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/4X9AuhyIp6",
+          "media_url": "http://pbs.twimg.com/media/ChjwyGtUUAE4gVB.jpg",
+          "url": "https://t.co/4X9AuhyIp6",
+          "type": "photo",
+          "id_str": "727596083405148161"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            114,
+            119
+          ],
+          "text": "MI08"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            7,
+            20
+          ],
+          "screen_name": "LansingBrews",
+          "id": 2848197628,
+          "id_str": "2848197628",
+          "name": "Lansing Brewing Co."
+        },
+        {
+          "indices": [
+            80,
+            96
+          ],
+          "screen_name": "downtownlansing",
+          "id": 31192867,
+          "id_str": "31192867",
+          "name": "Downtown Lansing"
+        },
+        {
+          "indices": [
+            98,
+            113
+          ],
+          "screen_name": "LansingChamber",
+          "id": 44129837,
+          "id_str": "44129837",
+          "name": "Lansing Chamber"
+        }
+      ]
+    },
+    "text": "Toured @LansingBrews &amp; new Outfield apartments. Exciting things going on in @downtownlansing! @LansingChamber #MI08 https://t.co/4X9AuhyIp6",
+    "favorite_count": 10,
+    "possibly_sensitive": false,
+    "id_str": "727596116993257474",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/cJYobAueyX",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://mikebishop.house.gov",
+          "display_url": "mikebishop.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "000000",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/2914571740/1454946078",
+  "name": "Mike Bishop",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "2914571740"
+}

@@ -1,0 +1,168 @@
+{
+  "url": "http://t.co/yrKgLVIocD",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/211393248/Leahy_Twitter_BG.png",
+  "statuses_count": 7674,
+  "is_translation_enabled": false,
+  "location": "Washington, DC",
+  "favourites_count": 45,
+  "listed_count": 1551,
+  "profile_text_color": "333333",
+  "description": "",
+  "followers_count": 37519,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/710826634182565893/suG-Vcwq_normal.jpg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/211393248/Leahy_Twitter_BG.png",
+  "notifications": false,
+  "profile_sidebar_fill_color": "F7F8E9",
+  "utc_offset": -14400,
+  "profile_background_color": "4D7830",
+  "friends_count": 1162,
+  "profile_link_color": "9E410B",
+  "default_profile": false,
+  "created_at": "Tue Jan 25 18:20:07 +0000 2011",
+  "following": false,
+  "id": 242836537,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/710826634182565893/suG-Vcwq_normal.jpg",
+  "screen_name": "SenatorLeahy",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "extended_entities": {
+      "media": [
+        {
+          "indices": [
+            0,
+            23
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/ChjTDFOWUAAVKkS.jpg",
+          "id": 727563389715763200,
+          "expanded_url": "http://twitter.com/SenatorLeahy/status/727563399127797760/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 300,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 170,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 512,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/Ogwffrjjjq",
+          "media_url": "http://pbs.twimg.com/media/ChjTDFOWUAAVKkS.jpg",
+          "url": "https://t.co/Ogwffrjjjq",
+          "type": "photo",
+          "id_str": "727563389715763200"
+        }
+      ]
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 18:20:06 +0000 2016",
+    "id": 727563399127797760,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 5,
+    "lang": "und",
+    "retweeted": false,
+    "entities": {
+      "media": [
+        {
+          "indices": [
+            0,
+            23
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/ChjTDFOWUAAVKkS.jpg",
+          "id": 727563389715763200,
+          "expanded_url": "http://twitter.com/SenatorLeahy/status/727563399127797760/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 300,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 170,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 512,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/Ogwffrjjjq",
+          "media_url": "http://pbs.twimg.com/media/ChjTDFOWUAAVKkS.jpg",
+          "url": "https://t.co/Ogwffrjjjq",
+          "type": "photo",
+          "id_str": "727563389715763200"
+        }
+      ],
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "https://t.co/Ogwffrjjjq",
+    "favorite_count": 4,
+    "possibly_sensitive": false,
+    "id_str": "727563399127797760",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/yrKgLVIocD",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://www.leahy.senate.gov",
+          "display_url": "leahy.senate.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "9E410B",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/242836537/1358287469",
+  "name": "Sen. Patrick Leahy",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "242836537"
+}

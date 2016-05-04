@@ -1,0 +1,129 @@
+{
+  "url": "http://t.co/ps36JMcXXV",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/319168262/t17.jpg",
+  "statuses_count": 2679,
+  "is_translation_enabled": false,
+  "location": "MI 7th Congressional District",
+  "favourites_count": 145,
+  "listed_count": 658,
+  "profile_text_color": "333333",
+  "description": "Proudly serving the Michigan 7th District, tweet at me or join the discussion on Facebook http://t.co/W4dgfpnMav",
+  "followers_count": 8879,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/628254462403051520/ta_nS8a7_normal.png",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/319168262/t17.jpg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDFFCC",
+  "utc_offset": -18000,
+  "profile_background_color": "0084B4",
+  "friends_count": 1018,
+  "profile_link_color": "0084B4",
+  "default_profile": false,
+  "created_at": "Thu Jan 13 20:26:26 +0000 2011",
+  "following": false,
+  "id": 237862972,
+  "has_extended_profile": false,
+  "profile_use_background_image": false,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/628254462403051520/ta_nS8a7_normal.png",
+  "screen_name": "RepWalberg",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 22:43:06 +0000 2016",
+    "id": 727629584296857600,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 1,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            130,
+            135
+          ],
+          "text": "MI07"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/SMiUPH9hx0",
+          "indices": [
+            106,
+            129
+          ],
+          "expanded_url": "http://www.nvfc.org/nvfc-announces-2016-fire-prevention-and-education-award-winner/",
+          "display_url": "nvfc.org/nvfc-announces\u2026"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            57,
+            62
+          ],
+          "screen_name": "NVFC",
+          "id": 25319662,
+          "id_str": "25319662",
+          "name": "NatlVolFireCouncil"
+        }
+      ]
+    },
+    "text": "Congrats to Lt. Michael McLeieer from Olivet for winning @NVFC's 2016 Fire Prevention and Education Award https://t.co/SMiUPH9hx0 #MI07",
+    "favorite_count": 0,
+    "possibly_sensitive": false,
+    "id_str": "727629584296857600",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/ps36JMcXXV",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://walberg.house.gov",
+          "display_url": "walberg.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+        {
+          "url": "http://t.co/W4dgfpnMav",
+          "indices": [
+            90,
+            112
+          ],
+          "expanded_url": "http://www.facebook.com/RepWalberg",
+          "display_url": "facebook.com/RepWalberg"
+        }
+      ]
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "BDDCAD",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/237862972/1438622244",
+  "name": "Rep Tim Walberg",
+  "is_translator": false,
+  "time_zone": "Quito",
+  "id_str": "237862972"
+}

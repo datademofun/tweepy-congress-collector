@@ -1,0 +1,89 @@
+{
+  "url": "http://t.co/L7B6x0yzTS",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "statuses_count": 1,
+  "is_translation_enabled": false,
+  "location": "Washington, D.C.",
+  "favourites_count": 0,
+  "listed_count": 39,
+  "profile_text_color": "000000",
+  "description": "Congresswoman Representing American Samoa",
+  "followers_count": 382,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/564816554185859073/f1VAN3h3_normal.jpeg",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "notifications": false,
+  "profile_sidebar_fill_color": "000000",
+  "utc_offset": null,
+  "profile_background_color": "000000",
+  "friends_count": 0,
+  "profile_link_color": "94D487",
+  "default_profile": false,
+  "created_at": "Mon Feb 09 16:00:36 +0000 2015",
+  "following": false,
+  "id": 3026622545,
+  "has_extended_profile": false,
+  "profile_use_background_image": false,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/564816554185859073/f1VAN3h3_normal.jpeg",
+  "screen_name": "RepAmata",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Mon Feb 09 16:17:44 +0000 2015",
+    "id": 564820451508383746,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 16,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "Hello everyone, I'm excited to join Twitter to share the work I'm doing in Congress on behalf of the American Samoan people.",
+    "favorite_count": 25,
+    "id_str": "564820451508383746",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/L7B6x0yzTS",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://radewagen.house.gov",
+          "display_url": "radewagen.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "000000",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/3026622545/1423503404",
+  "name": "Congresswoman Amata",
+  "is_translator": false,
+  "time_zone": null,
+  "id_str": "3026622545"
+}

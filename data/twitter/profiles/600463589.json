@@ -1,0 +1,108 @@
+{
+  "url": "http://t.co/W6cAM2HKzW",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/876553191/418ec7fae1de740fb193bd0056893887.jpeg",
+  "statuses_count": 4323,
+  "is_translation_enabled": false,
+  "location": "Idaho & Washington, D.C.",
+  "favourites_count": 58,
+  "listed_count": 861,
+  "profile_text_color": "333333",
+  "description": "United States Senator for the great state of Idaho.",
+  "followers_count": 16120,
+  "profile_background_tile": true,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/2286763334/atyer80hkqhdwmgk73t0_normal.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/876553191/418ec7fae1de740fb193bd0056893887.jpeg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -14400,
+  "profile_background_color": "C0DEED",
+  "friends_count": 506,
+  "profile_link_color": "0084B4",
+  "default_profile": false,
+  "created_at": "Tue Jun 05 22:16:35 +0000 2012",
+  "following": false,
+  "id": 600463589,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/2286763334/atyer80hkqhdwmgk73t0_normal.jpeg",
+  "screen_name": "MikeCrapo",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Mon May 02 18:42:51 +0000 2016",
+    "id": 727206735920926720,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 2,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            121,
+            127
+          ],
+          "text": "idpol"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/6dRHJY22Zm",
+          "indices": [
+            97,
+            120
+          ],
+          "expanded_url": "http://goo.gl/ovwq94",
+          "display_url": "goo.gl/ovwq94"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "The Timber Innovation Act is garnering broad support from stakeholders and lawmakers. More here: https://t.co/6dRHJY22Zm #idpol",
+    "favorite_count": 0,
+    "possibly_sensitive": false,
+    "id_str": "727206735920926720",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/W6cAM2HKzW",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://www.crapo.senate.gov",
+          "display_url": "crapo.senate.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/600463589/1358530313",
+  "name": "Senator Mike Crapo",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "600463589"
+}

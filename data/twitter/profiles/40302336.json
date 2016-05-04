@@ -1,0 +1,168 @@
+{
+  "url": "http://t.co/bZgLYCXMkK",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/753664421/cf590638abb54fc2e5f01ec58b6c6c40.jpeg",
+  "statuses_count": 1654,
+  "is_translation_enabled": false,
+  "location": "New York, NY",
+  "favourites_count": 29,
+  "listed_count": 709,
+  "profile_text_color": "333333",
+  "description": "Representing parts of Manhattan and Brooklyn. I serve on the House Judiciary + Transportation & Infrastructure committees. Follow me at http://t.co/eAS0pRYbYu",
+  "followers_count": 10042,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000675065729/bbd633a57e8333412d6147bbc077427d_normal.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/753664421/cf590638abb54fc2e5f01ec58b6c6c40.jpeg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -18000,
+  "profile_background_color": "C0DEED",
+  "friends_count": 1346,
+  "profile_link_color": "0084B4",
+  "default_profile": false,
+  "created_at": "Fri May 15 18:37:39 +0000 2009",
+  "following": false,
+  "id": 40302336,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/378800000675065729/bbd633a57e8333412d6147bbc077427d_normal.jpeg",
+  "screen_name": "RepJerryNadler",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id_str": "40302336",
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": 40302336,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": "727638558723411972",
+    "created_at": "Tue May 03 23:24:05 +0000 2016",
+    "id": 727639900976259073,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": 727638558723411972,
+    "in_reply_to_screen_name": "RepJerryNadler",
+    "retweet_count": 4,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            0,
+            21
+          ],
+          "text": "NatlParkforStonewall"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            58,
+            72
+          ],
+          "screen_name": "SenGillibrand",
+          "id": 72198806,
+          "id_str": "72198806",
+          "name": "Kirsten Gillibrand"
+        },
+        {
+          "indices": [
+            73,
+            87
+          ],
+          "screen_name": "DeborahJGlick",
+          "id": 321416352,
+          "id_str": "321416352",
+          "name": "Deborah J. Glick"
+        },
+        {
+          "indices": [
+            89,
+            101
+          ],
+          "screen_name": "bradhoylman",
+          "id": 15663169,
+          "id_str": "15663169",
+          "name": "Senator Brad Hoylman"
+        },
+        {
+          "indices": [
+            102,
+            113
+          ],
+          "screen_name": "CoreyinNYC",
+          "id": 314797639,
+          "id_str": "314797639",
+          "name": "Corey Johnson"
+        },
+        {
+          "indices": [
+            114,
+            127
+          ],
+          "screen_name": "BilldeBlasio",
+          "id": 19834403,
+          "id_str": "19834403",
+          "name": "Bill de Blasio"
+        },
+        {
+          "indices": [
+            128,
+            139
+          ],
+          "screen_name": "NYGovCuomo",
+          "id": 232268199,
+          "id_str": "232268199",
+          "name": "Andrew Cuomo"
+        }
+      ]
+    },
+    "text": "#NatlParkforStonewall making history! Thanks 4 leadership @SenGillibrand @DeborahJGlick, @bradhoylman @CoreyinNYC @BilldeBlasio @NYGovCuomo",
+    "favorite_count": 2,
+    "id_str": "727639900976259073",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/bZgLYCXMkK",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://nadler.house.gov",
+          "display_url": "nadler.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+        {
+          "url": "http://t.co/eAS0pRYbYu",
+          "indices": [
+            136,
+            158
+          ],
+          "expanded_url": "http://www.facebook.com/CongressmanNadler",
+          "display_url": "facebook.com/CongressmanNad\u2026"
+        }
+      ]
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/40302336/1439226613",
+  "name": "Congressman Nadler",
+  "is_translator": false,
+  "time_zone": "Quito",
+  "id_str": "40302336"
+}

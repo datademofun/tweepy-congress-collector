@@ -1,0 +1,110 @@
+{
+  "url": "http://t.co/ODIbQQR7g9",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+  "statuses_count": 1650,
+  "is_translation_enabled": false,
+  "location": "Los Angeles/Washington, D.C.",
+  "favourites_count": 116,
+  "listed_count": 1517,
+  "profile_text_color": "333333",
+  "description": "Proudly serving the people of California's 43rd District in Congress. Ranking Member of the House Financial Services Committee (@FSCDems).",
+  "followers_count": 31049,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000824906688/2254719201496ac256c01b484a32d48c_normal.jpeg",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+  "notifications": false,
+  "profile_sidebar_fill_color": "F3F3F3",
+  "utc_offset": -25200,
+  "profile_background_color": "EBEBEB",
+  "friends_count": 583,
+  "profile_link_color": "990000",
+  "default_profile": false,
+  "created_at": "Thu Apr 30 15:17:45 +0000 2009",
+  "following": false,
+  "id": 36686040,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/378800000824906688/2254719201496ac256c01b484a32d48c_normal.jpeg",
+  "screen_name": "MaxineWaters",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_user_id_str": "15264675",
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": 15264675,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": "726490939993284608",
+    "created_at": "Sat Apr 30 19:58:27 +0000 2016",
+    "id": 726500985691058177,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": 726490939993284608,
+    "in_reply_to_screen_name": "Azi",
+    "retweet_count": 0,
+    "lang": "und",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            4
+          ],
+          "screen_name": "Azi",
+          "id": 15264675,
+          "id_str": "15264675",
+          "name": "Azi"
+        },
+        {
+          "indices": [
+            5,
+            13
+          ],
+          "screen_name": "LVBurke",
+          "id": 67194113,
+          "id_str": "67194113",
+          "name": "Lauren Victoria"
+        }
+      ]
+    },
+    "text": "@Azi @LVBurke",
+    "favorite_count": 0,
+    "id_str": "726500985691058177",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/ODIbQQR7g9",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://waters.house.gov",
+          "display_url": "waters.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "DFDFDF",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/36686040/1434477112",
+  "name": "Maxine Waters",
+  "is_translator": false,
+  "time_zone": "Pacific Time (US & Canada)",
+  "id_str": "36686040"
+}

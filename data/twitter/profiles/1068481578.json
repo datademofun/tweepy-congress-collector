@@ -1,0 +1,119 @@
+{
+  "url": "http://t.co/i9TZOoGqOm",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "statuses_count": 2094,
+  "is_translation_enabled": false,
+  "location": "",
+  "favourites_count": 77,
+  "listed_count": 776,
+  "profile_text_color": "333333",
+  "description": "News from the office of Independent U.S. Senator Angus King of Maine. Operated by the Press Team. Following/retweeting does not equal an endorsement.",
+  "followers_count": 15667,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000406004520/c5e846a94969202654cf1ac5fafc3659_normal.jpeg",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -14400,
+  "profile_background_color": "045C0E",
+  "friends_count": 539,
+  "profile_link_color": "0084B4",
+  "default_profile": false,
+  "created_at": "Mon Jan 07 14:52:27 +0000 2013",
+  "following": false,
+  "id": 1068481578,
+  "has_extended_profile": false,
+  "profile_use_background_image": false,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/378800000406004520/c5e846a94969202654cf1ac5fafc3659_normal.jpeg",
+  "screen_name": "SenAngusKing",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 22:10:09 +0000 2016",
+    "id": 727621292019486721,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 1,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            101,
+            112
+          ],
+          "text": "mepolitics"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/FcEbfCr1lH",
+          "indices": [
+            77,
+            100
+          ],
+          "expanded_url": "http://bit.ly/1W6C1yp",
+          "display_url": "bit.ly/1W6C1yp"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            1,
+            14
+          ],
+          "screen_name": "MidcoastNews",
+          "id": 296824622,
+          "id_str": "296824622",
+          "name": "The Times Record"
+        }
+      ]
+    },
+    "text": ".@MidcoastNews reports on recent MAPP event focusing on the opioid epidemic: https://t.co/FcEbfCr1lH #mepolitics",
+    "favorite_count": 0,
+    "possibly_sensitive": false,
+    "id_str": "727621292019486721",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/i9TZOoGqOm",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://king.senate.gov",
+          "display_url": "king.senate.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "000000",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1068481578/1372272122",
+  "name": "Senator Angus King",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "1068481578"
+}

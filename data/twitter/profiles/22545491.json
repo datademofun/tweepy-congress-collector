@@ -1,0 +1,151 @@
+{
+  "url": "http://t.co/XcjXyjAwXE",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/801071613/b10357c7c31869a0dc98e04a6949ba3e.jpeg",
+  "statuses_count": 3151,
+  "is_translation_enabled": false,
+  "location": "Corona, CA ",
+  "favourites_count": 17,
+  "listed_count": 600,
+  "profile_text_color": "333333",
+  "description": "Official Twitter Account for U.S. Representative Ken Calvert (CA-42)",
+  "followers_count": 6098,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/828781833/KC-STOCK_normal.jpg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/801071613/b10357c7c31869a0dc98e04a6949ba3e.jpeg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "C0DFEC",
+  "utc_offset": -18000,
+  "profile_background_color": "022330",
+  "friends_count": 240,
+  "profile_link_color": "0084B4",
+  "default_profile": false,
+  "created_at": "Mon Mar 02 22:30:20 +0000 2009",
+  "following": false,
+  "id": 22545491,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/828781833/KC-STOCK_normal.jpg",
+  "screen_name": "KenCalvert",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Fri Apr 29 18:23:32 +0000 2016",
+    "id": 726114713139044352,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 4,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/JNErGVXQsV",
+          "indices": [
+            139,
+            140
+          ],
+          "expanded_url": "http://j.mp/1Tjof4L",
+          "display_url": "j.mp/1Tjof4L"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            12
+          ],
+          "screen_name": "HouseGOP",
+          "id": 15207668,
+          "id_str": "15207668",
+          "name": "House Republicans"
+        }
+      ]
+    },
+    "text": "RT @HouseGOP: Tomorrow is National Prescription Drug Take-Back Day. Find a location near you to safely dispose unused medication https://t.\u2026",
+    "favorite_count": 0,
+    "possibly_sensitive": false,
+    "id_str": "726114713139044352",
+    "retweeted_status": {
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "place": null,
+      "in_reply_to_user_id": null,
+      "coordinates": null,
+      "truncated": false,
+      "in_reply_to_status_id_str": null,
+      "created_at": "Fri Apr 29 18:23:04 +0000 2016",
+      "id": 726114593936830464,
+      "favorited": false,
+      "geo": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_screen_name": null,
+      "retweet_count": 4,
+      "lang": "en",
+      "retweeted": false,
+      "entities": {
+        "hashtags": [],
+        "urls": [
+          {
+            "url": "https://t.co/JNErGVXQsV",
+            "indices": [
+              115,
+              138
+            ],
+            "expanded_url": "http://j.mp/1Tjof4L",
+            "display_url": "j.mp/1Tjof4L"
+          }
+        ],
+        "symbols": [],
+        "user_mentions": []
+      },
+      "text": "Tomorrow is National Prescription Drug Take-Back Day. Find a location near you to safely dispose unused medication https://t.co/JNErGVXQsV",
+      "favorite_count": 8,
+      "possibly_sensitive": false,
+      "id_str": "726114593936830464",
+      "contributors": null
+    },
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/XcjXyjAwXE",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://calvert.house.gov/",
+          "display_url": "calvert.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/22545491/1398363802",
+  "name": "Ken Calvert",
+  "is_translator": false,
+  "time_zone": "Quito",
+  "id_str": "22545491"
+}

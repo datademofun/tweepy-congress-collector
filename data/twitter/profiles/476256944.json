@@ -1,0 +1,99 @@
+{
+  "url": "http://t.co/x96JRcShsB",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/415309805/Golden_Gate_Bridge_for_Twitter_JPEG_TRY_minus_sky.jpg",
+  "statuses_count": 3181,
+  "is_translation_enabled": false,
+  "location": "California",
+  "favourites_count": 0,
+  "listed_count": 2357,
+  "profile_text_color": "333333",
+  "description": "United States Senator from California. On Facebook at: http://t.co/siExqwIu",
+  "followers_count": 69272,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/649627486498586624/PmPGp-nN_normal.jpg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/415309805/Golden_Gate_Bridge_for_Twitter_JPEG_TRY_minus_sky.jpg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -14400,
+  "profile_background_color": "C0DEED",
+  "friends_count": 139,
+  "profile_link_color": "0084B4",
+  "default_profile": false,
+  "created_at": "Fri Jan 27 23:06:59 +0000 2012",
+  "following": false,
+  "id": 476256944,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/649627486498586624/PmPGp-nN_normal.jpg",
+  "screen_name": "SenFeinstein",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": "476256944",
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": 476256944,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": "727611909629984768",
+    "created_at": "Tue May 03 21:33:37 +0000 2016",
+    "id": 727612099816525825,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": 727611909629984768,
+    "in_reply_to_screen_name": "SenFeinstein",
+    "retweet_count": 19,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "(2/2) 78% of parents would like a charter school in their neighborhood. They should be able to choose the best option for their children.",
+    "favorite_count": 19,
+    "id_str": "727612099816525825",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/x96JRcShsB",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://www.feinstein.senate.gov",
+          "display_url": "feinstein.senate.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+        {
+          "url": "http://t.co/siExqwIu",
+          "indices": [
+            55,
+            75
+          ],
+          "expanded_url": "http://facebook.com/senatorfeinstein",
+          "display_url": "facebook.com/senatorfeinste\u2026"
+        }
+      ]
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/476256944/1401304971",
+  "name": "Sen Dianne Feinstein",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "476256944"
+}

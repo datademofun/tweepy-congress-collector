@@ -1,0 +1,100 @@
+{
+  "url": "http://t.co/beLyQVqp1e",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/194348657/twitter_1.jpg",
+  "statuses_count": 1787,
+  "is_translation_enabled": false,
+  "location": "Lincoln, NE / Washington, D.C.",
+  "favourites_count": 1,
+  "listed_count": 886,
+  "profile_text_color": "000000",
+  "description": "U.S. Representative for the First Congressional District of Nebraska",
+  "followers_count": 11245,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/311530607/twitterphoto_normal.jpg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/194348657/twitter_1.jpg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "5880AC",
+  "utc_offset": -18000,
+  "profile_background_color": "294255",
+  "friends_count": 2184,
+  "profile_link_color": "0C0552",
+  "default_profile": false,
+  "created_at": "Fri Jan 09 16:14:19 +0000 2009",
+  "following": false,
+  "id": 18805303,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/311530607/twitterphoto_normal.jpg",
+  "screen_name": "JeffFortenberry",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Mon May 02 16:35:05 +0000 2016",
+    "id": 727174582491213824,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 7,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/toon3KOjKp",
+          "indices": [
+            117,
+            140
+          ],
+          "expanded_url": "http://1.usa.gov/1SDIFWr",
+          "display_url": "1.usa.gov/1SDIFWr"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "Yezidis stood with US soldiers in Iraq, putting selves &amp; families at great risk to serve as military translators https://t.co/toon3KOjKp",
+    "favorite_count": 7,
+    "possibly_sensitive": false,
+    "id_str": "727174582491213824",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/beLyQVqp1e",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://fortenberry.house.gov/",
+          "display_url": "fortenberry.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "100543",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/18805303/1371851103",
+  "name": "Jeff Fortenberry",
+  "is_translator": false,
+  "time_zone": "Central Time (US & Canada)",
+  "id_str": "18805303"
+}

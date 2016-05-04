@@ -1,0 +1,508 @@
+{
+  "url": "http://t.co/vy6a8Rp8SU",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/830761609/d4edc9de925a0358919859f1b56fbcbf.jpeg",
+  "statuses_count": 1467,
+  "is_translation_enabled": false,
+  "location": "Apple Valley, California ",
+  "favourites_count": 82,
+  "listed_count": 367,
+  "profile_text_color": "333333",
+  "description": "Twenty-six year retired @USMC Colonel serving as a United States Congressman from California's 8th Congressional District. Join the conversation #CA08 #Semperfi",
+  "followers_count": 4287,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/598193321467637761/pYlCDAPS_normal.jpg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/830761609/d4edc9de925a0358919859f1b56fbcbf.jpeg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -14400,
+  "profile_background_color": "B1D2E3",
+  "friends_count": 1190,
+  "profile_link_color": "3B94D9",
+  "default_profile": false,
+  "created_at": "Wed Jan 09 17:43:44 +0000 2013",
+  "following": false,
+  "id": 1074412920,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/598193321467637761/pYlCDAPS_normal.jpg",
+  "screen_name": "RepPaulCook",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "extended_entities": {
+      "media": [
+        {
+          "url": "https://t.co/OzbIRA0dO6",
+          "media_url_https": "https://pbs.twimg.com/media/CheVgg6VEAAkFj3.jpg",
+          "id": 727214250666561536,
+          "display_url": "pic.twitter.com/OzbIRA0dO6",
+          "source_user_id": 314770217,
+          "source_status_id": 727214252507844608,
+          "type": "photo",
+          "indices": [
+            116,
+            139
+          ],
+          "expanded_url": "http://twitter.com/theCaGuard/status/727214252507844608/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 397,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 225,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 678,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "media_url": "http://pbs.twimg.com/media/CheVgg6VEAAkFj3.jpg",
+          "source_user_id_str": "314770217",
+          "source_status_id_str": "727214252507844608",
+          "id_str": "727214250666561536"
+        },
+        {
+          "url": "https://t.co/OzbIRA0dO6",
+          "media_url_https": "https://pbs.twimg.com/media/CheVgiGU0AEiieW.jpg",
+          "id": 727214250985312257,
+          "display_url": "pic.twitter.com/OzbIRA0dO6",
+          "source_user_id": 314770217,
+          "source_status_id": 727214252507844608,
+          "type": "photo",
+          "indices": [
+            116,
+            139
+          ],
+          "expanded_url": "http://twitter.com/theCaGuard/status/727214252507844608/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 397,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 225,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 678,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "media_url": "http://pbs.twimg.com/media/CheVgiGU0AEiieW.jpg",
+          "source_user_id_str": "314770217",
+          "source_status_id_str": "727214252507844608",
+          "id_str": "727214250985312257"
+        },
+        {
+          "url": "https://t.co/OzbIRA0dO6",
+          "media_url_https": "https://pbs.twimg.com/media/CheVgPHU8AA8kci.jpg",
+          "id": 727214245889241088,
+          "display_url": "pic.twitter.com/OzbIRA0dO6",
+          "source_user_id": 314770217,
+          "source_status_id": 727214252507844608,
+          "type": "photo",
+          "indices": [
+            116,
+            139
+          ],
+          "expanded_url": "http://twitter.com/theCaGuard/status/727214252507844608/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 496,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 281,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 846,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "media_url": "http://pbs.twimg.com/media/CheVgPHU8AA8kci.jpg",
+          "source_user_id_str": "314770217",
+          "source_status_id_str": "727214252507844608",
+          "id_str": "727214245889241088"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Mon May 02 19:55:28 +0000 2016",
+    "id": 727225013108129793,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 10,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "media": [
+        {
+          "url": "https://t.co/OzbIRA0dO6",
+          "media_url_https": "https://pbs.twimg.com/media/CheVgg6VEAAkFj3.jpg",
+          "id": 727214250666561536,
+          "display_url": "pic.twitter.com/OzbIRA0dO6",
+          "source_user_id": 314770217,
+          "source_status_id": 727214252507844608,
+          "type": "photo",
+          "indices": [
+            116,
+            139
+          ],
+          "expanded_url": "http://twitter.com/theCaGuard/status/727214252507844608/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 397,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 225,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 678,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "media_url": "http://pbs.twimg.com/media/CheVgg6VEAAkFj3.jpg",
+          "source_user_id_str": "314770217",
+          "source_status_id_str": "727214252507844608",
+          "id_str": "727214250666561536"
+        }
+      ],
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            14
+          ],
+          "screen_name": "theCaGuard",
+          "id": 314770217,
+          "id_str": "314770217",
+          "name": "CaliforniaGuard"
+        },
+        {
+          "indices": [
+            83,
+            88
+          ],
+          "screen_name": "USMC",
+          "id": 10126672,
+          "id_str": "10126672",
+          "name": "U.S. Marines"
+        },
+        {
+          "indices": [
+            93,
+            105
+          ],
+          "screen_name": "RepPaulCook",
+          "id": 1074412920,
+          "id_str": "1074412920",
+          "name": "Rep. Paul Cook"
+        },
+        {
+          "indices": [
+            106,
+            115
+          ],
+          "screen_name": "Team_WFW",
+          "id": 1621412941,
+          "id_str": "1621412941",
+          "name": "Work for Warriors"
+        }
+      ]
+    },
+    "text": "RT @theCaGuard: \"Absolutely pitiful\" when we don't take care of those who serve -- @USMC vet @reppaulcook @Team_WFW https://t.co/OzbIRA0dO6",
+    "favorite_count": 0,
+    "possibly_sensitive": false,
+    "id_str": "727225013108129793",
+    "retweeted_status": {
+      "extended_entities": {
+        "media": [
+          {
+            "indices": [
+              100,
+              123
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/CheVgg6VEAAkFj3.jpg",
+            "id": 727214250666561536,
+            "expanded_url": "http://twitter.com/theCaGuard/status/727214252507844608/photo/1",
+            "sizes": {
+              "medium": {
+                "h": 397,
+                "w": 600,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 225,
+                "w": 340,
+                "resize": "fit"
+              },
+              "large": {
+                "h": 678,
+                "w": 1024,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "display_url": "pic.twitter.com/OzbIRA0dO6",
+            "media_url": "http://pbs.twimg.com/media/CheVgg6VEAAkFj3.jpg",
+            "url": "https://t.co/OzbIRA0dO6",
+            "type": "photo",
+            "id_str": "727214250666561536"
+          },
+          {
+            "indices": [
+              100,
+              123
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/CheVgiGU0AEiieW.jpg",
+            "id": 727214250985312257,
+            "expanded_url": "http://twitter.com/theCaGuard/status/727214252507844608/photo/1",
+            "sizes": {
+              "medium": {
+                "h": 397,
+                "w": 600,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 225,
+                "w": 340,
+                "resize": "fit"
+              },
+              "large": {
+                "h": 678,
+                "w": 1024,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "display_url": "pic.twitter.com/OzbIRA0dO6",
+            "media_url": "http://pbs.twimg.com/media/CheVgiGU0AEiieW.jpg",
+            "url": "https://t.co/OzbIRA0dO6",
+            "type": "photo",
+            "id_str": "727214250985312257"
+          },
+          {
+            "indices": [
+              100,
+              123
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/CheVgPHU8AA8kci.jpg",
+            "id": 727214245889241088,
+            "expanded_url": "http://twitter.com/theCaGuard/status/727214252507844608/photo/1",
+            "sizes": {
+              "medium": {
+                "h": 496,
+                "w": 600,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 281,
+                "w": 340,
+                "resize": "fit"
+              },
+              "large": {
+                "h": 846,
+                "w": 1024,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "display_url": "pic.twitter.com/OzbIRA0dO6",
+            "media_url": "http://pbs.twimg.com/media/CheVgPHU8AA8kci.jpg",
+            "url": "https://t.co/OzbIRA0dO6",
+            "type": "photo",
+            "id_str": "727214245889241088"
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "place": null,
+      "in_reply_to_user_id": null,
+      "coordinates": null,
+      "truncated": false,
+      "in_reply_to_status_id_str": null,
+      "created_at": "Mon May 02 19:12:43 +0000 2016",
+      "id": 727214252507844608,
+      "favorited": false,
+      "geo": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_screen_name": null,
+      "retweet_count": 10,
+      "lang": "en",
+      "retweeted": false,
+      "entities": {
+        "media": [
+          {
+            "indices": [
+              100,
+              123
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/CheVgg6VEAAkFj3.jpg",
+            "id": 727214250666561536,
+            "expanded_url": "http://twitter.com/theCaGuard/status/727214252507844608/photo/1",
+            "sizes": {
+              "medium": {
+                "h": 397,
+                "w": 600,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 225,
+                "w": 340,
+                "resize": "fit"
+              },
+              "large": {
+                "h": 678,
+                "w": 1024,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "display_url": "pic.twitter.com/OzbIRA0dO6",
+            "media_url": "http://pbs.twimg.com/media/CheVgg6VEAAkFj3.jpg",
+            "url": "https://t.co/OzbIRA0dO6",
+            "type": "photo",
+            "id_str": "727214250666561536"
+          }
+        ],
+        "hashtags": [],
+        "urls": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "indices": [
+              67,
+              72
+            ],
+            "screen_name": "USMC",
+            "id": 10126672,
+            "id_str": "10126672",
+            "name": "U.S. Marines"
+          },
+          {
+            "indices": [
+              77,
+              89
+            ],
+            "screen_name": "RepPaulCook",
+            "id": 1074412920,
+            "id_str": "1074412920",
+            "name": "Rep. Paul Cook"
+          },
+          {
+            "indices": [
+              90,
+              99
+            ],
+            "screen_name": "Team_WFW",
+            "id": 1621412941,
+            "id_str": "1621412941",
+            "name": "Work for Warriors"
+          }
+        ]
+      },
+      "text": "\"Absolutely pitiful\" when we don't take care of those who serve -- @USMC vet @reppaulcook @Team_WFW https://t.co/OzbIRA0dO6",
+      "favorite_count": 5,
+      "possibly_sensitive": false,
+      "id_str": "727214252507844608",
+      "contributors": null
+    },
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/vy6a8Rp8SU",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://cook.house.gov",
+          "display_url": "cook.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1074412920/1421183704",
+  "name": "Rep. Paul Cook",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "1074412920"
+}

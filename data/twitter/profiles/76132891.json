@@ -1,0 +1,111 @@
+{
+  "url": "http://t.co/lRNTKPfcmE",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "statuses_count": 397,
+  "is_translation_enabled": false,
+  "location": "Washington, D.C. ",
+  "favourites_count": 9,
+  "listed_count": 403,
+  "profile_text_color": "333333",
+  "description": "U.S. Congressman from Idaho's 2nd Congressional District",
+  "followers_count": 4414,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1622590441/Official_Photo_normal.jpg",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -21600,
+  "profile_background_color": "C0DEED",
+  "friends_count": 73,
+  "profile_link_color": "0084B4",
+  "default_profile": true,
+  "created_at": "Mon Sep 21 20:26:26 +0000 2009",
+  "following": false,
+  "id": 76132891,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1622590441/Official_Photo_normal.jpg",
+  "screen_name": "CongMikeSimpson",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Fri Apr 22 13:38:58 +0000 2016",
+    "id": 723506382100697088,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 1,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/NSvEY8CrwQ",
+          "indices": [
+            123,
+            146
+          ],
+          "expanded_url": "http://simpson.house.gov/news/documentsingle.aspx?DocumentID=398521",
+          "display_url": "simpson.house.gov/news/documents\u2026"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            17,
+            21
+          ],
+          "screen_name": "INL",
+          "id": 16929108,
+          "id_str": "16929108",
+          "name": "Idaho National Lab"
+        }
+      ]
+    },
+    "text": "Simpson Protects @INL in Energy Bill - House Energy &amp; Water\nChairman reverses cuts to Nuclear Energy &amp; development https://t.co/NSvEY8CrwQ",
+    "favorite_count": 1,
+    "possibly_sensitive": false,
+    "id_str": "723506382100697088",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/lRNTKPfcmE",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://www.simpson.house.gov",
+          "display_url": "simpson.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/76132891/1383858990",
+  "name": "Cong. Mike Simpson",
+  "is_translator": false,
+  "time_zone": "Mountain Time (US & Canada)",
+  "id_str": "76132891"
+}

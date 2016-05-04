@@ -1,0 +1,168 @@
+{
+  "url": "https://t.co/mQXJd4TSrK",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/594183364363440128/SOLimbzj.png",
+  "statuses_count": 288,
+  "is_translation_enabled": false,
+  "location": "Fifth District of Oklahoma",
+  "favourites_count": 43,
+  "listed_count": 119,
+  "profile_text_color": "000000",
+  "description": "Proudly serving the Fifth District of Oklahoma in Congress.",
+  "followers_count": 2045,
+  "profile_background_tile": true,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/560847918446309377/AarCJGxZ_normal.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/594183364363440128/SOLimbzj.png",
+  "notifications": false,
+  "profile_sidebar_fill_color": "000000",
+  "utc_offset": -14400,
+  "profile_background_color": "000000",
+  "friends_count": 506,
+  "profile_link_color": "89C9FA",
+  "default_profile": false,
+  "created_at": "Wed Jan 07 21:24:35 +0000 2015",
+  "following": false,
+  "id": 2966758114,
+  "has_extended_profile": false,
+  "profile_use_background_image": false,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/560847918446309377/AarCJGxZ_normal.jpeg",
+  "screen_name": "RepRussell",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "extended_entities": {
+      "media": [
+        {
+          "indices": [
+            90,
+            113
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/CfxCabNUMAAUUwf.jpg",
+          "id": 719523062220075008,
+          "expanded_url": "http://twitter.com/RepRussell/status/719523062962601984/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 800,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 453,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 1365,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/0oVY9t55f8",
+          "media_url": "http://pbs.twimg.com/media/CfxCabNUMAAUUwf.jpg",
+          "url": "https://t.co/0oVY9t55f8",
+          "type": "photo",
+          "id_str": "719523062220075008"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Mon Apr 11 13:50:40 +0000 2016",
+    "id": 719523062962601984,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 2,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "media": [
+        {
+          "indices": [
+            90,
+            113
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/CfxCabNUMAAUUwf.jpg",
+          "id": 719523062220075008,
+          "expanded_url": "http://twitter.com/RepRussell/status/719523062962601984/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 800,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 453,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 1365,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/0oVY9t55f8",
+          "media_url": "http://pbs.twimg.com/media/CfxCabNUMAAUUwf.jpg",
+          "url": "https://t.co/0oVY9t55f8",
+          "type": "photo",
+          "id_str": "719523062220075008"
+        }
+      ],
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "Thank you to the Oklahoma Association of Electric Cooperatives for electrifying Oklahoma! https://t.co/0oVY9t55f8",
+    "favorite_count": 10,
+    "possibly_sensitive": false,
+    "id_str": "719523062962601984",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "https://t.co/mQXJd4TSrK",
+          "indices": [
+            0,
+            23
+          ],
+          "expanded_url": "https://russell.house.gov/",
+          "display_url": "russell.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "000000",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/2966758114/1423153352",
+  "name": "Rep. Steve Russell",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "2966758114"
+}

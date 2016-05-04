@@ -1,0 +1,100 @@
+{
+  "url": "http://t.co/xtRIwQK2MV",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+  "statuses_count": 2732,
+  "is_translation_enabled": false,
+  "location": "Washington, D.C./Anniston, AL",
+  "favourites_count": 15,
+  "listed_count": 984,
+  "profile_text_color": "333333",
+  "description": "I am proud to represent Alabama's Third Congressional District.",
+  "followers_count": 12863,
+  "profile_background_tile": true,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/653926259739590657/zabraN0U_normal.jpg",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+  "notifications": false,
+  "profile_sidebar_fill_color": "EFEFEF",
+  "utc_offset": -14400,
+  "profile_background_color": "131516",
+  "friends_count": 2871,
+  "profile_link_color": "009999",
+  "default_profile": false,
+  "created_at": "Tue Apr 21 17:43:28 +0000 2009",
+  "following": false,
+  "id": 33977070,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/653926259739590657/zabraN0U_normal.jpg",
+  "screen_name": "RepMikeRogersAL",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 15:41:03 +0000 2016",
+    "id": 727523372926554112,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 2,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/diK0PF04IM",
+          "indices": [
+            93,
+            116
+          ],
+          "expanded_url": "https://www.instagram.com/p/BE81L_VC_j8/",
+          "display_url": "instagram.com/p/BE81L_VC_j8/"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "Congratulations to Keanu McMurrey for winning the 2016 Third Congressional Art Competition!\u2026 https://t.co/diK0PF04IM",
+    "favorite_count": 3,
+    "possibly_sensitive": false,
+    "id_str": "727523372926554112",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/xtRIwQK2MV",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://mikerogers.house.gov",
+          "display_url": "mikerogers.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "EEEEEE",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/33977070/1384295882",
+  "name": "Mike Rogers",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "33977070"
+}

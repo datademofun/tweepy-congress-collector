@@ -1,0 +1,169 @@
+{
+  "url": "http://t.co/PvnfKm0fsv",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/442113609/bg.jpg",
+  "statuses_count": 4456,
+  "is_translation_enabled": false,
+  "location": "Washington, DC",
+  "favourites_count": 313,
+  "listed_count": 1026,
+  "profile_text_color": "3C3940",
+  "description": "Proudly representing Wisconsin\u2019s 4th Congressional District; mother, grandmother; loves poetry, reading, knitting and crocheting.",
+  "followers_count": 13627,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/530854955851075584/wpsnmkqk_normal.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/442113609/bg.jpg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DFAB58",
+  "utc_offset": -14400,
+  "profile_background_color": "223968",
+  "friends_count": 1079,
+  "profile_link_color": "0099B9",
+  "default_profile": false,
+  "created_at": "Tue Mar 03 20:02:57 +0000 2009",
+  "following": false,
+  "id": 22669526,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/530854955851075584/wpsnmkqk_normal.jpeg",
+  "screen_name": "RepGwenMoore",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": {
+      "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+      "country": "United States",
+      "id": "01fbe706f872cb32",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.119401,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.9953797
+            ],
+            [
+              -77.119401,
+              38.9953797
+            ]
+          ]
+        ]
+      },
+      "full_name": "Washington, DC",
+      "name": "Washington",
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "place_type": "city"
+    },
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 20:56:23 +0000 2016",
+    "id": 727602728998948867,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 3,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            78,
+            97
+          ],
+          "text": "ConflictOfInterest"
+        },
+        {
+          "indices": [
+            110,
+            114
+          ],
+          "text": "H2O"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/t9WkbtsfSx",
+          "indices": [
+            121,
+            144
+          ],
+          "expanded_url": "http://bigstory.ap.org/article/d7a847b72e18485b8a4800f27cbdc5b8/us-rep-blasts-ifc-conflict-interest-manila-water-plan",
+          "display_url": "bigstory.ap.org/article/d7a847\u2026"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            42,
+            52
+          ],
+          "screen_name": "WorldBank",
+          "id": 27860681,
+          "id_str": "27860681",
+          "name": "World Bank"
+        },
+        {
+          "indices": [
+            59,
+            67
+          ],
+          "screen_name": "IFC_org",
+          "id": 254235974,
+          "id_str": "254235974",
+          "name": "IFC"
+        }
+      ]
+    },
+    "text": "My staff just had a productive meeting w/ @WorldBank &amp; @IFC_org regarding #ConflictOfInterest concerns on #H2O deals https://t.co/t9WkbtsfSx",
+    "favorite_count": 2,
+    "possibly_sensitive": false,
+    "id_str": "727602728998948867",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/PvnfKm0fsv",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://www.house.gov/gwenmoore",
+          "display_url": "house.gov/gwenmoore"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "DC975E",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/22669526/1398266481",
+  "name": "Gwen Moore",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "22669526"
+}

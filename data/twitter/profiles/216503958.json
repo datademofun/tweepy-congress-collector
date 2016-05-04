@@ -1,0 +1,209 @@
+{
+  "url": "http://t.co/fSOunnwiXz",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/173040465/twitterbkgrd4.JPG",
+  "statuses_count": 3223,
+  "is_translation_enabled": false,
+  "location": "",
+  "favourites_count": 3,
+  "listed_count": 992,
+  "profile_text_color": "333333",
+  "description": "U.S. Senator Joe Donnelly's communications staff",
+  "followers_count": 21160,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/3056574144/492143cf67a261108b6d06dafb5864b8_normal.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/173040465/twitterbkgrd4.JPG",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -18000,
+  "profile_background_color": "C0DEED",
+  "friends_count": 213,
+  "profile_link_color": "0084B4",
+  "default_profile": false,
+  "created_at": "Tue Nov 16 22:24:01 +0000 2010",
+  "following": false,
+  "id": 216503958,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/3056574144/492143cf67a261108b6d06dafb5864b8_normal.jpeg",
+  "screen_name": "SenDonnelly",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "extended_entities": {
+      "media": [
+        {
+          "indices": [
+            79,
+            102
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/ChkB-baXIAAH14Z.jpg",
+          "id": 727614986818887680,
+          "expanded_url": "http://twitter.com/SenDonnelly/status/727614987489976323/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 300,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 170,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 512,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/aOeSvnbaa9",
+          "media_url": "http://pbs.twimg.com/media/ChkB-baXIAAH14Z.jpg",
+          "url": "https://t.co/aOeSvnbaa9",
+          "type": "photo",
+          "id_str": "727614986818887680"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": {
+      "url": "https://api.twitter.com/1.1/geo/id/018929347840059e.json",
+      "country": "United States",
+      "id": "018929347840059e",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -86.348441,
+              39.631677
+            ],
+            [
+              -85.937404,
+              39.631677
+            ],
+            [
+              -85.937404,
+              39.927448
+            ],
+            [
+              -86.348441,
+              39.927448
+            ]
+          ]
+        ]
+      },
+      "full_name": "Indianapolis, IN",
+      "name": "Indianapolis",
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "place_type": "city"
+    },
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 21:45:06 +0000 2016",
+    "id": 727614987489976323,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 8,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "media": [
+        {
+          "indices": [
+            79,
+            102
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/ChkB-baXIAAH14Z.jpg",
+          "id": 727614986818887680,
+          "expanded_url": "http://twitter.com/SenDonnelly/status/727614987489976323/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 300,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 170,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 512,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/aOeSvnbaa9",
+          "media_url": "http://pbs.twimg.com/media/ChkB-baXIAAH14Z.jpg",
+          "url": "https://t.co/aOeSvnbaa9",
+          "type": "photo",
+          "id_str": "727614986818887680"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            6,
+            29
+          ],
+          "text": "TeacherAppreciationDay"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "Happy #TeacherAppreciationDay to all of our amazing teachers across our state. https://t.co/aOeSvnbaa9",
+    "favorite_count": 7,
+    "possibly_sensitive": false,
+    "id_str": "727614987489976323",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/fSOunnwiXz",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://www.donnelly.senate.gov/",
+          "display_url": "donnelly.senate.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/216503958/1401398234",
+  "name": "Senator Joe Donnelly",
+  "is_translator": false,
+  "time_zone": "Central Time (US & Canada)",
+  "id_str": "216503958"
+}

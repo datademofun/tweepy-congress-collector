@@ -1,0 +1,202 @@
+{
+  "url": "http://t.co/z149AJXIkR",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/194760300/background_for_twitter.png",
+  "statuses_count": 6230,
+  "is_translation_enabled": false,
+  "location": "",
+  "favourites_count": 178,
+  "listed_count": 830,
+  "profile_text_color": "333333",
+  "description": "Congressional Twitter account for U.S. Representative Martha Roby (R-AL)",
+  "followers_count": 16590,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/479774391933214721/ZlZZ6h2__normal.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/194760300/background_for_twitter.png",
+  "notifications": false,
+  "profile_sidebar_fill_color": "232422",
+  "utc_offset": -18000,
+  "profile_background_color": "5C6161",
+  "friends_count": 2125,
+  "profile_link_color": "0084B4",
+  "default_profile": false,
+  "created_at": "Wed Dec 08 16:56:29 +0000 2010",
+  "following": false,
+  "id": 224294785,
+  "has_extended_profile": false,
+  "profile_use_background_image": false,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/479774391933214721/ZlZZ6h2__normal.jpeg",
+  "screen_name": "RepMarthaRoby",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 21:25:37 +0000 2016",
+    "id": 727610087095808000,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 1,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            83,
+            92
+          ],
+          "text": "veterans"
+        },
+        {
+          "indices": [
+            139,
+            140
+          ],
+          "text": "Vets"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/3S7R8r1o5m",
+          "indices": [
+            122,
+            140
+          ],
+          "expanded_url": "https://riponadvance.com/stories/bill-to-ensure-quality-of-mental-health-substance-abuse-programs-for-veterans-introduced-by-roby/",
+          "display_url": "riponadvance.com/stories/bill-t\u2026"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            11
+          ],
+          "screen_name": "Vets_HQ",
+          "id": 1535057960,
+          "id_str": "1535057960",
+          "name": "VetsHQ"
+        },
+        {
+          "indices": [
+            107,
+            121
+          ],
+          "screen_name": "RepMarthaRoby",
+          "id": 224294785,
+          "id_str": "224294785",
+          "name": "Rep. Martha Roby"
+        }
+      ]
+    },
+    "text": "RT @Vets_HQ: Bill to ensure quality of mental health, substance abuse programs for #veterans introduced by @RepMarthaRoby https://t.co/3S7R\u2026",
+    "favorite_count": 0,
+    "possibly_sensitive": false,
+    "id_str": "727610087095808000",
+    "retweeted_status": {
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "place": null,
+      "in_reply_to_user_id": null,
+      "coordinates": null,
+      "truncated": false,
+      "in_reply_to_status_id_str": null,
+      "created_at": "Tue May 03 19:15:15 +0000 2016",
+      "id": 727577276871741441,
+      "favorited": false,
+      "geo": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_screen_name": null,
+      "retweet_count": 1,
+      "lang": "en",
+      "retweeted": false,
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              70,
+              79
+            ],
+            "text": "veterans"
+          },
+          {
+            "indices": [
+              133,
+              138
+            ],
+            "text": "Vets"
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/3S7R8r1o5m",
+            "indices": [
+              109,
+              132
+            ],
+            "expanded_url": "https://riponadvance.com/stories/bill-to-ensure-quality-of-mental-health-substance-abuse-programs-for-veterans-introduced-by-roby/",
+            "display_url": "riponadvance.com/stories/bill-t\u2026"
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "indices": [
+              94,
+              108
+            ],
+            "screen_name": "RepMarthaRoby",
+            "id": 224294785,
+            "id_str": "224294785",
+            "name": "Rep. Martha Roby"
+          }
+        ]
+      },
+      "text": "Bill to ensure quality of mental health, substance abuse programs for #veterans introduced by @RepMarthaRoby https://t.co/3S7R8r1o5m #Vets",
+      "favorite_count": 1,
+      "possibly_sensitive": false,
+      "id_str": "727577276871741441",
+      "contributors": null
+    },
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/z149AJXIkR",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://roby.house.gov/",
+          "display_url": "roby.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "CC1433",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/224294785/1403222188",
+  "name": "Rep. Martha Roby",
+  "is_translator": false,
+  "time_zone": "Central Time (US & Canada)",
+  "id_str": "224294785"
+}

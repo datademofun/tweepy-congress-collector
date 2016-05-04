@@ -1,0 +1,189 @@
+{
+  "url": "http://t.co/Xz3AA8pXem",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000062508182/51fa58aa90a94903c84dce223ca4038b.jpeg",
+  "statuses_count": 2874,
+  "is_translation_enabled": false,
+  "location": "",
+  "favourites_count": 1214,
+  "listed_count": 850,
+  "profile_text_color": "333333",
+  "description": "I am a devoted husband of one, proud father of seven and the Representative for Wisconsin's Seventh District. Also at http://t.co/9KamT0WmS0.",
+  "followers_count": 16339,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000176806565/59f4e2a7ffef37b67c857bc6ebb3fa7a_normal.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000062508182/51fa58aa90a94903c84dce223ca4038b.jpeg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -18000,
+  "profile_background_color": "FCFEFF",
+  "friends_count": 2538,
+  "profile_link_color": "3A63B5",
+  "default_profile": false,
+  "created_at": "Tue Jan 04 17:28:01 +0000 2011",
+  "following": false,
+  "id": 234022257,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/378800000176806565/59f4e2a7ffef37b67c857bc6ebb3fa7a_normal.jpeg",
+  "screen_name": "RepSeanDuffy",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "extended_entities": {
+      "media": [
+        {
+          "indices": [
+            92,
+            115
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/ChirKt-UgAAvJWu.jpg",
+          "id": 727519540448362496,
+          "expanded_url": "http://twitter.com/RepSeanDuffy/status/727519562346831872/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 1067,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 604,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 1820,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/BTChfu9k8Q",
+          "media_url": "http://pbs.twimg.com/media/ChirKt-UgAAvJWu.jpg",
+          "url": "https://t.co/BTChfu9k8Q",
+          "type": "photo",
+          "id_str": "727519540448362496"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 15:25:54 +0000 2016",
+    "id": 727519562346831872,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 3,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "media": [
+        {
+          "indices": [
+            92,
+            115
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/ChirKt-UgAAvJWu.jpg",
+          "id": 727519540448362496,
+          "expanded_url": "http://twitter.com/RepSeanDuffy/status/727519562346831872/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 1067,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 604,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 1820,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/BTChfu9k8Q",
+          "media_url": "http://pbs.twimg.com/media/ChirKt-UgAAvJWu.jpg",
+          "url": "https://t.co/BTChfu9k8Q",
+          "type": "photo",
+          "id_str": "727519540448362496"
+        }
+      ],
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            10,
+            17
+          ],
+          "screen_name": "google",
+          "id": 20536157,
+          "id_str": "20536157",
+          "name": "Google"
+        }
+      ]
+    },
+    "text": "Pumped to @google hangout with Glenwood City students this morning! Lots of good questions! https://t.co/BTChfu9k8Q",
+    "favorite_count": 6,
+    "possibly_sensitive": false,
+    "id_str": "727519562346831872",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/Xz3AA8pXem",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://duffy.house.gov",
+          "display_url": "duffy.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+        {
+          "url": "http://t.co/9KamT0WmS0",
+          "indices": [
+            118,
+            140
+          ],
+          "expanded_url": "http://facebook.com/repseanduffy",
+          "display_url": "facebook.com/repseanduffy"
+        }
+      ]
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/234022257/1395088400",
+  "name": "Sean Duffy",
+  "is_translator": false,
+  "time_zone": "Central Time (US & Canada)",
+  "id_str": "234022257"
+}

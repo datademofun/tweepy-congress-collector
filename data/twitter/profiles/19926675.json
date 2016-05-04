@@ -1,0 +1,151 @@
+{
+  "url": "http://t.co/Lg0O7I6yn9",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/478256208/twitterbg.jpg",
+  "statuses_count": 8654,
+  "is_translation_enabled": false,
+  "location": "The Woodlands, Texas",
+  "favourites_count": 786,
+  "listed_count": 1131,
+  "profile_text_color": "000000",
+  "description": "Dad. Husband. Chairman of @WaysandMeansGOP. Deputy Whip. Loves: Baseball and Texas.",
+  "followers_count": 15639,
+  "profile_background_tile": true,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/572440364259094528/NN73cSgO_normal.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/478256208/twitterbg.jpg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "912626",
+  "utc_offset": -18000,
+  "profile_background_color": "143058",
+  "friends_count": 664,
+  "profile_link_color": "008FB3",
+  "default_profile": false,
+  "created_at": "Mon Feb 02 19:57:06 +0000 2009",
+  "following": false,
+  "id": 19926675,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/572440364259094528/NN73cSgO_normal.jpeg",
+  "screen_name": "RepKevinBrady",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 20:53:01 +0000 2016",
+    "id": 727601882311630854,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 3,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/P0ynQVuBYU",
+          "indices": [
+            143,
+            144
+          ],
+          "expanded_url": "http://thehill.com/policy/healthcare/278429-lawmakers-push-back-on-obama-drug-pricing-initiative",
+          "display_url": "thehill.com/policy/healthc\u2026"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            19
+          ],
+          "screen_name": "WaysandMeansGOP",
+          "id": 12788332,
+          "id_str": "12788332",
+          "name": "Ways and Means"
+        }
+      ]
+    },
+    "text": "RT @WaysandMeansGOP: Ways and Means Republicans are leading the bipartisan effort to protect America\u2019s seniors &amp; their healthcare https://t\u2026",
+    "favorite_count": 0,
+    "possibly_sensitive": false,
+    "id_str": "727601882311630854",
+    "retweeted_status": {
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "place": null,
+      "in_reply_to_user_id": null,
+      "coordinates": null,
+      "truncated": false,
+      "in_reply_to_status_id_str": null,
+      "created_at": "Tue May 03 20:29:10 +0000 2016",
+      "id": 727595878823952385,
+      "favorited": false,
+      "geo": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_screen_name": null,
+      "retweet_count": 3,
+      "lang": "en",
+      "retweeted": false,
+      "entities": {
+        "hashtags": [],
+        "urls": [
+          {
+            "url": "https://t.co/P0ynQVuBYU",
+            "indices": [
+              113,
+              136
+            ],
+            "expanded_url": "http://thehill.com/policy/healthcare/278429-lawmakers-push-back-on-obama-drug-pricing-initiative",
+            "display_url": "thehill.com/policy/healthc\u2026"
+          }
+        ],
+        "symbols": [],
+        "user_mentions": []
+      },
+      "text": "Ways and Means Republicans are leading the bipartisan effort to protect America\u2019s seniors &amp; their healthcare https://t.co/P0ynQVuBYU",
+      "favorite_count": 2,
+      "possibly_sensitive": false,
+      "id_str": "727595878823952385",
+      "contributors": null
+    },
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/Lg0O7I6yn9",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://kevinbrady.house.gov",
+          "display_url": "kevinbrady.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "0A090A",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/19926675/1445359583",
+  "name": "RepKevinBrady",
+  "is_translator": false,
+  "time_zone": "Central Time (US & Canada)",
+  "id_str": "19926675"
+}

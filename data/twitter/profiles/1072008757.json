@@ -1,0 +1,219 @@
+{
+  "url": "http://stewart.house.gov",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000120181275/a934679ed5f8fc4928ee97b478e6af48.png",
+  "statuses_count": 1888,
+  "is_translation_enabled": false,
+  "location": "Utah and DC",
+  "favourites_count": 238,
+  "listed_count": 348,
+  "profile_text_color": "333333",
+  "description": "Utah's 2nd District Congressman. Former Air Force B-1 pilot, author, House Intelligence & Appropriations Committees. Visit http://t.co/GUW6weAva6",
+  "followers_count": 4389,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000828740520/3a6960ab5bb904c7a6e73e6099e2b2ef_normal.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000120181275/a934679ed5f8fc4928ee97b478e6af48.png",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -14400,
+  "profile_background_color": "BE1E2D",
+  "friends_count": 927,
+  "profile_link_color": "1B75BB",
+  "default_profile": false,
+  "created_at": "Tue Jan 08 21:08:19 +0000 2013",
+  "following": false,
+  "id": 1072008757,
+  "has_extended_profile": false,
+  "profile_use_background_image": false,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/378800000828740520/3a6960ab5bb904c7a6e73e6099e2b2ef_normal.jpeg",
+  "screen_name": "RepChrisStewart",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 22:55:48 +0000 2016",
+    "id": 727632781522653185,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 1,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            12
+          ],
+          "screen_name": "1059KNRS",
+          "id": 15855509,
+          "id_str": "15855509",
+          "name": "105.9 KNRS"
+        },
+        {
+          "indices": [
+            26,
+            38
+          ],
+          "screen_name": "RodArquette",
+          "id": 169376808,
+          "id_str": "169376808",
+          "name": "Rod Arquette"
+        },
+        {
+          "indices": [
+            40,
+            56
+          ],
+          "screen_name": "RepChrisStewart",
+          "id": 1072008757,
+          "id_str": "1072008757",
+          "name": "Rep. Chris Stewart"
+        },
+        {
+          "indices": [
+            63,
+            76
+          ],
+          "screen_name": "BoydMatheson",
+          "id": 40705061,
+          "id_str": "40705061",
+          "name": "Boyd Matheson"
+        },
+        {
+          "indices": [
+            80,
+            95
+          ],
+          "screen_name": "SutherlandInst",
+          "id": 30911403,
+          "id_str": "30911403",
+          "name": "Sutherland Institute"
+        }
+      ]
+    },
+    "text": "RT @1059KNRS: At 5:05p on @RodArquette: @RepChrisStewart joins @BoydMatheson of @SutherlandInst to discuss national security and the Kairos\u2026",
+    "favorite_count": 0,
+    "id_str": "727632781522653185",
+    "retweeted_status": {
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "place": null,
+      "in_reply_to_user_id": null,
+      "coordinates": null,
+      "truncated": false,
+      "in_reply_to_status_id_str": null,
+      "created_at": "Tue May 03 22:55:02 +0000 2016",
+      "id": 727632589989629952,
+      "favorited": false,
+      "geo": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_screen_name": null,
+      "retweet_count": 1,
+      "lang": "en",
+      "retweeted": false,
+      "entities": {
+        "hashtags": [],
+        "urls": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "indices": [
+              12,
+              24
+            ],
+            "screen_name": "RodArquette",
+            "id": 169376808,
+            "id_str": "169376808",
+            "name": "Rod Arquette"
+          },
+          {
+            "indices": [
+              26,
+              42
+            ],
+            "screen_name": "RepChrisStewart",
+            "id": 1072008757,
+            "id_str": "1072008757",
+            "name": "Rep. Chris Stewart"
+          },
+          {
+            "indices": [
+              49,
+              62
+            ],
+            "screen_name": "BoydMatheson",
+            "id": 40705061,
+            "id_str": "40705061",
+            "name": "Boyd Matheson"
+          },
+          {
+            "indices": [
+              66,
+              81
+            ],
+            "screen_name": "SutherlandInst",
+            "id": 30911403,
+            "id_str": "30911403",
+            "name": "Sutherland Institute"
+          }
+        ]
+      },
+      "text": "At 5:05p on @RodArquette: @RepChrisStewart joins @BoydMatheson of @SutherlandInst to discuss national security and the Kairos Academy.",
+      "favorite_count": 1,
+      "id_str": "727632589989629952",
+      "contributors": null
+    },
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://stewart.house.gov",
+          "indices": [
+            0,
+            24
+          ],
+          "expanded_url": null
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+        {
+          "url": "http://t.co/GUW6weAva6",
+          "indices": [
+            123,
+            145
+          ],
+          "expanded_url": "http://facebook.com/RepChrisStewart",
+          "display_url": "facebook.com/RepChrisStewart"
+        }
+      ]
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "000000",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1072008757/1399497171",
+  "name": "Rep. Chris Stewart",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "1072008757"
+}

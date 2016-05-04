@@ -1,0 +1,100 @@
+{
+  "url": "http://t.co/bSPiTCeFvE",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/131775169/mqmountainlake.br.jpg",
+  "statuses_count": 1500,
+  "is_translation_enabled": false,
+  "location": "Wyoming and Washington D.C.",
+  "favourites_count": 1,
+  "listed_count": 982,
+  "profile_text_color": "000000",
+  "description": "Proud to represent the people of Wyoming in the U.S. House of Representatives.",
+  "followers_count": 12984,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/87805738/Official_Photo_-_Compressed_normal.jpg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/131775169/mqmountainlake.br.jpg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "7BB96E",
+  "utc_offset": -14400,
+  "profile_background_color": "8695B6",
+  "friends_count": 6219,
+  "profile_link_color": "2665C0",
+  "default_profile": false,
+  "created_at": "Wed Mar 04 20:44:59 +0000 2009",
+  "following": false,
+  "id": 22831059,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/87805738/Official_Photo_-_Compressed_normal.jpg",
+  "screen_name": "CynthiaLummis",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Fri Apr 29 21:29:18 +0000 2016",
+    "id": 726161462767570944,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 3,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/srOVhohp0d",
+          "indices": [
+            116,
+            139
+          ],
+          "expanded_url": "http://bit.ly/1VEWcmx",
+          "display_url": "bit.ly/1VEWcmx"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "We passed legislation to require law enforcement to get warrants for emails when conducting criminal investigations https://t.co/srOVhohp0d",
+    "favorite_count": 6,
+    "possibly_sensitive": false,
+    "id_str": "726161462767570944",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/bSPiTCeFvE",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://lummis.house.gov",
+          "display_url": "lummis.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "2665C0",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/22831059/1425578643",
+  "name": "Rep. Cynthia Lummis",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "22831059"
+}

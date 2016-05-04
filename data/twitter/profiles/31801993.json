@@ -1,0 +1,197 @@
+{
+  "url": "http://t.co/YkjqVYrbQ7",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+  "statuses_count": 6939,
+  "is_translation_enabled": false,
+  "location": "#NJ",
+  "favourites_count": 9,
+  "listed_count": 1126,
+  "profile_text_color": "000000",
+  "description": "The official Twitter account of Congressman Frank Pallone, Jr. (D), of New Jersey's 6th district, Ranking Member of @EnergyCommerce Committee.",
+  "followers_count": 15811,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1274536430/USE_webversion_normal.jpg",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+  "notifications": false,
+  "profile_sidebar_fill_color": "295C32",
+  "utc_offset": -18000,
+  "profile_background_color": "2B590F",
+  "friends_count": 1030,
+  "profile_link_color": "009999",
+  "default_profile": false,
+  "created_at": "Thu Apr 16 13:51:56 +0000 2009",
+  "following": false,
+  "id": 31801993,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1274536430/USE_webversion_normal.jpg",
+  "screen_name": "FrankPallone",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "extended_entities": {
+      "media": [
+        {
+          "indices": [
+            112,
+            135
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/ChkL9e8U4AAtEfT.jpg",
+          "id": 727625965703061504,
+          "expanded_url": "http://twitter.com/FrankPallone/status/727625966298763264/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 409,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 232,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 422,
+              "w": 619,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/g7DXCsDL9y",
+          "media_url": "http://pbs.twimg.com/media/ChkL9e8U4AAtEfT.jpg",
+          "url": "https://t.co/g7DXCsDL9y",
+          "type": "photo",
+          "id_str": "727625965703061504"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 22:28:43 +0000 2016",
+    "id": 727625966298763264,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 5,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "media": [
+        {
+          "indices": [
+            112,
+            135
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/ChkL9e8U4AAtEfT.jpg",
+          "id": 727625965703061504,
+          "expanded_url": "http://twitter.com/FrankPallone/status/727625966298763264/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 409,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 232,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 422,
+              "w": 619,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/g7DXCsDL9y",
+          "media_url": "http://pbs.twimg.com/media/ChkL9e8U4AAtEfT.jpg",
+          "url": "https://t.co/g7DXCsDL9y",
+          "type": "photo",
+          "id_str": "727625965703061504"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            60,
+            75
+          ],
+          "text": "CancerMoonshot"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/caul3xeKHX",
+          "indices": [
+            88,
+            111
+          ],
+          "expanded_url": "http://pallone.house.gov/press-release/pallone-holds-roundtable-discussion-president-obama%E2%80%99s-cancer-moonshot-initiative",
+          "display_url": "pallone.house.gov/press-release/\u2026"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            8,
+            22
+          ],
+          "screen_name": "RutgersCancer",
+          "id": 2802993134,
+          "id_str": "2802993134",
+          "name": "RutgersCancerInstNJ"
+        }
+      ]
+    },
+    "text": "Visited @RutgersCancer \u2013  impressed by model that will make #CancerMoonshot successful. https://t.co/caul3xeKHX https://t.co/g7DXCsDL9y",
+    "favorite_count": 4,
+    "possibly_sensitive": false,
+    "id_str": "727625966298763264",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/YkjqVYrbQ7",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://pallone.house.gov",
+          "display_url": "pallone.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/31801993/1401908847",
+  "name": "Rep. Frank Pallone",
+  "is_translator": false,
+  "time_zone": "Quito",
+  "id_str": "31801993"
+}

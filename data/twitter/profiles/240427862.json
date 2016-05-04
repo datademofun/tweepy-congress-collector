@@ -1,0 +1,126 @@
+{
+  "url": "http://t.co/5H1HsbP76e",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "statuses_count": 3188,
+  "is_translation_enabled": false,
+  "location": "",
+  "favourites_count": 53,
+  "listed_count": 576,
+  "profile_text_color": "333333",
+  "description": "Proud to serve the First District of West Virginia in the U.S. House of Representatives. Member of the Energy and Commerce Committee. Staff-run account",
+  "followers_count": 10381,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/510503346549964800/Rb3_PfnK_normal.jpeg",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -18000,
+  "profile_background_color": "C0DEED",
+  "friends_count": 300,
+  "profile_link_color": "0084B4",
+  "default_profile": false,
+  "created_at": "Wed Jan 19 22:29:00 +0000 2011",
+  "following": false,
+  "id": 240427862,
+  "has_extended_profile": false,
+  "profile_use_background_image": false,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/510503346549964800/Rb3_PfnK_normal.jpeg",
+  "screen_name": "RepMcKinley",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 18:34:44 +0000 2016",
+    "id": 727567080682328064,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 5,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            129,
+            134
+          ],
+          "text": "coal"
+        },
+        {
+          "indices": [
+            135,
+            140
+          ],
+          "text": "jobs"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Ey61IaVqna",
+          "indices": [
+            85,
+            108
+          ],
+          "expanded_url": "http://bit.ly/1Uvit50",
+          "display_url": "bit.ly/1Uvit50"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            116,
+            128
+          ],
+          "screen_name": "WVMetroNews",
+          "id": 85408168,
+          "id_str": "85408168",
+          "name": "MetroNews"
+        }
+      ]
+    },
+    "text": "Hillary Clinton learns how anti-coal policies can put people out of work. Check out  https://t.co/Ey61IaVqna in the @WVMetroNews #coal #jobs",
+    "favorite_count": 7,
+    "possibly_sensitive": false,
+    "id_str": "727567080682328064",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/5H1HsbP76e",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://mckinley.house.gov/",
+          "display_url": "mckinley.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/240427862/1460062363",
+  "name": "David B. McKinley",
+  "is_translator": false,
+  "time_zone": "Central Time (US & Canada)",
+  "id_str": "240427862"
+}

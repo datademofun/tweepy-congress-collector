@@ -1,0 +1,194 @@
+{
+  "url": "http://t.co/Bj8xkyTeIJ",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "statuses_count": 905,
+  "is_translation_enabled": false,
+  "location": "Northeast Iowa",
+  "favourites_count": 97,
+  "listed_count": 182,
+  "profile_text_color": "333333",
+  "description": "Official Account Of Iowa's 1st District Congressman Rod Blum. Member of @GOPoversight & the House Budget Committee #IA01",
+  "followers_count": 3368,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/563377937609547776/QgjEd3ns_normal.jpeg",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -25200,
+  "profile_background_color": "C0DEED",
+  "friends_count": 1544,
+  "profile_link_color": "0084B4",
+  "default_profile": true,
+  "created_at": "Tue Jan 06 22:59:49 +0000 2015",
+  "following": false,
+  "id": 2965083477,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/563377937609547776/QgjEd3ns_normal.jpeg",
+  "screen_name": "RepRodBlum",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "extended_entities": {
+      "media": [
+        {
+          "indices": [
+            109,
+            132
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/ChjiSDhWEAEqekf.jpg",
+          "id": 727580139631022081,
+          "expanded_url": "http://twitter.com/RepRodBlum/status/727580140973199361/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 450,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 255,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 768,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/NsLxaMi3xf",
+          "media_url": "http://pbs.twimg.com/media/ChjiSDhWEAEqekf.jpg",
+          "url": "https://t.co/NsLxaMi3xf",
+          "type": "photo",
+          "id_str": "727580139631022081"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 19:26:38 +0000 2016",
+    "id": 727580140973199361,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 15,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "media": [
+        {
+          "indices": [
+            109,
+            132
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/ChjiSDhWEAEqekf.jpg",
+          "id": 727580139631022081,
+          "expanded_url": "http://twitter.com/RepRodBlum/status/727580140973199361/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 450,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 255,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 768,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/NsLxaMi3xf",
+          "media_url": "http://pbs.twimg.com/media/ChjiSDhWEAEqekf.jpg",
+          "url": "https://t.co/NsLxaMi3xf",
+          "type": "photo",
+          "id_str": "727580139631022081"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            88,
+            102
+          ],
+          "text": "NBCConTheHill"
+        },
+        {
+          "indices": [
+            103,
+            108
+          ],
+          "text": "IA01"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            39,
+            52
+          ],
+          "screen_name": "Deadline2020",
+          "id": 76403083,
+          "id_str": "76403083",
+          "name": "NBCC"
+        }
+      ]
+    },
+    "text": "My staff had a productive meeting with @Deadline2020 Advocates! Thanks for stopping by! #NBCConTheHill #IA01 https://t.co/NsLxaMi3xf",
+    "favorite_count": 9,
+    "possibly_sensitive": false,
+    "id_str": "727580140973199361",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/Bj8xkyTeIJ",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://blum.house.gov",
+          "display_url": "blum.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/2965083477/1425483647",
+  "name": "Congressman Rod Blum",
+  "is_translator": false,
+  "time_zone": "Pacific Time (US & Canada)",
+  "id_str": "2965083477"
+}

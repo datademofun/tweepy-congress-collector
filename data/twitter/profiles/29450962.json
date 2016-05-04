@@ -1,0 +1,176 @@
+{
+  "url": "http://t.co/jkhd3kZYNd",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/110674807/P1040022c.JPG",
+  "statuses_count": 1480,
+  "is_translation_enabled": false,
+  "location": "Atlanta, GA",
+  "favourites_count": 974,
+  "listed_count": 2217,
+  "profile_text_color": "333333",
+  "description": "Congressman, Georgia's Fifth Congressional District",
+  "followers_count": 103305,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/2676793451/16ce871e098e5d93358b93b5d416226d_normal.png",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/110674807/P1040022c.JPG",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -14400,
+  "profile_background_color": "1289FF",
+  "friends_count": 163,
+  "profile_link_color": "0084B4",
+  "default_profile": false,
+  "created_at": "Tue Apr 07 13:49:52 +0000 2009",
+  "following": false,
+  "id": 29450962,
+  "has_extended_profile": false,
+  "profile_use_background_image": false,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/2676793451/16ce871e098e5d93358b93b5d416226d_normal.png",
+  "screen_name": "repjohnlewis",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "extended_entities": {
+      "media": [
+        {
+          "indices": [
+            111,
+            134
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/Chdu-SGWMAAJGZE.jpg",
+          "id": 727171881133027328,
+          "expanded_url": "http://twitter.com/repjohnlewis/status/727171882487832578/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 913,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 517,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 1359,
+              "w": 893,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/2rueQWZSM4",
+          "media_url": "http://pbs.twimg.com/media/Chdu-SGWMAAJGZE.jpg",
+          "url": "https://t.co/2rueQWZSM4",
+          "type": "photo",
+          "id_str": "727171881133027328"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Mon May 02 16:24:21 +0000 2016",
+    "id": 727171882487832578,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 64,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "media": [
+        {
+          "indices": [
+            111,
+            134
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/Chdu-SGWMAAJGZE.jpg",
+          "id": 727171881133027328,
+          "expanded_url": "http://twitter.com/repjohnlewis/status/727171882487832578/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 913,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 517,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 1359,
+              "w": 893,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/2rueQWZSM4",
+          "media_url": "http://pbs.twimg.com/media/Chdu-SGWMAAJGZE.jpg",
+          "url": "https://t.co/2rueQWZSM4",
+          "type": "photo",
+          "id_str": "727171881133027328"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            96,
+            110
+          ],
+          "text": "ThankATeacher"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "It was good to visit Bazoline Usher Elementary School and speak to the students for Career Day. #ThankATeacher https://t.co/2rueQWZSM4",
+    "favorite_count": 301,
+    "possibly_sensitive": false,
+    "id_str": "727171882487832578",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/jkhd3kZYNd",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://johnlewis.house.gov",
+          "display_url": "johnlewis.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/29450962/1363708574",
+  "name": "John Lewis",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "29450962"
+}

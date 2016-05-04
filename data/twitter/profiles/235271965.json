@@ -1,0 +1,372 @@
+{
+  "url": "https://t.co/cKY4kfJLQb",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/657188564/2mysibqe9kfa9jffu75r.jpeg",
+  "statuses_count": 3025,
+  "is_translation_enabled": false,
+  "location": "Hobbs, NM",
+  "favourites_count": 30,
+  "listed_count": 587,
+  "profile_text_color": "333333",
+  "description": "I represent New Mexico's 2nd Congressional District.  I am fighting to create jobs in NM and voice New Mexicans' other concerns in Washington.",
+  "followers_count": 7593,
+  "profile_background_tile": true,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/3293055498/947a6b253223c153777fa4790018da34_normal.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/657188564/2mysibqe9kfa9jffu75r.jpeg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "EFEFEF",
+  "utc_offset": -21600,
+  "profile_background_color": "131516",
+  "friends_count": 718,
+  "profile_link_color": "009999",
+  "default_profile": false,
+  "created_at": "Fri Jan 07 19:44:44 +0000 2011",
+  "following": false,
+  "id": 235271965,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/3293055498/947a6b253223c153777fa4790018da34_normal.jpeg",
+  "screen_name": "RepStevePearce",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "extended_entities": {
+      "media": [
+        {
+          "url": "https://t.co/doMoj3y93U",
+          "media_url_https": "https://pbs.twimg.com/media/Chk2FgmUoAA1n9p.jpg",
+          "id": 727672283074961408,
+          "display_url": "pic.twitter.com/doMoj3y93U",
+          "source_user_id": 27707406,
+          "source_status_id": 727672294240231424,
+          "type": "photo",
+          "indices": [
+            139,
+            140
+          ],
+          "expanded_url": "http://twitter.com/NMStateAggies/status/727672294240231424/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 450,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 255,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 768,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "media_url": "http://pbs.twimg.com/media/Chk2FgmUoAA1n9p.jpg",
+          "source_user_id_str": "27707406",
+          "source_status_id_str": "727672294240231424",
+          "id_str": "727672283074961408"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Wed May 04 01:33:01 +0000 2016",
+    "id": 727672348006977536,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 6,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "media": [
+        {
+          "url": "https://t.co/doMoj3y93U",
+          "media_url_https": "https://pbs.twimg.com/media/Chk2FgmUoAA1n9p.jpg",
+          "id": 727672283074961408,
+          "display_url": "pic.twitter.com/doMoj3y93U",
+          "source_user_id": 27707406,
+          "source_status_id": 727672294240231424,
+          "type": "photo",
+          "indices": [
+            139,
+            140
+          ],
+          "expanded_url": "http://twitter.com/NMStateAggies/status/727672294240231424/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 450,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 255,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 768,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "media_url": "http://pbs.twimg.com/media/Chk2FgmUoAA1n9p.jpg",
+          "source_user_id_str": "27707406",
+          "source_status_id_str": "727672294240231424",
+          "id_str": "727672283074961408"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            125,
+            133
+          ],
+          "text": "AggieUp"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            17
+          ],
+          "screen_name": "NMStateAggies",
+          "id": 27707406,
+          "id_str": "27707406",
+          "name": "NM State Aggies"
+        },
+        {
+          "indices": [
+            20,
+            29
+          ],
+          "screen_name": "youngpbp",
+          "id": 96705511,
+          "id_str": "96705511",
+          "name": "Adam Young"
+        },
+        {
+          "indices": [
+            42,
+            58
+          ],
+          "screen_name": "NMStateBaseball",
+          "id": 2308732939,
+          "id_str": "2308732939",
+          "name": "NM State Baseball"
+        },
+        {
+          "indices": [
+            91,
+            106
+          ],
+          "screen_name": "RepStevePearce",
+          "id": 235271965,
+          "id_str": "235271965",
+          "name": "Steve Pearce"
+        }
+      ]
+    },
+    "text": "RT @NMStateAggies: .@youngpbp on-air with @NMStateBaseball alum and New Mexico Congressman @RepStevePearce at tonight's game #AggieUp https\u2026",
+    "favorite_count": 0,
+    "possibly_sensitive": false,
+    "id_str": "727672348006977536",
+    "retweeted_status": {
+      "extended_entities": {
+        "media": [
+          {
+            "indices": [
+              115,
+              138
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/Chk2FgmUoAA1n9p.jpg",
+            "id": 727672283074961408,
+            "expanded_url": "http://twitter.com/NMStateAggies/status/727672294240231424/photo/1",
+            "sizes": {
+              "medium": {
+                "h": 450,
+                "w": 600,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 255,
+                "w": 340,
+                "resize": "fit"
+              },
+              "large": {
+                "h": 768,
+                "w": 1024,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "display_url": "pic.twitter.com/doMoj3y93U",
+            "media_url": "http://pbs.twimg.com/media/Chk2FgmUoAA1n9p.jpg",
+            "url": "https://t.co/doMoj3y93U",
+            "type": "photo",
+            "id_str": "727672283074961408"
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "place": null,
+      "in_reply_to_user_id": null,
+      "coordinates": null,
+      "truncated": false,
+      "in_reply_to_status_id_str": null,
+      "created_at": "Wed May 04 01:32:49 +0000 2016",
+      "id": 727672294240231424,
+      "favorited": false,
+      "geo": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_screen_name": null,
+      "retweet_count": 6,
+      "lang": "en",
+      "retweeted": false,
+      "entities": {
+        "media": [
+          {
+            "indices": [
+              115,
+              138
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/Chk2FgmUoAA1n9p.jpg",
+            "id": 727672283074961408,
+            "expanded_url": "http://twitter.com/NMStateAggies/status/727672294240231424/photo/1",
+            "sizes": {
+              "medium": {
+                "h": 450,
+                "w": 600,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 255,
+                "w": 340,
+                "resize": "fit"
+              },
+              "large": {
+                "h": 768,
+                "w": 1024,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "display_url": "pic.twitter.com/doMoj3y93U",
+            "media_url": "http://pbs.twimg.com/media/Chk2FgmUoAA1n9p.jpg",
+            "url": "https://t.co/doMoj3y93U",
+            "type": "photo",
+            "id_str": "727672283074961408"
+          }
+        ],
+        "hashtags": [
+          {
+            "indices": [
+              106,
+              114
+            ],
+            "text": "AggieUp"
+          }
+        ],
+        "urls": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "indices": [
+              1,
+              10
+            ],
+            "screen_name": "youngpbp",
+            "id": 96705511,
+            "id_str": "96705511",
+            "name": "Adam Young"
+          },
+          {
+            "indices": [
+              23,
+              39
+            ],
+            "screen_name": "NMStateBaseball",
+            "id": 2308732939,
+            "id_str": "2308732939",
+            "name": "NM State Baseball"
+          },
+          {
+            "indices": [
+              72,
+              87
+            ],
+            "screen_name": "RepStevePearce",
+            "id": 235271965,
+            "id_str": "235271965",
+            "name": "Steve Pearce"
+          }
+        ]
+      },
+      "text": ".@youngpbp on-air with @NMStateBaseball alum and New Mexico Congressman @RepStevePearce at tonight's game #AggieUp https://t.co/doMoj3y93U",
+      "favorite_count": 13,
+      "possibly_sensitive": false,
+      "id_str": "727672294240231424",
+      "contributors": null
+    },
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "https://t.co/cKY4kfJLQb",
+          "indices": [
+            0,
+            23
+          ],
+          "expanded_url": "http://pearce.house.gov",
+          "display_url": "pearce.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "EEEEEE",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/235271965/1356104880",
+  "name": "Steve Pearce",
+  "is_translator": false,
+  "time_zone": "Mountain Time (US & Canada)",
+  "id_str": "235271965"
+}

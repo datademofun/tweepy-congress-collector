@@ -1,0 +1,133 @@
+{
+  "url": "https://t.co/TiIO1bPBQw",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/228996661/rubio_twitter.jpg",
+  "statuses_count": 2678,
+  "is_translation_enabled": false,
+  "location": "Washington, D.C.",
+  "favourites_count": 3,
+  "listed_count": 962,
+  "profile_text_color": "777777",
+  "description": "Official account of U.S. Senator @MarcoRubio's PressShop. For more information please visit his website.",
+  "followers_count": 22037,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/662375653375807497/tO7jQI_H_normal.jpg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/228996661/rubio_twitter.jpg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "F5F5F5",
+  "utc_offset": -18000,
+  "profile_background_color": "000000",
+  "friends_count": 119,
+  "profile_link_color": "962121",
+  "default_profile": false,
+  "created_at": "Thu Dec 23 21:22:47 +0000 2010",
+  "following": false,
+  "id": 229966028,
+  "has_extended_profile": true,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/662375653375807497/tO7jQI_H_normal.jpg",
+  "screen_name": "SenRubioPress",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 20:14:17 +0000 2016",
+    "id": 727592135139143680,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 51,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            26,
+            39
+          ],
+          "text": "PressFreedom"
+        },
+        {
+          "indices": [
+            44,
+            53
+          ],
+          "text": "WPFD2016"
+        },
+        {
+          "indices": [
+            54,
+            78
+          ],
+          "text": "expressionNOToppression"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/UHBFY73Kwk",
+          "indices": [
+            79,
+            102
+          ],
+          "expanded_url": "http://1.usa.gov/26QtO4z",
+          "display_url": "1.usa.gov/26QtO4z"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            1,
+            12
+          ],
+          "screen_name": "marcorubio",
+          "id": 15745368,
+          "id_str": "15745368",
+          "name": "Marco Rubio"
+        }
+      ]
+    },
+    "text": ".@MarcoRubio Honors World #PressFreedom Day #WPFD2016 #expressionNOToppression https://t.co/UHBFY73Kwk",
+    "favorite_count": 70,
+    "possibly_sensitive": false,
+    "id_str": "727592135139143680",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "https://t.co/TiIO1bPBQw",
+          "indices": [
+            0,
+            23
+          ],
+          "expanded_url": "http://rubio.senate.gov",
+          "display_url": "rubio.senate.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "DBDBDB",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/229966028/1349278973",
+  "name": "Senator Rubio Press",
+  "is_translator": false,
+  "time_zone": "Quito",
+  "id_str": "229966028"
+}

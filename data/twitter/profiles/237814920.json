@@ -1,0 +1,129 @@
+{
+  "url": "http://t.co/RxXWsFX5aP",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/536643877/Metra.jpg",
+  "statuses_count": 3662,
+  "is_translation_enabled": false,
+  "location": "",
+  "favourites_count": 278,
+  "listed_count": 657,
+  "profile_text_color": "333333",
+  "description": "Member of Congress proudly representing Illinois' 14th District. Serving on @HouseScience @FinancialCmte Committees. Find me on FB at http://t.co/cAzY81jGee.",
+  "followers_count": 9261,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1555301015/Hultgren_Low-Res_normal.jpg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/536643877/Metra.jpg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -18000,
+  "profile_background_color": "C0DEED",
+  "friends_count": 1851,
+  "profile_link_color": "3F515C",
+  "default_profile": false,
+  "created_at": "Thu Jan 13 18:03:42 +0000 2011",
+  "following": false,
+  "id": 237814920,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1555301015/Hultgren_Low-Res_normal.jpg",
+  "screen_name": "RepHultgren",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 22:10:10 +0000 2016",
+    "id": 727621297849667586,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 2,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            42,
+            54
+          ],
+          "text": "humanrights"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/PrE0y9eLU6",
+          "indices": [
+            117,
+            140
+          ],
+          "expanded_url": "https://www.washingtonpost.com/opinions/a-means-to-better-protect-human-rights-activists-around-the-globe/2016/05/02/1f069f38-0b10-11e6-a6b6-2e6de3695b0e_story.html",
+          "display_url": "washingtonpost.com/opinions/a-mea\u2026"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            70,
+            85
+          ],
+          "screen_name": "washingtonpost",
+          "id": 2467791,
+          "id_str": "2467791",
+          "name": "Washington Post"
+        }
+      ]
+    },
+    "text": "Proud to cosponsor a bill to help protect #humanrights activists. The @washingtonpost wrote an editorial in support: https://t.co/PrE0y9eLU6",
+    "favorite_count": 4,
+    "possibly_sensitive": false,
+    "id_str": "727621297849667586",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/RxXWsFX5aP",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://hultgren.house.gov",
+          "display_url": "hultgren.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+        {
+          "url": "http://t.co/cAzY81jGee",
+          "indices": [
+            134,
+            156
+          ],
+          "expanded_url": "http://www.facebook.com/rephultgren",
+          "display_url": "facebook.com/rephultgren"
+        }
+      ]
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/237814920/1398278273",
+  "name": "Rep. Randy Hultgren",
+  "is_translator": false,
+  "time_zone": "Central Time (US & Canada)",
+  "id_str": "237814920"
+}

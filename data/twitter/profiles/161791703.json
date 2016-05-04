@@ -1,0 +1,189 @@
+{
+  "url": "http://t.co/SSZ5Gt8nDN",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/502908935204917248/fy4tJ6Gh.jpeg",
+  "statuses_count": 2652,
+  "is_translation_enabled": false,
+  "location": "Newport News, VA",
+  "favourites_count": 323,
+  "listed_count": 747,
+  "profile_text_color": "333333",
+  "description": "Proudly representing Virginia's 3rd Congressional District. Ranking Member, Committee on Education and the Workforce @edworkforcedems.",
+  "followers_count": 12390,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/595211873726767104/EdWA2GKH_normal.jpg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/502908935204917248/fy4tJ6Gh.jpeg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "D3D3E0",
+  "utc_offset": -14400,
+  "profile_background_color": "244055",
+  "friends_count": 2285,
+  "profile_link_color": "575757",
+  "default_profile": false,
+  "created_at": "Thu Jul 01 19:57:00 +0000 2010",
+  "following": false,
+  "id": 161791703,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/595211873726767104/EdWA2GKH_normal.jpg",
+  "screen_name": "repbobbyscott",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "extended_entities": {
+      "media": [
+        {
+          "indices": [
+            110,
+            133
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/ChlCSrgWUAAH5XC.jpg",
+          "id": 727685703480528896,
+          "expanded_url": "http://twitter.com/repbobbyscott/status/727685718361952256/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 801,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 454,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 1367,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/TnSBYeVYAq",
+          "media_url": "http://pbs.twimg.com/media/ChlCSrgWUAAH5XC.jpg",
+          "url": "https://t.co/TnSBYeVYAq",
+          "type": "photo",
+          "id_str": "727685703480528896"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Wed May 04 02:26:09 +0000 2016",
+    "id": 727685718361952256,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 2,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "media": [
+        {
+          "indices": [
+            110,
+            133
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/ChlCSrgWUAAH5XC.jpg",
+          "id": 727685703480528896,
+          "expanded_url": "http://twitter.com/repbobbyscott/status/727685718361952256/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 801,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 454,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 1367,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/TnSBYeVYAq",
+          "media_url": "http://pbs.twimg.com/media/ChlCSrgWUAAH5XC.jpg",
+          "url": "https://t.co/TnSBYeVYAq",
+          "type": "photo",
+          "id_str": "727685703480528896"
+        }
+      ],
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            39,
+            55
+          ],
+          "screen_name": "US_DreamAcademy",
+          "id": 399522893,
+          "id_str": "399522893",
+          "name": "US Dream Academy"
+        },
+        {
+          "indices": [
+            94,
+            109
+          ],
+          "screen_name": "apa1906NETwork",
+          "id": 47427860,
+          "id_str": "47427860",
+          "name": "Alpha Phi Alpha"
+        }
+      ]
+    },
+    "text": "Pictured here w/ a strong supporter of @US_DreamAcademy - Mr. R.A. Mills, Eastern Regional VP @apa1906NETwork https://t.co/TnSBYeVYAq",
+    "favorite_count": 2,
+    "possibly_sensitive": false,
+    "id_str": "727685718361952256",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/SSZ5Gt8nDN",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://bobbyscott.house.gov",
+          "display_url": "bobbyscott.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "000000",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/161791703/1411391848",
+  "name": "Rep. Bobby Scott",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "161791703"
+}

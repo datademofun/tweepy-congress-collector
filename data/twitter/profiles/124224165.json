@@ -1,0 +1,183 @@
+{
+  "url": "http://t.co/l6HwKLO9Gs",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000037808828/88662e9ed44d8376498b4c80263f66cc.jpeg",
+  "statuses_count": 3506,
+  "is_translation_enabled": false,
+  "location": "St. Joseph, Michigan",
+  "favourites_count": 752,
+  "listed_count": 896,
+  "profile_text_color": "000000",
+  "description": "Husband, Dad, proud to represent Michigan's 6th District and serve as Chairman of @HouseCommerce. Fighting for #CuresNow, our SW MI economy, & smarter gov't.",
+  "followers_count": 14953,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000507840583/0dc990a78881b2a41d0dc1e7e751b839_normal.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000037808828/88662e9ed44d8376498b4c80263f66cc.jpeg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "91D5EC",
+  "utc_offset": -14400,
+  "profile_background_color": "91D5EC",
+  "friends_count": 2278,
+  "profile_link_color": "5A5D5E",
+  "default_profile": false,
+  "created_at": "Thu Mar 18 17:34:35 +0000 2010",
+  "following": false,
+  "id": 124224165,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/378800000507840583/0dc990a78881b2a41d0dc1e7e751b839_normal.jpeg",
+  "screen_name": "RepFredUpton",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "extended_entities": {
+      "media": [
+        {
+          "indices": [
+            98,
+            121
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/Chjdys8W0AA17du.png",
+          "id": 727575202947846144,
+          "expanded_url": "http://twitter.com/RepFredUpton/status/727575203493072896/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 400,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 227,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 667,
+              "w": 1000,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/i92sfOoFWP",
+          "media_url": "http://pbs.twimg.com/media/Chjdys8W0AA17du.png",
+          "url": "https://t.co/i92sfOoFWP",
+          "type": "photo",
+          "id_str": "727575202947846144"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 19:07:00 +0000 2016",
+    "id": 727575203493072896,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 5,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "media": [
+        {
+          "indices": [
+            98,
+            121
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/Chjdys8W0AA17du.png",
+          "id": 727575202947846144,
+          "expanded_url": "http://twitter.com/RepFredUpton/status/727575203493072896/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 400,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 227,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 667,
+              "w": 1000,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/i92sfOoFWP",
+          "media_url": "http://pbs.twimg.com/media/Chjdys8W0AA17du.png",
+          "url": "https://t.co/i92sfOoFWP",
+          "type": "photo",
+          "id_str": "727575202947846144"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            24,
+            29
+          ],
+          "text": "MI06"
+        },
+        {
+          "indices": [
+            74,
+            97
+          ],
+          "text": "TeacherAppreciationDay"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "We appreciate our local #MI06 educators every day \u2013 but especially today! #TeacherAppreciationDay https://t.co/i92sfOoFWP",
+    "favorite_count": 2,
+    "possibly_sensitive": false,
+    "id_str": "727575203493072896",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/l6HwKLO9Gs",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://upton.house.gov",
+          "display_url": "upton.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/124224165/1436360038",
+  "name": "Fred Upton",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "124224165"
+}

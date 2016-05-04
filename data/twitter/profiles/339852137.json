@@ -1,0 +1,99 @@
+{
+  "url": "http://t.co/tYJhVgj0nj",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+  "statuses_count": 3506,
+  "is_translation_enabled": false,
+  "location": "San Pedro, CA",
+  "favourites_count": 458,
+  "listed_count": 525,
+  "profile_text_color": "333333",
+  "description": "Proudly representing California's 44th District in Congress",
+  "followers_count": 8427,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/722071022153773058/wrtR16DH_normal.jpg",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDFFCC",
+  "utc_offset": -25200,
+  "profile_background_color": "9AE4E8",
+  "friends_count": 1691,
+  "profile_link_color": "0084B4",
+  "default_profile": false,
+  "created_at": "Thu Jul 21 19:22:22 +0000 2011",
+  "following": false,
+  "id": 339852137,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/722071022153773058/wrtR16DH_normal.jpg",
+  "screen_name": "Rep_JaniceHahn",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 18:27:47 +0000 2016",
+    "id": 727565332521603072,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 0,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/wOnba6xYZp",
+          "indices": [
+            112,
+            135
+          ],
+          "expanded_url": "http://hahn.house.gov/press-release/frontier-and-time-warner-cable-accept-rep-hahn%E2%80%99s-request-meeting",
+          "display_url": "hahn.house.gov/press-release/\u2026"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "Happy to announce that Time Warner Cable and Frontier have agreed to meet in my office re the Dodgers Blackout.\nhttps://t.co/wOnba6xYZp",
+    "favorite_count": 2,
+    "possibly_sensitive": false,
+    "id_str": "727565332521603072",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/tYJhVgj0nj",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://hahn.house.gov",
+          "display_url": "hahn.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "BDDCAD",
+  "name": "Janice Hahn",
+  "is_translator": false,
+  "time_zone": "Pacific Time (US & Canada)",
+  "id_str": "339852137"
+}

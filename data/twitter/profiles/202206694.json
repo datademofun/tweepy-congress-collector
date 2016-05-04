@@ -1,0 +1,191 @@
+{
+  "url": "http://t.co/oAKWpUrAWS",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/161136571/background.jpg",
+  "statuses_count": 3071,
+  "is_translation_enabled": false,
+  "location": "",
+  "favourites_count": 1,
+  "listed_count": 1325,
+  "profile_text_color": "333333",
+  "description": "U.S. Senator for the great state of Wyoming and @SenateRPC Chairman.",
+  "followers_count": 26222,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1143907394/twitter_profile_pic_normal.JPG",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/161136571/background.jpg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -21600,
+  "profile_background_color": "C0DEED",
+  "friends_count": 501,
+  "profile_link_color": "0084B4",
+  "default_profile": false,
+  "created_at": "Wed Oct 13 14:49:08 +0000 2010",
+  "following": false,
+  "id": 202206694,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1143907394/twitter_profile_pic_normal.JPG",
+  "screen_name": "SenJohnBarrasso",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 16:46:52 +0000 2016",
+    "id": 727539937055236096,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 15,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/vnBqex7kot",
+          "indices": [
+            139,
+            140
+          ],
+          "expanded_url": "http://www.mccain.senate.gov/public/index.cfm/press-releases?ID=595FDFA2-8FB4-405C-B920-6B638C1E629C",
+          "display_url": "mccain.senate.gov/public/index.c\u2026"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            17
+          ],
+          "screen_name": "SenJohnMcCain",
+          "id": 19394188,
+          "id_str": "19394188",
+          "name": "John McCain"
+        },
+        {
+          "indices": [
+            52,
+            56
+          ],
+          "screen_name": "EPA",
+          "id": 14615871,
+          "id_str": "14615871",
+          "name": "U.S. EPA"
+        },
+        {
+          "indices": [
+            117,
+            133
+          ],
+          "screen_name": "SenJohnBarrasso",
+          "id": 202206694,
+          "id_str": "202206694",
+          "name": "Sen. John Barrasso"
+        }
+      ]
+    },
+    "text": "RT @SenJohnMcCain: Requested DOJ investigation into @EPA responsibility for Gold King Mine spill at Navajo Nation w/ @SenJohnBarrasso: http\u2026",
+    "favorite_count": 0,
+    "possibly_sensitive": false,
+    "id_str": "727539937055236096",
+    "retweeted_status": {
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "place": null,
+      "in_reply_to_user_id": null,
+      "coordinates": null,
+      "truncated": false,
+      "in_reply_to_status_id_str": null,
+      "created_at": "Tue May 03 16:36:23 +0000 2016",
+      "id": 727537296120107009,
+      "favorited": false,
+      "geo": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_screen_name": null,
+      "retweet_count": 15,
+      "lang": "en",
+      "retweeted": false,
+      "entities": {
+        "hashtags": [],
+        "urls": [
+          {
+            "url": "https://t.co/vnBqex7kot",
+            "indices": [
+              116,
+              139
+            ],
+            "expanded_url": "http://www.mccain.senate.gov/public/index.cfm/press-releases?ID=595FDFA2-8FB4-405C-B920-6B638C1E629C",
+            "display_url": "mccain.senate.gov/public/index.c\u2026"
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "indices": [
+              33,
+              37
+            ],
+            "screen_name": "EPA",
+            "id": 14615871,
+            "id_str": "14615871",
+            "name": "U.S. EPA"
+          },
+          {
+            "indices": [
+              98,
+              114
+            ],
+            "screen_name": "SenJohnBarrasso",
+            "id": 202206694,
+            "id_str": "202206694",
+            "name": "Sen. John Barrasso"
+          }
+        ]
+      },
+      "text": "Requested DOJ investigation into @EPA responsibility for Gold King Mine spill at Navajo Nation w/ @SenJohnBarrasso: https://t.co/vnBqex7kot",
+      "favorite_count": 29,
+      "possibly_sensitive": false,
+      "id_str": "727537296120107009",
+      "contributors": null
+    },
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/oAKWpUrAWS",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://barrasso.senate.gov",
+          "display_url": "barrasso.senate.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "C0DEED",
+  "name": "Sen. John Barrasso",
+  "is_translator": false,
+  "time_zone": "Mountain Time (US & Canada)",
+  "id_str": "202206694"
+}

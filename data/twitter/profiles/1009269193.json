@@ -1,0 +1,114 @@
+{
+  "url": "http://t.co/CHbyJlgm",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000027020768/29b954dc365051bcbbf37ac39dc5a466.jpeg",
+  "statuses_count": 1172,
+  "is_translation_enabled": false,
+  "location": "",
+  "favourites_count": 143,
+  "listed_count": 343,
+  "profile_text_color": "333333",
+  "description": "Proudly representing the people of Illinois' 3rd Congressional District. Follow me on Facebook at http://t.co/The2w76j",
+  "followers_count": 3696,
+  "profile_background_tile": true,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/2971346902/d1cb42b1effd617fc324380327c90c99_normal.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000027020768/29b954dc365051bcbbf37ac39dc5a466.jpeg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -18000,
+  "profile_background_color": "141CB3",
+  "friends_count": 838,
+  "profile_link_color": "101FC9",
+  "default_profile": false,
+  "created_at": "Thu Dec 13 17:03:06 +0000 2012",
+  "following": false,
+  "id": 1009269193,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/2971346902/d1cb42b1effd617fc324380327c90c99_normal.jpeg",
+  "screen_name": "RepLipinski",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 15:01:09 +0000 2016",
+    "id": 727513332509466624,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 2,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            104,
+            111
+          ],
+          "text": "Poland"
+        },
+        {
+          "indices": [
+            114,
+            136
+          ],
+          "text": "PolishConstitutionDay"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "The Constitution of May 3, 1791, is considered one of the most important achievements in the history of #Poland.  #PolishConstitutionDay",
+    "favorite_count": 4,
+    "id_str": "727513332509466624",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/CHbyJlgm",
+          "indices": [
+            0,
+            20
+          ],
+          "expanded_url": "http://www.lipinski.house.gov/",
+          "display_url": "lipinski.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+        {
+          "url": "http://t.co/The2w76j",
+          "indices": [
+            98,
+            118
+          ],
+          "expanded_url": "http://www.facebook.com/repdanlipinski",
+          "display_url": "facebook.com/repdanlipinski"
+        }
+      ]
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1009269193/1374164575",
+  "name": "Rep. Daniel Lipinski",
+  "is_translator": false,
+  "time_zone": "Central Time (US & Canada)",
+  "id_str": "1009269193"
+}

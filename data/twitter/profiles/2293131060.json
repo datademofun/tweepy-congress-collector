@@ -1,0 +1,110 @@
+{
+  "url": "http://t.co/qWMKEO845O",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "statuses_count": 2015,
+  "is_translation_enabled": false,
+  "location": "",
+  "favourites_count": 139,
+  "listed_count": 427,
+  "profile_text_color": "333333",
+  "description": "Proudly representing the people of the 5th District of Massachusetts.",
+  "followers_count": 13873,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/694975296844472321/vPliwWX__normal.jpg",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": null,
+  "profile_background_color": "C0DEED",
+  "friends_count": 6990,
+  "profile_link_color": "0084B4",
+  "default_profile": true,
+  "created_at": "Wed Jan 15 18:53:47 +0000 2014",
+  "following": false,
+  "id": 2293131060,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/694975296844472321/vPliwWX__normal.jpg",
+  "screen_name": "RepKClark",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 22:36:02 +0000 2016",
+    "id": 727627805136130049,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 11,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            3,
+            26
+          ],
+          "text": "TeacherAppreciationDay"
+        },
+        {
+          "indices": [
+            85,
+            95
+          ],
+          "text": "educators"
+        },
+        {
+          "indices": [
+            112,
+            121
+          ],
+          "text": "students"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "On #TeacherAppreciationDay &amp; throughout the year, we're grateful to the tireless #educators who prepare our #students for future success!",
+    "favorite_count": 10,
+    "id_str": "727627805136130049",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/qWMKEO845O",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://katherineclark.house.gov",
+          "display_url": "katherineclark.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "C0DEED",
+  "name": "Katherine Clark",
+  "is_translator": false,
+  "time_zone": null,
+  "id_str": "2293131060"
+}

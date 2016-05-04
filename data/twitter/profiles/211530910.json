@@ -1,0 +1,97 @@
+{
+  "url": "http://t.co/qiTALKWyNZ",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+  "statuses_count": 3923,
+  "is_translation_enabled": false,
+  "location": "Eastern/Southeastern Ohio",
+  "favourites_count": 73,
+  "listed_count": 640,
+  "profile_text_color": "333333",
+  "description": "Proudly representing #Ohio's 6th Congressional District. Energy Enthusiast. Veteran. Husband. Father. Grandfather.",
+  "followers_count": 11356,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/531913598734307328/a-sC-HiK_normal.jpeg",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDFFCC",
+  "utc_offset": -14400,
+  "profile_background_color": "9AE4E8",
+  "friends_count": 804,
+  "profile_link_color": "0084B4",
+  "default_profile": false,
+  "created_at": "Wed Nov 03 14:33:04 +0000 2010",
+  "following": false,
+  "id": 211530910,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/531913598734307328/a-sC-HiK_normal.jpeg",
+  "screen_name": "RepBillJohnson",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Wed May 04 00:03:10 +0000 2016",
+    "id": 727649733204807680,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 1,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            129,
+            137
+          ],
+          "text": "CAC2016"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "Will be announcing this yrs Cong. Art winner/finalists tomorrow+Facebook final vote contest. Lots of really good entries this yr #CAC2016",
+    "favorite_count": 1,
+    "id_str": "727649733204807680",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/qiTALKWyNZ",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://billjohnson.house.gov/",
+          "display_url": "billjohnson.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "BDDCAD",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/211530910/1455809657",
+  "name": "Bill Johnson",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "211530910"
+}

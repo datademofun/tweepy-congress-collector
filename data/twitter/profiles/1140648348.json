@@ -1,0 +1,166 @@
+{
+  "url": "http://t.co/L7PfQxOrER",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "statuses_count": 1927,
+  "is_translation_enabled": false,
+  "location": "Weston & Washington",
+  "favourites_count": 133,
+  "listed_count": 333,
+  "profile_text_color": "333333",
+  "description": "U.S. Congresswoman proudly representing the people of Florida's 23rd District in our nation's capital.",
+  "followers_count": 7321,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/623582125938184192/eQ2jLs4A_normal.jpg",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -10800,
+  "profile_background_color": "C0DEED",
+  "friends_count": 2286,
+  "profile_link_color": "0084B4",
+  "default_profile": true,
+  "created_at": "Fri Feb 01 20:31:25 +0000 2013",
+  "following": false,
+  "id": 1140648348,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/623582125938184192/eQ2jLs4A_normal.jpg",
+  "screen_name": "RepDWStweets",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 20:27:11 +0000 2016",
+    "id": 727595378791620609,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 1,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            54,
+            82
+          ],
+          "text": "CongressionalArtCompetition"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            12
+          ],
+          "screen_name": "conginst",
+          "id": 1712989190,
+          "id_str": "1712989190",
+          "name": "Congressional Inst"
+        },
+        {
+          "indices": [
+            14,
+            27
+          ],
+          "screen_name": "RepDWStweets",
+          "id": 1140648348,
+          "id_str": "1140648348",
+          "name": "D. Wasserman Schultz"
+        }
+      ]
+    },
+    "text": "RT @conginst: @RepDWStweets Thanks for supporting the #CongressionalArtCompetition!",
+    "favorite_count": 0,
+    "id_str": "727595378791620609",
+    "retweeted_status": {
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id_str": "1140648348",
+      "is_quote_status": false,
+      "place": null,
+      "in_reply_to_user_id": 1140648348,
+      "coordinates": null,
+      "truncated": false,
+      "in_reply_to_status_id_str": "727528055711928320",
+      "created_at": "Tue May 03 20:17:08 +0000 2016",
+      "id": 727592851308195840,
+      "favorited": false,
+      "geo": null,
+      "in_reply_to_status_id": 727528055711928320,
+      "in_reply_to_screen_name": "RepDWStweets",
+      "retweet_count": 1,
+      "lang": "en",
+      "retweeted": false,
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              40,
+              68
+            ],
+            "text": "CongressionalArtCompetition"
+          }
+        ],
+        "urls": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "indices": [
+              0,
+              13
+            ],
+            "screen_name": "RepDWStweets",
+            "id": 1140648348,
+            "id_str": "1140648348",
+            "name": "D. Wasserman Schultz"
+          }
+        ]
+      },
+      "text": "@RepDWStweets Thanks for supporting the #CongressionalArtCompetition!",
+      "favorite_count": 0,
+      "id_str": "727592851308195840",
+      "contributors": null
+    },
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/L7PfQxOrER",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://wassermanschultz.house.gov/",
+          "display_url": "wassermanschultz.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1140648348/1402427170",
+  "name": "D. Wasserman Schultz",
+  "is_translator": false,
+  "time_zone": "Atlantic Time (Canada)",
+  "id_str": "1140648348"
+}

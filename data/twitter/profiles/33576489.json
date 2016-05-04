@@ -1,0 +1,110 @@
+{
+  "url": "http://t.co/O0L2n6ZElF",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/139968021/twitter4-bg.jpg",
+  "statuses_count": 9704,
+  "is_translation_enabled": false,
+  "location": "WNY and Washington, DC",
+  "favourites_count": 27,
+  "listed_count": 798,
+  "profile_text_color": "333333",
+  "description": "Official account for the Office of Congressman Brian Higgins (NY-26) representing portions of Erie and Niagara counties. http://t.co/Cpl0TlH2JW",
+  "followers_count": 14927,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/655008552243761152/vHUDf1-r_normal.jpg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/139968021/twitter4-bg.jpg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDFFCC",
+  "utc_offset": -14400,
+  "profile_background_color": "0B868C",
+  "friends_count": 2802,
+  "profile_link_color": "0084B4",
+  "default_profile": false,
+  "created_at": "Mon Apr 20 16:47:06 +0000 2009",
+  "following": false,
+  "id": 33576489,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/655008552243761152/vHUDf1-r_normal.jpg",
+  "screen_name": "RepBrianHiggins",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": "97554066",
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": 97554066,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": "727524212513067008",
+    "created_at": "Tue May 03 21:18:10 +0000 2016",
+    "id": 727608209582755840,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": 727524212513067008,
+    "in_reply_to_screen_name": "NotJKRowling",
+    "retweet_count": 0,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            13
+          ],
+          "screen_name": "NotJKRowling",
+          "id": 97554066,
+          "id_str": "97554066",
+          "name": "Rob Galbraith"
+        }
+      ]
+    },
+    "text": "@NotJKRowling Thx for the msg. I don't support drilling in fragile areas; my focus is reducing price of renewables to reduce demand for oil.",
+    "favorite_count": 0,
+    "id_str": "727608209582755840",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/O0L2n6ZElF",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://higgins.house.gov",
+          "display_url": "higgins.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+        {
+          "url": "http://t.co/Cpl0TlH2JW",
+          "indices": [
+            121,
+            143
+          ],
+          "expanded_url": "http://on.fb.me/repbrianhiggins",
+          "display_url": "on.fb.me/repbrianhiggins"
+        }
+      ]
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "BDDCAD",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/33576489/1401727504",
+  "name": "Brian Higgins",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "33576489"
+}

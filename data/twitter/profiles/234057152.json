@@ -1,0 +1,315 @@
+{
+  "url": "http://t.co/DxAGNTJ5Ux",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/245716133/Twitter_Background_Expanded.png",
+  "statuses_count": 919,
+  "is_translation_enabled": false,
+  "location": "9th District of Virginia",
+  "favourites_count": 8,
+  "listed_count": 657,
+  "profile_text_color": "333333",
+  "description": "Congressman Griffith represents the 9th District of Virginia in the U.S. House of Representatives.",
+  "followers_count": 10313,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1244240509/HMG2_normal.jpg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/245716133/Twitter_Background_Expanded.png",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -14400,
+  "profile_background_color": "C0DEED",
+  "friends_count": 412,
+  "profile_link_color": "0084B4",
+  "default_profile": false,
+  "created_at": "Tue Jan 04 19:05:24 +0000 2011",
+  "following": false,
+  "id": 234057152,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1244240509/HMG2_normal.jpg",
+  "screen_name": "RepMGriffith",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "extended_entities": {
+      "media": [
+        {
+          "url": "https://t.co/9ZFfUiLmaY",
+          "media_url_https": "https://pbs.twimg.com/media/ChirwqKWkAEHpmj.jpg",
+          "id": 727520192260116481,
+          "display_url": "pic.twitter.com/9ZFfUiLmaY",
+          "source_user_id": 49676366,
+          "source_status_id": 727520194256580609,
+          "type": "photo",
+          "indices": [
+            90,
+            113
+          ],
+          "expanded_url": "http://twitter.com/VolvoGroupNA/status/727520194256580609/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 450,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 255,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 768,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "media_url": "http://pbs.twimg.com/media/ChirwqKWkAEHpmj.jpg",
+          "source_user_id_str": "49676366",
+          "source_status_id_str": "727520194256580609",
+          "id_str": "727520192260116481"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 15:49:12 +0000 2016",
+    "id": 727525423173799936,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 1,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "media": [
+        {
+          "url": "https://t.co/9ZFfUiLmaY",
+          "media_url_https": "https://pbs.twimg.com/media/ChirwqKWkAEHpmj.jpg",
+          "id": 727520192260116481,
+          "display_url": "pic.twitter.com/9ZFfUiLmaY",
+          "source_user_id": 49676366,
+          "source_status_id": 727520194256580609,
+          "type": "photo",
+          "indices": [
+            90,
+            113
+          ],
+          "expanded_url": "http://twitter.com/VolvoGroupNA/status/727520194256580609/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 450,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 255,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 768,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "media_url": "http://pbs.twimg.com/media/ChirwqKWkAEHpmj.jpg",
+          "source_user_id_str": "49676366",
+          "source_status_id_str": "727520194256580609",
+          "id_str": "727520192260116481"
+        }
+      ],
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            16
+          ],
+          "screen_name": "VolvoGroupNA",
+          "id": 49676366,
+          "id_str": "49676366",
+          "name": "Volvo Group NA"
+        },
+        {
+          "indices": [
+            75,
+            88
+          ],
+          "screen_name": "RepMGriffith",
+          "id": 234057152,
+          "id_str": "234057152",
+          "name": "Morgan Griffith"
+        }
+      ]
+    },
+    "text": "RT @VolvoGroupNA: The New River Valley team appreciated their meeting with @RepMGriffith. https://t.co/9ZFfUiLmaY",
+    "favorite_count": 0,
+    "possibly_sensitive": false,
+    "id_str": "727525423173799936",
+    "retweeted_status": {
+      "extended_entities": {
+        "media": [
+          {
+            "indices": [
+              72,
+              95
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/ChirwqKWkAEHpmj.jpg",
+            "id": 727520192260116481,
+            "expanded_url": "http://twitter.com/VolvoGroupNA/status/727520194256580609/photo/1",
+            "sizes": {
+              "medium": {
+                "h": 450,
+                "w": 600,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 255,
+                "w": 340,
+                "resize": "fit"
+              },
+              "large": {
+                "h": 768,
+                "w": 1024,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "display_url": "pic.twitter.com/9ZFfUiLmaY",
+            "media_url": "http://pbs.twimg.com/media/ChirwqKWkAEHpmj.jpg",
+            "url": "https://t.co/9ZFfUiLmaY",
+            "type": "photo",
+            "id_str": "727520192260116481"
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "place": null,
+      "in_reply_to_user_id": null,
+      "coordinates": null,
+      "truncated": false,
+      "in_reply_to_status_id_str": null,
+      "created_at": "Tue May 03 15:28:25 +0000 2016",
+      "id": 727520194256580609,
+      "favorited": false,
+      "geo": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_screen_name": null,
+      "retweet_count": 1,
+      "lang": "en",
+      "retweeted": false,
+      "entities": {
+        "media": [
+          {
+            "indices": [
+              72,
+              95
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/ChirwqKWkAEHpmj.jpg",
+            "id": 727520192260116481,
+            "expanded_url": "http://twitter.com/VolvoGroupNA/status/727520194256580609/photo/1",
+            "sizes": {
+              "medium": {
+                "h": 450,
+                "w": 600,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 255,
+                "w": 340,
+                "resize": "fit"
+              },
+              "large": {
+                "h": 768,
+                "w": 1024,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "display_url": "pic.twitter.com/9ZFfUiLmaY",
+            "media_url": "http://pbs.twimg.com/media/ChirwqKWkAEHpmj.jpg",
+            "url": "https://t.co/9ZFfUiLmaY",
+            "type": "photo",
+            "id_str": "727520192260116481"
+          }
+        ],
+        "hashtags": [],
+        "urls": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "indices": [
+              57,
+              70
+            ],
+            "screen_name": "RepMGriffith",
+            "id": 234057152,
+            "id_str": "234057152",
+            "name": "Morgan Griffith"
+          }
+        ]
+      },
+      "text": "The New River Valley team appreciated their meeting with @RepMGriffith. https://t.co/9ZFfUiLmaY",
+      "favorite_count": 1,
+      "possibly_sensitive": false,
+      "id_str": "727520194256580609",
+      "contributors": null
+    },
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/DxAGNTJ5Ux",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://morgangriffith.house.gov",
+          "display_url": "morgangriffith.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "C0DEED",
+  "name": "Morgan Griffith",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "234057152"
+}

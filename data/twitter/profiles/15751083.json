@@ -1,0 +1,200 @@
+{
+  "url": "http://t.co/qj3aLBJUa9",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/3999129/Steps.jpg",
+  "statuses_count": 4165,
+  "is_translation_enabled": false,
+  "location": "Washington, DC/Lake Dallas, TX",
+  "favourites_count": 99,
+  "listed_count": 1229,
+  "profile_text_color": "333333",
+  "description": "Congressman for Texas' 26th District, M.D. (Ob/Gyn) in my former life",
+  "followers_count": 16156,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/465221794/100_0726_normal.jpg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/3999129/Steps.jpg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "E2E3E9",
+  "utc_offset": -14400,
+  "profile_background_color": "090A8B",
+  "friends_count": 1510,
+  "profile_link_color": "0084B4",
+  "default_profile": false,
+  "created_at": "Wed Aug 06 15:25:19 +0000 2008",
+  "following": false,
+  "id": 15751083,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/465221794/100_0726_normal.jpg",
+  "screen_name": "michaelcburgess",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "extended_entities": {
+      "media": [
+        {
+          "indices": [
+            113,
+            136
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/Chkdk79WEAA46qL.jpg",
+          "id": 727645335204532224,
+          "expanded_url": "http://twitter.com/michaelcburgess/status/727645342863269889/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 354,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 201,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 604,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/R89QpjAmK6",
+          "media_url": "http://pbs.twimg.com/media/Chkdk79WEAA46qL.jpg",
+          "url": "https://t.co/R89QpjAmK6",
+          "type": "photo",
+          "id_str": "727645335204532224"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 23:45:43 +0000 2016",
+    "id": 727645342863269889,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 3,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "media": [
+        {
+          "indices": [
+            113,
+            136
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/Chkdk79WEAA46qL.jpg",
+          "id": 727645335204532224,
+          "expanded_url": "http://twitter.com/michaelcburgess/status/727645342863269889/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 354,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 201,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 604,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/R89QpjAmK6",
+          "media_url": "http://pbs.twimg.com/media/Chkdk79WEAA46qL.jpg",
+          "url": "https://t.co/R89QpjAmK6",
+          "type": "photo",
+          "id_str": "727645335204532224"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            40,
+            46
+          ],
+          "text": "Texas"
+        },
+        {
+          "indices": [
+            100,
+            105
+          ],
+          "text": "TX26"
+        },
+        {
+          "indices": [
+            106,
+            112
+          ],
+          "text": "ACPLD"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            54,
+            68
+          ],
+          "screen_name": "ACPinternists",
+          "id": 23453489,
+          "id_str": "23453489",
+          "name": "ACP"
+        }
+      ]
+    },
+    "text": "Great to visit with doctors from across #Texas at the @ACPinternists Leadership Conf this afternoon #TX26 #ACPLD https://t.co/R89QpjAmK6",
+    "favorite_count": 2,
+    "possibly_sensitive": false,
+    "id_str": "727645342863269889",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/qj3aLBJUa9",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://burgess.house.gov",
+          "display_url": "burgess.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "FF2941",
+  "name": "Michael Burgess, MD",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "15751083"
+}

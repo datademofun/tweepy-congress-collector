@@ -1,0 +1,174 @@
+{
+  "url": "https://t.co/ABCpafKq3T",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/96849887/TwitterBgd.jpg",
+  "statuses_count": 2034,
+  "is_translation_enabled": false,
+  "location": "Peoria, AZ",
+  "favourites_count": 621,
+  "listed_count": 1230,
+  "profile_text_color": "020203",
+  "description": "Representing Arizona's Eighth Congressional District.",
+  "followers_count": 19670,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/578537437942525952/V56CiK3f_normal.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/96849887/TwitterBgd.jpg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "52191D",
+  "utc_offset": -18000,
+  "profile_background_color": "ABB8C2",
+  "friends_count": 2028,
+  "profile_link_color": "6B6161",
+  "default_profile": false,
+  "created_at": "Mon Mar 16 21:27:49 +0000 2009",
+  "following": false,
+  "id": 24773493,
+  "has_extended_profile": false,
+  "profile_use_background_image": false,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/578537437942525952/V56CiK3f_normal.jpeg",
+  "screen_name": "RepTrentFranks",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Thu Apr 28 20:34:23 +0000 2016",
+    "id": 725785254141792261,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 5,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/FkDhGNCI2M",
+          "indices": [
+            72,
+            95
+          ],
+          "expanded_url": "https://twitter.com/HouseJudiciary/status/725768042618195969",
+          "display_url": "twitter.com/HouseJudiciary\u2026"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            18
+          ],
+          "screen_name": "HouseJudiciary",
+          "id": 1131917492,
+          "id_str": "1131917492",
+          "name": "House Judiciary Cmte"
+        },
+        {
+          "indices": [
+            21,
+            36
+          ],
+          "screen_name": "RepTrentFranks",
+          "id": 24773493,
+          "id_str": "24773493",
+          "name": "Rep. Trent Franks"
+        }
+      ]
+    },
+    "text": "RT @HouseJudiciary: .@RepTrentFranks is gaveling in now. Tune in now \u2193  https://t.co/FkDhGNCI2M",
+    "favorite_count": 0,
+    "possibly_sensitive": false,
+    "id_str": "725785254141792261",
+    "retweeted_status": {
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "quoted_status_id_str": "725768042618195969",
+      "quoted_status_id": 725768042618195969,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": true,
+      "place": null,
+      "in_reply_to_user_id": null,
+      "coordinates": null,
+      "truncated": false,
+      "in_reply_to_status_id_str": null,
+      "created_at": "Thu Apr 28 20:34:15 +0000 2016",
+      "id": 725785218196623360,
+      "favorited": false,
+      "geo": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_screen_name": null,
+      "retweet_count": 5,
+      "lang": "en",
+      "retweeted": false,
+      "entities": {
+        "hashtags": [],
+        "urls": [
+          {
+            "url": "https://t.co/FkDhGNCI2M",
+            "indices": [
+              52,
+              75
+            ],
+            "expanded_url": "https://twitter.com/HouseJudiciary/status/725768042618195969",
+            "display_url": "twitter.com/HouseJudiciary\u2026"
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "indices": [
+              1,
+              16
+            ],
+            "screen_name": "RepTrentFranks",
+            "id": 24773493,
+            "id_str": "24773493",
+            "name": "Rep. Trent Franks"
+          }
+        ]
+      },
+      "text": ".@RepTrentFranks is gaveling in now. Tune in now \u2193  https://t.co/FkDhGNCI2M",
+      "favorite_count": 1,
+      "possibly_sensitive": false,
+      "id_str": "725785218196623360",
+      "contributors": null
+    },
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "https://t.co/ABCpafKq3T",
+          "indices": [
+            0,
+            23
+          ],
+          "expanded_url": "http://franks.house.gov/",
+          "display_url": "franks.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "81282E",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/24773493/1402943849",
+  "name": "Rep. Trent Franks",
+  "is_translator": false,
+  "time_zone": "Quito",
+  "id_str": "24773493"
+}

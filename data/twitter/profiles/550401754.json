@@ -1,0 +1,212 @@
+{
+  "url": "http://t.co/pssxnE99CF",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "statuses_count": 2733,
+  "is_translation_enabled": false,
+  "location": "Somerset, KY",
+  "favourites_count": 852,
+  "listed_count": 410,
+  "profile_text_color": "333333",
+  "description": "Representing the people of Southern and Eastern Kentucky and serving as Chairman of the U.S. House Appropriations Committee @HouseAppropsGOP",
+  "followers_count": 6869,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/2087954082/Hal_twitter_pic_normal.jpg",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -10800,
+  "profile_background_color": "C0DEED",
+  "friends_count": 643,
+  "profile_link_color": "0084B4",
+  "default_profile": true,
+  "created_at": "Tue Apr 10 19:59:22 +0000 2012",
+  "following": false,
+  "id": 550401754,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/2087954082/Hal_twitter_pic_normal.jpg",
+  "screen_name": "RepHalRogers",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Mon May 02 19:43:11 +0000 2016",
+    "id": 727221919871864832,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 2,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/B6vCbNPrNz",
+          "indices": [
+            117,
+            140
+          ],
+          "expanded_url": "http://bit.ly/1QNw5BN",
+          "display_url": "bit.ly/1QNw5BN"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            7
+          ],
+          "screen_name": "KET",
+          "id": 67411447,
+          "id_str": "67411447",
+          "name": "KET"
+        },
+        {
+          "indices": [
+            21,
+            34
+          ],
+          "screen_name": "RepHalRogers",
+          "id": 550401754,
+          "id_str": "550401754",
+          "name": "Hal Rogers"
+        },
+        {
+          "indices": [
+            63,
+            73
+          ],
+          "screen_name": "steelejke",
+          "id": 181176354,
+          "id_str": "181176354",
+          "name": "Jackie Steele"
+        },
+        {
+          "indices": [
+            77,
+            85
+          ],
+          "screen_name": "uniteky",
+          "id": 89011649,
+          "id_str": "89011649",
+          "name": "Operation UNITE"
+        }
+      ]
+    },
+    "text": "RT @KET: One to One: @RepHalRogers and Commonwealth's Attorney @steelejke of @uniteky on KY's drug addiction crisis. https://t.co/B6vCbNPrNz",
+    "favorite_count": 0,
+    "possibly_sensitive": false,
+    "id_str": "727221919871864832",
+    "retweeted_status": {
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "place": null,
+      "in_reply_to_user_id": null,
+      "coordinates": null,
+      "truncated": false,
+      "in_reply_to_status_id_str": null,
+      "created_at": "Mon May 02 14:57:18 +0000 2016",
+      "id": 727149973314392064,
+      "favorited": false,
+      "geo": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_screen_name": null,
+      "retweet_count": 2,
+      "lang": "en",
+      "retweeted": false,
+      "entities": {
+        "hashtags": [],
+        "urls": [
+          {
+            "url": "https://t.co/B6vCbNPrNz",
+            "indices": [
+              108,
+              131
+            ],
+            "expanded_url": "http://bit.ly/1QNw5BN",
+            "display_url": "bit.ly/1QNw5BN"
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "indices": [
+              12,
+              25
+            ],
+            "screen_name": "RepHalRogers",
+            "id": 550401754,
+            "id_str": "550401754",
+            "name": "Hal Rogers"
+          },
+          {
+            "indices": [
+              54,
+              64
+            ],
+            "screen_name": "steelejke",
+            "id": 181176354,
+            "id_str": "181176354",
+            "name": "Jackie Steele"
+          },
+          {
+            "indices": [
+              68,
+              76
+            ],
+            "screen_name": "uniteky",
+            "id": 89011649,
+            "id_str": "89011649",
+            "name": "Operation UNITE"
+          }
+        ]
+      },
+      "text": "One to One: @RepHalRogers and Commonwealth's Attorney @steelejke of @uniteky on KY's drug addiction crisis. https://t.co/B6vCbNPrNz",
+      "favorite_count": 2,
+      "possibly_sensitive": false,
+      "id_str": "727149973314392064",
+      "contributors": null
+    },
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/pssxnE99CF",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://halrogers.house.gov/",
+          "display_url": "halrogers.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/550401754/1398439158",
+  "name": "Hal Rogers",
+  "is_translator": false,
+  "time_zone": "Atlantic Time (Canada)",
+  "id_str": "550401754"
+}

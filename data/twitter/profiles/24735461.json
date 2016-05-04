@@ -1,0 +1,199 @@
+{
+  "url": "http://t.co/ZbESaBtE5q",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/555458632/twitter.jpg",
+  "statuses_count": 4523,
+  "is_translation_enabled": false,
+  "location": "",
+  "favourites_count": 511,
+  "listed_count": 1071,
+  "profile_text_color": "090942",
+  "description": "I proudly represent the people of Texas' 32nd Congressional District and serve as the Chairman of the House Committee on Rules.",
+  "followers_count": 17266,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1479315255/48918-012-005f_normal.jpg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/555458632/twitter.jpg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "E8E3AC",
+  "utc_offset": -14400,
+  "profile_background_color": "141A22",
+  "friends_count": 807,
+  "profile_link_color": "761825",
+  "default_profile": false,
+  "created_at": "Mon Mar 16 17:54:52 +0000 2009",
+  "following": false,
+  "id": 24735461,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1479315255/48918-012-005f_normal.jpg",
+  "screen_name": "PeteSessions",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "extended_entities": {
+      "media": [
+        {
+          "indices": [
+            121,
+            144
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/ChjbUZrUkAAuhCa.jpg",
+          "id": 727572483356790784,
+          "expanded_url": "http://twitter.com/PeteSessions/status/727572496170409984/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 578,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 327,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 722,
+              "w": 750,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/RplBuUcnTO",
+          "media_url": "http://pbs.twimg.com/media/ChjbUZrUkAAuhCa.jpg",
+          "url": "https://t.co/RplBuUcnTO",
+          "type": "photo",
+          "id_str": "727572483356790784"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 18:56:15 +0000 2016",
+    "id": 727572496170409984,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 3,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "media": [
+        {
+          "indices": [
+            121,
+            144
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/ChjbUZrUkAAuhCa.jpg",
+          "id": 727572483356790784,
+          "expanded_url": "http://twitter.com/PeteSessions/status/727572496170409984/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 578,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 327,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 722,
+              "w": 750,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/RplBuUcnTO",
+          "media_url": "http://pbs.twimg.com/media/ChjbUZrUkAAuhCa.jpg",
+          "url": "https://t.co/RplBuUcnTO",
+          "type": "photo",
+          "id_str": "727572483356790784"
+        }
+      ],
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            31,
+            38
+          ],
+          "screen_name": "USNavy",
+          "id": 54885400,
+          "id_str": "54885400",
+          "name": "U.S. Navy"
+        },
+        {
+          "indices": [
+            39,
+            55
+          ],
+          "screen_name": "aircraftcarrier",
+          "id": 1129443330,
+          "id_str": "1129443330",
+          "name": "Aircraft Carriers"
+        },
+        {
+          "indices": [
+            56,
+            67
+          ],
+          "screen_name": "NimitzNews",
+          "id": 15267559,
+          "id_str": "15267559",
+          "name": "USS NIMITZ (CVN 68)"
+        }
+      ]
+    },
+    "text": "Thanks to those serving aboard @USNavy @aircraftcarrier @nimitznews named to honor WWII hero  &amp; Texan Chester Nimitz https://t.co/RplBuUcnTO",
+    "favorite_count": 8,
+    "possibly_sensitive": false,
+    "id_str": "727572496170409984",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/ZbESaBtE5q",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://sessions.house.gov",
+          "display_url": "sessions.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "B30220",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/24735461/1401898285",
+  "name": "Pete Sessions",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "24735461"
+}

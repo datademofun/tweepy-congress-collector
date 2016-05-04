@@ -1,0 +1,110 @@
+{
+  "url": "http://t.co/x7LZALizg6",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/224734998/xa8a44afd7bd99682ddacb4c46ac30ba.png",
+  "statuses_count": 4243,
+  "is_translation_enabled": false,
+  "location": "Washington, DC",
+  "favourites_count": 0,
+  "listed_count": 3202,
+  "profile_text_color": "432D2E",
+  "description": "Twitter feed for U.S. Senator Lindsey Graham of South Carolina.",
+  "followers_count": 102048,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/2167513251/LG_Testifying2_normal.jpg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/224734998/xa8a44afd7bd99682ddacb4c46ac30ba.png",
+  "notifications": false,
+  "profile_sidebar_fill_color": "A1A1A1",
+  "utc_offset": -14400,
+  "profile_background_color": "001D48",
+  "friends_count": 2151,
+  "profile_link_color": "0B6D91",
+  "default_profile": false,
+  "created_at": "Tue May 20 13:57:21 +0000 2008",
+  "following": false,
+  "id": 14845376,
+  "has_extended_profile": false,
+  "profile_use_background_image": false,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/2167513251/LG_Testifying2_normal.jpg",
+  "screen_name": "GrahamBlog",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Thu Feb 18 15:59:03 +0000 2016",
+    "id": 700348813807063040,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 44,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            1,
+            10
+          ],
+          "screen_name": "tim_cook",
+          "id": 1636590253,
+          "id_str": "1636590253",
+          "name": "Tim Cook"
+        },
+        {
+          "indices": [
+            138,
+            142
+          ],
+          "screen_name": "FBI",
+          "id": 17629860,
+          "id_str": "17629860",
+          "name": "FBI"
+        }
+      ]
+    },
+    "text": ".@tim_cook Our nation is at war &amp; this Iphone was used to kill Americans. Protect our homeland, not terrorists. Please cooperate with @FBI.",
+    "favorite_count": 151,
+    "id_str": "700348813807063040",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/x7LZALizg6",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://lgraham.senate.gov",
+          "display_url": "lgraham.senate.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "9B1812",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/14845376/1355255089",
+  "name": "Lindsey Graham",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "14845376"
+}

@@ -1,0 +1,332 @@
+{
+  "url": "http://t.co/uAblmVkUWN",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/631116586854690817/7GUhbJP6.png",
+  "statuses_count": 1967,
+  "is_translation_enabled": false,
+  "location": "Washington, DC",
+  "favourites_count": 122,
+  "listed_count": 489,
+  "profile_text_color": "000000",
+  "description": "U.S. Congressman serving Maryland's 2nd District. Member of House Appropriations Committee. Loves all things Baltimore esp. the Ravens, Orioles and crabs.",
+  "followers_count": 6408,
+  "profile_background_tile": true,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/466663718932074497/Hzr9q14A_normal.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/631116586854690817/7GUhbJP6.png",
+  "notifications": false,
+  "profile_sidebar_fill_color": "000000",
+  "utc_offset": -18000,
+  "profile_background_color": "4A913C",
+  "friends_count": 1258,
+  "profile_link_color": "94D487",
+  "default_profile": false,
+  "created_at": "Thu May 26 14:39:08 +0000 2011",
+  "following": false,
+  "id": 305620929,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/466663718932074497/Hzr9q14A_normal.jpeg",
+  "screen_name": "Call_Me_Dutch",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "extended_entities": {
+      "media": [
+        {
+          "url": "https://t.co/25bK0G6dtC",
+          "media_url_https": "https://pbs.twimg.com/media/Chi4_nLWgAAEyng.jpg",
+          "id": 727534742808199168,
+          "display_url": "pic.twitter.com/25bK0G6dtC",
+          "source_user_id": 275038480,
+          "source_status_id": 727534743592513537,
+          "type": "photo",
+          "indices": [
+            99,
+            122
+          ],
+          "expanded_url": "http://twitter.com/Wanda_Lucas/status/727534743592513537/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 451,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 255,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 640,
+              "w": 852,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "media_url": "http://pbs.twimg.com/media/Chi4_nLWgAAEyng.jpg",
+          "source_user_id_str": "275038480",
+          "source_status_id_str": "727534743592513537",
+          "id_str": "727534742808199168"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 19:39:47 +0000 2016",
+    "id": 727583450698530816,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 3,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "media": [
+        {
+          "url": "https://t.co/25bK0G6dtC",
+          "media_url_https": "https://pbs.twimg.com/media/Chi4_nLWgAAEyng.jpg",
+          "id": 727534742808199168,
+          "display_url": "pic.twitter.com/25bK0G6dtC",
+          "source_user_id": 275038480,
+          "source_status_id": 727534743592513537,
+          "type": "photo",
+          "indices": [
+            99,
+            122
+          ],
+          "expanded_url": "http://twitter.com/Wanda_Lucas/status/727534743592513537/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 451,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 255,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 640,
+              "w": 852,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "media_url": "http://pbs.twimg.com/media/Chi4_nLWgAAEyng.jpg",
+          "source_user_id_str": "275038480",
+          "source_status_id_str": "727534743592513537",
+          "id_str": "727534742808199168"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            84,
+            98
+          ],
+          "text": "nbcconthehill"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            15
+          ],
+          "screen_name": "Wanda_Lucas",
+          "id": 275038480,
+          "id_str": "275038480",
+          "name": "Wanda Lucas"
+        },
+        {
+          "indices": [
+            18,
+            32
+          ],
+          "screen_name": "Call_Me_Dutch",
+          "id": 305620929,
+          "id_str": "305620929",
+          "name": "Dutch Ruppersberger"
+        }
+      ]
+    },
+    "text": "RT @Wanda_Lucas: .@Call_Me_Dutch Thank you David Heitlinger for an awesome meeting! #nbcconthehill https://t.co/25bK0G6dtC",
+    "favorite_count": 0,
+    "possibly_sensitive": false,
+    "id_str": "727583450698530816",
+    "retweeted_status": {
+      "extended_entities": {
+        "media": [
+          {
+            "indices": [
+              82,
+              105
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/Chi4_nLWgAAEyng.jpg",
+            "id": 727534742808199168,
+            "expanded_url": "http://twitter.com/Wanda_Lucas/status/727534743592513537/photo/1",
+            "sizes": {
+              "medium": {
+                "h": 451,
+                "w": 600,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 255,
+                "w": 340,
+                "resize": "fit"
+              },
+              "large": {
+                "h": 640,
+                "w": 852,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "display_url": "pic.twitter.com/25bK0G6dtC",
+            "media_url": "http://pbs.twimg.com/media/Chi4_nLWgAAEyng.jpg",
+            "url": "https://t.co/25bK0G6dtC",
+            "type": "photo",
+            "id_str": "727534742808199168"
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "place": null,
+      "in_reply_to_user_id": null,
+      "coordinates": null,
+      "truncated": false,
+      "in_reply_to_status_id_str": null,
+      "created_at": "Tue May 03 16:26:14 +0000 2016",
+      "id": 727534743592513537,
+      "favorited": false,
+      "geo": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_screen_name": null,
+      "retweet_count": 3,
+      "lang": "en",
+      "retweeted": false,
+      "entities": {
+        "media": [
+          {
+            "indices": [
+              82,
+              105
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/Chi4_nLWgAAEyng.jpg",
+            "id": 727534742808199168,
+            "expanded_url": "http://twitter.com/Wanda_Lucas/status/727534743592513537/photo/1",
+            "sizes": {
+              "medium": {
+                "h": 451,
+                "w": 600,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 255,
+                "w": 340,
+                "resize": "fit"
+              },
+              "large": {
+                "h": 640,
+                "w": 852,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "display_url": "pic.twitter.com/25bK0G6dtC",
+            "media_url": "http://pbs.twimg.com/media/Chi4_nLWgAAEyng.jpg",
+            "url": "https://t.co/25bK0G6dtC",
+            "type": "photo",
+            "id_str": "727534742808199168"
+          }
+        ],
+        "hashtags": [
+          {
+            "indices": [
+              67,
+              81
+            ],
+            "text": "nbcconthehill"
+          }
+        ],
+        "urls": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "indices": [
+              1,
+              15
+            ],
+            "screen_name": "Call_Me_Dutch",
+            "id": 305620929,
+            "id_str": "305620929",
+            "name": "Dutch Ruppersberger"
+          }
+        ]
+      },
+      "text": ".@Call_Me_Dutch Thank you David Heitlinger for an awesome meeting! #nbcconthehill https://t.co/25bK0G6dtC",
+      "favorite_count": 1,
+      "possibly_sensitive": false,
+      "id_str": "727534743592513537",
+      "contributors": null
+    },
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/uAblmVkUWN",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://dutch.house.gov",
+          "display_url": "dutch.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "000000",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/305620929/1432738889",
+  "name": "Dutch Ruppersberger",
+  "is_translator": false,
+  "time_zone": "Quito",
+  "id_str": "305620929"
+}

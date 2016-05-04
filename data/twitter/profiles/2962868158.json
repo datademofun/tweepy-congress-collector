@@ -1,0 +1,295 @@
+{
+  "url": "http://t.co/GLUWQ3oyIM",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/577536907992678401/d_eOEeKx.jpeg",
+  "statuses_count": 1994,
+  "is_translation_enabled": false,
+  "location": "Northern Virginia & DC",
+  "favourites_count": 992,
+  "listed_count": 193,
+  "profile_text_color": "333333",
+  "description": "Proudly representing Virginia's 8th District in Congress.",
+  "followers_count": 3397,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/722493714455597056/8gmUR6aq_normal.jpg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/577536907992678401/d_eOEeKx.jpeg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -14400,
+  "profile_background_color": "3B94D9",
+  "friends_count": 1175,
+  "profile_link_color": "3B94D9",
+  "default_profile": false,
+  "created_at": "Mon Jan 05 22:09:04 +0000 2015",
+  "following": false,
+  "id": 2962868158,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/722493714455597056/8gmUR6aq_normal.jpg",
+  "screen_name": "RepDonBeyer",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "extended_entities": {
+      "media": [
+        {
+          "url": "https://t.co/agTfEAP32f",
+          "media_url_https": "https://pbs.twimg.com/media/Chi97lDU4AEgM0K.jpg",
+          "id": 727540171076329473,
+          "display_url": "pic.twitter.com/agTfEAP32f",
+          "source_user_id": 705567115,
+          "source_status_id": 727540172158603266,
+          "type": "photo",
+          "indices": [
+            139,
+            140
+          ],
+          "expanded_url": "http://twitter.com/AlexVASheriff/status/727540172158603266/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 410,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 232,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 699,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "media_url": "http://pbs.twimg.com/media/Chi97lDU4AEgM0K.jpg",
+          "source_user_id_str": "705567115",
+          "source_status_id_str": "727540172158603266",
+          "id_str": "727540171076329473"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 23:08:28 +0000 2016",
+    "id": 727635969487323140,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 3,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "media": [
+        {
+          "url": "https://t.co/agTfEAP32f",
+          "media_url_https": "https://pbs.twimg.com/media/Chi97lDU4AEgM0K.jpg",
+          "id": 727540171076329473,
+          "display_url": "pic.twitter.com/agTfEAP32f",
+          "source_user_id": 705567115,
+          "source_status_id": 727540172158603266,
+          "type": "photo",
+          "indices": [
+            139,
+            140
+          ],
+          "expanded_url": "http://twitter.com/AlexVASheriff/status/727540172158603266/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 410,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 232,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 699,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "media_url": "http://pbs.twimg.com/media/Chi97lDU4AEgM0K.jpg",
+          "source_user_id_str": "705567115",
+          "source_status_id_str": "727540172158603266",
+          "id_str": "727540171076329473"
+        }
+      ],
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            17
+          ],
+          "screen_name": "AlexVASheriff",
+          "id": 705567115,
+          "id_str": "705567115",
+          "name": "Alexandria Sheriff"
+        }
+      ]
+    },
+    "text": "RT @AlexVASheriff: Ambassador Eizenstat, Rep Beyer and City officials observing Days of Remembrance, Yom HaShoah, for Holocaust victims htt\u2026",
+    "favorite_count": 0,
+    "possibly_sensitive": false,
+    "id_str": "727635969487323140",
+    "retweeted_status": {
+      "extended_entities": {
+        "media": [
+          {
+            "indices": [
+              117,
+              140
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/Chi97lDU4AEgM0K.jpg",
+            "id": 727540171076329473,
+            "expanded_url": "http://twitter.com/AlexVASheriff/status/727540172158603266/photo/1",
+            "sizes": {
+              "medium": {
+                "h": 410,
+                "w": 600,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 232,
+                "w": 340,
+                "resize": "fit"
+              },
+              "large": {
+                "h": 699,
+                "w": 1024,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "display_url": "pic.twitter.com/agTfEAP32f",
+            "media_url": "http://pbs.twimg.com/media/Chi97lDU4AEgM0K.jpg",
+            "url": "https://t.co/agTfEAP32f",
+            "type": "photo",
+            "id_str": "727540171076329473"
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "place": null,
+      "in_reply_to_user_id": null,
+      "coordinates": null,
+      "truncated": false,
+      "in_reply_to_status_id_str": null,
+      "created_at": "Tue May 03 16:47:48 +0000 2016",
+      "id": 727540172158603266,
+      "favorited": false,
+      "geo": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_screen_name": null,
+      "retweet_count": 3,
+      "lang": "en",
+      "retweeted": false,
+      "entities": {
+        "media": [
+          {
+            "indices": [
+              117,
+              140
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/Chi97lDU4AEgM0K.jpg",
+            "id": 727540171076329473,
+            "expanded_url": "http://twitter.com/AlexVASheriff/status/727540172158603266/photo/1",
+            "sizes": {
+              "medium": {
+                "h": 410,
+                "w": 600,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 232,
+                "w": 340,
+                "resize": "fit"
+              },
+              "large": {
+                "h": 699,
+                "w": 1024,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "display_url": "pic.twitter.com/agTfEAP32f",
+            "media_url": "http://pbs.twimg.com/media/Chi97lDU4AEgM0K.jpg",
+            "url": "https://t.co/agTfEAP32f",
+            "type": "photo",
+            "id_str": "727540171076329473"
+          }
+        ],
+        "hashtags": [],
+        "urls": [],
+        "symbols": [],
+        "user_mentions": []
+      },
+      "text": "Ambassador Eizenstat, Rep Beyer and City officials observing Days of Remembrance, Yom HaShoah, for Holocaust victims https://t.co/agTfEAP32f",
+      "favorite_count": 6,
+      "possibly_sensitive": false,
+      "id_str": "727540172158603266",
+      "contributors": null
+    },
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/GLUWQ3oyIM",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://beyer.house.gov",
+          "display_url": "beyer.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/2962868158/1426530943",
+  "name": "Rep. Don Beyer",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "2962868158"
+}

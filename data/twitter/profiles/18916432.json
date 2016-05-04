@@ -1,0 +1,117 @@
+{
+  "url": "https://t.co/VgAmH7pt35",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "statuses_count": 4876,
+  "is_translation_enabled": false,
+  "location": "Janesville, WI",
+  "favourites_count": 4,
+  "listed_count": 8780,
+  "profile_text_color": "333333",
+  "description": "Office of the 54th Speaker of the House \u2192 Paul Ryan.",
+  "followers_count": 626366,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/661312718176182273/Kv8VoqZK_normal.jpg",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -18000,
+  "profile_background_color": "C0DEED",
+  "friends_count": 19,
+  "profile_link_color": "0084B4",
+  "default_profile": true,
+  "created_at": "Mon Jan 12 21:31:25 +0000 2009",
+  "following": false,
+  "id": 18916432,
+  "has_extended_profile": true,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/661312718176182273/Kv8VoqZK_normal.jpg",
+  "screen_name": "SpeakerRyan",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Wed May 04 00:29:03 +0000 2016",
+    "id": 727656248947052544,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 77,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            97,
+            114
+          ],
+          "text": "ConfidentAmerica"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/zbwXh9uFj6",
+          "indices": [
+            73,
+            96
+          ],
+          "expanded_url": "http://spkrryan.us/1VU9BXy",
+          "display_url": "spkrryan.us/1VU9BXy"
+        },
+        {
+          "url": "https://t.co/tDcfPZyeRW",
+          "indices": [
+            115,
+            138
+          ],
+          "expanded_url": "https://amp.twimg.com/v/7072c773-92d9-4cb4-ac8f-4f2b79fde667",
+          "display_url": "amp.twimg.com/v/7072c773-92d\u2026"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "It's going to take optimism &amp; determination to move America forward. https://t.co/zbwXh9uFj6 #ConfidentAmerica\nhttps://t.co/tDcfPZyeRW",
+    "favorite_count": 166,
+    "possibly_sensitive": false,
+    "id_str": "727656248947052544",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "https://t.co/VgAmH7pt35",
+          "indices": [
+            0,
+            23
+          ],
+          "expanded_url": "http://www.speaker.gov",
+          "display_url": "speaker.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/18916432/1452295104",
+  "name": "Paul Ryan",
+  "is_translator": false,
+  "time_zone": "Central Time (US & Canada)",
+  "id_str": "18916432"
+}

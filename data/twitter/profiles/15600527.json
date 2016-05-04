@@ -1,0 +1,89 @@
+{
+  "url": "https://t.co/mFzyexaRq4",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+  "statuses_count": 8376,
+  "is_translation_enabled": false,
+  "location": "Illinois, USA",
+  "favourites_count": 62,
+  "listed_count": 1157,
+  "profile_text_color": "333333",
+  "description": "I represent the 15th Congressional District of Illinois and Chair the @HouseCommerce Environment & Economy Subcommittee.",
+  "followers_count": 14693,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/451465105838833664/CB7M3wqZ_normal.jpeg",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+  "notifications": false,
+  "profile_sidebar_fill_color": "A0C5C7",
+  "utc_offset": -14400,
+  "profile_background_color": "709397",
+  "friends_count": 1067,
+  "profile_link_color": "FF3300",
+  "default_profile": false,
+  "created_at": "Fri Jul 25 17:01:16 +0000 2008",
+  "following": false,
+  "id": 15600527,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/451465105838833664/CB7M3wqZ_normal.jpeg",
+  "screen_name": "RepShimkus",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 11:24:13 +0000 2016",
+    "id": 727458737028403202,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 4,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "Psalm 27:1 the Lord is my light and my salvation; Whom shall I fear? The Lord is the defense of my life; Whom shall I dread?",
+    "favorite_count": 5,
+    "id_str": "727458737028403202",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "https://t.co/mFzyexaRq4",
+          "indices": [
+            0,
+            23
+          ],
+          "expanded_url": "http://shimkus.house.gov",
+          "display_url": "shimkus.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "86A4A6",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/15600527/1420746477",
+  "name": "John Shimkus",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "15600527"
+}

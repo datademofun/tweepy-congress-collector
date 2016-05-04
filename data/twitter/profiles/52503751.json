@@ -1,0 +1,99 @@
+{
+  "url": "http://t.co/eWYX8wFvy7",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/45102523/flag3.JPG",
+  "statuses_count": 2029,
+  "is_translation_enabled": false,
+  "location": "East Tennessee",
+  "favourites_count": 26,
+  "listed_count": 758,
+  "profile_text_color": "333333",
+  "description": "Official Account of Rep. Phil Roe, MD (R-TN). Chair of @EdWorkforce's HELP Subcommittee, member of @HouseVetAffairs & co-chair of @gopdoccaucus.",
+  "followers_count": 9947,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/532903557498810368/vc6FFA05_normal.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/45102523/flag3.JPG",
+  "notifications": false,
+  "profile_sidebar_fill_color": "8F2C1F",
+  "utc_offset": -14400,
+  "profile_background_color": "050D4D",
+  "friends_count": 257,
+  "profile_link_color": "0084B4",
+  "default_profile": false,
+  "created_at": "Tue Jun 30 20:07:34 +0000 2009",
+  "following": false,
+  "id": 52503751,
+  "has_extended_profile": false,
+  "profile_use_background_image": false,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/532903557498810368/vc6FFA05_normal.jpeg",
+  "screen_name": "DrPhilRoe",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Mon May 02 21:48:23 +0000 2016",
+    "id": 727253428813086720,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 0,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            32,
+            48
+          ],
+          "screen_name": "RepJohnDuncanJr",
+          "id": 1883356866,
+          "id_str": "1883356866",
+          "name": "Rep John Duncan Jr."
+        }
+      ]
+    },
+    "text": "My joint town hall meeting with @RepJohnDuncanJr is starting now.",
+    "favorite_count": 1,
+    "id_str": "727253428813086720",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/eWYX8wFvy7",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://www.roe.house.gov",
+          "display_url": "roe.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "FFFFFF",
+  "name": "Dr. Phil Roe",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "52503751"
+}

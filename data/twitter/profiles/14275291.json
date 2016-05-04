@@ -1,0 +1,197 @@
+{
+  "url": "https://t.co/4TcYrpc886",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+  "statuses_count": 20107,
+  "is_translation_enabled": false,
+  "location": "Miami, Florida",
+  "favourites_count": 5,
+  "listed_count": 1699,
+  "profile_text_color": "333333",
+  "description": "Blessed to rep beautiful South Florida and the wonderful folks who live here!",
+  "followers_count": 78386,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/655059413401780225/J74CM5wG_normal.jpg",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+  "notifications": false,
+  "profile_sidebar_fill_color": "A0C5C7",
+  "utc_offset": -14400,
+  "profile_background_color": "709397",
+  "friends_count": 1588,
+  "profile_link_color": "FF3300",
+  "default_profile": false,
+  "created_at": "Tue Apr 01 14:59:30 +0000 2008",
+  "following": false,
+  "id": 14275291,
+  "has_extended_profile": true,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/655059413401780225/J74CM5wG_normal.jpg",
+  "screen_name": "RosLehtinen",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "extended_entities": {
+      "media": [
+        {
+          "indices": [
+            109,
+            132
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/ChkfVZwWkAA_YR9.jpg",
+          "id": 727647267348451328,
+          "expanded_url": "http://twitter.com/RosLehtinen/status/727647280745095172/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 900,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 510,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 1536,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/wiqDb8y3eF",
+          "media_url": "http://pbs.twimg.com/media/ChkfVZwWkAA_YR9.jpg",
+          "url": "https://t.co/wiqDb8y3eF",
+          "type": "photo",
+          "id_str": "727647267348451328"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 23:53:25 +0000 2016",
+    "id": 727647280745095172,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 4,
+    "lang": "es",
+    "retweeted": false,
+    "entities": {
+      "media": [
+        {
+          "indices": [
+            109,
+            132
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/ChkfVZwWkAA_YR9.jpg",
+          "id": 727647267348451328,
+          "expanded_url": "http://twitter.com/RosLehtinen/status/727647280745095172/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 900,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 510,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 1536,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/wiqDb8y3eF",
+          "media_url": "http://pbs.twimg.com/media/ChkfVZwWkAA_YR9.jpg",
+          "url": "https://t.co/wiqDb8y3eF",
+          "type": "photo",
+          "id_str": "727647267348451328"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            100,
+            108
+          ],
+          "text": "Florida"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            8,
+            23
+          ],
+          "screen_name": "RobertoRTejera",
+          "id": 560582467,
+          "id_str": "560582467",
+          "name": "Roberto R. Tejera"
+        },
+        {
+          "indices": [
+            24,
+            36
+          ],
+          "screen_name": "MiraTVMiami",
+          "id": 1532382308,
+          "id_str": "1532382308",
+          "name": "Mira TV"
+        }
+      ]
+    },
+    "text": "Hable c @RobertoRTejera @MiraTVMiami sobre los temas d importancia a nuestra comunidad del Sur d la #Florida https://t.co/wiqDb8y3eF",
+    "favorite_count": 0,
+    "possibly_sensitive": false,
+    "id_str": "727647280745095172",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "https://t.co/4TcYrpc886",
+          "indices": [
+            0,
+            23
+          ],
+          "expanded_url": "http://ros-lehtinen.house.gov",
+          "display_url": "ros-lehtinen.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "86A4A6",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/14275291/1443547245",
+  "name": "Ileana Ros-Lehtinen",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "14275291"
+}

@@ -1,0 +1,183 @@
+{
+  "url": "http://t.co/0Be8EM6qOP",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440965485476081664/qKBZdwjL.jpeg",
+  "statuses_count": 1835,
+  "is_translation_enabled": false,
+  "location": "",
+  "favourites_count": 104,
+  "listed_count": 443,
+  "profile_text_color": "333333",
+  "description": "U. S. Representative, proudly serving North Carolina's 1st Congressional District. Follow my work in Washington and #NC01.",
+  "followers_count": 7126,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/570970632758636544/3TqSV_Aq_normal.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440965485476081664/qKBZdwjL.jpeg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "C0DFEC",
+  "utc_offset": -14400,
+  "profile_background_color": "022330",
+  "friends_count": 372,
+  "profile_link_color": "005FB3",
+  "default_profile": false,
+  "created_at": "Fri Dec 09 17:17:22 +0000 2011",
+  "following": false,
+  "id": 432676344,
+  "has_extended_profile": false,
+  "profile_use_background_image": false,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/570970632758636544/3TqSV_Aq_normal.jpeg",
+  "screen_name": "GKButterfield",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "extended_entities": {
+      "media": [
+        {
+          "indices": [
+            91,
+            114
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/ChkYEdQWEAAwIl3.jpg",
+          "id": 727639279648772096,
+          "expanded_url": "http://twitter.com/GKButterfield/status/727639290860179456/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 394,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 223,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 672,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/qrGl074Hd6",
+          "media_url": "http://pbs.twimg.com/media/ChkYEdQWEAAwIl3.jpg",
+          "url": "https://t.co/qrGl074Hd6",
+          "type": "photo",
+          "id_str": "727639279648772096"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 23:21:40 +0000 2016",
+    "id": 727639290860179456,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 1,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "media": [
+        {
+          "indices": [
+            91,
+            114
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/ChkYEdQWEAAwIl3.jpg",
+          "id": 727639279648772096,
+          "expanded_url": "http://twitter.com/GKButterfield/status/727639290860179456/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 394,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 223,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 672,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/qrGl074Hd6",
+          "media_url": "http://pbs.twimg.com/media/ChkYEdQWEAAwIl3.jpg",
+          "url": "https://t.co/qrGl074Hd6",
+          "type": "photo",
+          "id_str": "727639279648772096"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            66,
+            81
+          ],
+          "text": "JobsandJustice"
+        },
+        {
+          "indices": [
+            84,
+            90
+          ],
+          "text": "GKBNC"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "\"My fight over the past 12 years has been focused on fighting for #JobsandJustice.\" #GKBNC https://t.co/qrGl074Hd6",
+    "favorite_count": 1,
+    "possibly_sensitive": false,
+    "id_str": "727639290860179456",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/0Be8EM6qOP",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://www.facebook.com/CongressmanGKButterfield",
+          "display_url": "facebook.com/CongressmanGKB\u2026"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/432676344/1460487540",
+  "name": "G. K. Butterfield",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "432676344"
+}

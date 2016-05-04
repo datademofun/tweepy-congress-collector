@@ -1,0 +1,233 @@
+{
+  "url": "http://t.co/ieY22ZPpR2",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/197332914/niki-twitter-background.jpg",
+  "statuses_count": 4585,
+  "is_translation_enabled": false,
+  "location": "",
+  "favourites_count": 263,
+  "listed_count": 622,
+  "profile_text_color": "333333",
+  "description": "Proudly representing the families of the Massachusetts 3rd District.\r\n\r\nMore info at: http://t.co/mp6QlRchln",
+  "followers_count": 10203,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/718416556284317696/W9Wn-T8b_normal.jpg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/197332914/niki-twitter-background.jpg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -14400,
+  "profile_background_color": "C0DEED",
+  "friends_count": 1477,
+  "profile_link_color": "0084B4",
+  "default_profile": false,
+  "created_at": "Tue Jan 25 20:57:25 +0000 2011",
+  "following": false,
+  "id": 242892689,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/718416556284317696/W9Wn-T8b_normal.jpg",
+  "screen_name": "nikiinthehouse",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "extended_entities": {
+      "media": [
+        {
+          "indices": [
+            115,
+            138
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/CheplePW0AMWhvy.jpg",
+          "id": 727236326081351683,
+          "expanded_url": "http://twitter.com/nikiinthehouse/status/727236331844304897/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 400,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 227,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 683,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/rXdGITS1UN",
+          "media_url": "http://pbs.twimg.com/media/CheplePW0AMWhvy.jpg",
+          "url": "https://t.co/rXdGITS1UN",
+          "type": "photo",
+          "id_str": "727236326081351683"
+        },
+        {
+          "indices": [
+            115,
+            138
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/CheplppXEAAyrxu.jpg",
+          "id": 727236329143209984,
+          "expanded_url": "http://twitter.com/nikiinthehouse/status/727236331844304897/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 400,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 227,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 683,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/rXdGITS1UN",
+          "media_url": "http://pbs.twimg.com/media/CheplppXEAAyrxu.jpg",
+          "url": "https://t.co/rXdGITS1UN",
+          "type": "photo",
+          "id_str": "727236329143209984"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Mon May 02 20:40:27 +0000 2016",
+    "id": 727236331844304897,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 3,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "media": [
+        {
+          "indices": [
+            115,
+            138
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/CheplePW0AMWhvy.jpg",
+          "id": 727236326081351683,
+          "expanded_url": "http://twitter.com/nikiinthehouse/status/727236331844304897/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 400,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 227,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 683,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/rXdGITS1UN",
+          "media_url": "http://pbs.twimg.com/media/CheplePW0AMWhvy.jpg",
+          "url": "https://t.co/rXdGITS1UN",
+          "type": "photo",
+          "id_str": "727236326081351683"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            11,
+            37
+          ],
+          "text": "nationalsmallbusinessweek"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            38,
+            52
+          ],
+          "screen_name": "Official_GLTS",
+          "id": 2831845055,
+          "id_str": "2831845055",
+          "name": "Official_GLTS"
+        }
+      ]
+    },
+    "text": "Kicked off #nationalsmallbusinessweek @Official_GLTS to highlight how education is critical for manufacturing jobs https://t.co/rXdGITS1UN",
+    "favorite_count": 2,
+    "possibly_sensitive": false,
+    "id_str": "727236331844304897",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/ieY22ZPpR2",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://facebook.com/reptsongas",
+          "display_url": "facebook.com/reptsongas"
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+        {
+          "url": "http://t.co/mp6QlRchln",
+          "indices": [
+            86,
+            108
+          ],
+          "expanded_url": "http://www.tsongas.house.gov",
+          "display_url": "tsongas.house.gov"
+        }
+      ]
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/242892689/1439215656",
+  "name": "Niki Tsongas",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "242892689"
+}

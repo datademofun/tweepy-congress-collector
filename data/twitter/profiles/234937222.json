@@ -1,0 +1,168 @@
+{
+  "url": "http://t.co/aBSHGM8nMB",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "statuses_count": 1567,
+  "is_translation_enabled": false,
+  "location": "Kinderhook, NY",
+  "favourites_count": 16,
+  "listed_count": 618,
+  "profile_text_color": "333333",
+  "description": "Congressman for New York's 19th Congressional District, Army Veteran, Member of the House Agriculture and Armed Services Committees",
+  "followers_count": 9263,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/3110292088/11d68f75b310cd26c4b84ec750503acd_normal.jpeg",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -14400,
+  "profile_background_color": "C0DEED",
+  "friends_count": 200,
+  "profile_link_color": "0084B4",
+  "default_profile": true,
+  "created_at": "Thu Jan 06 23:23:12 +0000 2011",
+  "following": false,
+  "id": 234937222,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/3110292088/11d68f75b310cd26c4b84ec750503acd_normal.jpeg",
+  "screen_name": "RepChrisGibson",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "extended_entities": {
+      "media": [
+        {
+          "indices": [
+            113,
+            136
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/Chec5stU4AAaNmr.jpg",
+          "id": 727222379911372800,
+          "expanded_url": "http://twitter.com/RepChrisGibson/status/727222381941514241/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 471,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 267,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 803,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/Z3wiKuT86P",
+          "media_url": "http://pbs.twimg.com/media/Chec5stU4AAaNmr.jpg",
+          "url": "https://t.co/Z3wiKuT86P",
+          "type": "photo",
+          "id_str": "727222379911372800"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Mon May 02 19:45:01 +0000 2016",
+    "id": 727222381941514241,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 1,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "media": [
+        {
+          "indices": [
+            113,
+            136
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/Chec5stU4AAaNmr.jpg",
+          "id": 727222379911372800,
+          "expanded_url": "http://twitter.com/RepChrisGibson/status/727222381941514241/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 471,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 267,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 803,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/Z3wiKuT86P",
+          "media_url": "http://pbs.twimg.com/media/Chec5stU4AAaNmr.jpg",
+          "url": "https://t.co/Z3wiKuT86P",
+          "type": "photo",
+          "id_str": "727222379911372800"
+        }
+      ],
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "Proud to help present an SBA Excellence Award to my friend Mike Taylor today, owner of Creative Sports Concepts. https://t.co/Z3wiKuT86P",
+    "favorite_count": 7,
+    "possibly_sensitive": false,
+    "id_str": "727222381941514241",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/aBSHGM8nMB",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://gibson.house.gov",
+          "display_url": "gibson.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/234937222/1357936071",
+  "name": "Chris Gibson",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "234937222"
+}

@@ -1,0 +1,100 @@
+{
+  "url": "http://t.co/y7Az2e8y",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "statuses_count": 721,
+  "is_translation_enabled": false,
+  "location": "",
+  "favourites_count": 0,
+  "listed_count": 406,
+  "profile_text_color": "333333",
+  "description": "Representing #NJ05.  Fighting for the Constitution, to control spending, and expand liberty and opportunity.",
+  "followers_count": 5254,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/642426670390099968/o_Xm-Zil_normal.jpg",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -14400,
+  "profile_background_color": "C0DEED",
+  "friends_count": 197,
+  "profile_link_color": "0084B4",
+  "default_profile": true,
+  "created_at": "Tue Nov 20 15:44:58 +0000 2012",
+  "following": false,
+  "id": 960696949,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/642426670390099968/o_Xm-Zil_normal.jpg",
+  "screen_name": "RepGarrett",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Fri Apr 29 19:08:19 +0000 2016",
+    "id": 726125981912674305,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 1,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/XGWF6o8ABn",
+          "indices": [
+            111,
+            134
+          ],
+          "expanded_url": "http://bit.ly/1YWt9IV",
+          "display_url": "bit.ly/1YWt9IV"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "Thanks to my Cap Hill interns Kate, Nick, Jill, Joe, Sean, Abby, and Emma for helping my office run smoothly!  https://t.co/XGWF6o8ABn",
+    "favorite_count": 1,
+    "possibly_sensitive": false,
+    "id_str": "726125981912674305",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/y7Az2e8y",
+          "indices": [
+            0,
+            20
+          ],
+          "expanded_url": "http://garrett.house.gov/",
+          "display_url": "garrett.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/960696949/1442524244",
+  "name": "Scott Garrett",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "960696949"
+}

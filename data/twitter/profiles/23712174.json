@@ -1,0 +1,190 @@
+{
+  "url": "http://t.co/aOKyO7wSYD",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/788238158/e0dc4f33f92c360d1fa771233081f825.png",
+  "statuses_count": 2727,
+  "is_translation_enabled": false,
+  "location": "Pearl, Mississippi",
+  "favourites_count": 444,
+  "listed_count": 823,
+  "profile_text_color": "000000",
+  "description": "Devoted husband. Loving father. Principled conservative.",
+  "followers_count": 12877,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/562659333029130242/RHnhESLg_normal.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/788238158/e0dc4f33f92c360d1fa771233081f825.png",
+  "notifications": false,
+  "profile_sidebar_fill_color": "FFFFFF",
+  "utc_offset": -14400,
+  "profile_background_color": "FFFFFF",
+  "friends_count": 456,
+  "profile_link_color": "666666",
+  "default_profile": false,
+  "created_at": "Wed Mar 11 03:02:52 +0000 2009",
+  "following": false,
+  "id": 23712174,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/562659333029130242/RHnhESLg_normal.jpeg",
+  "screen_name": "GreggHarper",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "extended_entities": {
+      "media": [
+        {
+          "indices": [
+            104,
+            127
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/Chj_4aEXEAAf61N.jpg",
+          "id": 727612684355702784,
+          "expanded_url": "http://twitter.com/GreggHarper/status/727612686847119362/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 171,
+              "w": 294,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 171,
+              "w": 294,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 171,
+              "w": 294,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/pi7t1IFLxU",
+          "media_url": "http://pbs.twimg.com/media/Chj_4aEXEAAf61N.jpg",
+          "url": "https://t.co/pi7t1IFLxU",
+          "type": "photo",
+          "id_str": "727612684355702784"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 21:35:57 +0000 2016",
+    "id": 727612686847119362,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 6,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "media": [
+        {
+          "indices": [
+            104,
+            127
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/Chj_4aEXEAAf61N.jpg",
+          "id": 727612684355702784,
+          "expanded_url": "http://twitter.com/GreggHarper/status/727612686847119362/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 171,
+              "w": 294,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 171,
+              "w": 294,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 171,
+              "w": 294,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/pi7t1IFLxU",
+          "media_url": "http://pbs.twimg.com/media/Chj_4aEXEAAf61N.jpg",
+          "url": "https://t.co/pi7t1IFLxU",
+          "type": "photo",
+          "id_str": "727612684355702784"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            5,
+            29
+          ],
+          "text": "TeacherAppreciationWeek"
+        },
+        {
+          "indices": [
+            55,
+            69
+          ],
+          "text": "ThankATeacher"
+        },
+        {
+          "indices": [
+            90,
+            102
+          ],
+          "text": "Mississippi"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "It's #TeacherAppreciationWeek. Please take the time to #ThankATeacher for all they do for #Mississippi. https://t.co/pi7t1IFLxU",
+    "favorite_count": 5,
+    "possibly_sensitive": false,
+    "id_str": "727612686847119362",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/aOKyO7wSYD",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://www.harper.house.gov",
+          "display_url": "harper.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "000000",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/23712174/1390050461",
+  "name": "Gregg Harper",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "23712174"
+}

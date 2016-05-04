@@ -1,0 +1,186 @@
+{
+  "url": "http://t.co/AUFMDc1ZOx",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "statuses_count": 3725,
+  "is_translation_enabled": false,
+  "location": "Vernon, CT",
+  "favourites_count": 78,
+  "listed_count": 746,
+  "profile_text_color": "333333",
+  "description": "U.S. Congressman proudly fighting for the residents of Connecticut\u2019s 2nd Congressional District. https://t.co/qNiLbsYBdJ",
+  "followers_count": 11765,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1417794144/New_Boston_Beef--North_Groves___35__normal.jpg",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -14400,
+  "profile_background_color": "C0DEED",
+  "friends_count": 1896,
+  "profile_link_color": "0084B4",
+  "default_profile": true,
+  "created_at": "Mon Oct 26 19:45:09 +0000 2009",
+  "following": false,
+  "id": 85396297,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1417794144/New_Boston_Beef--North_Groves___35__normal.jpg",
+  "screen_name": "RepJoeCourtney",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "extended_entities": {
+      "media": [
+        {
+          "indices": [
+            105,
+            128
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/ChjrlNDUoAAH0tX.jpg",
+          "id": 727590364211617792,
+          "expanded_url": "http://twitter.com/RepJoeCourtney/status/727590380124950528/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 600,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 340,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 640,
+              "w": 640,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/MGmcrHSixP",
+          "media_url": "http://pbs.twimg.com/media/ChjrlNDUoAAH0tX.jpg",
+          "url": "https://t.co/MGmcrHSixP",
+          "type": "photo",
+          "id_str": "727590364211617792"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 20:07:19 +0000 2016",
+    "id": 727590380124950528,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 0,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "media": [
+        {
+          "indices": [
+            105,
+            128
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/ChjrlNDUoAAH0tX.jpg",
+          "id": 727590364211617792,
+          "expanded_url": "http://twitter.com/RepJoeCourtney/status/727590380124950528/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 600,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 340,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 640,
+              "w": 640,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/MGmcrHSixP",
+          "media_url": "http://pbs.twimg.com/media/ChjrlNDUoAAH0tX.jpg",
+          "url": "https://t.co/MGmcrHSixP",
+          "type": "photo",
+          "id_str": "727590364211617792"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            86,
+            104
+          ],
+          "text": "SmallBusinessWeek"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "Touring Thompson Stone with NE Chamber President Rachel Johnston earlier to celebrate #SmallBusinessWeek https://t.co/MGmcrHSixP",
+    "favorite_count": 2,
+    "possibly_sensitive": false,
+    "id_str": "727590380124950528",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/AUFMDc1ZOx",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://courtney.house.gov",
+          "display_url": "courtney.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+        {
+          "url": "https://t.co/qNiLbsYBdJ",
+          "indices": [
+            97,
+            120
+          ],
+          "expanded_url": "https://www.facebook.com/joecourtney",
+          "display_url": "facebook.com/joecourtney"
+        }
+      ]
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/85396297/1457387068",
+  "name": "Rep. Joe Courtney",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "85396297"
+}

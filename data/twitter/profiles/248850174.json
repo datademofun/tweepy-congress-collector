@@ -1,0 +1,186 @@
+{
+  "url": "http://t.co/bQHkoA5zCp",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/812243021/58b38320e6d22afae6642780625e7131.png",
+  "statuses_count": 3441,
+  "is_translation_enabled": false,
+  "location": "",
+  "favourites_count": 4,
+  "listed_count": 575,
+  "profile_text_color": "333333",
+  "description": "Proudly representing Pennsylvania's 7th District in the U.S. House of Representatives",
+  "followers_count": 9355,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1388714447/MPF11_031_506_normal.jpg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/812243021/58b38320e6d22afae6642780625e7131.png",
+  "notifications": false,
+  "profile_sidebar_fill_color": "EFEFEF",
+  "utc_offset": -14400,
+  "profile_background_color": "131516",
+  "friends_count": 960,
+  "profile_link_color": "009999",
+  "default_profile": false,
+  "created_at": "Mon Feb 07 21:19:34 +0000 2011",
+  "following": false,
+  "id": 248850174,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1388714447/MPF11_031_506_normal.jpg",
+  "screen_name": "RepMeehan",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "extended_entities": {
+      "media": [
+        {
+          "indices": [
+            114,
+            137
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/Chi9sbyU8AAHsrJ.jpg",
+          "id": 727539910891073536,
+          "expanded_url": "http://twitter.com/RepMeehan/status/727540097344790528/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 338,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 192,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 577,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/dKeiUxn20Y",
+          "media_url": "http://pbs.twimg.com/media/Chi9sbyU8AAHsrJ.jpg",
+          "url": "https://t.co/dKeiUxn20Y",
+          "type": "photo",
+          "id_str": "727539910891073536"
+        }
+      ]
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 16:47:30 +0000 2016",
+    "id": 727540097344790528,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 2,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "media": [
+        {
+          "indices": [
+            114,
+            137
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/Chi9sbyU8AAHsrJ.jpg",
+          "id": 727539910891073536,
+          "expanded_url": "http://twitter.com/RepMeehan/status/727540097344790528/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 338,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 192,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 577,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/dKeiUxn20Y",
+          "media_url": "http://pbs.twimg.com/media/Chi9sbyU8AAHsrJ.jpg",
+          "url": "https://t.co/dKeiUxn20Y",
+          "type": "photo",
+          "id_str": "727539910891073536"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            42,
+            46
+          ],
+          "text": "PA7"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Y2OxPoHgVg",
+          "indices": [
+            90,
+            113
+          ],
+          "expanded_url": "http://www.usnews.com/education/best-high-schools/pennsylvania/rankings?int=c0b4c1",
+          "display_url": "usnews.com/education/best\u2026"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "Congratulations to the 19 high schools in #PA7 recognized as among the best schools in PA https://t.co/Y2OxPoHgVg https://t.co/dKeiUxn20Y",
+    "favorite_count": 4,
+    "possibly_sensitive": false,
+    "id_str": "727540097344790528",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/bQHkoA5zCp",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://meehan.house.gov",
+          "display_url": "meehan.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/248850174/1366313952",
+  "name": "Patrick Meehan",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "248850174"
+}

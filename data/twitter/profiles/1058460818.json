@@ -1,0 +1,100 @@
+{
+  "url": "http://t.co/zH2CxxmUzu",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000173386628/HpkQzjQK.jpeg",
+  "statuses_count": 607,
+  "is_translation_enabled": false,
+  "location": "",
+  "favourites_count": 19,
+  "listed_count": 371,
+  "profile_text_color": "333333",
+  "description": "Official Twitter account for Congressman George Holding, representing North Carolina's 13th Congressional District.",
+  "followers_count": 5605,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/3150091370/d56a137e58b7041e23d74c676f4d5c39_normal.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000173386628/HpkQzjQK.jpeg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -14400,
+  "profile_background_color": "09073D",
+  "friends_count": 259,
+  "profile_link_color": "0D0B57",
+  "default_profile": false,
+  "created_at": "Thu Jan 03 18:27:36 +0000 2013",
+  "following": false,
+  "id": 1058460818,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/3150091370/d56a137e58b7041e23d74c676f4d5c39_normal.jpeg",
+  "screen_name": "RepHolding",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Wed Mar 30 16:03:33 +0000 2016",
+    "id": 715207849366982658,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 0,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/ANeqs5aXrx",
+          "indices": [
+            115,
+            138
+          ],
+          "expanded_url": "http://facebook.com/CongressmanGeorgeHolding/posts/975701465853871",
+          "display_url": "facebook.com/CongressmanGeo\u2026"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "If you or a student you know is interested in submitting artwork to this year's Congressional Art Competition -... https://t.co/ANeqs5aXrx",
+    "favorite_count": 1,
+    "possibly_sensitive": false,
+    "id_str": "715207849366982658",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/zH2CxxmUzu",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://holding.house.gov",
+          "display_url": "holding.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1058460818/1406908408",
+  "name": "George Holding",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "1058460818"
+}

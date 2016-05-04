@@ -1,0 +1,107 @@
+{
+  "url": "https://t.co/5P50HzPLoB",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/693190798284750848/Dzn7oBzW.png",
+  "statuses_count": 2036,
+  "is_translation_enabled": false,
+  "location": "Washington, D.C.",
+  "favourites_count": 140,
+  "listed_count": 1075,
+  "profile_text_color": "25378F",
+  "description": "U.S. Senator from Washington State | Tweets from Maria are signed \u2013MC | Facebook:https://t.co/qLmMk10nJI",
+  "followers_count": 21498,
+  "profile_background_tile": true,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/693192439046103041/I5UrYsCi_normal.jpg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/693190798284750848/Dzn7oBzW.png",
+  "notifications": false,
+  "profile_sidebar_fill_color": "FFFFFF",
+  "utc_offset": -14400,
+  "profile_background_color": "B8B6B6",
+  "friends_count": 1434,
+  "profile_link_color": "4A913C",
+  "default_profile": false,
+  "created_at": "Thu Feb 25 19:21:52 +0000 2010",
+  "following": false,
+  "id": 117501995,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/693192439046103041/I5UrYsCi_normal.jpg",
+  "screen_name": "SenatorCantwell",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 23:00:13 +0000 2016",
+    "id": 727633891859697664,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 4,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            124,
+            138
+          ],
+          "text": "DreamSmallBiz"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "Thx to equal treatment in access to gov. contracts, today more women are growing their small businesses &amp; creating jobs #DreamSmallBiz",
+    "favorite_count": 4,
+    "id_str": "727633891859697664",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "https://t.co/5P50HzPLoB",
+          "indices": [
+            0,
+            23
+          ],
+          "expanded_url": "http://www.cantwell.senate.gov",
+          "display_url": "cantwell.senate.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+        {
+          "url": "https://t.co/qLmMk10nJI",
+          "indices": [
+            81,
+            104
+          ],
+          "expanded_url": "http://facebook.com/senatorcantwell",
+          "display_url": "facebook.com/senatorcantwell"
+        }
+      ]
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "25377E",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/117501995/1454104913",
+  "name": "Sen. Maria Cantwell",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "117501995"
+}

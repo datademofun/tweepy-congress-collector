@@ -1,0 +1,109 @@
+{
+  "url": "http://t.co/UXBZB1hRh5",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/344918034408607175/4c500e597e2384db187aaced721b1a63.jpeg",
+  "statuses_count": 584,
+  "is_translation_enabled": false,
+  "location": "Philly - Delco - DC",
+  "favourites_count": 11,
+  "listed_count": 643,
+  "profile_text_color": "333333",
+  "description": "Proudly representing Pennsylvania's 1st District in House of Representatives.  Born & Raised in Philadelphia.  Fighting for Equality and Democracy.",
+  "followers_count": 7644,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/933274859/New_Image_normal.JPG",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/344918034408607175/4c500e597e2384db187aaced721b1a63.jpeg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -14400,
+  "profile_background_color": "C0DEED",
+  "friends_count": 687,
+  "profile_link_color": "0084B4",
+  "default_profile": false,
+  "created_at": "Wed May 26 18:53:52 +0000 2010",
+  "following": false,
+  "id": 148453195,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/933274859/New_Image_normal.JPG",
+  "screen_name": "RepBrady",
+  "verified": false,
+  "geo_enabled": false,
+  "status": {
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Thu Apr 14 20:16:46 +0000 2016",
+    "id": 720707390186909696,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 1,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            48,
+            64
+          ],
+          "screen_name": "USSHARRYSTRUMAN",
+          "id": 52593821,
+          "id_str": "52593821",
+          "name": "USS Harry S. Truman"
+        },
+        {
+          "indices": [
+            108,
+            124
+          ],
+          "screen_name": "aircraftcarrier",
+          "id": 1129443330,
+          "id_str": "1129443330",
+          "name": "Aircraft Carriers"
+        }
+      ]
+    },
+    "text": "Thank you to the brave men and women aboard the @USSHARRYSTRUMAN.  Our nation is grateful for your service. @aircraftcarrier",
+    "favorite_count": 2,
+    "id_str": "720707390186909696",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/UXBZB1hRh5",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://www.brady.house.gov",
+          "display_url": "brady.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "FFFFFF",
+  "name": "Bob Brady",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "148453195"
+}

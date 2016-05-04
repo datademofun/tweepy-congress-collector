@@ -1,0 +1,102 @@
+{
+  "url": "http://t.co/WOZuxf3k21",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/779665432/53eec9a6ff66dad5d85aba3e591c82e5.jpeg",
+  "statuses_count": 2486,
+  "is_translation_enabled": false,
+  "location": "Irvine, CA",
+  "favourites_count": 417,
+  "listed_count": 284,
+  "profile_text_color": "0084B4",
+  "description": "Wife, mother of 4 awesome children, and U.S. Congresswoman proudly serving #CA45.",
+  "followers_count": 4828,
+  "profile_background_tile": true,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/568467816089546752/n3BHuNVi_normal.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/779665432/53eec9a6ff66dad5d85aba3e591c82e5.jpeg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "09A8F2",
+  "utc_offset": -25200,
+  "profile_background_color": "2131E8",
+  "friends_count": 886,
+  "profile_link_color": "5565B5",
+  "default_profile": false,
+  "created_at": "Wed Jun 17 00:59:59 +0000 2009",
+  "following": false,
+  "id": 47798449,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/568467816089546752/n3BHuNVi_normal.jpeg",
+  "screen_name": "RepMimiWalters",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "quoted_status_id_str": "727666580344156161",
+    "quoted_status_id": 727666580344156161,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Wed May 04 02:22:36 +0000 2016",
+    "id": 727684822714318848,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 2,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/OapT5SRLmW",
+          "indices": [
+            23,
+            46
+          ],
+          "expanded_url": "https://twitter.com/califesciences/status/727666580344156161",
+          "display_url": "twitter.com/califesciences\u2026"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "Thanks for having me!  https://t.co/OapT5SRLmW",
+    "favorite_count": 5,
+    "possibly_sensitive": false,
+    "id_str": "727684822714318848",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/WOZuxf3k21",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://walters.house.gov",
+          "display_url": "walters.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "BDDCAD",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/47798449/1425048659",
+  "name": "Mimi Walters",
+  "is_translator": false,
+  "time_zone": "Pacific Time (US & Canada)",
+  "id_str": "47798449"
+}

@@ -1,0 +1,100 @@
+{
+  "url": "http://t.co/16udr7zv3r",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/862041835/be48c838464ad1d0ab01e510a0e4e4cb.jpeg",
+  "statuses_count": 780,
+  "is_translation_enabled": false,
+  "location": "Third District of Texas",
+  "favourites_count": 10,
+  "listed_count": 475,
+  "profile_text_color": "333333",
+  "description": "Faithfully serving the Third Congressional District of Texas.",
+  "followers_count": 4632,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1238704702/CSJ41303WylieRallyCsjCloser_normal.jpg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/862041835/be48c838464ad1d0ab01e510a0e4e4cb.jpeg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -14400,
+  "profile_background_color": "D51507",
+  "friends_count": 439,
+  "profile_link_color": "0B1291",
+  "default_profile": false,
+  "created_at": "Tue Feb 08 19:01:18 +0000 2011",
+  "following": false,
+  "id": 249288197,
+  "has_extended_profile": false,
+  "profile_use_background_image": false,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1238704702/CSJ41303WylieRallyCsjCloser_normal.jpg",
+  "screen_name": "SamsPressShop",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue Apr 19 19:15:43 +0000 2016",
+    "id": 722503963472490496,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 1,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/meSWsaJDcM",
+          "indices": [
+            115,
+            138
+          ],
+          "expanded_url": "http://samjohnson.house.gov/constituentservices/artcontest.htm",
+          "display_url": "samjohnson.house.gov/constituentser\u2026"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "RSVP NOW to attend Monday's (4/25) Art Exhibit &amp; Award Ceremony to recognize our talented high school artists  https://t.co/meSWsaJDcM",
+    "favorite_count": 2,
+    "possibly_sensitive": false,
+    "id_str": "722503963472490496",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/16udr7zv3r",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://samjohnson.house.gov",
+          "display_url": "samjohnson.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "000000",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/249288197/1412864117",
+  "name": "Sam Johnson",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "249288197"
+}

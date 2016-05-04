@@ -1,0 +1,115 @@
+{
+  "url": "http://t.co/HjFeeD3BBe",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/270638612/YouTube_SideBar.jpg",
+  "statuses_count": 3580,
+  "is_translation_enabled": false,
+  "location": "",
+  "favourites_count": 64,
+  "listed_count": 709,
+  "profile_text_color": "333333",
+  "description": "U.S. Congressman representing KS-04. West Point. General Aviation. Manufacturing. Energy. Free markets. My staff helps me on Twitter. RTs aren't endorsements.",
+  "followers_count": 11423,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/711918837323718656/dRKZQ5Ni_normal.jpg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/270638612/YouTube_SideBar.jpg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "EFEFEF",
+  "utc_offset": -14400,
+  "profile_background_color": "131516",
+  "friends_count": 1532,
+  "profile_link_color": "009999",
+  "default_profile": false,
+  "created_at": "Fri Jan 28 22:54:50 +0000 2011",
+  "following": false,
+  "id": 244268646,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/711918837323718656/dRKZQ5Ni_normal.jpg",
+  "screen_name": "RepMikePompeo",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 21:51:05 +0000 2016",
+    "id": 727616493681258496,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 2,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            15,
+            20
+          ],
+          "text": "hero"
+        },
+        {
+          "indices": [
+            38,
+            43
+          ],
+          "text": "ISIS"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/9XE8PLAFe6",
+          "indices": [
+            105,
+            128
+          ],
+          "expanded_url": "http://www.cnn.com/2016/05/03/politics/us-service-member-killed-iraq-mosul/",
+          "display_url": "cnn.com/2016/05/03/pol\u2026"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "America lost a #hero in fight against #ISIS. We must never forget those who fight for our freedoms. RIP. https://t.co/9XE8PLAFe6",
+    "favorite_count": 8,
+    "possibly_sensitive": false,
+    "id_str": "727616493681258496",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/HjFeeD3BBe",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://pompeo.house.gov",
+          "display_url": "pompeo.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "EEEEEE",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/244268646/1456781635",
+  "name": "Mike Pompeo",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "244268646"
+}

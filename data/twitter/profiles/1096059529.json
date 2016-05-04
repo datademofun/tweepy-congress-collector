@@ -1,0 +1,352 @@
+{
+  "url": "http://t.co/EnaXWE63",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/766172933/f414280361396ecd9efe1f6847fb0024.jpeg",
+  "statuses_count": 420,
+  "is_translation_enabled": false,
+  "location": "Boise & Washington, D.C.",
+  "favourites_count": 60,
+  "listed_count": 745,
+  "profile_text_color": "333333",
+  "description": "United States Senator Jim Risch (R-ID)",
+  "followers_count": 12989,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/3161364149/32f2f83385840438a393070a7e426bde_normal.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/766172933/f414280361396ecd9efe1f6847fb0024.jpeg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -14400,
+  "profile_background_color": "1717EB",
+  "friends_count": 48,
+  "profile_link_color": "C71414",
+  "default_profile": false,
+  "created_at": "Wed Jan 16 18:58:23 +0000 2013",
+  "following": false,
+  "id": 1096059529,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/3161364149/32f2f83385840438a393070a7e426bde_normal.jpeg",
+  "screen_name": "SenatorRisch",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "extended_entities": {
+      "media": [
+        {
+          "url": "https://t.co/SmuVxM4u8X",
+          "media_url_https": "https://pbs.twimg.com/media/ChD7QDrXEAAonlQ.jpg",
+          "id": 725355793290301440,
+          "display_url": "pic.twitter.com/SmuVxM4u8X",
+          "source_user_id": 56401482,
+          "source_status_id": 725355794745667584,
+          "type": "photo",
+          "indices": [
+            122,
+            140
+          ],
+          "expanded_url": "http://twitter.com/ACUConservative/status/725355794745667584/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 400,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 227,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 683,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "media_url": "http://pbs.twimg.com/media/ChD7QDrXEAAonlQ.jpg",
+          "source_user_id_str": "56401482",
+          "source_status_id_str": "725355794745667584",
+          "id_str": "725355793290301440"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Wed Apr 27 16:27:27 +0000 2016",
+    "id": 725360722687971330,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 1,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "media": [
+        {
+          "url": "https://t.co/SmuVxM4u8X",
+          "media_url_https": "https://pbs.twimg.com/media/ChD7QDrXEAAonlQ.jpg",
+          "id": 725355793290301440,
+          "display_url": "pic.twitter.com/SmuVxM4u8X",
+          "source_user_id": 56401482,
+          "source_status_id": 725355794745667584,
+          "type": "photo",
+          "indices": [
+            122,
+            140
+          ],
+          "expanded_url": "http://twitter.com/ACUConservative/status/725355794745667584/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 400,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 227,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 683,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "media_url": "http://pbs.twimg.com/media/ChD7QDrXEAAonlQ.jpg",
+          "source_user_id_str": "56401482",
+          "source_status_id_str": "725355794745667584",
+          "id_str": "725355793290301440"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            110,
+            121
+          ],
+          "text": "ACURatings"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            19
+          ],
+          "screen_name": "ACUConservative",
+          "id": 56401482,
+          "id_str": "56401482",
+          "name": "The ACU"
+        },
+        {
+          "indices": [
+            30,
+            39
+          ],
+          "screen_name": "mschlapp",
+          "id": 138809881,
+          "id_str": "138809881",
+          "name": "Matt Schlapp"
+        },
+        {
+          "indices": [
+            47,
+            60
+          ],
+          "screen_name": "SenatorRisch",
+          "id": 1096059529,
+          "id_str": "1096059529",
+          "name": "Senator Jim Risch"
+        }
+      ]
+    },
+    "text": "RT @ACUConservative: Chairman @mschlapp awards @SenatorRisch with the 2015 Award for\nConservative Excellence. #ACURatings https://t.co/SmuV\u2026",
+    "favorite_count": 0,
+    "possibly_sensitive": false,
+    "id_str": "725360722687971330",
+    "retweeted_status": {
+      "extended_entities": {
+        "media": [
+          {
+            "indices": [
+              101,
+              124
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/ChD7QDrXEAAonlQ.jpg",
+            "id": 725355793290301440,
+            "expanded_url": "http://twitter.com/ACUConservative/status/725355794745667584/photo/1",
+            "sizes": {
+              "medium": {
+                "h": 400,
+                "w": 600,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 227,
+                "w": 340,
+                "resize": "fit"
+              },
+              "large": {
+                "h": 683,
+                "w": 1024,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "display_url": "pic.twitter.com/SmuVxM4u8X",
+            "media_url": "http://pbs.twimg.com/media/ChD7QDrXEAAonlQ.jpg",
+            "url": "https://t.co/SmuVxM4u8X",
+            "type": "photo",
+            "id_str": "725355793290301440"
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "place": null,
+      "in_reply_to_user_id": null,
+      "coordinates": null,
+      "truncated": false,
+      "in_reply_to_status_id_str": null,
+      "created_at": "Wed Apr 27 16:07:52 +0000 2016",
+      "id": 725355794745667584,
+      "favorited": false,
+      "geo": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_screen_name": null,
+      "retweet_count": 1,
+      "lang": "en",
+      "retweeted": false,
+      "entities": {
+        "media": [
+          {
+            "indices": [
+              101,
+              124
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/ChD7QDrXEAAonlQ.jpg",
+            "id": 725355793290301440,
+            "expanded_url": "http://twitter.com/ACUConservative/status/725355794745667584/photo/1",
+            "sizes": {
+              "medium": {
+                "h": 400,
+                "w": 600,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 227,
+                "w": 340,
+                "resize": "fit"
+              },
+              "large": {
+                "h": 683,
+                "w": 1024,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "display_url": "pic.twitter.com/SmuVxM4u8X",
+            "media_url": "http://pbs.twimg.com/media/ChD7QDrXEAAonlQ.jpg",
+            "url": "https://t.co/SmuVxM4u8X",
+            "type": "photo",
+            "id_str": "725355793290301440"
+          }
+        ],
+        "hashtags": [
+          {
+            "indices": [
+              89,
+              100
+            ],
+            "text": "ACURatings"
+          }
+        ],
+        "urls": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "indices": [
+              9,
+              18
+            ],
+            "screen_name": "mschlapp",
+            "id": 138809881,
+            "id_str": "138809881",
+            "name": "Matt Schlapp"
+          },
+          {
+            "indices": [
+              26,
+              39
+            ],
+            "screen_name": "SenatorRisch",
+            "id": 1096059529,
+            "id_str": "1096059529",
+            "name": "Senator Jim Risch"
+          }
+        ]
+      },
+      "text": "Chairman @mschlapp awards @SenatorRisch with the 2015 Award for\nConservative Excellence. #ACURatings https://t.co/SmuVxM4u8X",
+      "favorite_count": 4,
+      "possibly_sensitive": false,
+      "id_str": "725355794745667584",
+      "contributors": null
+    },
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/EnaXWE63",
+          "indices": [
+            0,
+            20
+          ],
+          "expanded_url": "http://risch.senate.gov",
+          "display_url": "risch.senate.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1096059529/1398779325",
+  "name": "Senator Jim Risch",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "1096059529"
+}

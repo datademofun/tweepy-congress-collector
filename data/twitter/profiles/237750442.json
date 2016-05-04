@@ -1,0 +1,208 @@
+{
+  "url": "https://t.co/xxw0sSvOkt",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/436929364375003136/Qcxt17wl.jpeg",
+  "statuses_count": 2263,
+  "is_translation_enabled": false,
+  "location": "Cincinnati, Ohio",
+  "favourites_count": 1405,
+  "listed_count": 748,
+  "profile_text_color": "000000",
+  "description": "Proudly representing the First Congressional District of Ohio. Serving on @HouseSmallBiz, @HouseJudiciary, & @HouseForeign.",
+  "followers_count": 11551,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/431885695020331008/3cuw6gE-_normal.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/436929364375003136/Qcxt17wl.jpeg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "B1D3E3",
+  "utc_offset": -14400,
+  "profile_background_color": "C0DEED",
+  "friends_count": 3054,
+  "profile_link_color": "0084B4",
+  "default_profile": false,
+  "created_at": "Thu Jan 13 15:03:08 +0000 2011",
+  "following": false,
+  "id": 237750442,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/431885695020331008/3cuw6gE-_normal.jpeg",
+  "screen_name": "RepSteveChabot",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 22:04:33 +0000 2016",
+    "id": 727619882922151936,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 1,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            93,
+            106
+          ],
+          "text": "creditunions"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/yW1lONyWP8",
+          "indices": [
+            69,
+            92
+          ],
+          "expanded_url": "http://ht.ly/4no4XT",
+          "display_url": "ht.ly/4no4XT"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            9
+          ],
+          "screen_name": "NAFCU",
+          "id": 18149074,
+          "id_str": "18149074",
+          "name": "NAFCU"
+        },
+        {
+          "indices": [
+            12,
+            18
+          ],
+          "screen_name": "NAFCU",
+          "id": 18149074,
+          "id_str": "18149074",
+          "name": "NAFCU"
+        },
+        {
+          "indices": [
+            30,
+            45
+          ],
+          "screen_name": "RepSteveChabot",
+          "id": 237750442,
+          "id_str": "237750442",
+          "name": "Steve Chabot"
+        }
+      ]
+    },
+    "text": "RT @NAFCU: .@NAFCU highlights @RepSteveChabot comments on reg burden https://t.co/yW1lONyWP8 #creditunions",
+    "favorite_count": 0,
+    "possibly_sensitive": false,
+    "id_str": "727619882922151936",
+    "retweeted_status": {
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "place": null,
+      "in_reply_to_user_id": null,
+      "coordinates": null,
+      "truncated": false,
+      "in_reply_to_status_id_str": null,
+      "created_at": "Tue May 03 22:00:24 +0000 2016",
+      "id": 727618838251118592,
+      "favorited": false,
+      "geo": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_screen_name": null,
+      "retweet_count": 1,
+      "lang": "en",
+      "retweeted": false,
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              82,
+              95
+            ],
+            "text": "creditunions"
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/yW1lONyWP8",
+            "indices": [
+              58,
+              81
+            ],
+            "expanded_url": "http://ht.ly/4no4XT",
+            "display_url": "ht.ly/4no4XT"
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "indices": [
+              1,
+              7
+            ],
+            "screen_name": "NAFCU",
+            "id": 18149074,
+            "id_str": "18149074",
+            "name": "NAFCU"
+          },
+          {
+            "indices": [
+              19,
+              34
+            ],
+            "screen_name": "RepSteveChabot",
+            "id": 237750442,
+            "id_str": "237750442",
+            "name": "Steve Chabot"
+          }
+        ]
+      },
+      "text": ".@NAFCU highlights @RepSteveChabot comments on reg burden https://t.co/yW1lONyWP8 #creditunions",
+      "favorite_count": 0,
+      "possibly_sensitive": false,
+      "id_str": "727618838251118592",
+      "contributors": null
+    },
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "https://t.co/xxw0sSvOkt",
+          "indices": [
+            0,
+            23
+          ],
+          "expanded_url": "http://Chabot.House.Gov",
+          "display_url": "Chabot.House.Gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/237750442/1461793460",
+  "name": "Steve Chabot",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "237750442"
+}

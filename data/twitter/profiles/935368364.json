@@ -1,0 +1,201 @@
+{
+  "url": "http://t.co/eqfb8LoF4s",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+  "statuses_count": 1393,
+  "is_translation_enabled": false,
+  "location": "Washington, DC",
+  "favourites_count": 11,
+  "listed_count": 403,
+  "profile_text_color": "333333",
+  "description": "Representative Mike Kelly proudly and humbly serves the people of Pennsylvania's Third District (#PA03) and currently sits on the House Ways & Means Committee.",
+  "followers_count": 5904,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/2824224425/e2df92c97dc465f3c97327fc1342c38e_normal.jpeg",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+  "notifications": false,
+  "profile_sidebar_fill_color": "C0DFEC",
+  "utc_offset": -10800,
+  "profile_background_color": "022330",
+  "friends_count": 765,
+  "profile_link_color": "0084B4",
+  "default_profile": false,
+  "created_at": "Thu Nov 08 20:31:21 +0000 2012",
+  "following": false,
+  "id": 935368364,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/2824224425/e2df92c97dc465f3c97327fc1342c38e_normal.jpeg",
+  "screen_name": "MikeKellyPA",
+  "verified": false,
+  "geo_enabled": false,
+  "status": {
+    "extended_entities": {
+      "media": [
+        {
+          "indices": [
+            117,
+            140
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/CheG5CvWIAAxbG5.jpg",
+          "id": 727198179389743104,
+          "expanded_url": "http://twitter.com/MikeKellyPA/status/727198180232802304/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 600,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 340,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 932,
+              "w": 932,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/tVBBIH14TN",
+          "media_url": "http://pbs.twimg.com/media/CheG5CvWIAAxbG5.jpg",
+          "url": "https://t.co/tVBBIH14TN",
+          "type": "photo",
+          "id_str": "727198179389743104"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Mon May 02 18:08:51 +0000 2016",
+    "id": 727198180232802304,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 0,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "media": [
+        {
+          "indices": [
+            117,
+            140
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/CheG5CvWIAAxbG5.jpg",
+          "id": 727198179389743104,
+          "expanded_url": "http://twitter.com/MikeKellyPA/status/727198180232802304/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 600,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 340,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 932,
+              "w": 932,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/tVBBIH14TN",
+          "media_url": "http://pbs.twimg.com/media/CheG5CvWIAAxbG5.jpg",
+          "url": "https://t.co/tVBBIH14TN",
+          "type": "photo",
+          "id_str": "727198179389743104"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            52,
+            57
+          ],
+          "text": "Erie"
+        },
+        {
+          "indices": [
+            89,
+            93
+          ],
+          "text": "DOL"
+        },
+        {
+          "indices": [
+            94,
+            108
+          ],
+          "text": "FiduciaryRule"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            112,
+            116
+          ],
+          "screen_name": "WSJ",
+          "id": 3108351,
+          "id_str": "3108351",
+          "name": "Wall Street Journal"
+        }
+      ]
+    },
+    "text": "Worth Reading: A constituent/financial adviser from #Erie explains the unfairness of the #DOL #FiduciaryRule in @WSJ https://t.co/tVBBIH14TN",
+    "favorite_count": 0,
+    "possibly_sensitive": false,
+    "id_str": "727198180232802304",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/eqfb8LoF4s",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://kelly.house.gov",
+          "display_url": "kelly.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "A8C7F7",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/935368364/1397580024",
+  "name": "Rep. Mike Kelly",
+  "is_translator": false,
+  "time_zone": "Atlantic Time (Canada)",
+  "id_str": "935368364"
+}

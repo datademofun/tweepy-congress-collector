@@ -1,0 +1,102 @@
+{
+  "url": "http://t.co/4oHwHdDPuy",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/6521303/2gr_gov_seal16.gif",
+  "statuses_count": 4520,
+  "is_translation_enabled": false,
+  "location": "Palm Harbor, Fla.",
+  "favourites_count": 226,
+  "listed_count": 1001,
+  "profile_text_color": "CA021E",
+  "description": "Congressman for Florida\u2019s 12th Congressional District, Committees: @HouseCommerce @HouseVetAffairs",
+  "followers_count": 13258,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/694914426131111936/hTyLQllD_normal.png",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/6521303/2gr_gov_seal16.gif",
+  "notifications": false,
+  "profile_sidebar_fill_color": "F8F7F7",
+  "utc_offset": -18000,
+  "profile_background_color": "DCDAD0",
+  "friends_count": 1212,
+  "profile_link_color": "AD0733",
+  "default_profile": false,
+  "created_at": "Mon Mar 23 17:56:32 +0000 2009",
+  "following": false,
+  "id": 26051676,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/694914426131111936/hTyLQllD_normal.png",
+  "screen_name": "RepGusBilirakis",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "quoted_status_id_str": "727600608522448897",
+    "quoted_status_id": 727600608522448897,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 20:53:52 +0000 2016",
+    "id": 727602096472731649,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 2,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/Kw4TRAIc6A",
+          "indices": [
+            56,
+            79
+          ],
+          "expanded_url": "https://twitter.com/DannyBurgessFL/status/727600608522448897",
+          "display_url": "twitter.com/DannyBurgessFL\u2026"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "Thanks for joining - we are all in this fight together. https://t.co/Kw4TRAIc6A",
+    "favorite_count": 4,
+    "possibly_sensitive": false,
+    "id_str": "727602096472731649",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/4oHwHdDPuy",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://bilirakis.house.gov",
+          "display_url": "bilirakis.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "4D52A3",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/26051676/1454515465",
+  "name": "Gus Bilirakis",
+  "is_translator": false,
+  "time_zone": "Quito",
+  "id_str": "26051676"
+}

@@ -1,0 +1,172 @@
+{
+  "url": "http://t.co/lTUc5982TQ",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000095332730/d4aae95cd6f64e3dbc346661e48649ef.jpeg",
+  "statuses_count": 573,
+  "is_translation_enabled": false,
+  "location": "Iron River, MI",
+  "favourites_count": 12,
+  "listed_count": 765,
+  "profile_text_color": "333333",
+  "description": "Doctor representing #NorthernMichigan. Fighting for Veterans. Growing our economy. Protecting the Great Lakes.",
+  "followers_count": 9550,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/475998925137006593/KlZJBpam_normal.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000095332730/d4aae95cd6f64e3dbc346661e48649ef.jpeg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -10800,
+  "profile_background_color": "C0DEED",
+  "friends_count": 7466,
+  "profile_link_color": "0084B4",
+  "default_profile": false,
+  "created_at": "Tue Jan 25 14:54:16 +0000 2011",
+  "following": false,
+  "id": 242761889,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/475998925137006593/KlZJBpam_normal.jpeg",
+  "screen_name": "CongressmanDan",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Wed Jan 06 18:08:15 +0000 2016",
+    "id": 684798649176567812,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 3,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/P4IZckYJt3",
+          "indices": [
+            93,
+            116
+          ],
+          "expanded_url": "http://www.upmatters.com/news/local-news/benishek-releases-statement-regarding-president-obamas-gun-control-proposal",
+          "display_url": "upmatters.com/news/local-new\u2026"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            15
+          ],
+          "screen_name": "WJMN_Local3",
+          "id": 750161617,
+          "id_str": "750161617",
+          "name": "WJMN Local 3"
+        },
+        {
+          "indices": [
+            18,
+            33
+          ],
+          "screen_name": "CongressmanDan",
+          "id": 242761889,
+          "id_str": "242761889",
+          "name": "Dr. Dan Benishek"
+        }
+      ]
+    },
+    "text": "RT @WJMN_Local3: .@CongressmanDan released a statement on the President's executive actions.\nhttps://t.co/P4IZckYJt3",
+    "favorite_count": 0,
+    "possibly_sensitive": false,
+    "id_str": "684798649176567812",
+    "retweeted_status": {
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "place": null,
+      "in_reply_to_user_id": null,
+      "coordinates": null,
+      "truncated": false,
+      "in_reply_to_status_id_str": null,
+      "created_at": "Tue Jan 05 23:36:53 +0000 2016",
+      "id": 684518964446142464,
+      "favorited": false,
+      "geo": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_screen_name": null,
+      "retweet_count": 3,
+      "lang": "en",
+      "retweeted": false,
+      "entities": {
+        "hashtags": [],
+        "urls": [
+          {
+            "url": "https://t.co/P4IZckYJt3",
+            "indices": [
+              76,
+              99
+            ],
+            "expanded_url": "http://www.upmatters.com/news/local-news/benishek-releases-statement-regarding-president-obamas-gun-control-proposal",
+            "display_url": "upmatters.com/news/local-new\u2026"
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "indices": [
+              1,
+              16
+            ],
+            "screen_name": "CongressmanDan",
+            "id": 242761889,
+            "id_str": "242761889",
+            "name": "Dr. Dan Benishek"
+          }
+        ]
+      },
+      "text": ".@CongressmanDan released a statement on the President's executive actions.\nhttps://t.co/P4IZckYJt3",
+      "favorite_count": 2,
+      "possibly_sensitive": false,
+      "id_str": "684518964446142464",
+      "contributors": null
+    },
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/lTUc5982TQ",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://benishek.house.gov",
+          "display_url": "benishek.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/242761889/1438799754",
+  "name": "Dr. Dan Benishek",
+  "is_translator": false,
+  "time_zone": "Atlantic Time (Canada)",
+  "id_str": "242761889"
+}

@@ -1,0 +1,186 @@
+{
+  "url": "http://t.co/6hHVU7gHqa",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+  "statuses_count": 4316,
+  "is_translation_enabled": false,
+  "location": "Washington, DC",
+  "favourites_count": 155,
+  "listed_count": 1394,
+  "profile_text_color": "333333",
+  "description": "I am currently serving in the United States Senate and am proud to serve the people of New Hampshire. http://t.co/6CyyCKZ22b",
+  "followers_count": 27046,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/695028042301841408/5YZWeTsR_normal.jpg",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+  "notifications": false,
+  "profile_sidebar_fill_color": "FFFFFF",
+  "utc_offset": -14400,
+  "profile_background_color": "B2DFDA",
+  "friends_count": 5597,
+  "profile_link_color": "93A644",
+  "default_profile": false,
+  "created_at": "Thu Jan 28 15:22:44 +0000 2010",
+  "following": false,
+  "id": 109287731,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/695028042301841408/5YZWeTsR_normal.jpg",
+  "screen_name": "SenatorShaheen",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "extended_entities": {
+      "media": [
+        {
+          "indices": [
+            87,
+            110
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/ChkirxCWkAApkd5.jpg",
+          "id": 727650950089969664,
+          "expanded_url": "http://twitter.com/SenatorShaheen/status/727650950723309568/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 450,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 255,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 768,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/SkPUCv5ht0",
+          "media_url": "http://pbs.twimg.com/media/ChkirxCWkAApkd5.jpg",
+          "url": "https://t.co/SkPUCv5ht0",
+          "type": "photo",
+          "id_str": "727650950089969664"
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for BlackBerry</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Wed May 04 00:08:00 +0000 2016",
+    "id": 727650950723309568,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 3,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "media": [
+        {
+          "indices": [
+            87,
+            110
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/ChkirxCWkAApkd5.jpg",
+          "id": 727650950089969664,
+          "expanded_url": "http://twitter.com/SenatorShaheen/status/727650950723309568/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 450,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 255,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 768,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/SkPUCv5ht0",
+          "media_url": "http://pbs.twimg.com/media/ChkirxCWkAApkd5.jpg",
+          "url": "https://t.co/SkPUCv5ht0",
+          "type": "photo",
+          "id_str": "727650950089969664"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            72,
+            86
+          ],
+          "text": "dreamsmallbiz"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "Congrats to all the New Hampshire Small Business Award winners tonight! #dreamsmallbiz https://t.co/SkPUCv5ht0",
+    "favorite_count": 9,
+    "possibly_sensitive": false,
+    "id_str": "727650950723309568",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/6hHVU7gHqa",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://shaheen.senate.gov/",
+          "display_url": "shaheen.senate.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+        {
+          "url": "http://t.co/6CyyCKZ22b",
+          "indices": [
+            102,
+            124
+          ],
+          "expanded_url": "http://www.facebook.com/SenatorShaheen",
+          "display_url": "facebook.com/SenatorShaheen"
+        }
+      ]
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "EEEEEE",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/109287731/1372798740",
+  "name": "Sen. Jeanne Shaheen",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "109287731"
+}

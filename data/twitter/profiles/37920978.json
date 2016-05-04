@@ -1,0 +1,315 @@
+{
+  "url": "https://t.co/tkJraCTQUg",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/570276952217378816/G1ZKV-SU.jpeg",
+  "statuses_count": 4388,
+  "is_translation_enabled": false,
+  "location": "Roanoke, VA",
+  "favourites_count": 431,
+  "listed_count": 1087,
+  "profile_text_color": "663B12",
+  "description": "Proudly representing the Sixth Congressional District of Virginia in the U.S. House of Representatives. Chair of @HouseJudiciary. #VA06",
+  "followers_count": 17616,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/425647736445079552/aBbh7qXA_normal.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/570276952217378816/G1ZKV-SU.jpeg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DAECF4",
+  "utc_offset": -14400,
+  "profile_background_color": "C0DEED",
+  "friends_count": 443,
+  "profile_link_color": "0084B4",
+  "default_profile": false,
+  "created_at": "Tue May 05 13:18:55 +0000 2009",
+  "following": false,
+  "id": 37920978,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/425647736445079552/aBbh7qXA_normal.jpeg",
+  "screen_name": "RepGoodlatte",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "extended_entities": {
+      "media": [
+        {
+          "url": "https://t.co/vGE8KkeY3f",
+          "media_url_https": "https://pbs.twimg.com/media/ChkGdM7XAAEuERu.jpg",
+          "id": 727619913553215489,
+          "display_url": "pic.twitter.com/vGE8KkeY3f",
+          "source_user_id": 18956073,
+          "source_status_id": 727619914077474816,
+          "type": "photo",
+          "indices": [
+            101,
+            124
+          ],
+          "expanded_url": "http://twitter.com/dcexaminer/status/727619914077474816/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 345,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 196,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 420,
+              "w": 730,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "media_url": "http://pbs.twimg.com/media/ChkGdM7XAAEuERu.jpg",
+          "source_user_id_str": "18956073",
+          "source_status_id_str": "727619914077474816",
+          "id_str": "727619913553215489"
+        }
+      ]
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 22:09:20 +0000 2016",
+    "id": 727621086150569984,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 7,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "media": [
+        {
+          "url": "https://t.co/vGE8KkeY3f",
+          "media_url_https": "https://pbs.twimg.com/media/ChkGdM7XAAEuERu.jpg",
+          "id": 727619913553215489,
+          "display_url": "pic.twitter.com/vGE8KkeY3f",
+          "source_user_id": 18956073,
+          "source_status_id": 727619914077474816,
+          "type": "photo",
+          "indices": [
+            101,
+            124
+          ],
+          "expanded_url": "http://twitter.com/dcexaminer/status/727619914077474816/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 345,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 196,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 420,
+              "w": 730,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "media_url": "http://pbs.twimg.com/media/ChkGdM7XAAEuERu.jpg",
+          "source_user_id_str": "18956073",
+          "source_status_id_str": "727619914077474816",
+          "id_str": "727619913553215489"
+        }
+      ],
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/g4m0gK4XEv",
+          "indices": [
+            77,
+            100
+          ],
+          "expanded_url": "http://washex.am/26QN55L",
+          "display_url": "washex.am/26QN55L"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            14
+          ],
+          "screen_name": "dcexaminer",
+          "id": 18956073,
+          "id_str": "18956073",
+          "name": "Washington Examiner"
+        }
+      ]
+    },
+    "text": "RT @dcexaminer: Goodlatte demands DHS clarify \"deceptive\" immigration policy https://t.co/g4m0gK4XEv https://t.co/vGE8KkeY3f",
+    "favorite_count": 0,
+    "possibly_sensitive": false,
+    "id_str": "727621086150569984",
+    "retweeted_status": {
+      "extended_entities": {
+        "media": [
+          {
+            "indices": [
+              85,
+              108
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/ChkGdM7XAAEuERu.jpg",
+            "id": 727619913553215489,
+            "expanded_url": "http://twitter.com/dcexaminer/status/727619914077474816/photo/1",
+            "sizes": {
+              "medium": {
+                "h": 345,
+                "w": 600,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 196,
+                "w": 340,
+                "resize": "fit"
+              },
+              "large": {
+                "h": 420,
+                "w": 730,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "display_url": "pic.twitter.com/vGE8KkeY3f",
+            "media_url": "http://pbs.twimg.com/media/ChkGdM7XAAEuERu.jpg",
+            "url": "https://t.co/vGE8KkeY3f",
+            "type": "photo",
+            "id_str": "727619913553215489"
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "place": null,
+      "in_reply_to_user_id": null,
+      "coordinates": null,
+      "truncated": false,
+      "in_reply_to_status_id_str": null,
+      "created_at": "Tue May 03 22:04:40 +0000 2016",
+      "id": 727619914077474816,
+      "favorited": false,
+      "geo": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_screen_name": null,
+      "retweet_count": 7,
+      "lang": "en",
+      "retweeted": false,
+      "entities": {
+        "media": [
+          {
+            "indices": [
+              85,
+              108
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/ChkGdM7XAAEuERu.jpg",
+            "id": 727619913553215489,
+            "expanded_url": "http://twitter.com/dcexaminer/status/727619914077474816/photo/1",
+            "sizes": {
+              "medium": {
+                "h": 345,
+                "w": 600,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 196,
+                "w": 340,
+                "resize": "fit"
+              },
+              "large": {
+                "h": 420,
+                "w": 730,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "display_url": "pic.twitter.com/vGE8KkeY3f",
+            "media_url": "http://pbs.twimg.com/media/ChkGdM7XAAEuERu.jpg",
+            "url": "https://t.co/vGE8KkeY3f",
+            "type": "photo",
+            "id_str": "727619913553215489"
+          }
+        ],
+        "hashtags": [],
+        "urls": [
+          {
+            "url": "https://t.co/g4m0gK4XEv",
+            "indices": [
+              61,
+              84
+            ],
+            "expanded_url": "http://washex.am/26QN55L",
+            "display_url": "washex.am/26QN55L"
+          }
+        ],
+        "symbols": [],
+        "user_mentions": []
+      },
+      "text": "Goodlatte demands DHS clarify \"deceptive\" immigration policy https://t.co/g4m0gK4XEv https://t.co/vGE8KkeY3f",
+      "favorite_count": 4,
+      "possibly_sensitive": false,
+      "id_str": "727619914077474816",
+      "contributors": null
+    },
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "https://t.co/tkJraCTQUg",
+          "indices": [
+            0,
+            23
+          ],
+          "expanded_url": "http://goodlatte.house.gov",
+          "display_url": "goodlatte.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "C6E2EE",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/37920978/1390317212",
+  "name": "Bob Goodlatte",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "37920978"
+}

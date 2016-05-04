@@ -1,0 +1,119 @@
+{
+  "url": "http://t.co/fZruAAdEJY",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "statuses_count": 736,
+  "is_translation_enabled": false,
+  "location": "D.C./Chicago & SW Suburbs",
+  "favourites_count": 2,
+  "listed_count": 539,
+  "profile_text_color": "333333",
+  "description": "The official twitter account of Rep. Bobby L. Rush.  For official policy please see http://t.co/biKpeeMhCz.  RT does NOT constitute an endorsement.",
+  "followers_count": 6575,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000172084485/f1498b4c9a4df5a036d108993be4bf4b_normal.jpeg",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -14400,
+  "profile_background_color": "C0DEED",
+  "friends_count": 170,
+  "profile_link_color": "0084B4",
+  "default_profile": true,
+  "created_at": "Wed May 25 20:59:25 +0000 2011",
+  "following": false,
+  "id": 305216911,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/378800000172084485/f1498b4c9a4df5a036d108993be4bf4b_normal.jpeg",
+  "screen_name": "RepBobbyRush",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "source": "<a href=\"http://twitterfeed.com\" rel=\"nofollow\">twitterfeed</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 05:57:13 +0000 2016",
+    "id": 727376448487460864,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 4,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/I3jtuYKeX2",
+          "indices": [
+            14,
+            37
+          ],
+          "expanded_url": "http://Amazon.com",
+          "display_url": "Amazon.com"
+        },
+        {
+          "url": "https://t.co/3LEh7W3xJk",
+          "indices": [
+            114,
+            137
+          ],
+          "expanded_url": "http://1.usa.gov/1W3GLUK",
+          "display_url": "1.usa.gov/1W3GLUK"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "Rush Welcomes https://t.co/I3jtuYKeX2\u2019s Decision to Expand Service: CHICAGO \u2014 Today, Congressman Bobby L. Rush... https://t.co/3LEh7W3xJk",
+    "favorite_count": 3,
+    "possibly_sensitive": false,
+    "id_str": "727376448487460864",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/fZruAAdEJY",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://rush.house.gov",
+          "display_url": "rush.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+        {
+          "url": "http://t.co/biKpeeMhCz",
+          "indices": [
+            84,
+            106
+          ],
+          "expanded_url": "http://on.fb.me/iosyMF",
+          "display_url": "on.fb.me/iosyMF"
+        }
+      ]
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/305216911/1441821005",
+  "name": "Bobby L. Rush",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "305216911"
+}

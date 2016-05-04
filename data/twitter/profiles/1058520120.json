@@ -1,0 +1,185 @@
+{
+  "url": "http://t.co/P41iF0yw",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/446026993046257664/-_wxXQDm.png",
+  "statuses_count": 1685,
+  "is_translation_enabled": false,
+  "location": "",
+  "favourites_count": 72,
+  "listed_count": 671,
+  "profile_text_color": "333333",
+  "description": "Official Twitter account for Tammy Duckworth's congressional office. Posts by staff unless signed - TD. For more information, visit",
+  "followers_count": 14013,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/673882053297971201/qKILnJZ8_normal.jpg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/446026993046257664/-_wxXQDm.png",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -14400,
+  "profile_background_color": "C0DEED",
+  "friends_count": 8252,
+  "profile_link_color": "0084B4",
+  "default_profile": false,
+  "created_at": "Thu Jan 03 18:59:33 +0000 2013",
+  "following": false,
+  "id": 1058520120,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/673882053297971201/qKILnJZ8_normal.jpg",
+  "screen_name": "RepDuckworth",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "extended_entities": {
+      "media": [
+        {
+          "indices": [
+            109,
+            132
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/Chj0RFpW0AAyIaq.jpg",
+          "id": 727599914230927360,
+          "expanded_url": "http://twitter.com/RepDuckworth/status/727599914771959813/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 314,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 178,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 535,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/G1GZsDRg8g",
+          "media_url": "http://pbs.twimg.com/media/Chj0RFpW0AAyIaq.jpg",
+          "url": "https://t.co/G1GZsDRg8g",
+          "type": "photo",
+          "id_str": "727599914230927360"
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 20:45:12 +0000 2016",
+    "id": 727599914771959813,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 5,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "media": [
+        {
+          "indices": [
+            109,
+            132
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/Chj0RFpW0AAyIaq.jpg",
+          "id": 727599914230927360,
+          "expanded_url": "http://twitter.com/RepDuckworth/status/727599914771959813/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 314,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 178,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 535,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/G1GZsDRg8g",
+          "media_url": "http://pbs.twimg.com/media/Chj0RFpW0AAyIaq.jpg",
+          "url": "https://t.co/G1GZsDRg8g",
+          "type": "photo",
+          "id_str": "727599914230927360"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            17,
+            26
+          ],
+          "text": "InTheRed"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Vbp1Fqhm9I",
+          "indices": [
+            85,
+            108
+          ],
+          "expanded_url": "http://1.usa.gov/23armkS",
+          "display_url": "1.usa.gov/23armkS"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "I introduced the #InTheRed Act 2help address the student debt crisis\u2014read more here: https://t.co/Vbp1Fqhm9I https://t.co/G1GZsDRg8g",
+    "favorite_count": 7,
+    "possibly_sensitive": false,
+    "id_str": "727599914771959813",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/P41iF0yw",
+          "indices": [
+            0,
+            20
+          ],
+          "expanded_url": "http://duckworth.house.gov",
+          "display_url": "duckworth.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "FFFFFF",
+  "name": "Tammy Duckworth",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "1058520120"
+}

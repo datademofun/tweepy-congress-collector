@@ -1,0 +1,121 @@
+{
+  "url": "http://t.co/NZmeXSnqTP",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "statuses_count": 2515,
+  "is_translation_enabled": false,
+  "location": "Colorado",
+  "favourites_count": 464,
+  "listed_count": 985,
+  "profile_text_color": "333333",
+  "description": "Member of Congress, proudly representing the 7th District of Colorado https://t.co/wLRJaGd9rX",
+  "followers_count": 13262,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/710960133082222592/QyTF8AS3_normal.jpg",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDFFCC",
+  "utc_offset": -14400,
+  "profile_background_color": "9AE4E8",
+  "friends_count": 3113,
+  "profile_link_color": "0400B4",
+  "default_profile": false,
+  "created_at": "Tue Feb 10 22:17:52 +0000 2009",
+  "following": false,
+  "id": 20552026,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/710960133082222592/QyTF8AS3_normal.jpg",
+  "screen_name": "RepPerlmutter",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id_str": "2326258100",
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": 2326258100,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": "727226221671522305",
+    "created_at": "Mon May 02 20:22:22 +0000 2016",
+    "id": 727231779309019136,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": 727226221671522305,
+    "in_reply_to_screen_name": "rockymtnsparro",
+    "retweet_count": 0,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/oc8MhbDs4q",
+          "indices": [
+            115,
+            138
+          ],
+          "expanded_url": "http://1.usa.gov/1KBGEdm",
+          "display_url": "1.usa.gov/1KBGEdm"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            15
+          ],
+          "screen_name": "rockymtnsparro",
+          "id": 2326258100,
+          "id_str": "2326258100",
+          "name": "CB Gardner"
+        }
+      ]
+    },
+    "text": "@rockymtnsparro different plans cap federal loan repayment between 10-20% of your discretionary income. More info: https://t.co/oc8MhbDs4q",
+    "favorite_count": 0,
+    "possibly_sensitive": false,
+    "id_str": "727231779309019136",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/NZmeXSnqTP",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://perlmutter.house.gov",
+          "display_url": "perlmutter.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+        {
+          "url": "https://t.co/wLRJaGd9rX",
+          "indices": [
+            70,
+            93
+          ],
+          "expanded_url": "http://facebook.com/RepPerlmutter",
+          "display_url": "facebook.com/RepPerlmutter"
+        }
+      ]
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "BDDCAD",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/20552026/1403113187",
+  "name": "Rep. Ed Perlmutter",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "20552026"
+}

@@ -1,0 +1,178 @@
+{
+  "url": "http://t.co/bUBMKnHR6S",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/528177731960193024/IW50B7C2.jpeg",
+  "statuses_count": 1691,
+  "is_translation_enabled": true,
+  "location": "Hot Springs, Arkansas",
+  "favourites_count": 40,
+  "listed_count": 152,
+  "profile_text_color": "000000",
+  "description": "Congressman representing the Fourth District of Arkansas. Husband. Father of four. Hot Springs native. @UArkansas, @Yale alum.",
+  "followers_count": 2666,
+  "profile_background_tile": true,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/577876090309361664/itRREUo8_normal.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/528177731960193024/IW50B7C2.jpeg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "000000",
+  "utc_offset": -18000,
+  "profile_background_color": "FFFFFF",
+  "friends_count": 608,
+  "profile_link_color": "BE0F34",
+  "default_profile": false,
+  "created_at": "Fri Oct 31 03:57:48 +0000 2014",
+  "following": false,
+  "id": 2852998461,
+  "has_extended_profile": false,
+  "profile_use_background_image": false,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/577876090309361664/itRREUo8_normal.jpeg",
+  "screen_name": "RepWesterman",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "extended_entities": {
+      "media": [
+        {
+          "indices": [
+            115,
+            138
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/Chkgn7pXIAAFm6O.jpg",
+          "id": 727648685195206656,
+          "expanded_url": "http://twitter.com/RepWesterman/status/727648690911895553/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 800,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 453,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 960,
+              "w": 720,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/ad3xQRqIIr",
+          "media_url": "http://pbs.twimg.com/media/Chkgn7pXIAAFm6O.jpg",
+          "url": "https://t.co/ad3xQRqIIr",
+          "type": "photo",
+          "id_str": "727648685195206656"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 23:59:01 +0000 2016",
+    "id": 727648690911895553,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 9,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "media": [
+        {
+          "indices": [
+            115,
+            138
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/Chkgn7pXIAAFm6O.jpg",
+          "id": 727648685195206656,
+          "expanded_url": "http://twitter.com/RepWesterman/status/727648690911895553/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 800,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 453,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 960,
+              "w": 720,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/ad3xQRqIIr",
+          "media_url": "http://pbs.twimg.com/media/Chkgn7pXIAAFm6O.jpg",
+          "url": "https://t.co/ad3xQRqIIr",
+          "type": "photo",
+          "id_str": "727648685195206656"
+        }
+      ],
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/F7cuSOdRLd",
+          "indices": [
+            91,
+            114
+          ],
+          "expanded_url": "https://www.facebook.com/RepWesterman/posts/802549716546814",
+          "display_url": "facebook.com/RepWesterman/p\u2026"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "Congratulations to Congressional Art Competition winner Maurice Bradford of Lakeside High. https://t.co/F7cuSOdRLd https://t.co/ad3xQRqIIr",
+    "favorite_count": 19,
+    "possibly_sensitive": false,
+    "id_str": "727648690911895553",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/bUBMKnHR6S",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://westerman.house.gov",
+          "display_url": "westerman.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "000000",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/2852998461/1430163066",
+  "name": "Rep. Bruce Westerman",
+  "is_translator": false,
+  "time_zone": "Central Time (US & Canada)",
+  "id_str": "2852998461"
+}

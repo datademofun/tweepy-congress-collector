@@ -1,0 +1,115 @@
+{
+  "url": "http://t.co/VNdLE9VEEs",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/671689603/b6557cf4edb385e5ea2c9c0040826994.jpeg",
+  "statuses_count": 547,
+  "is_translation_enabled": false,
+  "location": "",
+  "favourites_count": 130,
+  "listed_count": 303,
+  "profile_text_color": "333333",
+  "description": "Press Office of Congressman Jim Sensenbrenner, representing Wisconsin's Fifth District. Former Chair of House Judiciary Committee.",
+  "followers_count": 2808,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/727230175767859200/rj0otGAV_normal.jpg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/671689603/b6557cf4edb385e5ea2c9c0040826994.jpeg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": null,
+  "profile_background_color": "C0DEED",
+  "friends_count": 497,
+  "profile_link_color": "0084B4",
+  "default_profile": false,
+  "created_at": "Fri Sep 28 19:31:33 +0000 2012",
+  "following": false,
+  "id": 851621377,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/727230175767859200/rj0otGAV_normal.jpg",
+  "screen_name": "JimPressOffice",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 14:41:25 +0000 2016",
+    "id": 727508366466142210,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 0,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            108,
+            121
+          ],
+          "text": "WashingtonDC"
+        },
+        {
+          "indices": [
+            122,
+            134
+          ],
+          "text": "internships"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Ti1CgkUTFK",
+          "indices": [
+            83,
+            106
+          ],
+          "expanded_url": "http://sensenbrenner.house.gov/constituentservices/internships.htm",
+          "display_url": "sensenbrenner.house.gov/constituentser\u2026"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "More information on Congressman Sensenbrenner's internship program is available at https://t.co/Ti1CgkUTFK. #WashingtonDC #internships",
+    "favorite_count": 1,
+    "possibly_sensitive": false,
+    "id_str": "727508366466142210",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/VNdLE9VEEs",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://sensenbrenner.house.gov",
+          "display_url": "sensenbrenner.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/851621377/1462220205",
+  "name": "Sensenbrenner Press",
+  "is_translator": false,
+  "time_zone": null,
+  "id_str": "851621377"
+}

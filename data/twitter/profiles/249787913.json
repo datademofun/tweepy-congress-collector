@@ -1,0 +1,183 @@
+{
+  "url": "http://t.co/0KSoFFra6j",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/206172638/moran_twitter.jpg",
+  "statuses_count": 4591,
+  "is_translation_enabled": false,
+  "location": "Delaware",
+  "favourites_count": 271,
+  "listed_count": 1034,
+  "profile_text_color": "737373",
+  "description": "U.S. Senator for Delaware | Ranking Member of @SenateHSGACDems",
+  "followers_count": 18990,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000497501114/77d2bd85a246e66e8f77670018fbaaca_normal.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/206172638/moran_twitter.jpg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "E2E8EB",
+  "utc_offset": -14400,
+  "profile_background_color": "D6DDE1",
+  "friends_count": 786,
+  "profile_link_color": "1E3F66",
+  "default_profile": false,
+  "created_at": "Wed Feb 09 19:46:42 +0000 2011",
+  "following": false,
+  "id": 249787913,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/378800000497501114/77d2bd85a246e66e8f77670018fbaaca_normal.jpeg",
+  "screen_name": "SenatorCarper",
+  "verified": true,
+  "geo_enabled": true,
+  "status": {
+    "extended_entities": {
+      "media": [
+        {
+          "indices": [
+            89,
+            112
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/Chj5ponWMAALRk1.jpg",
+          "id": 727605833492738048,
+          "expanded_url": "http://twitter.com/SenatorCarper/status/727605834805608448/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 399,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 226,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 680,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/ZeoRKcgfRZ",
+          "media_url": "http://pbs.twimg.com/media/Chj5ponWMAALRk1.jpg",
+          "url": "https://t.co/ZeoRKcgfRZ",
+          "type": "photo",
+          "id_str": "727605833492738048"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 21:08:43 +0000 2016",
+    "id": 727605834805608448,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 3,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "media": [
+        {
+          "indices": [
+            89,
+            112
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/Chj5ponWMAALRk1.jpg",
+          "id": 727605833492738048,
+          "expanded_url": "http://twitter.com/SenatorCarper/status/727605834805608448/photo/1",
+          "sizes": {
+            "medium": {
+              "h": 399,
+              "w": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 226,
+              "w": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "h": 680,
+              "w": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "display_url": "pic.twitter.com/ZeoRKcgfRZ",
+          "media_url": "http://pbs.twimg.com/media/Chj5ponWMAALRk1.jpg",
+          "url": "https://t.co/ZeoRKcgfRZ",
+          "type": "photo",
+          "id_str": "727605833492738048"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            46,
+            69
+          ],
+          "text": "TeacherAppreciationDay"
+        },
+        {
+          "indices": [
+            71,
+            88
+          ],
+          "text": "TeacherOfTheYear"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "Teachers in Delaware are making a difference! #TeacherAppreciationDay  #TeacherOfTheYear https://t.co/ZeoRKcgfRZ",
+    "favorite_count": 5,
+    "possibly_sensitive": false,
+    "id_str": "727605834805608448",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/0KSoFFra6j",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://www.carper.senate.gov",
+          "display_url": "carper.senate.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "BAC1C4",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/249787913/1442419327",
+  "name": "Senator Tom Carper",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "249787913"
+}

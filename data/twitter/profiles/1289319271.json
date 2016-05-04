@@ -1,0 +1,118 @@
+{
+  "url": "http://t.co/a3ZJUqfRSg",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000121746697/54268673dc4bcac7aa8a8a1a4aaacbad.jpeg",
+  "statuses_count": 675,
+  "is_translation_enabled": false,
+  "location": "",
+  "favourites_count": 49,
+  "listed_count": 320,
+  "profile_text_color": "333333",
+  "description": "Proud to represent the 4th Congressional District of New Jersey\r\n\r\nhttps://t.co/dYj7YzIRtq",
+  "followers_count": 4601,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/726149781643354112/ds6Tb5V1_normal.jpg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000121746697/54268673dc4bcac7aa8a8a1a4aaacbad.jpeg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -14400,
+  "profile_background_color": "C0DEED",
+  "friends_count": 101,
+  "profile_link_color": "0084B4",
+  "default_profile": false,
+  "created_at": "Fri Mar 22 18:03:53 +0000 2013",
+  "following": false,
+  "id": 1289319271,
+  "has_extended_profile": false,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/726149781643354112/ds6Tb5V1_normal.jpg",
+  "screen_name": "RepChrisSmith",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 20:43:43 +0000 2016",
+    "id": 727599542233870336,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 2,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            111,
+            120
+          ],
+          "text": "WPFD2016"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Eq3d6eF7Wy",
+          "indices": [
+            121,
+            144
+          ],
+          "expanded_url": "http://chrissmith.house.gov/news/documentsingle.aspx?DocumentID=398103",
+          "display_url": "chrissmith.house.gov/news/documents\u2026"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "Journalists give a voice to the voiceless &amp; risk their lives 2 protect the free flow of info. We can help. #WPFD2016 https://t.co/Eq3d6eF7Wy",
+    "favorite_count": 1,
+    "possibly_sensitive": false,
+    "id_str": "727599542233870336",
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/a3ZJUqfRSg",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://chrissmith.house.gov/",
+          "display_url": "chrissmith.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+        {
+          "url": "https://t.co/dYj7YzIRtq",
+          "indices": [
+            67,
+            90
+          ],
+          "expanded_url": "https://www.facebook.com/RepChrisSmith",
+          "display_url": "facebook.com/RepChrisSmith"
+        }
+      ]
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1289319271/1398433022",
+  "name": "Rep. Chris Smith",
+  "is_translator": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "id_str": "1289319271"
+}

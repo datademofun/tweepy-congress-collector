@@ -1,0 +1,180 @@
+{
+  "url": "https://t.co/9yX6VnQSmY",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/39102170/congress.jpg.jpg",
+  "statuses_count": 2754,
+  "is_translation_enabled": false,
+  "location": "Lithonia, GA; Washington",
+  "favourites_count": 154,
+  "listed_count": 1011,
+  "profile_text_color": "333333",
+  "description": "I fight for justice, civil rights and working people the world over.",
+  "followers_count": 14195,
+  "profile_background_tile": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/606119872259457024/VZsnahVm_normal.jpg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/39102170/congress.jpg.jpg",
+  "notifications": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "utc_offset": -18000,
+  "profile_background_color": "C0DEED",
+  "friends_count": 612,
+  "profile_link_color": "0084B4",
+  "default_profile": false,
+  "created_at": "Mon Mar 16 18:52:49 +0000 2009",
+  "following": false,
+  "id": 24745957,
+  "has_extended_profile": true,
+  "profile_use_background_image": true,
+  "protected": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/606119872259457024/VZsnahVm_normal.jpg",
+  "screen_name": "RepHankJohnson",
+  "verified": true,
+  "geo_enabled": false,
+  "status": {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "place": null,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "truncated": false,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Tue May 03 13:45:55 +0000 2016",
+    "id": 727494399509319684,
+    "favorited": false,
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 93,
+    "lang": "en",
+    "retweeted": false,
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            36,
+            41
+          ],
+          "text": "Zika"
+        },
+        {
+          "indices": [
+            71,
+            88
+          ],
+          "text": "FlintWaterCrisis"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            18
+          ],
+          "screen_name": "RepMarciaFudge",
+          "id": 153486399,
+          "id_str": "153486399",
+          "name": "Rep. Marcia L. Fudge"
+        },
+        {
+          "indices": [
+            121,
+            130
+          ],
+          "screen_name": "HouseGOP",
+          "id": 15207668,
+          "id_str": "15207668",
+          "name": "House Republicans"
+        }
+      ]
+    },
+    "text": "RT @RepMarciaFudge: Budget debacle, #Zika virus, opioid epidemic &amp; #FlintWaterCrisis have gone unaddressed thanks to @HouseGOP who recessed\u2026",
+    "favorite_count": 0,
+    "id_str": "727494399509319684",
+    "retweeted_status": {
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M5)</a>",
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "place": null,
+      "in_reply_to_user_id": null,
+      "coordinates": null,
+      "truncated": false,
+      "in_reply_to_status_id_str": null,
+      "created_at": "Tue May 03 12:22:26 +0000 2016",
+      "id": 727473388218929152,
+      "favorited": false,
+      "geo": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_screen_name": null,
+      "retweet_count": 93,
+      "lang": "en",
+      "retweeted": false,
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              16,
+              21
+            ],
+            "text": "Zika"
+          },
+          {
+            "indices": [
+              51,
+              68
+            ],
+            "text": "FlintWaterCrisis"
+          }
+        ],
+        "urls": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "indices": [
+              101,
+              110
+            ],
+            "screen_name": "HouseGOP",
+            "id": 15207668,
+            "id_str": "15207668",
+            "name": "House Republicans"
+          }
+        ]
+      },
+      "text": "Budget debacle, #Zika virus, opioid epidemic &amp; #FlintWaterCrisis have gone unaddressed thanks to @HouseGOP who recessed House w/out action!",
+      "favorite_count": 62,
+      "id_str": "727473388218929152",
+      "contributors": null
+    },
+    "contributors": null
+  },
+  "follow_request_sent": false,
+  "lang": "en",
+  "contributors_enabled": false,
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "https://t.co/9yX6VnQSmY",
+          "indices": [
+            0,
+            23
+          ],
+          "expanded_url": "https://www.facebook.com/pages/Congressman-Hank-Johnson/115356957005?ref=hl",
+          "display_url": "facebook.com/pages/Congress\u2026"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "default_profile_image": false,
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/24745957/1433361570",
+  "name": "Rep. Hank Johnson",
+  "is_translator": false,
+  "time_zone": "Quito",
+  "id_str": "24745957"
+}
