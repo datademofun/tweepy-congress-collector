@@ -1,0 +1,56 @@
+[
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 3047090620,
+          "name": "MarkeyMemo",
+          "screen_name": "MARKEYMEMO",
+          "id_str": "3047090620",
+          "indices": [
+            1,
+            12
+          ]
+        },
+        {
+          "id": 21406834,
+          "name": "Ed Markey",
+          "screen_name": "SenMarkey",
+          "id_str": "21406834",
+          "indices": [
+            99,
+            109
+          ]
+        }
+      ],
+      "hashtags": []
+    },
+    "id": 568800179681402880,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 3047090620,
+      "id_str": "3047090620"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": ".@MarkeyMemo followers, please note that the official account for Senator Markey has relaunched as @SenMarkey. Please let others know!",
+    "in_reply_to_status_id": null,
+    "created_at": "Fri Feb 20 15:51:45 +0000 2015",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "568800179681402880",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "favorited": false,
+    "favorite_count": 1,
+    "retweet_count": 5,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  }
+]

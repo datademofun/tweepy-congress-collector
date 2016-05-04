@@ -1,0 +1,46 @@
+[
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/NGdC7pKctT",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://earnextrapc.com",
+          "display_url": "earnextrapc.com"
+        }
+      ],
+      "user_mentions": [],
+      "hashtags": []
+    },
+    "id": 402116401051078656,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 2193480787,
+      "id_str": "2193480787"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "http://t.co/NGdC7pKctT got me to get a straightforward $300 on a daily basis within no more than a handful hours.",
+    "in_reply_to_status_id": null,
+    "created_at": "Sun Nov 17 16:49:55 +0000 2013",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "402116401051078656",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "possibly_sensitive": false,
+    "favorited": false,
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  }
+]

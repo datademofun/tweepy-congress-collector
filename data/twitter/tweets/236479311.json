@@ -1,0 +1,2508 @@
+[
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/TYYtrPZhmp",
+          "indices": [
+            53,
+            76
+          ],
+          "expanded_url": "https://nugent.house.gov/media-center/press-releases/nugent-statement-on-presidents-budget",
+          "display_url": "nugent.house.gov/media-center/p\u2026"
+        }
+      ],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "budget",
+          "indices": [
+            44,
+            51
+          ]
+        }
+      ]
+    },
+    "id": 697170026797907968,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 236479311,
+      "id_str": "236479311"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "As an institution, we cannot fail to pass a #budget. https://t.co/TYYtrPZhmp",
+    "in_reply_to_status_id": null,
+    "created_at": "Tue Feb 09 21:27:41 +0000 2016",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "697170026797907968",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "possibly_sensitive": false,
+    "favorited": false,
+    "favorite_count": 1,
+    "retweet_count": 2,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/CJWfYD1SV2",
+          "indices": [
+            114,
+            137
+          ],
+          "expanded_url": "http://tinyurl.com/hjyxcbp",
+          "display_url": "tinyurl.com/hjyxcbp"
+        }
+      ],
+      "user_mentions": [],
+      "hashtags": []
+    },
+    "id": 695614337671626754,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 236479311,
+      "id_str": "236479311"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "Chatted w/ Fraternal Order of Police, too often those who protect &amp; serve us have their needs heard the least https://t.co/CJWfYD1SV2",
+    "in_reply_to_status_id": null,
+    "created_at": "Fri Feb 05 14:25:56 +0000 2016",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "695614337671626754",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "possibly_sensitive": false,
+    "favorited": false,
+    "favorite_count": 2,
+    "retweet_count": 2,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/CDnFAVpew2",
+          "indices": [
+            76,
+            99
+          ],
+          "expanded_url": "http://tinyurl.com/jgt3f6t",
+          "display_url": "tinyurl.com/jgt3f6t"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 9300262,
+          "name": "POLITICO",
+          "screen_name": "politico",
+          "id_str": "9300262",
+          "indices": [
+            64,
+            73
+          ]
+        }
+      ],
+      "hashtags": []
+    },
+    "id": 694534262540914690,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 236479311,
+      "id_str": "236479311"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "I've said it since day one: Congress is not a career. Read more @politico - https://t.co/CDnFAVpew2",
+    "in_reply_to_status_id": null,
+    "created_at": "Tue Feb 02 14:54:06 +0000 2016",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "694534262540914690",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "possibly_sensitive": false,
+    "favorited": false,
+    "favorite_count": 1,
+    "retweet_count": 3,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/X8uMfoiofu",
+          "indices": [
+            113,
+            135
+          ],
+          "expanded_url": "http://thehill.com/blogs/floor-action/house/228880-conservative-rebellion-may-emerge-in-rule-vote",
+          "display_url": "thehill.com/blogs/floor-ac\u2026"
+        }
+      ],
+      "user_mentions": [],
+      "hashtags": []
+    },
+    "id": 553237583896264706,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 236479311,
+      "id_str": "236479311"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "Thx for support, but Jobs &amp; Keystone is more important to me than a committee slot.  I\u2019m voting Yes on Rule. http://t.co/X8uMfoiofu",
+    "in_reply_to_status_id": null,
+    "created_at": "Thu Jan 08 17:11:33 +0000 2015",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "553237583896264706",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "possibly_sensitive": false,
+    "favorited": false,
+    "favorite_count": 22,
+    "retweet_count": 38,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/oqtz8fL4",
+          "indices": [
+            47,
+            67
+          ],
+          "expanded_url": "http://wapo.st/tGcuhe",
+          "display_url": "wapo.st/tGcuhe"
+        }
+      ],
+      "user_mentions": [],
+      "hashtags": []
+    },
+    "id": 152033499015168002,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 236479311,
+      "id_str": "236479311"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "ICYMI - My take on the payroll tax situation:  http://t.co/oqtz8fL4",
+    "in_reply_to_status_id": null,
+    "created_at": "Wed Dec 28 14:29:45 +0000 2011",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "152033499015168002",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "possibly_sensitive": false,
+    "favorited": false,
+    "favorite_count": 7,
+    "retweet_count": 8,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/LDvbeaL",
+          "indices": [
+            114,
+            133
+          ],
+          "expanded_url": "http://bit.ly/p8qbqJ",
+          "display_url": "bit.ly/p8qbqJ"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 7713202,
+          "name": "John Boehner",
+          "screen_name": "SpeakerBoehner",
+          "id_str": "7713202",
+          "indices": [
+            72,
+            87
+          ]
+        }
+      ],
+      "hashtags": []
+    },
+    "id": 96635118172651520,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 236479311,
+      "id_str": "236479311"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "Here's a clip of my statement at a press conference showing support for @SpeakerBoehner plan for the debt ceiling http://t.co/LDvbeaL",
+    "in_reply_to_status_id": null,
+    "created_at": "Thu Jul 28 17:36:22 +0000 2011",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "96635118172651520",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "possibly_sensitive": false,
+    "favorited": false,
+    "favorite_count": 3,
+    "retweet_count": 8,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/oWzRGi8",
+          "indices": [
+            118,
+            137
+          ],
+          "expanded_url": "http://bit.ly/oBrfnk",
+          "display_url": "bit.ly/oBrfnk"
+        }
+      ],
+      "user_mentions": [],
+      "hashtags": []
+    },
+    "id": 91584630884532225,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 236479311,
+      "id_str": "236479311"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "Evidently Leader Pelosi and President Obama are too busy to work with Republicans on a solution for the debt ceiling. http://t.co/oWzRGi8",
+    "in_reply_to_status_id": null,
+    "created_at": "Thu Jul 14 19:07:32 +0000 2011",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "91584630884532225",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "possibly_sensitive": false,
+    "favorited": false,
+    "favorite_count": 8,
+    "retweet_count": 32,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/jb22onw",
+          "indices": [
+            54,
+            73
+          ],
+          "expanded_url": "http://bit.ly/nrO77B",
+          "display_url": "bit.ly/nrO77B"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 229966028,
+          "name": "Senator Rubio Press",
+          "screen_name": "SenRubioPress",
+          "id_str": "229966028",
+          "indices": [
+            10,
+            24
+          ]
+        }
+      ],
+      "hashtags": []
+    },
+    "id": 89327884275167233,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 236479311,
+      "id_str": "236479311"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "Check out @SenRubioPress floor speech from yesterday, http://t.co/jb22onw.  I agree 100% with him on needing to create jobs, not taxes.",
+    "in_reply_to_status_id": null,
+    "created_at": "Fri Jul 08 13:40:01 +0000 2011",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "89327884275167233",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "possibly_sensitive": false,
+    "favorited": false,
+    "favorite_count": 1,
+    "retweet_count": 19,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/izV1OAR",
+          "indices": [
+            120,
+            139
+          ],
+          "expanded_url": "http://wapo.st/nm4AOW",
+          "display_url": "wapo.st/nm4AOW"
+        }
+      ],
+      "user_mentions": [],
+      "hashtags": []
+    },
+    "id": 88980748840865793,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 236479311,
+      "id_str": "236479311"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "Not sure if you're following the story about this botched ATF gun running operation, but I'm pretty fired up about it:  http://t.co/izV1OAR",
+    "in_reply_to_status_id": null,
+    "created_at": "Thu Jul 07 14:40:38 +0000 2011",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "88980748840865793",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "possibly_sensitive": false,
+    "favorited": false,
+    "favorite_count": 2,
+    "retweet_count": 17,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/136Qxk8",
+          "indices": [
+            118,
+            137
+          ],
+          "expanded_url": "http://on.fb.me/lfzy79",
+          "display_url": "on.fb.me/lfzy79"
+        }
+      ],
+      "user_mentions": [],
+      "hashtags": []
+    },
+    "id": 83179543732555776,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 236479311,
+      "id_str": "236479311"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "I posted new pictures on facebook of a recent trip to the Middle East and a tour of local businesses in Citrus County http://t.co/136Qxk8",
+    "in_reply_to_status_id": null,
+    "created_at": "Tue Jun 21 14:28:43 +0000 2011",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "83179543732555776",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "possibly_sensitive": false,
+    "favorited": false,
+    "favorite_count": 1,
+    "retweet_count": 3,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [],
+      "hashtags": []
+    },
+    "id": 73752830187536384,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 236479311,
+      "id_str": "236479311"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "I sent this letter to the editor responding to claims about Medicare. Time to start being honest about the problem:  http://bit.ly/mEIo6K",
+    "in_reply_to_status_id": null,
+    "created_at": "Thu May 26 14:10:19 +0000 2011",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "73752830187536384",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "favorited": false,
+    "favorite_count": 0,
+    "retweet_count": 8,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [],
+      "hashtags": []
+    },
+    "id": 73742478368452608,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 236479311,
+      "id_str": "236479311"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "The scenes of devastation coming out of the Midwest are heartbreaking. Our thoughts and prayers are with you all.",
+    "in_reply_to_status_id": null,
+    "created_at": "Thu May 26 13:29:11 +0000 2011",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "73742478368452608",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "favorited": false,
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [],
+      "hashtags": []
+    },
+    "id": 73516371434151936,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 236479311,
+      "id_str": "236479311"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "The Senate rejected President Obama's budget by a margin of 0 - 97.  http://abcn.ws/iEUruZ",
+    "in_reply_to_status_id": null,
+    "created_at": "Wed May 25 22:30:43 +0000 2011",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "73516371434151936",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "favorited": false,
+    "favorite_count": 0,
+    "retweet_count": 5,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "EAC",
+          "indices": [
+            63,
+            67
+          ]
+        }
+      ]
+    },
+    "id": 73390639601033217,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 236479311,
+      "id_str": "236479311"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "Mark up hearing on a bill I am a cosponsor of to eliminate the #EAC today.  Watch the hearing via webcast if you can http://1.usa.gov/kJYFA1",
+    "in_reply_to_status_id": null,
+    "created_at": "Wed May 25 14:11:06 +0000 2011",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "73390639601033217",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "favorited": false,
+    "favorite_count": 0,
+    "retweet_count": 2,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [],
+      "hashtags": []
+    },
+    "id": 73070544760737793,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 236479311,
+      "id_str": "236479311"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "Nearly 3700 contractors who recieved Stimulus money are suspected of cheating on their taxes. A bad program gets worse, http://bit.ly/mxIgRy",
+    "in_reply_to_status_id": null,
+    "created_at": "Tue May 24 16:59:10 +0000 2011",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "73070544760737793",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "favorited": false,
+    "favorite_count": 0,
+    "retweet_count": 4,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [],
+      "hashtags": []
+    },
+    "id": 69080523988926465,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 236479311,
+      "id_str": "236479311"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "Here is a speech gave last night.  Let me know what you think about the decision made by the White House.  http://bit.ly/mIA1x3",
+    "in_reply_to_status_id": null,
+    "created_at": "Fri May 13 16:44:15 +0000 2011",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "69080523988926465",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "favorited": false,
+    "favorite_count": 0,
+    "retweet_count": 2,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [],
+      "hashtags": []
+    },
+    "id": 68753388938080256,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 236479311,
+      "id_str": "236479311"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "Latest edition of our weekly newsletter is online.  This week it's about a remarkable WWII vet.  Great story.  http://bit.ly/jQ9OKU",
+    "in_reply_to_status_id": null,
+    "created_at": "Thu May 12 19:04:19 +0000 2011",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "68753388938080256",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "favorited": false,
+    "favorite_count": 0,
+    "retweet_count": 1,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [],
+      "hashtags": []
+    },
+    "id": 68733105426542592,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 236479311,
+      "id_str": "236479311"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "Just got done debating the rule for consideration of the Intel Authorization bill.  http://bit.ly/j2rFQi",
+    "in_reply_to_status_id": null,
+    "created_at": "Thu May 12 17:43:43 +0000 2011",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "68733105426542592",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "favorited": false,
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [],
+      "hashtags": []
+    },
+    "id": 68000122482589696,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 236479311,
+      "id_str": "236479311"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "Today I had the honor of meeting representatives from the U.S. Army War College Class of 2011.  http://on.fb.me/kAWWov",
+    "in_reply_to_status_id": null,
+    "created_at": "Tue May 10 17:11:07 +0000 2011",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "68000122482589696",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "favorited": false,
+    "favorite_count": 0,
+    "retweet_count": 1,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [],
+      "hashtags": []
+    },
+    "id": 56571658835738624,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 236479311,
+      "id_str": "236479311"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "We've averted a shutdown, but a serious fiscal crisis remains:  http://bit.ly/dNF6X1",
+    "in_reply_to_status_id": null,
+    "created_at": "Sat Apr 09 04:18:29 +0000 2011",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "56571658835738624",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "favorited": false,
+    "favorite_count": 0,
+    "retweet_count": 2,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [],
+      "hashtags": []
+    },
+    "id": 56074351954501632,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 236479311,
+      "id_str": "236479311"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "Just voted to keep the government from shutting down and make sure our men and women in the military are paid for the rest of the year.",
+    "in_reply_to_status_id": null,
+    "created_at": "Thu Apr 07 19:22:21 +0000 2011",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "56074351954501632",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "favorited": false,
+    "favorite_count": 0,
+    "retweet_count": 4,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [],
+      "hashtags": []
+    },
+    "id": 56006372906643456,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 236479311,
+      "id_str": "236479311"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "On my way to the Senate steps to demand that Sen. Reid gets the Senate in gear and passes a spending bill so we can move forward.",
+    "in_reply_to_status_id": null,
+    "created_at": "Thu Apr 07 14:52:14 +0000 2011",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "56006372906643456",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "favorited": false,
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [],
+      "hashtags": []
+    },
+    "id": 55682581684944896,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 236479311,
+      "id_str": "236479311"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "2 days before a governmentt shutdown and the President leaves DC, Dems force a vote to immediately adjourn the House...um...I voted no",
+    "in_reply_to_status_id": null,
+    "created_at": "Wed Apr 06 17:25:36 +0000 2011",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "55682581684944896",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "favorited": false,
+    "favorite_count": 0,
+    "retweet_count": 3,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [],
+      "hashtags": []
+    },
+    "id": 55285104746037248,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 236479311,
+      "id_str": "236479311"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "Check out this three minute video.  Paul Ryan briefly explains his budget proposal: http://bit.ly/fIYsv6",
+    "in_reply_to_status_id": null,
+    "created_at": "Tue Apr 05 15:06:10 +0000 2011",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "55285104746037248",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "favorited": false,
+    "favorite_count": 0,
+    "retweet_count": 4,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [],
+      "hashtags": []
+    },
+    "id": 54990782150610944,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 236479311,
+      "id_str": "236479311"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "AG Holder announced that 9/11 conspirators would be prosecuted by the Military, blames Congress and Holder still thinks it is a bad idea.",
+    "in_reply_to_status_id": null,
+    "created_at": "Mon Apr 04 19:36:38 +0000 2011",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "54990782150610944",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "favorited": false,
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [],
+      "hashtags": []
+    },
+    "id": 50565753073704960,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 236479311,
+      "id_str": "236479311"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "Today is the 1 year anniversary of ObamaCare being signed into law.  Touted as a fix to healthcare, but has been nothing short of a disaster",
+    "in_reply_to_status_id": null,
+    "created_at": "Wed Mar 23 14:33:09 +0000 2011",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "50565753073704960",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "favorited": false,
+    "favorite_count": 0,
+    "retweet_count": 2,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [],
+      "hashtags": []
+    },
+    "id": 50299149249290240,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 236479311,
+      "id_str": "236479311"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "Thank you to the Library of Congress for bringing this exhibit to Hernando County.  Had a great time w/ the students  http://on.fb.me/hptsMf",
+    "in_reply_to_status_id": null,
+    "created_at": "Tue Mar 22 20:53:46 +0000 2011",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "50299149249290240",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "favorited": false,
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [],
+      "hashtags": []
+    },
+    "id": 50184445805854721,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 236479311,
+      "id_str": "236479311"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "Visting West Hernando Middle School and the Library of Congress Exhibit being shown there.  Only school in Tampa Bay region.",
+    "in_reply_to_status_id": null,
+    "created_at": "Tue Mar 22 13:17:58 +0000 2011",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "50184445805854721",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "favorited": false,
+    "favorite_count": 0,
+    "retweet_count": 1,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "pledge",
+          "indices": [
+            126,
+            133
+          ]
+        }
+      ]
+    },
+    "id": 48041304130727938,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 236479311,
+      "id_str": "236479311"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "Republicans are meeting with business owners right now.  We are all talking about fostering an environment for job creation.  #pledge",
+    "in_reply_to_status_id": null,
+    "created_at": "Wed Mar 16 15:21:54 +0000 2011",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "48041304130727938",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "favorited": false,
+    "favorite_count": 0,
+    "retweet_count": 1,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [],
+      "hashtags": []
+    },
+    "id": 47719457845551104,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 236479311,
+      "id_str": "236479311"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "I was interviewed on FoxNews.com and spoke about my bill, \"Congress is Not a Career Act.\" http://bit.ly/fxlMwP",
+    "in_reply_to_status_id": null,
+    "created_at": "Tue Mar 15 18:02:59 +0000 2011",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "47719457845551104",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "favorited": false,
+    "favorite_count": 0,
+    "retweet_count": 2,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [],
+      "hashtags": []
+    },
+    "id": 47653527966859264,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 236479311,
+      "id_str": "236479311"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "I will be on Fox Business News at 10am this morning.  If you are able to tune in, please do.",
+    "in_reply_to_status_id": null,
+    "created_at": "Tue Mar 15 13:41:01 +0000 2011",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "47653527966859264",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "favorited": false,
+    "favorite_count": 0,
+    "retweet_count": 2,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "pledge",
+          "indices": [
+            55,
+            62
+          ]
+        }
+      ]
+    },
+    "id": 45967327530979328,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 236479311,
+      "id_str": "236479311"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "Just voted to return $8 Billion in unused TARP funds.  #pledge",
+    "in_reply_to_status_id": null,
+    "created_at": "Thu Mar 10 22:00:39 +0000 2011",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "45967327530979328",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "favorited": false,
+    "favorite_count": 0,
+    "retweet_count": 6,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 7713202,
+          "name": "John Boehner",
+          "screen_name": "SpeakerBoehner",
+          "id_str": "7713202",
+          "indices": [
+            0,
+            15
+          ]
+        }
+      ],
+      "hashtags": []
+    },
+    "id": 45645362790285312,
+    "geo": null,
+    "in_reply_to_user_id_str": "7713202",
+    "user": {
+      "id": 236479311,
+      "id_str": "236479311"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "@SpeakerBoehner announced that the courts should decide the constitutionality of DOMA, not the President unilaterally - http://bit.ly/f9FxRv",
+    "in_reply_to_status_id": null,
+    "created_at": "Thu Mar 10 00:41:17 +0000 2011",
+    "in_reply_to_screen_name": "SpeakerBoehner",
+    "lang": "en",
+    "id_str": "45645362790285312",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "favorited": false,
+    "favorite_count": 0,
+    "retweet_count": 3,
+    "in_reply_to_user_id": 7713202,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [],
+      "hashtags": []
+    },
+    "id": 45610263436738560,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 236479311,
+      "id_str": "236479311"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "Here is a link to the clip to my interview with @YWCavuto where we discuss the \"Congress is not a Career Act.\" http://bit.ly/eE43Y9",
+    "in_reply_to_status_id": null,
+    "created_at": "Wed Mar 09 22:21:48 +0000 2011",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "45610263436738560",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "favorited": false,
+    "favorite_count": 0,
+    "retweet_count": 1,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [],
+      "hashtags": []
+    },
+    "id": 45594706876444672,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 236479311,
+      "id_str": "236479311"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "Thank you to @YWCavuto for having me on to talk about my bill, Congress is not a Career Act.  Here is the bill, http://bit.ly/hoqoGm",
+    "in_reply_to_status_id": null,
+    "created_at": "Wed Mar 09 21:19:59 +0000 2011",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "45594706876444672",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "favorited": false,
+    "favorite_count": 0,
+    "retweet_count": 8,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [],
+      "hashtags": []
+    },
+    "id": 45576991155560448,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 236479311,
+      "id_str": "236479311"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "I will be on Fox News with Neil Cavuto at 4:03pm to talk about my bill, Congress is not a Career Act.  Tune in if you are able.",
+    "in_reply_to_status_id": null,
+    "created_at": "Wed Mar 09 20:09:36 +0000 2011",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "45576991155560448",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "favorited": false,
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [],
+      "hashtags": []
+    },
+    "id": 45133795808133120,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 236479311,
+      "id_str": "236479311"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "Washington Post Fact Checker slams Democrats' claims of meeting Republicans halfway on budget cuts - http://wapo.st/i7QzwP",
+    "in_reply_to_status_id": null,
+    "created_at": "Tue Mar 08 14:48:30 +0000 2011",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "45133795808133120",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "favorited": false,
+    "favorite_count": 0,
+    "retweet_count": 3,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [],
+      "hashtags": []
+    },
+    "id": 43745158935744513,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 236479311,
+      "id_str": "236479311"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "The Florida Supreme Court ruled that Gov. Rick Scott has the power to not accept the federal money for High Speed Rail.",
+    "in_reply_to_status_id": null,
+    "created_at": "Fri Mar 04 18:50:33 +0000 2011",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "43745158935744513",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "favorited": false,
+    "favorite_count": 0,
+    "retweet_count": 5,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [],
+      "hashtags": []
+    },
+    "id": 42997151869054977,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 236479311,
+      "id_str": "236479311"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "I am about to speak on the house floor in support of a bill on 1099 reform that will help small businesses",
+    "in_reply_to_status_id": null,
+    "created_at": "Wed Mar 02 17:18:14 +0000 2011",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "42997151869054977",
+    "truncated": false,
+    "source": "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry\u00ae</a>",
+    "favorited": false,
+    "favorite_count": 0,
+    "retweet_count": 3,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [],
+      "hashtags": []
+    },
+    "id": 42598792465362944,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 236479311,
+      "id_str": "236479311"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "About to head to a hearing in House Administration. Hearing testimony from all House Committees http://bit.ly/kKRXb",
+    "in_reply_to_status_id": null,
+    "created_at": "Tue Mar 01 14:55:18 +0000 2011",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "42598792465362944",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "favorited": false,
+    "favorite_count": 0,
+    "retweet_count": 2,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [],
+      "hashtags": []
+    },
+    "id": 42337590174679043,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 236479311,
+      "id_str": "236479311"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "The last living American veteran of WW 1 passed away this weekend.  His service to this country will never be forgotten.",
+    "in_reply_to_status_id": null,
+    "created_at": "Mon Feb 28 21:37:22 +0000 2011",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "42337590174679043",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "favorited": false,
+    "favorite_count": 0,
+    "retweet_count": 4,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [],
+      "hashtags": []
+    },
+    "id": 37933259849601024,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 236479311,
+      "id_str": "236479311"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "US Immigration Agent was killed in the line of duty in Mexico.  Another agent was injured.  My thoughts and prayers go out to the families.",
+    "in_reply_to_status_id": null,
+    "created_at": "Wed Feb 16 17:56:08 +0000 2011",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "37933259849601024",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "favorited": false,
+    "favorite_count": 0,
+    "retweet_count": 4,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [],
+      "hashtags": []
+    },
+    "id": 37641804551553024,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 236479311,
+      "id_str": "236479311"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "Democrats are on the House Floor, basically filibustering spending cuts...",
+    "in_reply_to_status_id": null,
+    "created_at": "Tue Feb 15 22:38:00 +0000 2011",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "37641804551553024",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "favorited": false,
+    "favorite_count": 0,
+    "retweet_count": 2,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [],
+      "hashtags": []
+    },
+    "id": 37634725145219072,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 236479311,
+      "id_str": "236479311"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "President Obama has already threatened to veto H.R. 1 because it cuts too much, obviously he doesnt see how much of a problem we are facing",
+    "in_reply_to_status_id": null,
+    "created_at": "Tue Feb 15 22:09:52 +0000 2011",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "37634725145219072",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "favorited": false,
+    "favorite_count": 0,
+    "retweet_count": 3,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "pledge",
+          "indices": [
+            124,
+            131
+          ]
+        }
+      ]
+    },
+    "id": 37602529156014080,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 236479311,
+      "id_str": "236479311"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "Debate on the Continuing Resolution has begun.  Fighting for the spending cuts that are needed to turn our economy around.  #pledge",
+    "in_reply_to_status_id": null,
+    "created_at": "Tue Feb 15 20:01:56 +0000 2011",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "37602529156014080",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "favorited": false,
+    "favorite_count": 0,
+    "retweet_count": 1,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [],
+      "hashtags": []
+    },
+    "id": 37532934080692224,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 236479311,
+      "id_str": "236479311"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "About to start a hearing about Military and Overseas voters in House Administration.  Watch the hearing live here, http://bit.ly/eqNK9F",
+    "in_reply_to_status_id": null,
+    "created_at": "Tue Feb 15 15:25:23 +0000 2011",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "37532934080692224",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "favorited": false,
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [],
+      "hashtags": []
+    },
+    "id": 37511244168691712,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 236479311,
+      "id_str": "236479311"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "If you have a moment, please take  look at my statement about President Obama's Budget. http://bit.ly/eyUknL",
+    "in_reply_to_status_id": null,
+    "created_at": "Tue Feb 15 13:59:12 +0000 2011",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "37511244168691712",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "favorited": false,
+    "favorite_count": 0,
+    "retweet_count": 1,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [],
+      "hashtags": []
+    },
+    "id": 37210590510317568,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 236479311,
+      "id_str": "236479311"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "Had a great time cooking Omelettes at Ridge Manor this past weekend.  Was happy to be back supporting a worthy cause. http://on.fb.me/ftPEG5",
+    "in_reply_to_status_id": null,
+    "created_at": "Mon Feb 14 18:04:30 +0000 2011",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "37210590510317568",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "favorited": false,
+    "favorite_count": 0,
+    "retweet_count": 1,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [],
+      "hashtags": []
+    },
+    "id": 37164155194703872,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 236479311,
+      "id_str": "236479311"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "President Obama released his budget.  He underestimated the magnitude of the problem.  We need to be making real and significant cuts.",
+    "in_reply_to_status_id": null,
+    "created_at": "Mon Feb 14 14:59:59 +0000 2011",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "37164155194703872",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "favorited": false,
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [],
+      "hashtags": []
+    },
+    "id": 35087413919350784,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 236479311,
+      "id_str": "236479311"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "Meeting with representatives from the Florida Rural Water Association, representing 16 systems and 4 million people.  Great folks.",
+    "in_reply_to_status_id": null,
+    "created_at": "Tue Feb 08 21:27:46 +0000 2011",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "35087413919350784",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "favorited": false,
+    "favorite_count": 1,
+    "retweet_count": 3,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [],
+      "hashtags": []
+    },
+    "id": 35085478982057984,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 236479311,
+      "id_str": "236479311"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "Just met with representatives from the National Sheriff\u2019s Association.  Great guys \u2013 happy to have a colleague serving in Congress.",
+    "in_reply_to_status_id": null,
+    "created_at": "Tue Feb 08 21:20:04 +0000 2011",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "35085478982057984",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "favorited": false,
+    "favorite_count": 0,
+    "retweet_count": 2,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [],
+      "hashtags": []
+    },
+    "id": 34737026494504960,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 236479311,
+      "id_str": "236479311"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "22 Governors send letter to Obama admin. demanding changes to unfunded government mandates. http://bit.ly/ghXkFs",
+    "in_reply_to_status_id": null,
+    "created_at": "Mon Feb 07 22:15:27 +0000 2011",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "34737026494504960",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "favorited": false,
+    "favorite_count": 0,
+    "retweet_count": 4,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [],
+      "hashtags": []
+    },
+    "id": 34709316523003904,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 236479311,
+      "id_str": "236479311"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "Had a great time on the Bob Penrod show on WWJB.  Remember to listen every Mon from 1-3pm and Tue & Wed from 1-2pm. http://bit.ly/eC3X7W",
+    "in_reply_to_status_id": null,
+    "created_at": "Mon Feb 07 20:25:20 +0000 2011",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "34709316523003904",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "favorited": false,
+    "favorite_count": 0,
+    "retweet_count": 1,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [],
+      "hashtags": []
+    },
+    "id": 33269632726999040,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 236479311,
+      "id_str": "236479311"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "Toured a GE plant and a local citrus grove and processing plant today.  These are the businesses that will help grow our economy.",
+    "in_reply_to_status_id": null,
+    "created_at": "Thu Feb 03 21:04:33 +0000 2011",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "33269632726999040",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "favorited": false,
+    "favorite_count": 0,
+    "retweet_count": 1,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [],
+      "hashtags": []
+    },
+    "id": 32175034009124864,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 236479311,
+      "id_str": "236479311"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "BREAKING: Florida judge rules the entire Obamacare law unconstitutional.  http://politi.co/fNGGh5",
+    "in_reply_to_status_id": null,
+    "created_at": "Mon Jan 31 20:35:00 +0000 2011",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "32175034009124864",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "favorited": false,
+    "favorite_count": 0,
+    "retweet_count": 5,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [],
+      "hashtags": []
+    },
+    "id": 30693072819978241,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 236479311,
+      "id_str": "236479311"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "DC is a fine city but I am mighty glad to be back in the District.  Florida is a great place in the winter.",
+    "in_reply_to_status_id": null,
+    "created_at": "Thu Jan 27 18:26:13 +0000 2011",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "30693072819978241",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "favorited": false,
+    "favorite_count": 0,
+    "retweet_count": 2,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "youcut",
+          "indices": [
+            125,
+            132
+          ]
+        }
+      ]
+    },
+    "id": 30324258794110976,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 236479311,
+      "id_str": "236479311"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "House began debate on cutting $617Million by eliminating federal funding of presidential campaigns.  What are your thoughts? #youcut",
+    "in_reply_to_status_id": null,
+    "created_at": "Wed Jan 26 18:00:41 +0000 2011",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "30324258794110976",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "favorited": false,
+    "favorite_count": 0,
+    "retweet_count": 1,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [],
+      "hashtags": []
+    },
+    "id": 30269770410500096,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 236479311,
+      "id_str": "236479311"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "Here is my response to President Obama's SOTU, http://bit.ly/ibZyNj",
+    "in_reply_to_status_id": null,
+    "created_at": "Wed Jan 26 14:24:10 +0000 2011",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "30269770410500096",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "favorited": false,
+    "favorite_count": 0,
+    "retweet_count": 1,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [],
+      "hashtags": []
+    },
+    "id": 29948814781583360,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 236479311,
+      "id_str": "236479311"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "The Hill Newspaper asked me to write a piece about tonight's State of the Union. If you have a moment, take a look. http://bit.ly/gXkwpA",
+    "in_reply_to_status_id": null,
+    "created_at": "Tue Jan 25 17:08:48 +0000 2011",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "29948814781583360",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "favorited": false,
+    "favorite_count": 0,
+    "retweet_count": 1,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "cutspending",
+          "indices": [
+            120,
+            132
+          ]
+        }
+      ]
+    },
+    "id": 29940450815119360,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 236479311,
+      "id_str": "236479311"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "In Rules Committee, debating a bill that will save more than $520Million by eliminating public financing for campaigns  #cutspending",
+    "in_reply_to_status_id": null,
+    "created_at": "Tue Jan 25 16:35:34 +0000 2011",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "29940450815119360",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "favorited": false,
+    "favorite_count": 0,
+    "retweet_count": 1,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [],
+      "hashtags": []
+    },
+    "id": 29643867934425088,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 236479311,
+      "id_str": "236479311"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "If you are in town for the March for Life, please stop by my office, 1517 Longworth House Office Building, and say hello",
+    "in_reply_to_status_id": null,
+    "created_at": "Mon Jan 24 20:57:03 +0000 2011",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "29643867934425088",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "favorited": false,
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [],
+      "hashtags": []
+    },
+    "id": 28109335133429760,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 236479311,
+      "id_str": "236479311"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "Breakfast with Jenny Beth Martin, Co-Founder/National Coordinator Tea Party Patriots.  She is a true Tea Party Patriot.",
+    "in_reply_to_status_id": null,
+    "created_at": "Thu Jan 20 15:19:22 +0000 2011",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "28109335133429760",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "favorited": false,
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [],
+      "hashtags": []
+    },
+    "id": 27827982408097793,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 236479311,
+      "id_str": "236479311"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "At rules, fighting for more cuts in federal spending.",
+    "in_reply_to_status_id": null,
+    "created_at": "Wed Jan 19 20:41:22 +0000 2011",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "27827982408097793",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "favorited": false,
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "HCRcostsjobs",
+          "indices": [
+            127,
+            140
+          ]
+        }
+      ]
+    },
+    "id": 27819611709767680,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 236479311,
+      "id_str": "236479311"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "Still debating the repeal of ObamaCare. Bill has support of a majority of the people, hoping Congress feels the same way we do #HCRcostsjobs",
+    "in_reply_to_status_id": null,
+    "created_at": "Wed Jan 19 20:08:06 +0000 2011",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "27819611709767680",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "favorited": false,
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [],
+      "hashtags": []
+    },
+    "id": 27778102948003840,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 236479311,
+      "id_str": "236479311"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "Debating the repeal of ObamaCare.  I am proud to be an original co-sponsor of this bill.  Let me know your thoughts.",
+    "in_reply_to_status_id": null,
+    "created_at": "Wed Jan 19 17:23:10 +0000 2011",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "27778102948003840",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "favorited": false,
+    "favorite_count": 0,
+    "retweet_count": 1,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [],
+      "hashtags": []
+    },
+    "id": 27496094548103168,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 236479311,
+      "id_str": "236479311"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "Cutting $35 mil tonight by reforming Congress\u2019 unnecessary printing process.  Already cut Congress' budget 5%.   More cuts to come.",
+    "in_reply_to_status_id": null,
+    "created_at": "Tue Jan 18 22:42:34 +0000 2011",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "27496094548103168",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "favorited": false,
+    "favorite_count": 0,
+    "retweet_count": 1,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 19739126,
+          "name": "Kevin McCarthy",
+          "screen_name": "GOPLeader",
+          "id_str": "19739126",
+          "indices": [
+            3,
+            13
+          ]
+        }
+      ],
+      "hashtags": []
+    },
+    "retweeted_status": {
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [],
+        "hashtags": []
+      },
+      "id": 25987429643067393,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "user": {
+        "id": 18891923,
+        "id_str": "18891923"
+      },
+      "in_reply_to_status_id_str": null,
+      "contributors": null,
+      "coordinates": null,
+      "place": null,
+      "text": "Next week's legislative schedule for the House of Representatives: http://j.mp/fo4p0v",
+      "in_reply_to_status_id": null,
+      "created_at": "Fri Jan 14 18:47:40 +0000 2011",
+      "in_reply_to_screen_name": null,
+      "lang": "en",
+      "id_str": "25987429643067393",
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "favorited": false,
+      "favorite_count": 2,
+      "retweet_count": 28,
+      "in_reply_to_user_id": null,
+      "retweeted": false,
+      "is_quote_status": false
+    },
+    "id": 25988384065327106,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 236479311,
+      "id_str": "236479311"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "lang": "en",
+    "text": "RT @GOPLeader: Next week's legislative schedule for the House of Representatives: http://j.mp/fo4p0v",
+    "in_reply_to_status_id": null,
+    "created_at": "Fri Jan 14 18:51:28 +0000 2011",
+    "is_quote_status": false,
+    "favorited": false,
+    "id_str": "25988384065327106",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_screen_name": null,
+    "favorite_count": 0,
+    "retweet_count": 28,
+    "in_reply_to_user_id": null,
+    "retweeted": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [],
+      "hashtags": []
+    },
+    "id": 25985378259308544,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 236479311,
+      "id_str": "236479311"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "At annual GOP Conference mtg in Baltimore.  Discussing our constituents\u2019 ideas & how to get 'em signed into law.  Exciting time in America.",
+    "in_reply_to_status_id": null,
+    "created_at": "Fri Jan 14 18:39:31 +0000 2011",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "25985378259308544",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "favorited": false,
+    "favorite_count": 0,
+    "retweet_count": 1,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  }
+]

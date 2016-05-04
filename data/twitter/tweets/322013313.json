@@ -1,0 +1,4171 @@
+[
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/WQZCiJPWMC",
+          "indices": [
+            116,
+            139
+          ],
+          "expanded_url": "http://www.azcentral.com/story/opinion/op-ed/ej-montini/2016/03/15/montini-joe-arpaio-bernie-sanders-tent-city/81805542/",
+          "display_url": "azcentral.com/story/opinion/\u2026"
+        }
+      ],
+      "user_mentions": [],
+      "hashtags": []
+    },
+    "id": 710143195955462145,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 322013313,
+      "id_str": "322013313"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "A win for Arpaio is not a win for our community-We need a leader who will take action not a photo of our suffering: https://t.co/WQZCiJPWMC",
+    "in_reply_to_status_id": null,
+    "created_at": "Wed Mar 16 16:38:26 +0000 2016",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "710143195955462145",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "possibly_sensitive": false,
+    "favorited": false,
+    "favorite_count": 2,
+    "retweet_count": 1,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "ThankYou",
+          "indices": [
+            129,
+            138
+          ]
+        }
+      ]
+    },
+    "id": 709936446560464900,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 322013313,
+      "id_str": "322013313"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "From the bottom of my heart, I am so grateful to everyone who voted for me today. I'll continue to fight for what we believe in! #ThankYou",
+    "in_reply_to_status_id": null,
+    "created_at": "Wed Mar 16 02:56:53 +0000 2016",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "709936446560464900",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "favorited": false,
+    "favorite_count": 2,
+    "retweet_count": 0,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/lVR6fiLaKB",
+          "indices": [
+            121,
+            144
+          ],
+          "expanded_url": "https://twitter.com/tjacksontweets/status/709779011820326912",
+          "display_url": "twitter.com/tjacksontweets\u2026"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 90560728,
+          "name": "Tenille Jackson",
+          "screen_name": "tjacksontweets",
+          "id_str": "90560728",
+          "indices": [
+            0,
+            15
+          ]
+        },
+        {
+          "id": 1330457336,
+          "name": "Bill Clinton",
+          "screen_name": "billclinton",
+          "id_str": "1330457336",
+          "indices": [
+            65,
+            77
+          ]
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "VOTE",
+          "indices": [
+            114,
+            119
+          ]
+        }
+      ]
+    },
+    "id": 709848303001845761,
+    "retweet_count": 0,
+    "in_reply_to_user_id_str": "90560728",
+    "user": {
+      "id": 322013313,
+      "id_str": "322013313"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "lang": "en",
+    "quoted_status": {
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 322013313,
+            "name": "Luis V. Gutierrez",
+            "screen_name": "LuisGutierrez",
+            "id_str": "322013313",
+            "indices": [
+              32,
+              46
+            ]
+          },
+          {
+            "id": 1330457336,
+            "name": "Bill Clinton",
+            "screen_name": "billclinton",
+            "id_str": "1330457336",
+            "indices": [
+              52,
+              64
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "https://t.co/JuLQxEWpG7",
+            "id": 709778998465679360,
+            "id_str": "709778998465679360",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 1365
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 800
+              },
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 453
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/JuLQxEWpG7",
+            "expanded_url": "http://twitter.com/tjacksontweets/status/709779011820326912/photo/1",
+            "indices": [
+              76,
+              99
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/CdmkPRCUUAAVYy3.jpg",
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/CdmkPRCUUAAVYy3.jpg"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "ImWithHer",
+            "indices": [
+              65,
+              75
+            ]
+          }
+        ]
+      },
+      "id": 709779011820326912,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "user": {
+        "id": 90560728,
+        "id_str": "90560728"
+      },
+      "in_reply_to_status_id_str": null,
+      "contributors": null,
+      "coordinates": null,
+      "place": null,
+      "lang": "en",
+      "text": "Today at Evans Food Plant with .@LuisGutierrez and .@billclinton #ImWithHer https://t.co/JuLQxEWpG7",
+      "in_reply_to_status_id": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "https://t.co/JuLQxEWpG7",
+            "id": 709778998465679360,
+            "id_str": "709778998465679360",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 1365
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 800
+              },
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 453
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/JuLQxEWpG7",
+            "expanded_url": "http://twitter.com/tjacksontweets/status/709779011820326912/photo/1",
+            "indices": [
+              76,
+              99
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/CdmkPRCUUAAVYy3.jpg",
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/CdmkPRCUUAAVYy3.jpg"
+          }
+        ]
+      },
+      "created_at": "Tue Mar 15 16:31:18 +0000 2016",
+      "is_quote_status": false,
+      "favorited": false,
+      "id_str": "709779011820326912",
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "possibly_sensitive": false,
+      "in_reply_to_screen_name": null,
+      "favorite_count": 8,
+      "retweet_count": 8,
+      "in_reply_to_user_id": null,
+      "retweeted": false
+    },
+    "text": "@tjacksontweets Thanks for posting, its been great stumping with @billclinton - Everyone be sure to get out &amp; #VOTE  https://t.co/lVR6fiLaKB",
+    "in_reply_to_status_id": null,
+    "created_at": "Tue Mar 15 21:06:38 +0000 2016",
+    "is_quote_status": true,
+    "favorited": false,
+    "id_str": "709848303001845761",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "quoted_status_id": 709779011820326912,
+    "possibly_sensitive": false,
+    "in_reply_to_screen_name": "tjacksontweets",
+    "quoted_status_id_str": "709779011820326912",
+    "favorite_count": 1,
+    "geo": null,
+    "in_reply_to_user_id": 90560728,
+    "retweeted": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/XX3bhgtQqB",
+          "indices": [
+            114,
+            137
+          ],
+          "expanded_url": "http://www.univision.com/noticias/opinion/luis-gutierrez-sanders-voted-with-republicans",
+          "display_url": "univision.com/noticias/opini\u2026"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 1339835893,
+          "name": "Hillary Clinton",
+          "screen_name": "HillaryClinton",
+          "id_str": "1339835893",
+          "indices": [
+            28,
+            43
+          ]
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "iamwithher",
+          "indices": [
+            15,
+            26
+          ]
+        }
+      ]
+    },
+    "id": 700511487161294849,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 322013313,
+      "id_str": "322013313"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "One reason why #iamwithher, @HillaryClinton stands up for Immigration reform, Senator Sanders works to derail it. https://t.co/XX3bhgtQqB",
+    "in_reply_to_status_id": null,
+    "created_at": "Fri Feb 19 02:45:28 +0000 2016",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "700511487161294849",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "possibly_sensitive": false,
+    "favorited": false,
+    "favorite_count": 11,
+    "retweet_count": 14,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 1339835893,
+          "name": "Hillary Clinton",
+          "screen_name": "HillaryClinton",
+          "id_str": "1339835893",
+          "indices": [
+            27,
+            42
+          ]
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "NIIC",
+          "indices": [
+            45,
+            50
+          ]
+        },
+        {
+          "text": "Hillary2016",
+          "indices": [
+            115,
+            127
+          ]
+        },
+        {
+          "text": "ImWithHer",
+          "indices": [
+            128,
+            138
+          ]
+        }
+      ]
+    },
+    "id": 676878935821545474,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 322013313,
+      "id_str": "322013313"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "I was Honored to introduce @HillaryClinton @ #NIIC &amp; excited to work to get her elected as our next President! #Hillary2016 #ImWithHer",
+    "in_reply_to_status_id": null,
+    "created_at": "Tue Dec 15 21:38:08 +0000 2015",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "676878935821545474",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "favorited": false,
+    "favorite_count": 3,
+    "retweet_count": 3,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "SanBernadino",
+          "indices": [
+            39,
+            52
+          ]
+        },
+        {
+          "text": "StopTheHate",
+          "indices": [
+            63,
+            75
+          ]
+        },
+        {
+          "text": "PrayersforSanBernadino",
+          "indices": [
+            76,
+            99
+          ]
+        }
+      ]
+    },
+    "id": 672149836641214464,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 322013313,
+      "id_str": "322013313"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "My thoughts &amp; prayers are with the #SanBernadino community #StopTheHate #PrayersforSanBernadino",
+    "in_reply_to_status_id": null,
+    "created_at": "Wed Dec 02 20:26:23 +0000 2015",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "672149836641214464",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "favorited": false,
+    "favorite_count": 4,
+    "retweet_count": 1,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "GivingTuesday",
+          "indices": [
+            63,
+            77
+          ]
+        },
+        {
+          "text": "giveback",
+          "indices": [
+            122,
+            131
+          ]
+        }
+      ]
+    },
+    "id": 671792702472765440,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 322013313,
+      "id_str": "322013313"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "Hope everyone's getting into the spirit &amp; participating in #GivingTuesday! We can all help in some way shape or form. #giveback",
+    "in_reply_to_status_id": null,
+    "created_at": "Tue Dec 01 20:47:16 +0000 2015",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "671792702472765440",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "favorited": false,
+    "favorite_count": 1,
+    "retweet_count": 1,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 197594920,
+          "name": "Rahm Emanuel",
+          "screen_name": "RahmEmanuel",
+          "id_str": "197594920",
+          "indices": [
+            10,
+            22
+          ]
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Chicago",
+          "indices": [
+            78,
+            86
+          ]
+        },
+        {
+          "text": "saferChicagoforALL",
+          "indices": [
+            87,
+            106
+          ]
+        }
+      ]
+    },
+    "id": 671788212646510594,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 322013313,
+      "id_str": "322013313"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "I applaud @RahmEmanuel for taking the first step to rebuild our city's trust. #Chicago #saferChicagoforALL",
+    "in_reply_to_status_id": null,
+    "created_at": "Tue Dec 01 20:29:25 +0000 2015",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "671788212646510594",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "favorited": false,
+    "favorite_count": 1,
+    "retweet_count": 0,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "PlannedParenthood",
+          "indices": [
+            18,
+            36
+          ]
+        },
+        {
+          "text": "StopGunViolence",
+          "indices": [
+            71,
+            87
+          ]
+        },
+        {
+          "text": "womensrights",
+          "indices": [
+            129,
+            142
+          ]
+        }
+      ]
+    },
+    "id": 671426718469632000,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 322013313,
+      "id_str": "322013313"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "Prayers are w/ CO #PlannedParenthood shooting victims, may our actions #StopGunViolence in the US &amp; may we keep fighting for #womensrights!",
+    "in_reply_to_status_id": null,
+    "created_at": "Mon Nov 30 20:32:58 +0000 2015",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "671426718469632000",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "favorited": false,
+    "favorite_count": 2,
+    "retweet_count": 0,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 18631010,
+          "name": "jamalbryant",
+          "screen_name": "jamalhbryant",
+          "id_str": "18631010",
+          "indices": [
+            22,
+            35
+          ]
+        },
+        {
+          "id": 25073877,
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump",
+          "id_str": "25073877",
+          "indices": [
+            67,
+            83
+          ]
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "latino",
+          "indices": [
+            112,
+            119
+          ]
+        },
+        {
+          "text": "stophate",
+          "indices": [
+            131,
+            140
+          ]
+        }
+      ]
+    },
+    "id": 671402711376650241,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 322013313,
+      "id_str": "322013313"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "Really appreciate you @jamalhbryant and your strong stance against @realDonaldTrump racial rhetoric against the #latino community. #stophate",
+    "in_reply_to_status_id": null,
+    "created_at": "Mon Nov 30 18:57:35 +0000 2015",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "671402711376650241",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "favorited": false,
+    "favorite_count": 3,
+    "retweet_count": 1,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "HappyVeteransDay",
+          "indices": [
+            59,
+            76
+          ]
+        },
+        {
+          "text": "Greatful",
+          "indices": [
+            105,
+            114
+          ]
+        }
+      ]
+    },
+    "id": 664573125305245696,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 322013313,
+      "id_str": "322013313"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "From the bottom of my heart thank you to all our veterans! #HappyVeteransDay We appreciate your service! #Greatful",
+    "in_reply_to_status_id": null,
+    "created_at": "Wed Nov 11 22:39:14 +0000 2015",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "664573125305245696",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "favorited": false,
+    "favorite_count": 1,
+    "retweet_count": 1,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/KYvvZ8EtTJ",
+          "indices": [
+            76,
+            98
+          ],
+          "expanded_url": "http://www.immigrationreformfund.org/luis_gutierrez_to_explain_immigration_action_in_south_carolina",
+          "display_url": "immigrationreformfund.org/luis_gutierrez\u2026"
+        }
+      ],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "ImmigrationAction",
+          "indices": [
+            57,
+            75
+          ]
+        }
+      ]
+    },
+    "id": 560640831716335616,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 322013313,
+      "id_str": "322013313"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "I will be in South Carolina on Friday, Jan 30 to explain #ImmigrationAction http://t.co/KYvvZ8EtTJ",
+    "in_reply_to_status_id": null,
+    "created_at": "Thu Jan 29 03:29:25 +0000 2015",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "560640831716335616",
+    "truncated": false,
+    "source": "<a href=\"http://nationbuilder.com/\" rel=\"nofollow\">NationBuilder</a>",
+    "possibly_sensitive": false,
+    "favorited": false,
+    "favorite_count": 4,
+    "retweet_count": 5,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 197594920,
+          "name": "Rahm Emanuel",
+          "screen_name": "RahmEmanuel",
+          "id_str": "197594920",
+          "indices": [
+            3,
+            15
+          ]
+        },
+        {
+          "id": 322013313,
+          "name": "Luis V. Gutierrez",
+          "screen_name": "LuisGutierrez",
+          "id_str": "322013313",
+          "indices": [
+            18,
+            32
+          ]
+        }
+      ],
+      "hashtags": []
+    },
+    "retweeted_status": {
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 322013313,
+            "name": "Luis V. Gutierrez",
+            "screen_name": "LuisGutierrez",
+            "id_str": "322013313",
+            "indices": [
+              1,
+              15
+            ]
+          }
+        ],
+        "hashtags": []
+      },
+      "id": 541310593693544450,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "user": {
+        "id": 197594920,
+        "id_str": "197594920"
+      },
+      "in_reply_to_status_id_str": null,
+      "contributors": null,
+      "coordinates": null,
+      "place": null,
+      "text": ".@LuisGutierrez: \"It is my pleasure to be here today to endorse the reelection of our mayor, Rahm Emanuel.\"",
+      "in_reply_to_status_id": null,
+      "created_at": "Sat Dec 06 19:17:57 +0000 2014",
+      "in_reply_to_screen_name": null,
+      "lang": "en",
+      "id_str": "541310593693544450",
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "favorited": false,
+      "favorite_count": 9,
+      "retweet_count": 10,
+      "in_reply_to_user_id": null,
+      "retweeted": false,
+      "is_quote_status": false
+    },
+    "id": 541346462370902016,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 322013313,
+      "id_str": "322013313"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "lang": "en",
+    "text": "RT @RahmEmanuel: .@LuisGutierrez: \"It is my pleasure to be here today to endorse the reelection of our mayor, Rahm Emanuel.\"",
+    "in_reply_to_status_id": null,
+    "created_at": "Sat Dec 06 21:40:29 +0000 2014",
+    "is_quote_status": false,
+    "favorited": false,
+    "id_str": "541346462370902016",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_screen_name": null,
+    "favorite_count": 0,
+    "retweet_count": 10,
+    "in_reply_to_user_id": null,
+    "retweeted": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 74243993,
+          "name": "Quinn for Illinois",
+          "screen_name": "QuinnForIL",
+          "id_str": "74243993",
+          "indices": [
+            17,
+            28
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/mEaliUSxyC",
+          "id": 527947789938860032,
+          "id_str": "527947789938860032",
+          "sizes": {
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/mEaliUSxyC",
+          "expanded_url": "http://twitter.com/LuisGutierrez/status/527947802346024961/photo/1",
+          "indices": [
+            90,
+            112
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/B1Olt79CIAAACfT.jpg",
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/B1Olt79CIAAACfT.jpg"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "twill",
+          "indices": [
+            83,
+            89
+          ]
+        }
+      ]
+    },
+    "id": 527947802346024961,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 322013313,
+      "id_str": "322013313"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "lang": "en",
+    "text": "Proud to support @QuinnForIL today. Make your voice heard. Join me and vote early! #twill http://t.co/mEaliUSxyC",
+    "in_reply_to_status_id": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/mEaliUSxyC",
+          "id": 527947789938860032,
+          "id_str": "527947789938860032",
+          "sizes": {
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/mEaliUSxyC",
+          "expanded_url": "http://twitter.com/LuisGutierrez/status/527947802346024961/photo/1",
+          "indices": [
+            90,
+            112
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/B1Olt79CIAAACfT.jpg",
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/B1Olt79CIAAACfT.jpg"
+        }
+      ]
+    },
+    "created_at": "Thu Oct 30 22:18:59 +0000 2014",
+    "is_quote_status": false,
+    "favorited": false,
+    "id_str": "527947802346024961",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "possibly_sensitive": false,
+    "in_reply_to_screen_name": null,
+    "favorite_count": 5,
+    "retweet_count": 2,
+    "in_reply_to_user_id": null,
+    "retweeted": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 9249632,
+          "name": "IL Immigrant Rights",
+          "screen_name": "icirr",
+          "id_str": "9249632",
+          "indices": [
+            3,
+            9
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_status_id": 527893785817387008,
+          "source_user_id_str": "9249632",
+          "id": 527893778984484864,
+          "source_status_id_str": "527893785817387008",
+          "id_str": "527893778984484864",
+          "display_url": "pic.twitter.com/SPZoo7lsYq",
+          "sizes": {
+            "large": {
+              "w": 581,
+              "resize": "fit",
+              "h": 1032
+            },
+            "medium": {
+              "w": 581,
+              "resize": "fit",
+              "h": 1032
+            },
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 604
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "expanded_url": "http://twitter.com/icirr/status/527893785817387008/photo/1",
+          "media_url_https": "https://pbs.twimg.com/media/B1N0mFeCQAAGvRm.jpg",
+          "source_user_id": 9249632,
+          "url": "http://t.co/SPZoo7lsYq",
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/B1N0mFeCQAAGvRm.jpg",
+          "indices": [
+            58,
+            80
+          ]
+        }
+      ],
+      "hashtags": []
+    },
+    "retweeted_status": {
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [],
+        "media": [
+          {
+            "url": "http://t.co/SPZoo7lsYq",
+            "id": 527893778984484864,
+            "id_str": "527893778984484864",
+            "sizes": {
+              "large": {
+                "w": 581,
+                "resize": "fit",
+                "h": 1032
+              },
+              "medium": {
+                "w": 581,
+                "resize": "fit",
+                "h": 1032
+              },
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 604
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/SPZoo7lsYq",
+            "expanded_url": "http://twitter.com/icirr/status/527893785817387008/photo/1",
+            "indices": [
+              47,
+              69
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/B1N0mFeCQAAGvRm.jpg",
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/B1N0mFeCQAAGvRm.jpg"
+          }
+        ],
+        "hashtags": []
+      },
+      "id": 527893785817387008,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "user": {
+        "id": 9249632,
+        "id_str": "9249632"
+      },
+      "in_reply_to_status_id_str": null,
+      "contributors": null,
+      "coordinates": null,
+      "place": null,
+      "lang": "en",
+      "text": "Congressman Gutierrez urges you to vote early! http://t.co/SPZoo7lsYq",
+      "in_reply_to_status_id": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/SPZoo7lsYq",
+            "id": 527893778984484864,
+            "id_str": "527893778984484864",
+            "sizes": {
+              "large": {
+                "w": 581,
+                "resize": "fit",
+                "h": 1032
+              },
+              "medium": {
+                "w": 581,
+                "resize": "fit",
+                "h": 1032
+              },
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 604
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/SPZoo7lsYq",
+            "expanded_url": "http://twitter.com/icirr/status/527893785817387008/photo/1",
+            "indices": [
+              47,
+              69
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/B1N0mFeCQAAGvRm.jpg",
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/B1N0mFeCQAAGvRm.jpg"
+          }
+        ]
+      },
+      "created_at": "Thu Oct 30 18:44:20 +0000 2014",
+      "is_quote_status": false,
+      "favorited": false,
+      "id_str": "527893785817387008",
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "possibly_sensitive": false,
+      "in_reply_to_screen_name": null,
+      "favorite_count": 7,
+      "retweet_count": 7,
+      "in_reply_to_user_id": null,
+      "retweeted": false
+    },
+    "id": 527894356460863489,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 322013313,
+      "id_str": "322013313"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "lang": "en",
+    "text": "RT @icirr: Congressman Gutierrez urges you to vote early! http://t.co/SPZoo7lsYq",
+    "in_reply_to_status_id": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_status_id": 527893785817387008,
+          "source_user_id_str": "9249632",
+          "id": 527893778984484864,
+          "source_status_id_str": "527893785817387008",
+          "id_str": "527893778984484864",
+          "display_url": "pic.twitter.com/SPZoo7lsYq",
+          "sizes": {
+            "large": {
+              "w": 581,
+              "resize": "fit",
+              "h": 1032
+            },
+            "medium": {
+              "w": 581,
+              "resize": "fit",
+              "h": 1032
+            },
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 604
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "expanded_url": "http://twitter.com/icirr/status/527893785817387008/photo/1",
+          "media_url_https": "https://pbs.twimg.com/media/B1N0mFeCQAAGvRm.jpg",
+          "source_user_id": 9249632,
+          "url": "http://t.co/SPZoo7lsYq",
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/B1N0mFeCQAAGvRm.jpg",
+          "indices": [
+            58,
+            80
+          ]
+        }
+      ]
+    },
+    "created_at": "Thu Oct 30 18:46:37 +0000 2014",
+    "is_quote_status": false,
+    "favorited": false,
+    "id_str": "527894356460863489",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "possibly_sensitive": false,
+    "in_reply_to_screen_name": null,
+    "favorite_count": 0,
+    "retweet_count": 7,
+    "in_reply_to_user_id": null,
+    "retweeted": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 2397047125,
+          "name": "Mary Rose Wilcox",
+          "screen_name": "MaryRoseWilcox",
+          "id_str": "2397047125",
+          "indices": [
+            3,
+            18
+          ]
+        },
+        {
+          "id": 322013313,
+          "name": "Luis V. Gutierrez",
+          "screen_name": "LuisGutierrez",
+          "id_str": "322013313",
+          "indices": [
+            84,
+            98
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_status_id": 490287039577718785,
+          "source_user_id_str": "2397047125",
+          "id": 490287039032467456,
+          "source_status_id_str": "490287039577718785",
+          "id_str": "490287039032467456",
+          "display_url": "pic.twitter.com/rSWonwfQiW",
+          "sizes": {
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "expanded_url": "http://twitter.com/MaryRoseWilcox/status/490287039577718785/photo/1",
+          "media_url_https": "https://pbs.twimg.com/media/Bs3Zdt-CIAAKI5S.jpg",
+          "source_user_id": 2397047125,
+          "url": "http://t.co/rSWonwfQiW",
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/Bs3Zdt-CIAAKI5S.jpg",
+          "indices": [
+            105,
+            127
+          ]
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Phx",
+          "indices": [
+            44,
+            48
+          ]
+        },
+        {
+          "text": "az07",
+          "indices": [
+            99,
+            104
+          ]
+        }
+      ]
+    },
+    "retweeted_status": {
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 322013313,
+            "name": "Luis V. Gutierrez",
+            "screen_name": "LuisGutierrez",
+            "id_str": "322013313",
+            "indices": [
+              64,
+              78
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/rSWonwfQiW",
+            "id": 490287039032467456,
+            "id_str": "490287039032467456",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 768
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/rSWonwfQiW",
+            "expanded_url": "http://twitter.com/MaryRoseWilcox/status/490287039577718785/photo/1",
+            "indices": [
+              85,
+              107
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/Bs3Zdt-CIAAKI5S.jpg",
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/Bs3Zdt-CIAAKI5S.jpg"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "Phx",
+            "indices": [
+              24,
+              28
+            ]
+          },
+          {
+            "text": "az07",
+            "indices": [
+              79,
+              84
+            ]
+          }
+        ]
+      },
+      "id": 490287039577718785,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "user": {
+        "id": 2397047125,
+        "id_str": "2397047125"
+      },
+      "in_reply_to_status_id_str": null,
+      "contributors": null,
+      "coordinates": null,
+      "place": null,
+      "lang": "en",
+      "text": "Thank you for coming to #Phx to support my campaign Congressman @LuisGutierrez #az07 http://t.co/rSWonwfQiW",
+      "in_reply_to_status_id": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/rSWonwfQiW",
+            "id": 490287039032467456,
+            "id_str": "490287039032467456",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 768
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/rSWonwfQiW",
+            "expanded_url": "http://twitter.com/MaryRoseWilcox/status/490287039577718785/photo/1",
+            "indices": [
+              85,
+              107
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/Bs3Zdt-CIAAKI5S.jpg",
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/Bs3Zdt-CIAAKI5S.jpg"
+          }
+        ]
+      },
+      "created_at": "Sat Jul 19 00:08:33 +0000 2014",
+      "is_quote_status": false,
+      "favorited": false,
+      "id_str": "490287039577718785",
+      "truncated": false,
+      "source": "<a href=\"http://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+      "possibly_sensitive": false,
+      "in_reply_to_screen_name": null,
+      "favorite_count": 1,
+      "retweet_count": 3,
+      "in_reply_to_user_id": null,
+      "retweeted": false
+    },
+    "id": 490500323446751232,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 322013313,
+      "id_str": "322013313"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "lang": "en",
+    "text": "RT @MaryRoseWilcox: Thank you for coming to #Phx to support my campaign Congressman @LuisGutierrez #az07 http://t.co/rSWonwfQiW",
+    "in_reply_to_status_id": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_status_id": 490287039577718785,
+          "source_user_id_str": "2397047125",
+          "id": 490287039032467456,
+          "source_status_id_str": "490287039577718785",
+          "id_str": "490287039032467456",
+          "display_url": "pic.twitter.com/rSWonwfQiW",
+          "sizes": {
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "expanded_url": "http://twitter.com/MaryRoseWilcox/status/490287039577718785/photo/1",
+          "media_url_https": "https://pbs.twimg.com/media/Bs3Zdt-CIAAKI5S.jpg",
+          "source_user_id": 2397047125,
+          "url": "http://t.co/rSWonwfQiW",
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/Bs3Zdt-CIAAKI5S.jpg",
+          "indices": [
+            105,
+            127
+          ]
+        }
+      ]
+    },
+    "created_at": "Sat Jul 19 14:16:04 +0000 2014",
+    "is_quote_status": false,
+    "favorited": false,
+    "id_str": "490500323446751232",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "possibly_sensitive": false,
+    "in_reply_to_screen_name": null,
+    "favorite_count": 0,
+    "retweet_count": 3,
+    "in_reply_to_user_id": null,
+    "retweeted": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/Ead7eyLXKH",
+          "indices": [
+            119,
+            141
+          ],
+          "expanded_url": "http://on.fb.me/1qDW7wn",
+          "display_url": "on.fb.me/1qDW7wn"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 2397047125,
+          "name": "Mary Rose Wilcox",
+          "screen_name": "MaryRoseWilcox",
+          "id_str": "2397047125",
+          "indices": [
+            3,
+            18
+          ]
+        },
+        {
+          "id": 322013313,
+          "name": "Luis V. Gutierrez",
+          "screen_name": "LuisGutierrez",
+          "id_str": "322013313",
+          "indices": [
+            21,
+            35
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_status_id": 489876702026145792,
+          "source_user_id_str": "2397047125",
+          "id": 489876701787082752,
+          "source_status_id_str": "489876702026145792",
+          "id_str": "489876701787082752",
+          "display_url": "pic.twitter.com/M0vKHUOjIi",
+          "sizes": {
+            "large": {
+              "w": 720,
+              "resize": "fit",
+              "h": 720
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "expanded_url": "http://twitter.com/MaryRoseWilcox/status/489876702026145792/photo/1",
+          "media_url_https": "https://pbs.twimg.com/media/BsxkQ8nCUAAcKDw.png",
+          "source_user_id": 2397047125,
+          "url": "http://t.co/M0vKHUOjIi",
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/BsxkQ8nCUAAcKDw.png",
+          "indices": [
+            143,
+            144
+          ]
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Phx",
+          "indices": [
+            47,
+            51
+          ]
+        },
+        {
+          "text": "cir",
+          "indices": [
+            76,
+            80
+          ]
+        },
+        {
+          "text": "az07",
+          "indices": [
+            113,
+            118
+          ]
+        }
+      ]
+    },
+    "retweeted_status": {
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/Ead7eyLXKH",
+            "indices": [
+              99,
+              121
+            ],
+            "expanded_url": "http://on.fb.me/1qDW7wn",
+            "display_url": "on.fb.me/1qDW7wn"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": 322013313,
+            "name": "Luis V. Gutierrez",
+            "screen_name": "LuisGutierrez",
+            "id_str": "322013313",
+            "indices": [
+              1,
+              15
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/M0vKHUOjIi",
+            "id": 489876701787082752,
+            "id_str": "489876701787082752",
+            "sizes": {
+              "large": {
+                "w": 720,
+                "resize": "fit",
+                "h": 720
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 600
+              },
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 340
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/M0vKHUOjIi",
+            "expanded_url": "http://twitter.com/MaryRoseWilcox/status/489876702026145792/photo/1",
+            "indices": [
+              122,
+              144
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/BsxkQ8nCUAAcKDw.png",
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/BsxkQ8nCUAAcKDw.png"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "Phx",
+            "indices": [
+              27,
+              31
+            ]
+          },
+          {
+            "text": "cir",
+            "indices": [
+              56,
+              60
+            ]
+          },
+          {
+            "text": "az07",
+            "indices": [
+              93,
+              98
+            ]
+          }
+        ]
+      },
+      "id": 489876702026145792,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "user": {
+        "id": 2397047125,
+        "id_str": "2397047125"
+      },
+      "in_reply_to_status_id_str": null,
+      "contributors": null,
+      "coordinates": null,
+      "place": null,
+      "lang": "en",
+      "text": ".@LuisGutierrez will be in #Phx tomorrow w/me to demand #cir. RSVP for the rally &amp; rodeo #az07 http://t.co/Ead7eyLXKH http://t.co/M0vKHUOjIi",
+      "in_reply_to_status_id": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/M0vKHUOjIi",
+            "id": 489876701787082752,
+            "id_str": "489876701787082752",
+            "sizes": {
+              "large": {
+                "w": 720,
+                "resize": "fit",
+                "h": 720
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 600
+              },
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 340
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/M0vKHUOjIi",
+            "expanded_url": "http://twitter.com/MaryRoseWilcox/status/489876702026145792/photo/1",
+            "indices": [
+              122,
+              144
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/BsxkQ8nCUAAcKDw.png",
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/BsxkQ8nCUAAcKDw.png"
+          }
+        ]
+      },
+      "created_at": "Thu Jul 17 20:58:01 +0000 2014",
+      "is_quote_status": false,
+      "favorited": false,
+      "id_str": "489876702026145792",
+      "truncated": false,
+      "source": "<a href=\"http://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+      "possibly_sensitive": false,
+      "in_reply_to_screen_name": null,
+      "favorite_count": 5,
+      "retweet_count": 7,
+      "in_reply_to_user_id": null,
+      "retweeted": false
+    },
+    "id": 490146459002880000,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 322013313,
+      "id_str": "322013313"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "lang": "en",
+    "text": "RT @MaryRoseWilcox: .@LuisGutierrez will be in #Phx tomorrow w/me to demand #cir. RSVP for the rally &amp; rodeo #az07 http://t.co/Ead7eyLXKH h\u2026",
+    "in_reply_to_status_id": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_status_id": 489876702026145792,
+          "source_user_id_str": "2397047125",
+          "id": 489876701787082752,
+          "source_status_id_str": "489876702026145792",
+          "id_str": "489876701787082752",
+          "display_url": "pic.twitter.com/M0vKHUOjIi",
+          "sizes": {
+            "large": {
+              "w": 720,
+              "resize": "fit",
+              "h": 720
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "expanded_url": "http://twitter.com/MaryRoseWilcox/status/489876702026145792/photo/1",
+          "media_url_https": "https://pbs.twimg.com/media/BsxkQ8nCUAAcKDw.png",
+          "source_user_id": 2397047125,
+          "url": "http://t.co/M0vKHUOjIi",
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/BsxkQ8nCUAAcKDw.png",
+          "indices": [
+            143,
+            144
+          ]
+        }
+      ]
+    },
+    "created_at": "Fri Jul 18 14:49:56 +0000 2014",
+    "is_quote_status": false,
+    "favorited": false,
+    "id_str": "490146459002880000",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "possibly_sensitive": false,
+    "in_reply_to_screen_name": null,
+    "favorite_count": 0,
+    "retweet_count": 7,
+    "in_reply_to_user_id": null,
+    "retweeted": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/2i643ICBOf",
+          "indices": [
+            84,
+            106
+          ],
+          "expanded_url": "http://trib.in/1j0rXnS",
+          "display_url": "trib.in/1j0rXnS"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 23555906,
+          "name": "Tribune Edit Board",
+          "screen_name": "Trib_ed_board",
+          "id_str": "23555906",
+          "indices": [
+            3,
+            17
+          ]
+        },
+        {
+          "id": 322013313,
+          "name": "Luis V. Gutierrez",
+          "screen_name": "LuisGutierrez",
+          "id_str": "322013313",
+          "indices": [
+            21,
+            35
+          ]
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "GOP",
+          "indices": [
+            37,
+            41
+          ]
+        },
+        {
+          "text": "immigration",
+          "indices": [
+            64,
+            76
+          ]
+        },
+        {
+          "text": "timeisnow",
+          "indices": [
+            107,
+            117
+          ]
+        },
+        {
+          "text": "twill",
+          "indices": [
+            118,
+            124
+          ]
+        },
+        {
+          "text": "p2",
+          "indices": [
+            125,
+            128
+          ]
+        },
+        {
+          "text": "latism",
+          "indices": [
+            129,
+            136
+          ]
+        }
+      ]
+    },
+    "id": 484742780862746624,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 322013313,
+      "id_str": "322013313"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "In @Trib_ed_board by @LuisGutierrez: #GOP makes huge mistake on #immigration reform http://t.co/2i643ICBOf #timeisnow #twill #p2 #latism",
+    "in_reply_to_status_id": null,
+    "created_at": "Thu Jul 03 16:57:39 +0000 2014",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "484742780862746624",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "possibly_sensitive": false,
+    "favorited": false,
+    "favorite_count": 4,
+    "retweet_count": 8,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/q6bc5dcSb2",
+          "indices": [
+            75,
+            97
+          ],
+          "expanded_url": "http://bit.ly/1soznWd",
+          "display_url": "bit.ly/1soznWd"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 2397047125,
+          "name": "Mary Rose Wilcox",
+          "screen_name": "MaryRoseWilcox",
+          "id_str": "2397047125",
+          "indices": [
+            1,
+            16
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_status_id": 479329202324242432,
+          "source_user_id_str": "2397047125",
+          "id": 479329202089381888,
+          "source_status_id_str": "479329202324242432",
+          "id_str": "479329202089381888",
+          "display_url": "pic.twitter.com/eZvjU5xMHn",
+          "sizes": {
+            "large": {
+              "w": 720,
+              "resize": "fit",
+              "h": 720
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "expanded_url": "http://twitter.com/MaryRoseWilcox/status/479329202324242432/photo/1",
+          "media_url_https": "https://pbs.twimg.com/media/BqbrXqUCUAAvnrs.png",
+          "source_user_id": 2397047125,
+          "url": "http://t.co/eZvjU5xMHn",
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/BqbrXqUCUAAvnrs.png",
+          "indices": [
+            109,
+            131
+          ]
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "immigration",
+          "indices": [
+            62,
+            74
+          ]
+        },
+        {
+          "text": "az07",
+          "indices": [
+            98,
+            103
+          ]
+        },
+        {
+          "text": "Phx",
+          "indices": [
+            104,
+            108
+          ]
+        },
+        {
+          "text": "latism",
+          "indices": [
+            132,
+            139
+          ]
+        }
+      ]
+    },
+    "id": 479337104510820353,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 322013313,
+      "id_str": "322013313"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "lang": "en",
+    "text": ".@MaryRoseWilcox will take on bullies who stand in the way of #immigration http://t.co/q6bc5dcSb2 #az07 #Phx http://t.co/eZvjU5xMHn #latism",
+    "in_reply_to_status_id": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_status_id": 479329202324242432,
+          "source_user_id_str": "2397047125",
+          "id": 479329202089381888,
+          "source_status_id_str": "479329202324242432",
+          "id_str": "479329202089381888",
+          "display_url": "pic.twitter.com/eZvjU5xMHn",
+          "sizes": {
+            "large": {
+              "w": 720,
+              "resize": "fit",
+              "h": 720
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "expanded_url": "http://twitter.com/MaryRoseWilcox/status/479329202324242432/photo/1",
+          "media_url_https": "https://pbs.twimg.com/media/BqbrXqUCUAAvnrs.png",
+          "source_user_id": 2397047125,
+          "url": "http://t.co/eZvjU5xMHn",
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/BqbrXqUCUAAvnrs.png",
+          "indices": [
+            109,
+            131
+          ]
+        }
+      ]
+    },
+    "created_at": "Wed Jun 18 18:57:26 +0000 2014",
+    "is_quote_status": false,
+    "favorited": false,
+    "id_str": "479337104510820353",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "possibly_sensitive": false,
+    "in_reply_to_screen_name": null,
+    "favorite_count": 8,
+    "retweet_count": 14,
+    "in_reply_to_user_id": null,
+    "retweeted": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/GIEUJLLNe4",
+          "indices": [
+            111,
+            133
+          ],
+          "expanded_url": "http://youtu.be/oa0IFeXLYZc",
+          "display_url": "youtu.be/oa0IFeXLYZc"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 32889299,
+          "name": "Laura Homar",
+          "screen_name": "lahomar",
+          "id_str": "32889299",
+          "indices": [
+            3,
+            11
+          ]
+        },
+        {
+          "id": 10228272,
+          "name": "YouTube",
+          "screen_name": "YouTube",
+          "id_str": "10228272",
+          "indices": [
+            139,
+            140
+          ]
+        }
+      ],
+      "hashtags": []
+    },
+    "retweeted_status": {
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/GIEUJLLNe4",
+            "indices": [
+              99,
+              121
+            ],
+            "expanded_url": "http://youtu.be/oa0IFeXLYZc",
+            "display_url": "youtu.be/oa0IFeXLYZc"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": 10228272,
+            "name": "YouTube",
+            "screen_name": "YouTube",
+            "id_str": "10228272",
+            "indices": [
+              126,
+              134
+            ]
+          }
+        ],
+        "hashtags": []
+      },
+      "id": 461966685830803457,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "user": {
+        "id": 32889299,
+        "id_str": "32889299"
+      },
+      "in_reply_to_status_id_str": null,
+      "contributors": null,
+      "coordinates": null,
+      "place": null,
+      "text": "No se lo pierdan este domingo a las 8PM / 5 PT  Congresista Luis Gutie\u0301rrez en el Autor y su Obra: http://t.co/GIEUJLLNe4 via @YouTube",
+      "in_reply_to_status_id": null,
+      "created_at": "Thu May 01 20:33:35 +0000 2014",
+      "in_reply_to_screen_name": null,
+      "lang": "es",
+      "id_str": "461966685830803457",
+      "truncated": false,
+      "source": "<a href=\"https://dev.twitter.com/docs/tfw\" rel=\"nofollow\">Twitter for Websites</a>",
+      "possibly_sensitive": false,
+      "favorited": false,
+      "favorite_count": 0,
+      "retweet_count": 1,
+      "in_reply_to_user_id": null,
+      "retweeted": false,
+      "is_quote_status": false
+    },
+    "id": 461985613018058752,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 322013313,
+      "id_str": "322013313"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "lang": "es",
+    "text": "RT @lahomar: No se lo pierdan este domingo a las 8PM / 5 PT  Congresista Luis Guti\u00e9rrez en el Autor y su Obra: http://t.co/GIEUJLLNe4 via @\u2026",
+    "in_reply_to_status_id": null,
+    "created_at": "Thu May 01 21:48:48 +0000 2014",
+    "is_quote_status": false,
+    "favorited": false,
+    "id_str": "461985613018058752",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "possibly_sensitive": false,
+    "in_reply_to_screen_name": null,
+    "favorite_count": 0,
+    "retweet_count": 1,
+    "in_reply_to_user_id": null,
+    "retweeted": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/2ech4jHC40",
+          "indices": [
+            99,
+            121
+          ],
+          "expanded_url": "http://bit.ly/1fOiThZ",
+          "display_url": "bit.ly/1fOiThZ"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 23555906,
+          "name": "Tribune Edit Board",
+          "screen_name": "Trib_ed_board",
+          "id_str": "23555906",
+          "indices": [
+            9,
+            23
+          ]
+        },
+        {
+          "id": 322013313,
+          "name": "Luis V. Gutierrez",
+          "screen_name": "LuisGutierrez",
+          "id_str": "322013313",
+          "indices": [
+            83,
+            97
+          ]
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Chicago",
+          "indices": [
+            0,
+            8
+          ]
+        },
+        {
+          "text": "Democrats",
+          "indices": [
+            60,
+            70
+          ]
+        },
+        {
+          "text": "il04",
+          "indices": [
+            122,
+            127
+          ]
+        },
+        {
+          "text": "il4",
+          "indices": [
+            128,
+            132
+          ]
+        }
+      ]
+    },
+    "id": 439827526618476544,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 322013313,
+      "id_str": "322013313"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "#Chicago @Trib_ed_board: For the 4th Congressional District #Democrats, we endorse @LuisGutierrez: http://t.co/2ech4jHC40 #il04 #il4",
+    "in_reply_to_status_id": null,
+    "created_at": "Sat Mar 01 18:20:28 +0000 2014",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "439827526618476544",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "possibly_sensitive": false,
+    "favorited": false,
+    "favorite_count": 1,
+    "retweet_count": 4,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 121540651,
+          "name": "Al Punto Univision",
+          "screen_name": "AlPunto",
+          "id_str": "121540651",
+          "indices": [
+            3,
+            11
+          ]
+        },
+        {
+          "id": 37094727,
+          "name": "Mario Diaz-Balart",
+          "screen_name": "MarioDB",
+          "id_str": "37094727",
+          "indices": [
+            26,
+            34
+          ]
+        },
+        {
+          "id": 322013313,
+          "name": "Luis V. Gutierrez",
+          "screen_name": "LuisGutierrez",
+          "id_str": "322013313",
+          "indices": [
+            37,
+            51
+          ]
+        },
+        {
+          "id": 121540651,
+          "name": "Al Punto Univision",
+          "screen_name": "AlPunto",
+          "id_str": "121540651",
+          "indices": [
+            99,
+            107
+          ]
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "reformamigratoria",
+          "indices": [
+            80,
+            98
+          ]
+        }
+      ]
+    },
+    "retweeted_status": {
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 37094727,
+            "name": "Mario Diaz-Balart",
+            "screen_name": "MarioDB",
+            "id_str": "37094727",
+            "indices": [
+              13,
+              21
+            ]
+          },
+          {
+            "id": 322013313,
+            "name": "Luis V. Gutierrez",
+            "screen_name": "LuisGutierrez",
+            "id_str": "322013313",
+            "indices": [
+              24,
+              38
+            ]
+          },
+          {
+            "id": 121540651,
+            "name": "Al Punto Univision",
+            "screen_name": "AlPunto",
+            "id_str": "121540651",
+            "indices": [
+              86,
+              94
+            ]
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "reformamigratoria",
+            "indices": [
+              67,
+              85
+            ]
+          }
+        ]
+      },
+      "id": 437044089998278656,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "user": {
+        "id": 121540651,
+        "id_str": "121540651"
+      },
+      "in_reply_to_status_id_str": null,
+      "contributors": null,
+      "coordinates": null,
+      "place": null,
+      "text": "Congresistas @MarioDB y @LuisGutierrez luchan por mantener viva la #reformamigratoria @AlPunto  este domingo, 10am ET/ 9C/ 12m PT",
+      "in_reply_to_status_id": null,
+      "created_at": "Sat Feb 22 02:00:05 +0000 2014",
+      "in_reply_to_screen_name": null,
+      "lang": "es",
+      "id_str": "437044089998278656",
+      "truncated": false,
+      "source": "<a href=\"http://expion.com\" rel=\"nofollow\">ExpionDev</a>",
+      "favorited": false,
+      "favorite_count": 4,
+      "retweet_count": 6,
+      "in_reply_to_user_id": null,
+      "retweeted": false,
+      "is_quote_status": false
+    },
+    "id": 437288087769858048,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 322013313,
+      "id_str": "322013313"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "lang": "es",
+    "text": "RT @AlPunto: Congresistas @MarioDB y @LuisGutierrez luchan por mantener viva la #reformamigratoria @AlPunto  este domingo, 10am ET/ 9C/ 12m\u2026",
+    "in_reply_to_status_id": null,
+    "created_at": "Sat Feb 22 18:09:39 +0000 2014",
+    "is_quote_status": false,
+    "favorited": false,
+    "id_str": "437288087769858048",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_screen_name": null,
+    "favorite_count": 0,
+    "retweet_count": 6,
+    "in_reply_to_user_id": null,
+    "retweeted": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 322013313,
+          "name": "Luis V. Gutierrez",
+          "screen_name": "LuisGutierrez",
+          "id_str": "322013313",
+          "indices": [
+            19,
+            33
+          ]
+        },
+        {
+          "id": 111390601,
+          "name": "TelemundoWashington",
+          "screen_name": "WZDCTelemundo",
+          "id_str": "111390601",
+          "indices": [
+            75,
+            89
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_status_id": 433404286073331712,
+          "source_user_id_str": "1602613057",
+          "id": 433404285901373440,
+          "source_status_id_str": "433404286073331712",
+          "id_str": "433404285901373440",
+          "display_url": "pic.twitter.com/kyFtPUyiKV",
+          "sizes": {
+            "large": {
+              "w": 900,
+              "resize": "fit",
+              "h": 1200
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "expanded_url": "http://twitter.com/JuanPabloWZDC/status/433404286073331712/photo/1",
+          "media_url_https": "https://pbs.twimg.com/media/BgPC5tlIgAAdzBG.jpg",
+          "source_user_id": 1602613057,
+          "url": "http://t.co/kyFtPUyiKV",
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/BgPC5tlIgAAdzBG.jpg",
+          "indices": [
+            106,
+            128
+          ]
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "reformamigratoria",
+          "indices": [
+            56,
+            74
+          ]
+        },
+        {
+          "text": "telenoticiasdc",
+          "indices": [
+            90,
+            105
+          ]
+        }
+      ]
+    },
+    "retweeted_status": {
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 322013313,
+            "name": "Luis V. Gutierrez",
+            "screen_name": "LuisGutierrez",
+            "id_str": "322013313",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "id": 111390601,
+            "name": "TelemundoWashington",
+            "screen_name": "WZDCTelemundo",
+            "id_str": "111390601",
+            "indices": [
+              56,
+              70
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/kyFtPUyiKV",
+            "id": 433404285901373440,
+            "id_str": "433404285901373440",
+            "sizes": {
+              "large": {
+                "w": 900,
+                "resize": "fit",
+                "h": 1200
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 800
+              },
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 453
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/kyFtPUyiKV",
+            "expanded_url": "http://twitter.com/JuanPabloWZDC/status/433404286073331712/photo/1",
+            "indices": [
+              87,
+              109
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/BgPC5tlIgAAdzBG.jpg",
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/BgPC5tlIgAAdzBG.jpg"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "reformamigratoria",
+            "indices": [
+              37,
+              55
+            ]
+          },
+          {
+            "text": "telenoticiasdc",
+            "indices": [
+              71,
+              86
+            ]
+          }
+        ]
+      },
+      "id": 433404286073331712,
+      "geo": null,
+      "in_reply_to_user_id_str": "322013313",
+      "user": {
+        "id": 1602613057,
+        "id_str": "1602613057"
+      },
+      "in_reply_to_status_id_str": null,
+      "contributors": null,
+      "coordinates": null,
+      "place": null,
+      "lang": "es",
+      "text": "@LuisGutierrez habla a activistas de #reformamigratoria @wzdctelemundo #telenoticiasdc http://t.co/kyFtPUyiKV",
+      "in_reply_to_status_id": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/kyFtPUyiKV",
+            "id": 433404285901373440,
+            "id_str": "433404285901373440",
+            "sizes": {
+              "large": {
+                "w": 900,
+                "resize": "fit",
+                "h": 1200
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 800
+              },
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 453
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/kyFtPUyiKV",
+            "expanded_url": "http://twitter.com/JuanPabloWZDC/status/433404286073331712/photo/1",
+            "indices": [
+              87,
+              109
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/BgPC5tlIgAAdzBG.jpg",
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/BgPC5tlIgAAdzBG.jpg"
+          }
+        ]
+      },
+      "created_at": "Wed Feb 12 00:56:48 +0000 2014",
+      "is_quote_status": false,
+      "favorited": false,
+      "id_str": "433404286073331712",
+      "truncated": false,
+      "source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">iOS</a>",
+      "possibly_sensitive": false,
+      "in_reply_to_screen_name": "LuisGutierrez",
+      "favorite_count": 0,
+      "retweet_count": 4,
+      "in_reply_to_user_id": 322013313,
+      "retweeted": false
+    },
+    "id": 434520128039186432,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 322013313,
+      "id_str": "322013313"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "lang": "es",
+    "text": "RT @JuanPabloWZDC: @LuisGutierrez habla a activistas de #reformamigratoria @wzdctelemundo #telenoticiasdc http://t.co/kyFtPUyiKV",
+    "in_reply_to_status_id": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_status_id": 433404286073331712,
+          "source_user_id_str": "1602613057",
+          "id": 433404285901373440,
+          "source_status_id_str": "433404286073331712",
+          "id_str": "433404285901373440",
+          "display_url": "pic.twitter.com/kyFtPUyiKV",
+          "sizes": {
+            "large": {
+              "w": 900,
+              "resize": "fit",
+              "h": 1200
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "expanded_url": "http://twitter.com/JuanPabloWZDC/status/433404286073331712/photo/1",
+          "media_url_https": "https://pbs.twimg.com/media/BgPC5tlIgAAdzBG.jpg",
+          "source_user_id": 1602613057,
+          "url": "http://t.co/kyFtPUyiKV",
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/BgPC5tlIgAAdzBG.jpg",
+          "indices": [
+            106,
+            128
+          ]
+        }
+      ]
+    },
+    "created_at": "Sat Feb 15 02:50:46 +0000 2014",
+    "is_quote_status": false,
+    "favorited": false,
+    "id_str": "434520128039186432",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "possibly_sensitive": false,
+    "in_reply_to_screen_name": null,
+    "favorite_count": 0,
+    "retweet_count": 4,
+    "in_reply_to_user_id": null,
+    "retweeted": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 11527072,
+          "name": "Joe Garcia",
+          "screen_name": "JoeGarcia",
+          "id_str": "11527072",
+          "indices": [
+            20,
+            30
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_status_id": 408694086238228480,
+          "source_user_id_str": "11527072",
+          "id": 408694086112382976,
+          "source_status_id_str": "408694086238228480",
+          "id_str": "408694086112382976",
+          "display_url": "pic.twitter.com/v4VBU4knON",
+          "sizes": {
+            "large": {
+              "w": 215,
+              "resize": "fit",
+              "h": 121
+            },
+            "medium": {
+              "w": 215,
+              "resize": "fit",
+              "h": 121
+            },
+            "small": {
+              "w": 215,
+              "resize": "fit",
+              "h": 121
+            },
+            "thumb": {
+              "w": 121,
+              "resize": "crop",
+              "h": 121
+            }
+          },
+          "expanded_url": "http://twitter.com/JoeGarcia/status/408694086238228480/photo/1",
+          "media_url_https": "https://pbs.twimg.com/media/Bav5GyCIEAA-XiV.jpg",
+          "source_user_id": 11527072,
+          "url": "http://t.co/v4VBU4knON",
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/Bav5GyCIEAA-XiV.jpg",
+          "indices": [
+            124,
+            146
+          ]
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Miami",
+          "indices": [
+            11,
+            17
+          ]
+        },
+        {
+          "text": "StillDreaming",
+          "indices": [
+            53,
+            67
+          ]
+        },
+        {
+          "text": "CIR",
+          "indices": [
+            86,
+            90
+          ]
+        }
+      ]
+    },
+    "id": 408707782972801025,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 322013313,
+      "id_str": "322013313"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "lang": "en",
+    "text": "Heading to #Miami w @JoeGarcia 2 discuss my new book #StillDreaming &amp; support for #CIR. Tonight, 8PM, Books &amp; Books http://t.co/v4VBU4knON",
+    "in_reply_to_status_id": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_status_id": 408694086238228480,
+          "source_user_id_str": "11527072",
+          "id": 408694086112382976,
+          "source_status_id_str": "408694086238228480",
+          "id_str": "408694086112382976",
+          "display_url": "pic.twitter.com/v4VBU4knON",
+          "sizes": {
+            "large": {
+              "w": 215,
+              "resize": "fit",
+              "h": 121
+            },
+            "medium": {
+              "w": 215,
+              "resize": "fit",
+              "h": 121
+            },
+            "small": {
+              "w": 215,
+              "resize": "fit",
+              "h": 121
+            },
+            "thumb": {
+              "w": 121,
+              "resize": "crop",
+              "h": 121
+            }
+          },
+          "expanded_url": "http://twitter.com/JoeGarcia/status/408694086238228480/photo/1",
+          "media_url_https": "https://pbs.twimg.com/media/Bav5GyCIEAA-XiV.jpg",
+          "source_user_id": 11527072,
+          "url": "http://t.co/v4VBU4knON",
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/Bav5GyCIEAA-XiV.jpg",
+          "indices": [
+            124,
+            146
+          ]
+        }
+      ]
+    },
+    "created_at": "Thu Dec 05 21:21:43 +0000 2013",
+    "is_quote_status": false,
+    "favorited": false,
+    "id_str": "408707782972801025",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "possibly_sensitive": false,
+    "in_reply_to_screen_name": null,
+    "favorite_count": 1,
+    "retweet_count": 2,
+    "in_reply_to_user_id": null,
+    "retweeted": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 261228758,
+          "name": "Caf\u00e9 CNN",
+          "screen_name": "cafecnn",
+          "id_str": "261228758",
+          "indices": [
+            14,
+            22
+          ]
+        },
+        {
+          "id": 33884545,
+          "name": "CNN en Espa\u00f1ol",
+          "screen_name": "CNNEE",
+          "id_str": "33884545",
+          "indices": [
+            26,
+            32
+          ]
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "StillDreaming",
+          "indices": [
+            55,
+            69
+          ]
+        },
+        {
+          "text": "immigration",
+          "indices": [
+            74,
+            86
+          ]
+        }
+      ]
+    },
+    "id": 408225397235781632,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 322013313,
+      "id_str": "322013313"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "About to join @cafecnn on @CNNEE to talk about my book #StillDreaming and #immigration.",
+    "in_reply_to_status_id": null,
+    "created_at": "Wed Dec 04 13:24:53 +0000 2013",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "408225397235781632",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "favorited": false,
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/MpcMMkfnnm",
+          "indices": [
+            106,
+            128
+          ],
+          "expanded_url": "http://ow.ly/rq1wv",
+          "display_url": "ow.ly/rq1wv"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 166272944,
+          "name": "Miami-Dade Democrats",
+          "screen_name": "MiamiDadeDems",
+          "id_str": "166272944",
+          "indices": [
+            26,
+            40
+          ]
+        },
+        {
+          "id": 36948268,
+          "name": "Luis V. Gutierrez",
+          "screen_name": "RepGutierrez",
+          "id_str": "36948268",
+          "indices": [
+            51,
+            64
+          ]
+        },
+        {
+          "id": 74337590,
+          "name": "College Dems FIU",
+          "screen_name": "FIUDems",
+          "id_str": "74337590",
+          "indices": [
+            86,
+            94
+          ]
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "pfla",
+          "indices": [
+            129,
+            134
+          ]
+        }
+      ]
+    },
+    "id": 408224534605881344,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 322013313,
+      "id_str": "322013313"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "Looking forward to it! RT @MiamiDadeDems: Remember @RepGutierrez discusses new book w @fiudems 9:30am Fri http://t.co/MpcMMkfnnm #pfla",
+    "in_reply_to_status_id": null,
+    "created_at": "Wed Dec 04 13:21:28 +0000 2013",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "408224534605881344",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "possibly_sensitive": false,
+    "favorited": false,
+    "favorite_count": 1,
+    "retweet_count": 1,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/MRPzL0RuC9",
+          "indices": [
+            69,
+            91
+          ],
+          "expanded_url": "http://www.elnuevodia.com/gutierrezcuentasuvida-1652525.html",
+          "display_url": "elnuevodia.com/gutierrezcuent\u2026"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 182819523,
+          "name": "Jos\u00e9 A. Delgado",
+          "screen_name": "JoseADelgadoEND",
+          "id_str": "182819523",
+          "indices": [
+            3,
+            19
+          ]
+        },
+        {
+          "id": 322013313,
+          "name": "Luis V. Gutierrez",
+          "screen_name": "LuisGutierrez",
+          "id_str": "322013313",
+          "indices": [
+            39,
+            53
+          ]
+        },
+        {
+          "id": 15726324,
+          "name": "El Nuevo D\u00eda",
+          "screen_name": "ElNuevoDia",
+          "id_str": "15726324",
+          "indices": [
+            96,
+            107
+          ]
+        }
+      ],
+      "hashtags": []
+    },
+    "retweeted_status": {
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/MRPzL0RuC9",
+            "indices": [
+              48,
+              70
+            ],
+            "expanded_url": "http://www.elnuevodia.com/gutierrezcuentasuvida-1652525.html",
+            "display_url": "elnuevodia.com/gutierrezcuent\u2026"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": 322013313,
+            "name": "Luis V. Gutierrez",
+            "screen_name": "LuisGutierrez",
+            "id_str": "322013313",
+            "indices": [
+              18,
+              32
+            ]
+          },
+          {
+            "id": 15726324,
+            "name": "El Nuevo D\u00eda",
+            "screen_name": "ElNuevoDia",
+            "id_str": "15726324",
+            "indices": [
+              75,
+              86
+            ]
+          }
+        ],
+        "hashtags": []
+      },
+      "id": 405336826228912128,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "user": {
+        "id": 182819523,
+        "id_str": "182819523"
+      },
+      "in_reply_to_status_id_str": null,
+      "contributors": null,
+      "coordinates": null,
+      "place": null,
+      "text": "Habla en San Juan @LuisGutierrez sobre su libro http://t.co/MRPzL0RuC9 v\u00eda @elnuevodia",
+      "in_reply_to_status_id": null,
+      "created_at": "Tue Nov 26 14:06:44 +0000 2013",
+      "in_reply_to_screen_name": null,
+      "lang": "es",
+      "id_str": "405336826228912128",
+      "truncated": false,
+      "source": "<a href=\"https://dev.twitter.com/docs/tfw\" rel=\"nofollow\">Twitter for Websites</a>",
+      "possibly_sensitive": false,
+      "favorited": false,
+      "favorite_count": 0,
+      "retweet_count": 1,
+      "in_reply_to_user_id": null,
+      "retweeted": false,
+      "is_quote_status": false
+    },
+    "id": 405337156895649792,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 322013313,
+      "id_str": "322013313"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "lang": "es",
+    "text": "RT @JoseADelgadoEND: Habla en San Juan @LuisGutierrez sobre su libro http://t.co/MRPzL0RuC9 v\u00eda @elnuevodia",
+    "in_reply_to_status_id": null,
+    "created_at": "Tue Nov 26 14:08:03 +0000 2013",
+    "is_quote_status": false,
+    "favorited": false,
+    "id_str": "405337156895649792",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "possibly_sensitive": false,
+    "in_reply_to_screen_name": null,
+    "favorite_count": 0,
+    "retweet_count": 1,
+    "in_reply_to_user_id": null,
+    "retweeted": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 38511495,
+          "name": "Rafael Len\u00edn L\u00f3pez",
+          "screen_name": "LeninPR",
+          "id_str": "38511495",
+          "indices": [
+            3,
+            11
+          ]
+        },
+        {
+          "id": 36948268,
+          "name": "Luis V. Gutierrez",
+          "screen_name": "RepGutierrez",
+          "id_str": "36948268",
+          "indices": [
+            43,
+            56
+          ]
+        },
+        {
+          "id": 54303617,
+          "name": "Radio Isla 1320",
+          "screen_name": "radioisla1320",
+          "id_str": "54303617",
+          "indices": [
+            90,
+            104
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_status_id": 404938114600538112,
+          "source_user_id_str": "38511495",
+          "id": 404938114239844352,
+          "source_status_id_str": "404938114600538112",
+          "id_str": "404938114239844352",
+          "display_url": "pic.twitter.com/zLsYlszKis",
+          "sizes": {
+            "large": {
+              "w": 718,
+              "resize": "fit",
+              "h": 1024
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 856
+            },
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 485
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "expanded_url": "http://twitter.com/LeninPR/status/404938114600538112/photo/1",
+          "media_url_https": "https://pbs.twimg.com/media/BZ6hEcdIUAAlQEU.jpg",
+          "source_user_id": 38511495,
+          "url": "http://t.co/zLsYlszKis",
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/BZ6hEcdIUAAlQEU.jpg",
+          "indices": [
+            105,
+            127
+          ]
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "PegaosEnLaMa\u00f1ana",
+          "indices": [
+            25,
+            42
+          ]
+        }
+      ]
+    },
+    "retweeted_status": {
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 36948268,
+            "name": "Luis V. Gutierrez",
+            "screen_name": "RepGutierrez",
+            "id_str": "36948268",
+            "indices": [
+              30,
+              43
+            ]
+          },
+          {
+            "id": 54303617,
+            "name": "Radio Isla 1320",
+            "screen_name": "radioisla1320",
+            "id_str": "54303617",
+            "indices": [
+              77,
+              91
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/zLsYlszKis",
+            "id": 404938114239844352,
+            "id_str": "404938114239844352",
+            "sizes": {
+              "large": {
+                "w": 718,
+                "resize": "fit",
+                "h": 1024
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 856
+              },
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 485
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/zLsYlszKis",
+            "expanded_url": "http://twitter.com/LeninPR/status/404938114600538112/photo/1",
+            "indices": [
+              92,
+              114
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/BZ6hEcdIUAAlQEU.jpg",
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/BZ6hEcdIUAAlQEU.jpg"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "PegaosEnLaMa\u00f1ana",
+            "indices": [
+              12,
+              29
+            ]
+          }
+        ]
+      },
+      "id": 404938114600538112,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "user": {
+        "id": 38511495,
+        "id_str": "38511495"
+      },
+      "in_reply_to_status_id_str": null,
+      "contributors": null,
+      "coordinates": null,
+      "place": null,
+      "lang": "es",
+      "text": "Presenta en #PegaosEnLaMa\u00f1ana @RepGutierrez su libro \"No he dejado de so\u00f1ar\" @radioisla1320 http://t.co/zLsYlszKis",
+      "in_reply_to_status_id": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/zLsYlszKis",
+            "id": 404938114239844352,
+            "id_str": "404938114239844352",
+            "sizes": {
+              "large": {
+                "w": 718,
+                "resize": "fit",
+                "h": 1024
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 856
+              },
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 485
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/zLsYlszKis",
+            "expanded_url": "http://twitter.com/LeninPR/status/404938114600538112/photo/1",
+            "indices": [
+              92,
+              114
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/BZ6hEcdIUAAlQEU.jpg",
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/BZ6hEcdIUAAlQEU.jpg"
+          }
+        ]
+      },
+      "created_at": "Mon Nov 25 11:42:24 +0000 2013",
+      "is_quote_status": false,
+      "favorited": false,
+      "id_str": "404938114600538112",
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "possibly_sensitive": false,
+      "in_reply_to_screen_name": null,
+      "favorite_count": 3,
+      "retweet_count": 2,
+      "in_reply_to_user_id": null,
+      "retweeted": false
+    },
+    "id": 405037876884570112,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 322013313,
+      "id_str": "322013313"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "lang": "es",
+    "text": "RT @LeninPR: Presenta en #PegaosEnLaMa\u00f1ana @RepGutierrez su libro \"No he dejado de so\u00f1ar\" @radioisla1320 http://t.co/zLsYlszKis",
+    "in_reply_to_status_id": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_status_id": 404938114600538112,
+          "source_user_id_str": "38511495",
+          "id": 404938114239844352,
+          "source_status_id_str": "404938114600538112",
+          "id_str": "404938114239844352",
+          "display_url": "pic.twitter.com/zLsYlszKis",
+          "sizes": {
+            "large": {
+              "w": 718,
+              "resize": "fit",
+              "h": 1024
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 856
+            },
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 485
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "expanded_url": "http://twitter.com/LeninPR/status/404938114600538112/photo/1",
+          "media_url_https": "https://pbs.twimg.com/media/BZ6hEcdIUAAlQEU.jpg",
+          "source_user_id": 38511495,
+          "url": "http://t.co/zLsYlszKis",
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/BZ6hEcdIUAAlQEU.jpg",
+          "indices": [
+            105,
+            127
+          ]
+        }
+      ]
+    },
+    "created_at": "Mon Nov 25 18:18:49 +0000 2013",
+    "is_quote_status": false,
+    "favorited": false,
+    "id_str": "405037876884570112",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "possibly_sensitive": false,
+    "in_reply_to_screen_name": null,
+    "favorite_count": 0,
+    "retweet_count": 2,
+    "in_reply_to_user_id": null,
+    "retweeted": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 62596900,
+          "name": "Jaime Perell\u00f3",
+          "screen_name": "jrperello",
+          "id_str": "62596900",
+          "indices": [
+            3,
+            13
+          ]
+        },
+        {
+          "id": 36948268,
+          "name": "Luis V. Gutierrez",
+          "screen_name": "RepGutierrez",
+          "id_str": "36948268",
+          "indices": [
+            15,
+            28
+          ]
+        },
+        {
+          "id": 835705368,
+          "name": "Colegio de Abogados",
+          "screen_name": "ColegioSiempre",
+          "id_str": "835705368",
+          "indices": [
+            105,
+            120
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_status_id": 404011205158641664,
+          "source_user_id_str": "62596900",
+          "id": 404011205167030272,
+          "source_status_id_str": "404011205158641664",
+          "id_str": "404011205167030272",
+          "display_url": "pic.twitter.com/XGIGPHODjb",
+          "sizes": {
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 718
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 421
+            },
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 238
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "expanded_url": "http://twitter.com/jrperello/status/404011205158641664/photo/1",
+          "media_url_https": "https://pbs.twimg.com/media/BZtWDPFCIAAD5ld.jpg",
+          "source_user_id": 62596900,
+          "url": "http://t.co/XGIGPHODjb",
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/BZtWDPFCIAAD5ld.jpg",
+          "indices": [
+            139,
+            140
+          ]
+        }
+      ],
+      "hashtags": []
+    },
+    "retweeted_status": {
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 36948268,
+            "name": "Luis V. Gutierrez",
+            "screen_name": "RepGutierrez",
+            "id_str": "36948268",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "id": 835705368,
+            "name": "Colegio de Abogados",
+            "screen_name": "ColegioSiempre",
+            "id_str": "835705368",
+            "indices": [
+              90,
+              105
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/XGIGPHODjb",
+            "id": 404011205167030272,
+            "id_str": "404011205167030272",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 718
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 421
+              },
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 238
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/XGIGPHODjb",
+            "expanded_url": "http://twitter.com/jrperello/status/404011205158641664/photo/1",
+            "indices": [
+              118,
+              140
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/BZtWDPFCIAAD5ld.jpg",
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/BZtWDPFCIAAD5ld.jpg"
+          }
+        ],
+        "hashtags": []
+      },
+      "id": 404011205158641664,
+      "geo": null,
+      "in_reply_to_user_id_str": "36948268",
+      "user": {
+        "id": 62596900,
+        "id_str": "62596900"
+      },
+      "in_reply_to_status_id_str": null,
+      "contributors": null,
+      "coordinates": null,
+      "place": null,
+      "lang": "es",
+      "text": "@RepGutierrez presentar\u00e1 su libro 'NO HE DEJADO DE SO\u00d1AR' el pr\u00f3ximo martes 26/nov 6PM en @ColegioSiempre. Te espero. http://t.co/XGIGPHODjb",
+      "in_reply_to_status_id": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/XGIGPHODjb",
+            "id": 404011205167030272,
+            "id_str": "404011205167030272",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 718
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 421
+              },
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 238
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/XGIGPHODjb",
+            "expanded_url": "http://twitter.com/jrperello/status/404011205158641664/photo/1",
+            "indices": [
+              118,
+              140
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/BZtWDPFCIAAD5ld.jpg",
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/BZtWDPFCIAAD5ld.jpg"
+          }
+        ]
+      },
+      "created_at": "Fri Nov 22 22:19:12 +0000 2013",
+      "is_quote_status": false,
+      "favorited": false,
+      "id_str": "404011205158641664",
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "possibly_sensitive": false,
+      "in_reply_to_screen_name": "RepGutierrez",
+      "favorite_count": 1,
+      "retweet_count": 3,
+      "in_reply_to_user_id": 36948268,
+      "retweeted": false
+    },
+    "id": 404015983326949377,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 322013313,
+      "id_str": "322013313"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "lang": "es",
+    "text": "RT @jrperello: @RepGutierrez presentar\u00e1 su libro 'NO HE DEJADO DE SO\u00d1AR' el pr\u00f3ximo martes 26/nov 6PM en @ColegioSiempre. Te espero. http:/\u2026",
+    "in_reply_to_status_id": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_status_id": 404011205158641664,
+          "source_user_id_str": "62596900",
+          "id": 404011205167030272,
+          "source_status_id_str": "404011205158641664",
+          "id_str": "404011205167030272",
+          "display_url": "pic.twitter.com/XGIGPHODjb",
+          "sizes": {
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 718
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 421
+            },
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 238
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "expanded_url": "http://twitter.com/jrperello/status/404011205158641664/photo/1",
+          "media_url_https": "https://pbs.twimg.com/media/BZtWDPFCIAAD5ld.jpg",
+          "source_user_id": 62596900,
+          "url": "http://t.co/XGIGPHODjb",
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/BZtWDPFCIAAD5ld.jpg",
+          "indices": [
+            139,
+            140
+          ]
+        }
+      ]
+    },
+    "created_at": "Fri Nov 22 22:38:11 +0000 2013",
+    "is_quote_status": false,
+    "favorited": false,
+    "id_str": "404015983326949377",
+    "truncated": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M5)</a>",
+    "possibly_sensitive": false,
+    "in_reply_to_screen_name": null,
+    "favorite_count": 0,
+    "retweet_count": 3,
+    "in_reply_to_user_id": null,
+    "retweeted": false
+  },
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 835705368,
+          "name": "Colegio de Abogados",
+          "screen_name": "ColegioSiempre",
+          "id_str": "835705368",
+          "indices": [
+            3,
+            18
+          ]
+        },
+        {
+          "id": 322013313,
+          "name": "Luis V. Gutierrez",
+          "screen_name": "LuisGutierrez",
+          "id_str": "322013313",
+          "indices": [
+            50,
+            64
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_status_id": 403908689666400257,
+          "source_user_id_str": "835705368",
+          "id": 403908689674788864,
+          "source_status_id_str": "403908689666400257",
+          "id_str": "403908689674788864",
+          "display_url": "pic.twitter.com/v6lKKYq0uI",
+          "sizes": {
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 722
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 423
+            },
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 240
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "expanded_url": "http://twitter.com/ColegioSiempre/status/403908689666400257/photo/1",
+          "media_url_https": "https://pbs.twimg.com/media/BZr40DHCYAAmMsN.jpg",
+          "source_user_id": 835705368,
+          "url": "http://t.co/v6lKKYq0uI",
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/BZr40DHCYAAmMsN.jpg",
+          "indices": [
+            139,
+            140
+          ]
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "CAPRapoya",
+          "indices": [
+            127,
+            137
+          ]
+        }
+      ]
+    },
+    "retweeted_status": {
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 322013313,
+            "name": "Luis V. Gutierrez",
+            "screen_name": "LuisGutierrez",
+            "id_str": "322013313",
+            "indices": [
+              30,
+              44
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/v6lKKYq0uI",
+            "id": 403908689674788864,
+            "id_str": "403908689674788864",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 722
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 423
+              },
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 240
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/v6lKKYq0uI",
+            "expanded_url": "http://twitter.com/ColegioSiempre/status/403908689666400257/photo/1",
+            "indices": [
+              118,
+              140
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/BZr40DHCYAAmMsN.jpg",
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/BZr40DHCYAAmMsN.jpg"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "CAPRapoya",
+            "indices": [
+              107,
+              117
+            ]
+          }
+        ]
+      },
+      "id": 403908689666400257,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "user": {
+        "id": 835705368,
+        "id_str": "835705368"
+      },
+      "in_reply_to_status_id_str": null,
+      "contributors": null,
+      "coordinates": null,
+      "place": null,
+      "lang": "es",
+      "text": "\"No he dejado de so\u00f1ar\", dice @LuisGutierrez. Conoce su trayectoria en la presentaci\u00f3n de su libro. 26/nov #CAPRapoya http://t.co/v6lKKYq0uI",
+      "in_reply_to_status_id": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/v6lKKYq0uI",
+            "id": 403908689674788864,
+            "id_str": "403908689674788864",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 722
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 423
+              },
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 240
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/v6lKKYq0uI",
+            "expanded_url": "http://twitter.com/ColegioSiempre/status/403908689666400257/photo/1",
+            "indices": [
+              118,
+              140
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/BZr40DHCYAAmMsN.jpg",
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/BZr40DHCYAAmMsN.jpg"
+          }
+        ]
+      },
+      "created_at": "Fri Nov 22 15:31:50 +0000 2013",
+      "is_quote_status": false,
+      "favorited": false,
+      "id_str": "403908689666400257",
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "possibly_sensitive": false,
+      "in_reply_to_screen_name": null,
+      "favorite_count": 2,
+      "retweet_count": 2,
+      "in_reply_to_user_id": null,
+      "retweeted": false
+    },
+    "id": 404015142297686017,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 322013313,
+      "id_str": "322013313"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "lang": "es",
+    "text": "RT @ColegioSiempre: \"No he dejado de so\u00f1ar\", dice @LuisGutierrez. Conoce su trayectoria en la presentaci\u00f3n de su libro. 26/nov #CAPRapoya h\u2026",
+    "in_reply_to_status_id": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_status_id": 403908689666400257,
+          "source_user_id_str": "835705368",
+          "id": 403908689674788864,
+          "source_status_id_str": "403908689666400257",
+          "id_str": "403908689674788864",
+          "display_url": "pic.twitter.com/v6lKKYq0uI",
+          "sizes": {
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 722
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 423
+            },
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 240
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "expanded_url": "http://twitter.com/ColegioSiempre/status/403908689666400257/photo/1",
+          "media_url_https": "https://pbs.twimg.com/media/BZr40DHCYAAmMsN.jpg",
+          "source_user_id": 835705368,
+          "url": "http://t.co/v6lKKYq0uI",
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/BZr40DHCYAAmMsN.jpg",
+          "indices": [
+            139,
+            140
+          ]
+        }
+      ]
+    },
+    "created_at": "Fri Nov 22 22:34:50 +0000 2013",
+    "is_quote_status": false,
+    "favorited": false,
+    "id_str": "404015142297686017",
+    "truncated": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M5)</a>",
+    "possibly_sensitive": false,
+    "in_reply_to_screen_name": null,
+    "favorite_count": 0,
+    "retweet_count": 2,
+    "in_reply_to_user_id": null,
+    "retweeted": false
+  }
+]

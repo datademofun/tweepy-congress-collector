@@ -1,0 +1,35 @@
+[
+  {
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [],
+      "hashtags": []
+    },
+    "id": 564820451508383746,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "user": {
+      "id": 3026622545,
+      "id_str": "3026622545"
+    },
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "coordinates": null,
+    "place": null,
+    "text": "Hello everyone, I'm excited to join Twitter to share the work I'm doing in Congress on behalf of the American Samoan people.",
+    "in_reply_to_status_id": null,
+    "created_at": "Mon Feb 09 16:17:44 +0000 2015",
+    "in_reply_to_screen_name": null,
+    "lang": "en",
+    "id_str": "564820451508383746",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "favorited": false,
+    "favorite_count": 25,
+    "retweet_count": 16,
+    "in_reply_to_user_id": null,
+    "retweeted": false,
+    "is_quote_status": false
+  }
+]
