@@ -240,8 +240,8 @@ Of course, that's just a string. Normally I would go through the process of how 
 
 ~~~py
 from dateutil import parser
-cdatestr = "Mon Nov 26 15:17:02 +0000 2007"
-cdate = parser.parse(cdatestr)
+ct = "Mon Nov 26 15:17:02 +0000 2007"
+cdate = parser.parse(ct)
 cdate
 #  datetime.datetime(2007, 11, 26, 15, 17, 2, tzinfo=tzutc())
 ~~~
@@ -253,11 +253,39 @@ To calculate the age of something, at this moment, we subtract that something's 
 ~~~py
 from datetime import datetime
 from dateutil import parser
+nowtime = datetime.now()
+ct = "Mon Nov 26 15:17:02 +0000 2007"
+dt = nowtime - parser.parse(ct)
+# TypeError: can't subtract offset-naive and offset-aware datetimes
+~~~
 
-cdatestr = '2015-01-12 12:44:00'
-dt = datetime.now() - parser.parse(cdatestr)
-dt.days
-# 477
+
+### The problem with timezones
+
+Talking about the difficulty with time and timezones, nevermind the kind of confusing way that Python deals with them by defaults, is far out of the scope for this section.
+
+The error message above arises from the fact that the datetime object derived from `'"Mon Nov 26 15:17:02 +0000 2007"` has a timezone associated with it (the offset signified by `+0000`). However, the datetime object that `datetime.now()` returns is _timezone-naive_. It's just a timestamp that, if printed out on paper and read by a human, carries no information about what timezone it originated from.
+
+
+The quick way to deal with this comes [from this StackOverflow answer](http://stackoverflow.com/a/2331635/160863):
+
+~~~py
+from datetime import datetime, timezone 
+
+now = datetime.now(timezone.utc)
+~~~
+
+For our purposes:
+
+
+~~~py
+from datetime import datetime, timezone 
+from dateutil import parser
+nowtime = datetime.now(timezone.utc)
+ct = "Mon Nov 26 15:17:02 +0000 2007"
+cx = parser.parse(ct)
+dt = nowtime - cx
+# datetime.timedelta(3081, 79480, 942464)
 ~~~
 
 And of course, calculate tweets/day rate is a matter of dividing the number of total tweets from an account by the total number of days the account has been alive.
@@ -269,7 +297,7 @@ Using our previous code, we do the same loop-to-copy-the-headers...and after tha
 
 ~~~py
 import json
-from datetime import datetime
+from datetime import datetime, timezone
 from dateutil import parser
 from os.path import join
 FILENAME = join('data', 'twitter', 'profiles', '10615232.json')
@@ -278,7 +306,7 @@ HEADERS_TO_KEEP = ['id', 'screen_name', 'name', 'created_at',
                    'statuses_count', 'friends_count', 'followers_count',
                     'verified']
 
-nowtime = datetime.now()
+nowtime = datetime.now(timezone.utc)
 mydict = {}
 for h in HEADERS_TO_KEEP:
     mydict[h] = profile[h]
